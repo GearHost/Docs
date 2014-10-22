@@ -10,7 +10,7 @@ Thank you for choosing to use Octane you can use this document as a guide in set
 
  3. Set up FTP credentials "Set Deployment Credentials"
 
-(NOTE::Password must be at least 8 characters, alphanumeric and contain a special character)
+  (NOTE::Password must be at least 8 characters, alphanumeric and contain a special character)
 
   ![Imgur](http://i.imgur.com/4ULmgAg.png)
 
