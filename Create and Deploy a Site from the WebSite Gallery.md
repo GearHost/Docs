@@ -21,7 +21,7 @@ Our one click installs allow you to easily create license free, industry standar
  
 2. Select 'CloudSites' from the left hand menu, and add a new CloudSite
 
-![Add a CloudSite](http://i.imgur.com/pWwPKKT.png)
+  ![Add a CloudSite](http://i.imgur.com/pWwPKKT.png)
  
 3. Give your site a name
  
@@ -29,7 +29,7 @@ Our one click installs allow you to easily create license free, industry standar
  
 5. Click the 'Create CloudSite From Gallery' button
  
-![Select Your App](http://i.imgur.com/rYkk1iF.png)
+  ![Select Your App](http://i.imgur.com/rYkk1iF.png)
  
 6. Select the application you want to install
  
