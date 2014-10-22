@@ -11,8 +11,12 @@ How do I scale my account?
 
 1. Log in to your account at my.gearhost.com
 2. Select CloudSites
-![CloudSites](http://i.imgur.com/M5OIGUk.png)
+
+  ![CloudSites](http://i.imgur.com/M5OIGUk.png)
+
 3. Select the site you want to scale
 4. Select the scale tab
-![Scale](http://i.imgur.com/uklhWRG.png)
+
+  ![Scale](http://i.imgur.com/uklhWRG.png)
+
 5. Select your new plan
