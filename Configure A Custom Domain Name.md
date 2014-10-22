@@ -1,7 +1,6 @@
 > Configure A Custom Domain Name
 
-1. Once logged in to your account 
- ![cloudsite](http://my.gearhost.com/CloudSite)
+1. Once logged in to your account [cloudsite](http://my.gearhost.com/CloudSite)
 2. Click on your CloudSite name
  ![Imgur](http://i.imgur.com/HSyblau.png)
 3. Select the Domains tab and then Add your Domain
