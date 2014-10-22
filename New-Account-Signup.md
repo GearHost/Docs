@@ -6,14 +6,15 @@ Thank you for choosing to use Octane you can use this document as a guide in set
 
 1. Visit The [Signup Page](http://my.gearhost.com/Account/Signup)
  
-![Login Form](http://i.imgur.com/v7lzijR.png)
+ ![Login Form](http://i.imgur.com/v7lzijR.png)
+
 2. Check your email for activation email
  
 3. Click Activation Link
  
 4. Update Billing Information
  
-![Imgur](http://i.imgur.com/udNxxzb.png)
+ ![Imgur](http://i.imgur.com/udNxxzb.png)
  
 5. Add your first [cloudsite](http://my.gearhost.com/CloudSite)
  
