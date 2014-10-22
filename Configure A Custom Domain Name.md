@@ -1,4 +1,5 @@
-> Configure A Custom Domain Name
+Configure A Custom Domain Name
+===================
 
 1. Once logged in to your account [cloudsite](http://my.gearhost.com/CloudSite)
 2. Click on your CloudSite name
