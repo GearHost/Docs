@@ -1,7 +1,9 @@
 New Account Signup
 ==================
 
-Thank you for choosing to use Octane you can use this document as a guide in setting up your new Octane account
+Thanks for choosing the full-featured Cloud Hosting of GearHost Octane™! [Need to SignUp Still? Page](http://my.gearhost.com/Account/Signup)
+
+you can use this document as a guide in setting up your new Octane account
 
 > To Set Up Your Account
 
