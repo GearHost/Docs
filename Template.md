@@ -8,10 +8,6 @@
 If after your review of this support article is you have any questions or feel something is not correct in this article please contact **support@gearhost.com** or tweet us **@GearHost**
 ***
 
-Here's a link to [a website](http://foo.bar), to a [local
-doc](local-doc.html), and to a [section heading in the current
-doc](#an-h2-header). Here's a footnote [^1].
-
 ##Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
@@ -21,6 +17,7 @@ doc](#an-h2-header). Here's a footnote [^1].
 6. [Tweaking Javascript](#4-tweaking-javascript)
 7. [Conclusion](#conclusion)
 8. [Supported Browsers](#supported-browsers)
+
 ***
 
 ##Introduction
