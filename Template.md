@@ -13,7 +13,7 @@ If after your review of this support article is you have any questions or feel s
 2. [Prerequisites](#prerequisites)
 3. [Install Wordpress](#1-install-wordpress)
 4. [Update Wordpress Config](#2-update-wordpress-config)
-5. [Tweaking Javascript](#4-tweaking-javascript)
+5. [Tweaking Javascript](#3-tweaking-javascript)
 6. [Conclusion](#conclusion)
 7. [Supported Browsers](#supported-browsers)
 
@@ -68,12 +68,7 @@ after saving with the new filename connect with FTP and upload the new wp-config
 Browse to your-domain.com/wp-admin to connect for the first time.
 ***
 
-##3. Change Style Files
- 
-To change these styles, go to the WordPress backend, select **Options > Styles** and select the style you would like.
-***
-
-##4. Tweaking Javascript
+##3. Tweaking Javascript
 The content slider in the theme runs off of slider.js, and there are a couple of values that can be changed to alter the look and feel of the slider.
 
 #####Changing Values
