@@ -50,7 +50,7 @@ Use the FTP client you downloaded in the prerequisites to connect to your accoun
 Make sure the files go into your wwwroot folder. 
 ***
 
-##2. Update Wprdoress Config
+##2. Update Wordpress Config
 This will be where you give a brief overview of step two (accessing wordpress admin):
  
 * Update wp-config.php
