@@ -13,10 +13,9 @@ If after your review of this support article is you have any questions or feel s
 2. [Prerequisites](#prerequisites)
 3. [Install Wordpress](#1-install-wordpress)
 4. [Update Wordpress Config](#2-update-wordpress-config)
-5. [Change Style Files](#3-change-style-files)
-6. [Tweaking Javascript](#4-tweaking-javascript)
-7. [Conclusion](#conclusion)
-8. [Supported Browsers](#supported-browsers)
+5. [Tweaking Javascript](#4-tweaking-javascript)
+6. [Conclusion](#conclusion)
+7. [Supported Browsers](#supported-browsers)
 
 ***
 
