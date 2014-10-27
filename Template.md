@@ -60,11 +60,14 @@ This will be where you give a brief overview of step two (accessing wordpress ad
 1. On your local computer open the file wp-sample-config.php from the documents you downloaded.
 2. update your connection string information from the database section of your cloudsite account.
 3. save as wp-config.php (removing the sample from the filename)
+
 #####upload new wp-config.php
 after saving with the new filename connect with FTP and upload the new wp-config.php
+
 #####connect to wp-admin
 Browse to your-domain.com/wp-admin to connect for the first time.
 ***
+
 ##3. Change Style Files
  
 To change these styles, go to the WordPress backend, select **Options > Styles** and select the style you would like.
