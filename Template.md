@@ -13,14 +13,14 @@ doc](local-doc.html), and to a [section heading in the current
 doc](#an-h2-header). Here's a footnote [^1].
 
 ##Table of Contents
-1. [Step 1](#step-1)
-2. [Step 2](#step-2)
+1. [Step 1](#1-step-1)
+2. [Step 2](#2-step)
 3. [Step 3](#step-3)
 4. [Step 4](#step-4)
 5. [Step 5](#step-5)
 6. [Step 6](#step-6)
 7. [Step 7](#step-7)
-8. [Step 8](#step-8)
+8. [Step 8](#8-step-8)
 ***
 
 
