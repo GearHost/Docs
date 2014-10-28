@@ -1,6 +1,5 @@
 #How to scale your Cloudsites
  
-##Why should I scale my website?
 Sometimes plugins and website will require more memory or CPU power in order to function properly. A sign that your site is having issues with memory or CPU power is that your resource pool is crashing and you have to restart it.
 If you are having issues with your site running slowly it can be caused by your site needing more resources to handle more tasks at once. Often increasing your resources will greatly improve site performance.
 
