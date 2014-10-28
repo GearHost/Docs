@@ -20,4 +20,5 @@ Octane makes it easy to upload your database with an existing backup file
 6. When the database is complete, Octane takes you to the management page for the new database
 
 7. Here you can view the details for the new user created for the database, or create a new user
+8. Test
 
