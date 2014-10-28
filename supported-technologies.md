@@ -2,12 +2,12 @@
 
 The GearHost CloudSite platform supports the following technologies.
 
-+Classic ASP
+*Classic ASP
 
-+Classic ASP.NET
+*Classic ASP.NET
 
-+.NET 4.5.2
+*.NET 4.5.2
 
-+PHP
+*PHP
 
-⋅⋅1
+*⋅⋅1
