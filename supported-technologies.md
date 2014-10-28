@@ -18,3 +18,15 @@ The GearHost CloudSite platform supports the following technologies.
   * 2.7.3
 * Classic ASP
 * Classic ASP.NET
+
+#Unsupported Technologies
+
+Listed are some technologies and applications that the GearHost CloudSite platform does not support.
+
+##Technologies
+* ColdFusion
+* Java
+* Perl
+
+##Applications
+* Concrete5
