@@ -10,7 +10,7 @@ test template
 4. [Update Wordpress Config](#2-update-wordpress-config)
 5. [Tweaking Javascript](#3-tweaking-javascript)
 6. [Conclusion](#conclusion)
-7. [Supported Browsers](#supported-browsers)
+7. [Supported Browsers](#user-content-supported-browsers)
 
 ***
 
