@@ -20,8 +20,8 @@ Needed Articles
 
 #Needed
 
-- difference between 64 bit and 32 bit
-- my site is suspended
+- difference between 64 bit and 32 bit- double
+- Ian - my site is suspended
 - how to restore database
 - Christopher - how to install wordpress manually
 - Ian - 503 errors
