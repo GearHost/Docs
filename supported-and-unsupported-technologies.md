@@ -1,6 +1,6 @@
 #Supported Technologies
 
-The GearHost CloudSite platform supports the following technologies.1
+The GearHost CloudSite platform supports the following technologies.
 
 * .NET 4.5.2
 * .NET 3.5
