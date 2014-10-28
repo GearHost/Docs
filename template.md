@@ -1,13 +1,5 @@
-#Support Article Template
-***
-- *Target Platform:* Octane 
-- *Author:* Travis Haley 
-- *Created:* 10/26/2014  
-- *Version:* 1.0.1 
-
-***
-If after your review of this support article is you have any questions or feel something is not correct in this article please contact **support@gearhost.com** or tweet us **@GearHost**
-***
+test template
+==================
 
 ##Table of Contents
 1. [Introduction](#introduction)
