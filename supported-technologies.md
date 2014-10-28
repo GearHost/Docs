@@ -8,7 +8,7 @@ The GearHost CloudSite platform supports the following technologies.
   * 5.3.28
   * 5.4.30
   * 5.5.14
-Node.js
+* Node.js
   * 0.8.2
   * 0.8.19
   * 0.6.20
