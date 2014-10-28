@@ -1,4 +1,4 @@
-###How to scale your Cloudsites
+#How to scale your Cloudsites
  
 Why should I scale my website?
 Sometimes plugins and website will require more memory or CPU power in order to function properly. A sign that your site is having issues with memory or CPU power is that your resource pool is crashing and you have to restart it.
