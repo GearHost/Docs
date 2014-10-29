@@ -7,9 +7,10 @@ Application Gallery Quick Install - Wordpress
 2. [Prerequisites](#user-content-prerequisites)
 3. [Add Cloudsite to hold your Wordpress Application](#user-content-1-Add-Cloudsite-to-hold-your-Wordpress-Application)
 4. [Select Wordpress From the Application Gallery](#user-content-2-Select-Wordpress-From-the-Application-Gallery)
-5. [Tweaking Javascript](#user-content-3-tweaking-javascript)
-6. [Conclusion](#user-content-conclusion)
-7. [Supported Browsers](#user-content-supported-browsers)
+5. [Enter your Database Settings](#user-content-3-Enter-your-Database-Settings)
+6. [Fill In Your Site Settings](#user-content-Fill-In-Your-Site-Settings)
+7. [Conclusion](#user-content-conclusion)
+8. [Supported Browsers](#user-content-supported-browsers)
 
 ***
 
