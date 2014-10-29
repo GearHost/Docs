@@ -12,11 +12,9 @@ Dot Net Nuke Quick Install
 ***
 
 ##Introduction
-This will be a small introduction to your article.  It should be a brief overview of what you are trying to explain however it should not go into any specific detail or steps to preform the task at hand.
-
+Here we will go over the steps to perform a quick install of Dot Net Nuke for your new CloudSite 
 
 ##Prerequisites
-This section will outline any prerequisites for completing this task.  It should include links to articles to preform the task if available:
  
 * [Set up account](http://my.gearhost.com/login.aspx)
 * Standard SQL Plan or higher. Instructions for creating a database can be found [here](instrctions.com) 
