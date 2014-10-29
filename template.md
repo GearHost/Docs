@@ -1,7 +1,6 @@
-test template
+Article Title 
 ==================
-
-###ryan
+***
 
 ##Table of Contents
 1. [Introduction](#introduction)
@@ -96,4 +95,4 @@ This control panel feature works well (-) or great (X) in the following browsers
 **Opera** X
 ***
 ####Support Documentation by
-If you have any other questions that aren't covered in the documentation, feel free to e-mail <support@gearhost.com> or add a new post on the [forum](http://forum.gearhost.com/ "visit the forum").
+
