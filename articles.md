@@ -20,18 +20,18 @@ Needed Articles
 - chrisopher - FTP using OSX
 - Ian - 503 errors
 - Ian - my site is suspended
+- Christopher - one click installs - DONE
+- Christopher - how to install wordpress manually - DONE
+- how to restore database - DONE
 
 
 #Needed
 
 - chris k - difference between 64 bit and 32 bit- double
-- how to restore database - DONE
-- Christopher - how to install wordpress manually - DONE
 - control panel directory structure
 - difference between FTP, Publishing, Git and 
 - how to connect to a database
 - travis - sending emails (sendgrid, mailgun)
 - supported technologies (versions)
-- Christopher - one click installs - DONE
 - create my first cloudsite
 - travis - how do preview my application / website
