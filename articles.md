@@ -2,7 +2,7 @@ Needed Articles
 ==================
 
 #Done
-- ircrow:  how to scale your cloudsite
+- Ian:  how to scale your cloudsite
 - christopher how to monitor a cloudsite
 - ian configure an ssl certificate
 - chrisconfigure a custom domain name
@@ -18,6 +18,7 @@ Needed Articles
 - mike - Site Diagnostics
 - christopher - publish with textmate(MAC)
 - chrisopher - FTP using OSX
+- Ian - 503 errors
 
 
 #Needed
@@ -26,7 +27,6 @@ Needed Articles
 - Ian - my site is suspended
 - how to restore database
 - Christopher - how to install wordpress manually
-- Ian - 503 errors
 - control panel directory structure
 - difference between FTP, Publishing, Git and 
 - how to connect to a database
