@@ -16,6 +16,8 @@ Needed Articles
 - vince - create and deploy a website from the website gallery
 - mike - how to publish you app with FTP
 - mike - Site Diagnostics
+- christopher - publish with textmate(MAC)
+- chrisopher - FTP using OSX
 
 
 #Needed
