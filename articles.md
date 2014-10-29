@@ -23,6 +23,7 @@ Needed Articles
 - Christopher - one click installs - DONE
 - Christopher - how to install wordpress manually - DONE
 - how to restore database - DONE
+- travis - sending emails (sendgrid, mailgun)
 
 
 #Needed
@@ -31,7 +32,6 @@ Needed Articles
 - control panel directory structure
 - difference between FTP, Publishing, Git and 
 - Ian - how to connect to a database
-- travis - sending emails (sendgrid, mailgun)
 - supported technologies (versions)
 - create my first cloudsite
 - travis - how do preview my application / website
