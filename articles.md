@@ -22,7 +22,7 @@ Needed Articles
 
 #Needed
 
-- difference between 64 bit and 32 bit- double
+- chris k - difference between 64 bit and 32 bit- double
 - Ian - my site is suspended
 - how to restore database - DONE
 - Christopher - how to install wordpress manually - DONE
