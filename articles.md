@@ -30,9 +30,8 @@ Needed Articles
 - control panel directory structure
 - difference between FTP, Publishing, Git and 
 - how to connect to a database
-- sending emails (sendgrid, mailgun)
+- travis - sending emails (sendgrid, mailgun)
 - supported technologies (versions)
 - Christopher - one click installs - DONE
 - create my first cloudsite
-- how to connect to a database
-- how do preview my application
+- travis - how do preview my application / website
