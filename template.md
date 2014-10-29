@@ -1,6 +1,5 @@
 Article Title 
 ==================
-***
 
 ##Table of Contents
 1. [Introduction](#introduction)
@@ -94,5 +93,5 @@ This control panel feature works well (-) or great (X) in the following browsers
 **Safari** X  
 **Opera** X
 ***
-####Support Documentation by
+
 
