@@ -24,15 +24,15 @@ Needed Articles
 
 - difference between 64 bit and 32 bit- double
 - Ian - my site is suspended
-- how to restore database
-- Christopher - how to install wordpress manually
+- how to restore database - DONE
+- Christopher - how to install wordpress manually - DONE
 - Ian - 503 errors
 - control panel directory structure
 - difference between FTP, Publishing, Git and 
 - how to connect to a database
 - sending emails (sendgrid, mailgun)
 - supported technologies (versions)
-- Christopher - one click installs
+- Christopher - one click installs - DONE
 - create my first cloudsite
 - how to connect to a database
 - how do preview my application
