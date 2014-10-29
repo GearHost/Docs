@@ -1,7 +1,7 @@
 Article Title 
 ==================
 
-##Table of Contents
+###Table of Contents
 1. [Introduction](#user-content-introduction)
 2. [Prerequisites](#user-content-prerequisites)
 3. [Install Wordpress](#user-content-1-install-wordpress)
