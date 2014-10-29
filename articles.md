@@ -30,7 +30,7 @@ Needed Articles
 - chris k - difference between 64 bit and 32 bit- double
 - control panel directory structure
 - difference between FTP, Publishing, Git and 
-- how to connect to a database
+- Ian - how to connect to a database
 - travis - sending emails (sendgrid, mailgun)
 - supported technologies (versions)
 - create my first cloudsite
