@@ -27,20 +27,20 @@ When you are finished testing, remember to remove the custom lines that you adde
  2. Open the HOSTS file with a text editor such as Notepad or Wordpad
   * Right-click on Notepad and select the option to run Notepad as an Administrator as you need these elevated permissions to edit the HOSTS file.
   
->**Consider performing a "Save As" so you have an original copy of the file that you can restore later.**
+ >**Consider performing a "Save As" so you have an original copy of the file that you can restore later.**
 
  You will see two columns of information, the first containing IP addresses and the second containing host names. By default, a windows hosts file should be similar to the following:
 
-``` 127.0.0.1 localhost ```
+ ``` 127.0.0.1 localhost ```
 
  You can add additional lines to this file that will point requests for a resource to your new applications IP address
 
-``` 
+ ``` 
     127.0.0.1 localhost
     204.246.56.80 example.mysite.com
     204.246.56.80 mysite.com
     204.246.56.80 www.mysite.com
-```
+ ```
  
  3. Save your changes
  4. Restart any currently open web browsers on your local computer
