@@ -24,6 +24,7 @@ Needed Articles
 - Christopher - how to install wordpress manually - DONE
 - how to restore database - DONE
 - travis - sending emails (sendgrid, mailgun)
+- travis - how do preview my application / website
 
 
 #Needed
@@ -34,4 +35,4 @@ Needed Articles
 - Christopher - how to connect to a database
 - supported technologies (versions)
 - Ian - create my first cloudsite
-- travis - how do preview my application / website
+
