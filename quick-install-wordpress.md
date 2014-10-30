@@ -72,14 +72,4 @@ By clicking Launch Site on the next screen, you will be taken to the setup of Wo
 This was the detailed steps on quick installing wordpress as a CloudSite application.  You have created a database and installed the files into your application webroot.  You will be able to access your site as your vanity URL created in step one.
 
 ***
-##Supported Browsers 
-This control panel feature works well (-) or great (X) in the following browsers:
- 
-**IE 6-8** -  
-**IE 9+** X  
-**Chrome** X  
-**Firefox** X  
-**Safari** X  
-**Opera** X
-***
 
