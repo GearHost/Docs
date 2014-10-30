@@ -13,7 +13,7 @@ To find your access domain
 
 You can visit sub folders for your site by adding them onto the end of the preview domain like any normal website folder.
 
-##DNS bypassing using your hosts file
+##DNS bypassing using your HOSTS file
 To test your website with your own domain name before DNS propagation has completed, you can use your local computer's HOSTS file. Your computer will use the entries in your HOSTS file before it looks up the DNS information for your domain. This article contains instructions for editing the HOSTS file on Windows 95/98/Me/2000/XP/2003/Vista/7/8/8.1, and Apple's Mac OS X.
 
 When you are finished testing, remember to remove the custom lines that you added.
