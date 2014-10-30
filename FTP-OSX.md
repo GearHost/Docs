@@ -15,10 +15,7 @@ Below we'll walk through setting up deployment credentials and using those in an
  
  ![enter image description here](http://i.imgur.com/G4ifdqG.png)
 
-
- 
 ##Enter your credentials in FileZilla
- 
 
  1. Open FileZilla and in the quick connect bar enter the server, user name, and password. Remember you can find the information on the Overview page of your CloudSite in your control panel.
  
@@ -30,10 +27,12 @@ Below we'll walk through setting up deployment credentials and using those in an
 
 ##Alternative Method Using Finder
 
- 1. Open a new Finder window
- 2. Select *Go* from the Menu Bar then select *Connect to Server*
+1. Open a new Finder window
+2. Select *Go* from the Menu Bar then select *Connect to Server*
   ![Imgur](http://i.imgur.com/1U9IuI4.png)
- 3.Enter the CloudSites FTP server address in the *Server Address* bar
+ 
+3.Enter the CloudSites FTP server address in the *Server Address* bar
   ![Imgur](http://i.imgur.com/6wDwy4f.png)
- 4. Enter the credentials created earlier for your CloudSite the select *Connect*. Once connected, your folders will open in a separate window and you can click and drag files to your FTP server
+
+4. Enter the credentials created earlier for your CloudSite the select *Connect*. Once connected, your folders will open in a separate window and you can click and drag files to your FTP server
   ![Imgur](http://i.imgur.com/iNm0yPu.png)
