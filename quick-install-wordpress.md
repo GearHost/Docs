@@ -55,7 +55,7 @@ Select WordPress by scrolling towards the bottom on the left menu. Click the arr
 ##3. Enter your Database Settings
 These are the credentials for your WordPress database, that will allow your site to talk to your database. You will need to remember these credentials for the future so keep them in a safe place or remember where they are stored in your WordPress files.
 
-![setup database](https://www.evernote.com/shard/s77/sh/d49e22ce-bf99-4aa6-9d61-ca2aadb370c2/e7cbe65dbd92b1bb11ea8f3f1bf0ecec/res/c8c438cb-5e79-43c6-b06e-b4e7c42a8f66/skitch.png?resizeSmall&width=832)
+![setup database](http://i.imgur.com/eHwWk5e.png)
 
 #####Database Settings
 * Database Name: - The name must be Charters a-z or numbers 0-9
@@ -66,7 +66,7 @@ These are the credentials for your WordPress database, that will allow your site
 ##Fill In Your Site Settings
 By clicking Launch Site on the next screen, you will be taken to the setup of WordPress to create a username and password then begin building your site.
 
-![site settings](https://www.evernote.com/shard/s77/sh/966e3182-31b5-4402-86d2-3998f2efb3a2/e6db566252b2ab0bd57134253902c94a/res/8c3607fd-5342-45c9-826d-1f0c7a70ac87/skitch.png?resizeSmall&width=832)
+![Site Settings](http://i.imgur.com/ElyoABD.png)
 
 ##Conclusion
 This was the detailed steps on quick installing wordpress as a CloudSite application.  You have created a database and installed the files into your application webroot.  You will be able to access your site as your vanity URL created in step one.
