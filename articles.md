@@ -31,7 +31,7 @@ Needed Articles
 - chris k - difference between 64 bit and 32 bit- double
 - control panel directory structure
 - difference between FTP, Publishing, Git and 
-- Ian - how to connect to a database
+- Christopher - how to connect to a database
 - supported technologies (versions)
-- create my first cloudsite
+- Ian - create my first cloudsite
 - travis - how do preview my application / website
