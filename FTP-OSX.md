@@ -3,7 +3,7 @@ How to publish your app with FTP on OSX
 
 Below we'll walk through setting up deployment credentials and using those in an FTP client to publish your application to your account. 
 
->Create your deployment credentials 
+##Create your deployment credentials 
 
  1. After logging into your control panel click on CloudSites and choose the site you want to publish to. 
  
@@ -17,7 +17,7 @@ Below we'll walk through setting up deployment credentials and using those in an
 
 
  
-> Enter your credentials in FileZilla
+##Enter your credentials in FileZilla
  
 
  1. Open FileZilla and in the quick connect bar enter the server, user name, and password. Remember you can find the information on the Overview page of your CloudSite in your control panel.
@@ -28,8 +28,7 @@ Below we'll walk through setting up deployment credentials and using those in an
  
  3. Now you will be able to upload your app
 
->Alternative Method Using Finder
->
+##Alternative Method Using Finder
 
  1. Open a new Finder window
  2. Select *Go* from the Menu Bar then select *Connect to Server*
@@ -38,6 +37,6 @@ Below we'll walk through setting up deployment credentials and using those in an
 
  3.Enter the CloudSites FTP server address in the *Server Address* bar
   ![Imgur](http://i.imgur.com/6wDwy4f.png)
-  
+ 
  4. Enter the credentials created earlier for your CloudSite the select *Connect*. Once connected, your folders will open in a separate window and you can click and drag files to your FTP server
   ![Imgur](http://i.imgur.com/iNm0yPu.png)
