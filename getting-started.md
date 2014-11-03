@@ -14,6 +14,20 @@ Getting Started
 
 [![Getting Started with Octane](http://i.imgur.com/vbgJzkC.png)](https://www.youtube.com/watch?v=5VH0yb1eVKg)
 
+##Sign up your account
+##Verify Your Email Address
+##set up your first cloudsite
+ ![Imgur](http://i.imgur.com/UySxLAD.png)
+##update your billing
+##Deploy You Website
+ 1. How to dpeloy with FTP
+ 2. How to deploy wit GIT
+ 3. How to deploy with Visual Studio 2013
+ 4. How to deploy your website on a MAC
+
+##Scale your website
+##Create a database
+
 
 
 ##Introduction
