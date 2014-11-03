@@ -12,7 +12,7 @@ Getting Started
 
 ***
 
-[![Getting Started with Octane](http://i.imgur.com/ic522Ep.png)](https://www.youtube.com/watch?v=5VH0yb1eVKg)
+[![Getting Started with Octane](http://i.imgur.com/vbgJzkC.png)](https://www.youtube.com/watch?v=5VH0yb1eVKg)
 
 
 
