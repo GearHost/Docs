@@ -12,9 +12,9 @@ Getting Started
 
 ***
 
-<div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
+
 <iframe width="800" src="http://www.youtube.com/embed/5VH0yb1eVKg" frameborder="0" allowfullscreen></iframe>
-</div>
+
 
 ##Introduction
 This will be a small introduction to your article.  It should be a brief overview of what you are trying to explain however it should not go into any specific detail or steps to preform the task at hand.
