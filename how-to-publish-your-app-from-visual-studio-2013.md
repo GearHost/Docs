@@ -23,7 +23,7 @@ Below we'll walk through setting up deployment credentials and using those in Vi
 
 6. All of the publishing information will be filled in automatically for you.  You can validate connection or just click publish. *this will upload all of your site files from your local source project to the cloudsite*
 
- ![Imgur](http://i.imgur.com/whY0G7b.png)
+ ![Imgur](http://i.imgur.com/8hrwKXq.png)
   
 
 
