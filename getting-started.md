@@ -12,8 +12,8 @@ Getting Started
 
 ***
 
+[![Getting Started with Octane]([Imgur](http://i.imgur.com/ic522Ep.png)](https://www.youtube.com/watch?v=5VH0yb1eVKg)
 
-<iframe width="800" src="http://www.youtube.com/embed/5VH0yb1eVKg" frameborder="0" allowfullscreen></iframe>
 
 
 ##Introduction
