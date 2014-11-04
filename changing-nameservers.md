@@ -1,11 +1,11 @@
 Octane Nameservers
 =============
 
-Every Domain name uses a naming system called DNS (Domain Name System) in order to resolve the name of your website (Domain) to the system of numbers called IP Addresses that the whole internet is built on behind the scenes. In order for your domain to know that your website is hosted with GearHost, it will need to point to the correct "Name Servers" or "DNS Servers" that contain the correct DNS records to point your domain name to GearHost. 
+Every Domain name uses a naming system called DNS (Domain Name System) in order to resolve the name of your website (Domain) to the system of numbers called IP Addresses that the whole internet is built on behind the scenes. In order for your domain to know that your website is hosted with GearHost, it will need to point to the correct **"Name Servers"** or **"DNS Servers"** that contain the correct DNS records to point your domain name to GearHost. 
 
 ##Changing Name Servers
 
-Domain Registered with GearHost: 
+###Domain Registered with GearHost: 
 If your domain name was registered through GearHost then you are in luck, and the Name Servers for your domain are already pointed to GearHost.  If you need to change where the domain is pointing please place a ticket in your support section of the portal.
 
 ###Domain Registered Elsewhere: 
@@ -13,5 +13,5 @@ If your domain name is registered elsewhere or your site has been hosted by anot
 
 The two Name Servers for your Octane account can be found below. Making this change will point your domain name to your Octane account and will make your application hosted with GearHost live!
 
-dns1.gearhost.com
-dns2.gearhost.com
+- dns1.gearhost.com
+- dns2.gearhost.com
