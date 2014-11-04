@@ -3,11 +3,11 @@ Getting Started
 
 ###Table of Contents
 1. [Introduction](#user-content-introduction)
-2. [Sign up your account](#user-content-prerequisites)
+2. [Sign up your account](#user-content-sign-up-your-account)
 3. [Verify Your Email Address](#user-content-1-install-wordpress)
 4. [Update your billing](#user-content-2-update-wordpress-config)  (Optional)
 5. [Create a database](#user-content-create-a-database)
-6. [Deploy your website](#user-content-3-tweaking-javascript)
+6. [Deploy your website](#user-content-deploy-your-website)
 
 
 ***
@@ -24,14 +24,14 @@ First let me say thank you for trusting GearHost with your web application.  You
 ##Verify Your Email Address
  The next step will be to verify your email address.  Please verify the email address you signed up with
 
-##set up your first cloudsite
+##Set up your first cloudsite
  You will need to set up your first cloudsite this will hold the content of your website.
  ![Imgur](http://i.imgur.com/UySxLAD.png)
  
-##update your billing (optional)
+##Update your billing (optional)
  If your site will be using a lot of resources or is a production website you will need to update your credit card information to allow purchasing production hosting plans.
  
-##Deploy You Website
+##Deploy your Website
 https://www.gearhost.com/documentation/how-to-deploy-to-cloudsites-md
  1. [How to dpeloy with FTP] (https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp)
  2. [How to deploy wit GIT] (https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp)
