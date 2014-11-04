@@ -32,7 +32,10 @@ First let me say thank you for trusting GearHost with your web application.  You
  If your site will be using a lot of resources or is a production website you will need to update your credit card information to allow purchasing production hosting plans.
  
 ##Deploy your Website
-https://www.gearhost.com/documentation/how-to-deploy-to-cloudsites-md
+The first step to deploy your website is setting up deployment credentials [set up deployment credentials](https://www.gearhost.com/documentation/how-to-deploy-to-cloudsites-md)
+
+Then you can pick your deployment method below from traditional FTP to GIT Deploy from a source control repository.
+
  1. [How to dpeloy with FTP] (https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp)
  2. [How to deploy wit GIT] (https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp)
  3. [How to deploy with Visual Studio 2013] (https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio-2013)
