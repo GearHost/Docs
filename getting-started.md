@@ -18,17 +18,17 @@ First off, welcome to GearHost! You will find many helpful links below and they 
 ##Sign up your account
 If you haven't already you'll need to first [sign up an account](www.github.com). This requires a valid email address and strong password.
  
-##Verify Your Email Address
+##Verify Your email
 The next step will be to verify your email address.  You can do this by clicking on the Activate Now link inside the email we sent to the email address you signed up with. Please check your SPAM folders if you do not see the email. You can also resend the email from within the control panel.
 
 ##Update your billing
 You will want to enter a credit card to get full access to all of the GearHost features. To do this click on Billing then Payment Details button.
 
-##Set up your first cloudsite
+##Create your very first CloudSite
 You will need to set up your first cloudsite this will hold the content of your website.
 ![Imgur](http://i.imgur.com/UySxLAD.png)
  
-##Deploy your Website
+##Deploy your content
 The first step to deploy your website is setting up deployment credentials [set up deployment credentials](https://www.gearhost.com/documentation/how-to-deploy-to-cloudsites-md)
 
 Once you have your deployment credentials setup you you might want to download your publishing file as well.
