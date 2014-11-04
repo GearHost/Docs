@@ -6,8 +6,9 @@ Getting Started
 2. [Sign up your account](#user-content-prerequisites)
 3. [Verify Your Email Address](#user-content-1-install-wordpress)
 4. [Update your billing](#user-content-2-update-wordpress-config)  (Optional)
-5. [Deploy your website](#user-content-3-tweaking-javascript)
-6. [Conclusion](#user-content-conclusion)
+5. [Create a database](#user-content-create-a-database)
+6. [Deploy your website](#user-content-3-tweaking-javascript)
+
 
 ***
 
