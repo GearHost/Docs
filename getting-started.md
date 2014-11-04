@@ -4,7 +4,7 @@ Getting Started
 ###Table of Contents
 1. [Introduction](#user-content-introduction)
 2. [Sign up your account](#user-content-sign-up-your-account)
-3. [Verify Your Email Address](#user-content-1-install-wordpress)
+3. [Verify Your email](#user-content-1-install-wordpress)
 4. [Update your billing](#user-content-2-update-wordpress-config)  (Optional)
 5. [Create a database](#user-content-create-a-database)
 6. [Deploy your website](#user-content-deploy-your-website)
@@ -16,7 +16,7 @@ Getting Started
 First off, welcome to GearHost! You will find many helpful links below and they are in order of the way you should be completing the tasks.  The control panel will walk you through most of this but we understand it is nice to have a referance manual to check with to make sure everything is correct.
 
 ##Sign up your account
-If you haven't already you'll need to first [sign up an account](www.github.com). This requires a valid email address and strong password.
+If you haven't already you'll need to first [sign up an account](https://my.gearhost.com/account/signup). This requires a valid email address and strong password.
  
 ##Verify Your email
 The next step will be to verify your email address.  You can do this by clicking on the Activate Now link inside the email we sent to the email address you signed up with. Please check your SPAM folders if you do not see the email. You can also resend the email from within the control panel.
