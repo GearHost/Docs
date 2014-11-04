@@ -4,8 +4,8 @@ Getting Started
 ###Table of Contents
 1. [Introduction](#user-content-introduction)
 2. [Sign up your account](#user-content-prerequisites)
-3. [Verify Your Email Address](#user-content-1-install-wordpress) (Optional)
-4. [Update your billing](#user-content-2-update-wordpress-config)
+3. [Verify Your Email Address](#user-content-1-install-wordpress)
+4. [Update your billing](#user-content-2-update-wordpress-config)  (Optional)
 5. [Deploy your website](#user-content-3-tweaking-javascript)
 6. [Conclusion](#user-content-conclusion)
 
@@ -37,12 +37,14 @@ https://www.gearhost.com/documentation/how-to-deploy-to-cloudsites-md
  3. [How to deploy with Visual Studio 2013] (https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio-2013)
  4. [How to deploy your website on a MAC] (https://www.gearhost.com/documentation/textwrangler-publishing)
 
-##Scale your website
- If you want to start on a free account and scale later this is possible with your control panel You will need to scale your website from the control panel.
- [Scale your website](https://www.gearhost.com/documentation/how-to-scale-your-cloudsite)
 ##Create a database
  If your application needs a database we support both MySQL and MSSQL databases.  You can restore a backup you have locally or create a new empty one.
  [Create a Database](https://www.gearhost.com/documentation/how-to-restore-a-database)
+
+##Scale your website
+ If you want to start on a free account and scale later this is possible with your control panel You will need to scale your website from the control panel.
+ [Scale your website](https://www.gearhost.com/documentation/how-to-scale-your-cloudsite)
+
 
 
 
