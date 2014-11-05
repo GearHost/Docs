@@ -69,7 +69,7 @@ By clicking Launch Site on the next screen, you will be taken to the setup of Wo
 ![Site Settings](http://i.imgur.com/ElyoABD.png)
 
 ##Conclusion
-This was the detailed steps on quick installing wordpress as a CloudSite application.  You have created a database and installed the files into your application webroot.  You will be able to access your site as your vanity URL created in step one.
+These are the detailed steps to quickly install wordpress as a CloudSite application.  You have now created a database and installed the files onto your application webroot.  You will be able to access your site using your vanity URL created in step one.
 
 ***
 
