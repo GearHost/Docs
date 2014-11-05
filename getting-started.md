@@ -19,7 +19,9 @@ First off, welcome to GearHost! You will find many helpful links below and they 
 If you haven't already you'll need to first [sign up an account](https://my.gearhost.com/account/signup). This requires a valid email address and strong password.
  
 ##Verify Your email
-The next step will be to verify your email address.  You can do this by clicking on the Activate Now link inside the email we sent to the email address you signed up with. Please check your SPAM folders if you do not see the email. You can also resend the email from within the control panel.
+The next step will be to verify your email address.  We have sent you a verification email to the email address you signed up with. Click the Activate Now link in that email.
+
+> If you do not see the email please double check your SPAM folder otherwise you can resend your email from within the control panel.
 
 ##Update your billing
 You will want to enter a credit card to get full access to all of the GearHost features. To do this click on Billing then Payment Details button.
