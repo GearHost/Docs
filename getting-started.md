@@ -27,8 +27,9 @@ The next step will be to verify your email address.  We have sent you a verifica
 You will want to enter a credit card to get full access to all of the GearHost features. To do this click on Billing then Payment Details button.
 
 ##Create your very first CloudSite
-You will need to set up your first cloudsite this will hold the content of your website.
-![Imgur](http://i.imgur.com/UySxLAD.png)
+Under the CloudSites menu click the Add CloudSite button. Enter a name and select the plan you which to put your CloudSite on then click Create Empty CloudSite.
+
+> You have the option to create a CloudSite from the application gallery that contains several applications that can be preinstalled.
  
 ##Deploy your content
 The first step to deploy your website is setting up deployment credentials [set up deployment credentials](https://www.gearhost.com/documentation/how-to-deploy-to-cloudsites-md)
