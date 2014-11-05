@@ -1,18 +1,6 @@
 Getting Started 
 ==================
 
-###Table of Contents
-1. [Introduction](#user-content-introduction)
-2. [Sign up your account](#user-content-sign-up-your-account)
-3. [Verify Your email](#user-content-1-install-wordpress)
-4. [Update your billing](#user-content-2-update-wordpress-config)  (Optional)
-5. [Create a database](#user-content-create-a-database)
-6. [Deploy your website](#user-content-deploy-your-website)
-
-
-***
-
-##Introduction
 First off, welcome to GearHost! You will find many helpful links below and they are in order of the way you should be completing the tasks.  The control panel will walk you through most of this but we understand it is nice to have a referance manual to check with to make sure everything is correct.
 
 ##Sign up your account
