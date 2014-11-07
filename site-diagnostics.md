@@ -3,7 +3,7 @@ Site Diagnostics
 
 Site Diagnostics can be used to enable web site logging, view detailed errors, and also provide debug information for your application. 
 
->Turning them on and off 
+>Turning them on or off 
 
  1. After logging into your control panel click on CloudSites and choose the site you want to configure site diagnostics for. 
  
