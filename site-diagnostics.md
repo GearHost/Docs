@@ -3,7 +3,9 @@ Site Diagnostics
 
 Site Diagnostics can be used to enable web site logging, view detailed errors, and also provide debug information for your application. 
 
->Turning them on or off 
+***
+
+##Turning logging on or off 
 
  1. After logging into your control panel click on CloudSites and choose the site you want to configure site diagnostics for. 
  
@@ -19,8 +21,9 @@ Site Diagnostics can be used to enable web site logging, view detailed errors, a
  
  4. To enable an option click the On button next to the feature you wish to enable then scroll down and click the save button. Log files will now be created and can be accessed through FTP. 
 
+***
 
-> Access your log files
+##Access your log files
  
 
  1. Open FileZilla and in the quick connect bar enter the server, user name, and password. Remember you can find the information on the Overview page of your CloudSite in your control panel.
