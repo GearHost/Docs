@@ -64,5 +64,5 @@ Quick glance allows you to download your publishing file, reset it, and also set
 - Deployment / FTP User: The credentials used to access your CloudSite through FTP or deploy through various deployment tools like github.
 
 ####Support Documentation by
-If you have any other questions that aren't covered in the documentation, feel free to e-mail <support@gearhost.com> or add a new post on the [forum](http://forum.gearhost.com/ "visit the forum"). 
+If you have any other questions that aren't covered in the documentation, feel free to e-mail <help@gearhost.com>.
 

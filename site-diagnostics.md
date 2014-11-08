@@ -45,4 +45,7 @@ Site Diagnostics can be used to enable web site logging, view detailed errors, a
  - http: These are the raw log files produced by IIS for every request coming to your site or application by enabling the Web Server Logging option under Site Diagnostics. 
  - W3SVC*****: This directory contains the failed request tracing log files if you have that option turned on in site diagnostics. 
 
+####Support Documentation by
+If you have any other questions that aren't covered in the documentation, feel free to e-mail <help@gearhost.com>.
+
  
