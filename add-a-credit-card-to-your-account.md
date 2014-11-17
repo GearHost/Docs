@@ -15,6 +15,8 @@ Unfortunately server hardware, bandwidth, and data center space aren't free so w
 
  3. Now click on Update Credit Card in the upper right.
  
+![imgur](http://i.imgur.com/94dIkmY.png)
+ 
  4. Fill in your credit card information. Make sure the billing address matches what you have registered with the credit card company or bank. When you are done click on Update. 
 
  5. Your billing information is now up to date and you can scale to a larger plan and use more resources. 
