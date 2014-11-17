@@ -11,6 +11,8 @@ Unfortunately server hardware, bandwidth, and data center space aren't free so w
  
  2. You'll find a quick view of your current bill for that month and in the upper right corner the payment details button. Click on this button.
 
+![imgur](http://i.imgur.com/bJgX61l.png)
+
  3. Now click on Update Credit Card in the upper right.
  
  4. Fill in your credit card information. Make sure the billing address matches what you have registered with the credit card company or bank. When you are done click on Update. 
