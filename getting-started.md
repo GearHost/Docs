@@ -25,7 +25,7 @@ Then Payment Details button.
 ##Create your very first CloudSite
 Under the CloudSites menu click the Add CloudSite button. Enter a name and select the plan you which to put your CloudSite on then click Create Empty CloudSite.
 
-![Imgur](http://imgur.com/SuQh5Mc)
+![Imgur](http://i.imgur.com/SuQh5Mc.png)
 
 > You have the option to create a CloudSite from the application gallery that contains several applications that can be preinstalled.
  
