@@ -8,6 +8,8 @@ If you have not already signed up for a CloudSites account click [here](http://m
  2. Sign in using your email address and your complex password created on sign-up.
 	 *Remember, your password must be at least 6 characters, alphanumeric and contain one of the following special character (~<>!@#$%^&). Your email address must be the email address you used for your initial sign-up*. 
  3. If you have forgotten your password, a password reset link is underneath the CloudSites login. You will be prompted to enter your password, enter then click *reset my password*
+ ![img](http://i.imgur.com/l7t5oYp.png) 
+ 
  4. You will be sent a password reset link that will allow you to re-enter a new password for your account.
 
 >Resetting your Password
