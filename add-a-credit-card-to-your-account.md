@@ -6,6 +6,7 @@ Unfortunately server hardware, bandwidth, and data center space aren't free so w
 >Updating Payment Details 
 
  1. Login to your control panel and then click on Billing found on the left hand side menu.
+ 
  ![Imgur](http://i.imgur.com/wQqGCE8.png)
  
  2. You'll find a quick view of your current bill for that month and in the upper right corner the payment details button. Click on this button.
