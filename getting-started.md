@@ -3,6 +3,8 @@ Getting Started
 
 First off, welcome to GearHost! You will find many helpful links below and they are in order of the way you should be completing the tasks.  The control panel will walk you through most of this but we understand it is nice to have a referance manual to check with to make sure everything is correct.
 
+![Imgur](http://i.imgur.com/FRZuUzA.png)
+
 ##Sign up your account
 If you haven't already you'll need to first [sign up an account](https://my.gearhost.com/account/signup). This requires a valid email address and strong password.
  
@@ -12,10 +14,18 @@ The next step will be to verify your email address.  We have sent you a verifica
 > If you do not see the email please double check your SPAM folder otherwise you can resend your email from within the control panel.
 
 ##Update your billing
-You will want to enter a credit card to get full access to all of the GearHost features. To do this click on Billing then Payment Details button.
+You will want to enter a credit card to get full access to all of the GearHost features. To do this click on Billing 
+
+![Imgur](http://i.imgur.com/wQqGCE8.png)
+
+Then Payment Details button.
+
+![Imgur](http://i.imgur.com/9Wwj0Y5.png)
 
 ##Create your very first CloudSite
 Under the CloudSites menu click the Add CloudSite button. Enter a name and select the plan you which to put your CloudSite on then click Create Empty CloudSite.
+
+![Imgur](http://imgur.com/SuQh5Mc)
 
 > You have the option to create a CloudSite from the application gallery that contains several applications that can be preinstalled.
  
