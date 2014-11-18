@@ -30,5 +30,5 @@ So what happens when you add more instances? As explained above each instance is
 In the real world this means a lot more performance when you have a lot of visitors at the same time. We benchmarked a wordpress blog by flooding it with 200 requests at the same time. By adding 10 instances we were able to go from 5.9 requests/second on a single instance all the way to over 60 requests/second over 10. Of course your mileage may vary depending on the type of CloudSite you have and how it is programmed.  
 
 ***
-####Support Documentation by
-If you have any other questions that aren't covered in the documentation, feel free to e-mail <help@gearhost.com>.
+####Still need help?
+If you have any other questions that aren't covered in this documentation, feel free to e-mail <help@gearhost.com>.
