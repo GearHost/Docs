@@ -3,7 +3,7 @@ Free Database Suspension
 
 ##Table of Contents
 1. [Introduction](#introduction)
-2. [Free Database Limits](#Free)
+2. [Free Database Limits](#Free-Database-Limits)
 3. [Errors](#Errors)
 4. [How to Upgrade](#How)
 
