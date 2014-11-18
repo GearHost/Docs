@@ -23,4 +23,4 @@ If you need to change the password for your account, it is simple to do once log
  ![ice](http://i.imgur.com/Yo6oBBt.png)
  3. On the *Settings* page, you will see a blue box titled *Change Password*. Click that box and your next screen will ask you to enter the new password twice. *Keep in mind you will always need a complex password at least 6 characters, alphanumeric and contain one of the following special characters (~<>!@#$%^&)*
 
- ![baby](http://imgur.com/Yo6oBBt,PwfbSUr#1)
+ ![baby](http://i.imgur.com/PwfbSUr.png)
