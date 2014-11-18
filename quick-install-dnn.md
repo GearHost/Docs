@@ -16,29 +16,33 @@ Here we will go over the steps to perform a quick install of Dot Net Nuke for yo
 
 ##Prerequisites
  
-* [Set up account](http://my.gearhost.com/login.aspx)
-* Standard SQL Plan or higher. Instructions for creating a database can be found [here](instrctions.com) 
+* [Set up account](https://my.gearhost.com/login.aspx)
+* Standard SQL Plan or higher. Instructions for creating a database can be found [here](https://github.com/GearHost/docs/blob/master/how-to-restore-a-database.md) 
 
 ***
 ##1. Create CloudSite From Gallery
 Login to CloudSites:
  
-* Create New CloudSite
+* [Create New CloudSite](https://github.com/GearHost/docs/blob/master/create-a-cloudsite.md)
 * Select Installer
 
 #####Create New CloudSite
-You will need to create a New CloudSite for our Quick Installs. Instructions can be found [here](http://gearhostinstructions.com). Name your new CloudSite instance then select *Create CloudSite From Gallery* to install DNN using our Quick Install process.
+You will need to create a New CloudSite for our Quick Installs. Instructions can be found [here](https://github.com/GearHost/docs/blob/master/create-a-cloudsite.md). Name your new CloudSite instance then select *Create CloudSite From Gallery* to install DNN using our Quick Install process.
 
+![img 1](http://i.imgur.com/tVjg5tP.png)
 #####Select Installer
 Scroll on your left until you see the installer for DNN. Select by left clicking once, then clicking the check mark to the right of this window to continue 
+
+![img2](http://i.imgur.com/mtO0doC.png)
 ***
+
+
 
 ##2. Install DNN
 Now we will install and configure our Dot Net Nuke setup:
  
 * Launch DNN Installer
 * Configure DNN Setup
-* 
  
 #####Launch DNN Config Page
 1. Once DNN is installed you will be taken to the front page of your new CloudSite.
