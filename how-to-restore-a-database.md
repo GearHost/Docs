@@ -17,7 +17,7 @@ Octane makes it easy to upload your database with an existing backup file
  ![give](http://i.imgur.com/wSuLeXH.png)
 4. Select the type of Database (SQL, MySQL)
 
- ![you](http://i.imgur.com/FQFRiUK.png)
+ ![you](http://i.imgur.com/3ZMwty4.png)
 5. Click the 'Restore from Backup' button, and select the file for restore from your local PC
 
  ![up](http://i.imgur.com/oZvJj9U.png)
