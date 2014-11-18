@@ -5,7 +5,7 @@ Free Database Suspension
 1. [Introduction](#introduction)
 2. [Free Database Limits](#Free-Database-Limits)
 3. [Errors](#Errors)
-4. [How to Upgrade](#How)
+4. [How to Upgrade](#How-to-upgrade)
 
 ##Introduction
 If you are receiving an error indicating your website or application cannot login to your database and you have a free database, the database may be suspended. Free databases have limits and if you go over those limits the database is suspended. 
