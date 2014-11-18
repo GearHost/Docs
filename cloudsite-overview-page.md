@@ -63,6 +63,6 @@ Quick glance allows you to download your publishing file, reset it, and also set
 - FTP Host Name: The server address to access your CloudSite through FTP. 
 - Deployment / FTP User: The credentials used to access your CloudSite through FTP or deploy through various deployment tools like github.
 
-####Support Documentation by
-If you have any other questions that aren't covered in the documentation, feel free to e-mail <help@gearhost.com>.
+####Still need help?
+If you have any other questions that aren't covered in this documentation, feel free to e-mail <help@gearhost.com>.
 
