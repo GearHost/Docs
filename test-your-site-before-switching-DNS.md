@@ -10,10 +10,10 @@ To find your access domain
 1. [Sign In to your account](my.gearhost.com)
 2. Click on the CloudSite you wish to preview
  
-[img1](http://i.imgur.com/1d68nli.png)
+![img1](http://i.imgur.com/1d68nli.png)
 3. click on the launch CloudSite button in the upper right of the screen.
 
-[img2](http://i.imgur.com/iPBEwSt.png)
+![img2](http://i.imgur.com/iPBEwSt.png)
 You can visit sub folders for your site by adding them onto the end of the preview domain like any normal website folder.
 
 ##DNS bypassing using your HOSTS file
