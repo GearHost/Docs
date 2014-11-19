@@ -10,14 +10,50 @@ Anything in this list that is labeled `PHP_INI_ALL` or `PHP_INI_PERDIR` in the c
 
 Some examples of settings that are commonly changed. 
 
-    ; Example Settings    
+    ; Example Settings 
+	; Default Value: E_ALL & ~E_NOTICE
+	; Development Value: E_ALL | E_STRICT
+	; Production Value: E_ALL & ~E_DEPRECATED
+	; http://php.net/error-reporting   
     error_reporting = E_ALL & ~E_DEPRECATED
+
+	; Default Value: On
+	; Development Value: On
+	; Production Value: Off
+	; http://php.net/display-errors
     display_errors = On
+
+	; Default Value: Off
+	; Development Value: On
+	; Production Value: Off
+	; http://php.net/display-startup-errors
     display_startup_errors = On
-    upload_max_filesize = 100M
+
+	; Default Value: On
+	; Development Value: Off
+	; Production Value: Off
+	; http://php.net/register-long-arrays
+	register_long_arrays = Off
+    
+	; Maximum allowed size for uploaded files.
+	; http://php.net/upload-max-filesize
+	upload_max_filesize = 100M
+
+	; Increase the amount of time allowed for a script to execute.
 	max_execution_time = 10
+
+	; Maximum size of POST data that PHP will accept.
+	; http://php.net/post-max-size
 	post_max_size = 10m
+
+	; This sets the maximum amount of memory in bytes that a script is allowed to allocate.
 	memory_limit = 64M
+
+	; Default Value: On
+	; Development Value: Off
+	; Production Value: Off
+	; http://php.net/magic-quotes-gpc
+	magic_quotes_gpc = Off
 
 `error_reporting` controls how errors are displayed. Change this to either show no errors or show detailed errors. Most of the time this will be configured to show no errors to hide sensitive information. 
 
