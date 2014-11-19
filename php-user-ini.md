@@ -77,7 +77,7 @@ Settings that cannot be changed are also in that list. Look for anything in the 
 
 	![](http://i.imgur.com/2u48NNe.png)
  
-3. Restart your CloudSite from the control panel. This forces the server to pull the new settings and override anything configured on the server level. 
+3. [Restart your CloudSite](https://www.gearhost.com/documentation/restart-cloudsite) from the control panel. This forces the server to pull the new settings and override anything configured on the server level. 
 4. Note: You can also use the [`ini_set()`](http://php.net/manual/en/function.ini-set.php) function in your scripts to configure individual settings. A .user.ini is easier since it creates a central location, but if there is one script you need to run longer you can set the max execution time higher on that single script for example.
 5. After restarting you can verify the changes took place by creating a [php info](http://php.net/manual/en/function.phpinfo.php) file and running that from your app/site. 
 	1. Create a file named info.php.
