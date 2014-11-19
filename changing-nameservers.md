@@ -15,3 +15,12 @@ The two Name Servers for your Octane account can be found below. Making this cha
 
 - dns1.gearhost.com
 - dns2.gearhost.com
+
+#####Some guides for popular registrars
+  [Go Daddy](https://support.godaddy.com/help/article/664/setting-nameservers-for-your-domain-names)
+
+  [Enom](https://support.cloudflare.com/hc/en-us/articles/200171696-How-do-I-change-my-domain-nameservers-at-Enom-)
+
+  [Tucows](http://www.tucowsdomains.com/name-server-dns-changes/how-do-i-change-my-name-servers-dns/)
+
+  [Network Solutions](http://www.networksolutions.com/support/move-dns-to-a-new-server/)
