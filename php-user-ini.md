@@ -6,7 +6,7 @@ You can use a .user.ini file with your PHP application to configure some PHP env
 
 
 ##Per site ini settings
-Anything in this list that is labeled `PHP_INI_ALL` or `PHP_INI_PERDIR` can be changed in your user.ini. [http://php.net/manual/en/ini.list.php](http://php.net/manual/en/ini.list.php)
+Anything in this list that is labeled `PHP_INI_ALL` or `PHP_INI_PERDIR` in the changeable can be changed in your .user.ini. [http://php.net/manual/en/ini.list.php](http://php.net/manual/en/ini.list.php)
 
 Some examples of settings that are commonly changed. 
 
@@ -31,7 +31,7 @@ Settings that cannot be changed are also in that list. Look for anything in the 
 ***
 ##Create the .user.ini file and upload it
 
-1. Create a .user.ini file. Add the settings you want to change to the file using the same syntax as a php.ini. The file needs to be name `.user.ini` including the first period. 
+1. Create a .user.ini file. Add the settings you want to change to the file using the same syntax as a php.ini. The file needs to be named `.user.ini` including the first period. 
 
         ; Example Settings
     	disaplay_errors=On
