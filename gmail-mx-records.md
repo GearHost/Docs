@@ -2,14 +2,16 @@ Setting up Google Apps Gmail MX records
 ====
 
  1. Login to your account
+ 
+![login][login]
+
  2. Click Your CloudSite
-
- ![cloudsites][menu-cloudsites]
-
+ 
+![cloudsites][menu-cloudsites]
 
  3. Open the domains tab
 
- ![cloudsites][menu-cloudsites2]
+
 
 ###Select the domain to add MX records to
 
@@ -22,5 +24,6 @@ Setting up Google Apps Gmail MX records
 
 [Login Link]:https://my.gearhost.com/Account/Login
 
-[menu-cloudsites]: ./images/menu-cloudsites.png
-[menu-cloudsites2]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
+
+[menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
+[login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/login.png
