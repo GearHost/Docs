@@ -23,4 +23,4 @@ Setting up Google Apps Gmail MX records
 [Login Link]:https://my.gearhost.com/Account/Login
 
 [menu-cloudsites]: ./images/menu-cloudsites.png
-[menu-cloudsites2]: https://github.com/GearHost/docs/images/menu-cloudsites.png
+[menu-cloudsites2]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
