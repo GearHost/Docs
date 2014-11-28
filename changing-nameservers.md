@@ -13,8 +13,8 @@ If your domain name is registered elsewhere or your site has been hosted by anot
 
 The two Name Servers for your Octane account can be found below. Making this change will point your domain name to your Octane account and will make your application hosted with GearHost live!
 
-- dns1.gearhost.com
-- dns2.gearhost.com
+- ns1.gear.host
+- ns2.gear.host
 
 ####Some guides for popular registrars
   [Go Daddy](https://support.godaddy.com/help/article/664/setting-nameservers-for-your-domain-names)
