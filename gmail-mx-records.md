@@ -10,10 +10,8 @@ Setting up Google Apps Gmail MX records
 ![cloudsites][menu-cloudsites]
 
  3. Open the domains tab
- 
-![tab-domain][tab-domain]
 
-
+![domains][tab-domain]
 
 ###Select the domain to add MX records to
 
@@ -29,6 +27,6 @@ Setting up Google Apps Gmail MX records
 
 [menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
 [login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/login.png
-[tab-domain] https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-domain.png
+[tab-domain]: https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-domain.png
 
 
