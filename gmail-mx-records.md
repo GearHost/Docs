@@ -13,9 +13,15 @@ Setting up Google Apps Gmail MX records
 
 4. Select the domain to add MX records to
 
+	![select domain][select-add-domain]
+
 5. Click Add New DNS record
 
+	![add record][domains-add-record]
+
 6. Select MX
+
+	
 
 7. Click add Gmail MX Records
 
@@ -26,5 +32,7 @@ Setting up Google Apps Gmail MX records
 [menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
 [login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/login.png
 [tab-domain]: https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-domains.png
+[select-add-domain]: https://raw.githubusercontent.com/GearHost/docs/master/Images/select-add-domain.png
+[domains-add-record]: https://raw.githubusercontent.com/GearHost/docs/master/Images/domains-add-record.png
 
 
