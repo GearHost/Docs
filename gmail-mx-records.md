@@ -21,9 +21,11 @@ Setting up Google Apps Gmail MX records
 
 6. Select MX
 
-	
+	![select mx record][dns-record-mx]
 
 7. Click add Gmail MX Records
+
+	![add gmail mx records][add-gmail-mx-records]
 
 
 [Login-Link]:https://my.gearhost.com/Account/Login
@@ -34,5 +36,5 @@ Setting up Google Apps Gmail MX records
 [tab-domain]: https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-domains.png
 [select-add-domain]: https://raw.githubusercontent.com/GearHost/docs/master/Images/select-add-domain.png
 [domains-add-record]: https://raw.githubusercontent.com/GearHost/docs/master/Images/domains-add-record.png
-
-
+[dns-record-mx]: https://raw.githubusercontent.com/GearHost/docs/master/Images/dns-record-mx.png
+[add-gmail-mx-records]: https://raw.githubusercontent.com/GearHost/docs/master/Images/add-gmail-mx-records.png
