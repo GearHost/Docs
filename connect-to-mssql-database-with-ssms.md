@@ -7,8 +7,9 @@ First you will need SQL Server Management Studio, You can download Sql Server Ma
 
 [SSMS 2014](http://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
 
-There are some features of you MSSQL database that you can manage through Microsoft SQL Management Studio. This article explains how to connect to your CloudSites database using that application. You will need the details of your database in order to do this. If you do not know your Database Details, you can find out what they are by logging into your customer portal. Clicking on the databases menu option, and click the name of the database you need details for.
-
+There are some features of you MSSQL database that you can manage through Microsoft SQL Management Studio. This article explains how to connect to your CloudSites database using that application. You will need the details of your database in order to do this. If you do not know your Database Details, you can find out what they are by [logging into your customer portal][login]. Clicking on the databases menu option, and click the name of the database you need details for.
+	
+![menu databases][menu-databases]
 
 1. Open Microsoft SQL Management Studio. Choose Database Engine as the Server type.
 
@@ -23,3 +24,5 @@ There are some features of you MSSQL database that you can manage through Micros
 5. If the information has been entered correctly you will be able to connect successfully to your database.
 
 
+[menu-databases]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
+[login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/login.png
