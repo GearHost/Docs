@@ -32,7 +32,7 @@ Create or [restore] a MySql Database
 
 	![wb-creds][enter-creds]
 
-	c. Store your password in the vault
+	c. Store your password in the vault then select ok
 	
 	![vault]
 
