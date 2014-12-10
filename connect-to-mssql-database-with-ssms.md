@@ -35,7 +35,7 @@ There are some features of you MSSQL database that you can manage through Micros
 
 5. The Login will be the name of your database and the Password will be the password that is provided for you in the database details section in the control panel, under the database management module. The login dialog box in Microsoft SQL Management Studio should look something like this (with your password in the password field):
    
-	![SSMS](https://support.gearhost.com/attachments/token/lndmqjpk4tkcng6/?name=SQLMS.PNG)
+	![SSMS][mssql-db-login]
 
 6. If the information has been entered correctly you will be able to connect successfully to your database.
 
@@ -45,4 +45,5 @@ There are some features of you MSSQL database that you can manage through Micros
 [db-tab]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
 [select-db]: https://raw.githubusercontent.com/GearHost/docs/master/Images/select-db.png
 [show-hide]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-showhidepassword.png
-[db-details]: https://raw.githubusercontent.com/GearHost/docs/master/Images/db-server.png
+[db-details]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-db-server.png
+[mssql-db-login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-db-login.png
