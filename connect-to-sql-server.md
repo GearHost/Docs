@@ -1,9 +1,11 @@
 Connecting to your SQL Server Database
 ====
 
-First you will need SQL Server Management Studio which is free. You can download Sql Server Management Studio using the following link from Microsoft:
+First you will need to install SQL Server Management Studio 2014 which is free. You can download Sql Server Management Studio using the following link from Microsoft:
 
 [SQL Server Management Studio 2014](http://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
+
+> Note that GearHost uses SQL 2014 and older versions of SQL Server Management Studio are not supported.
 
 Once you download and install SQL Server Management Studio you can connect using your database credentials. To get your database credentials please follow these steps:
 
@@ -12,39 +14,20 @@ Once you download and install SQL Server Management Studio you can connect using
 3. Locate the database you want to connect to and select it to go to Database Details
 4. Locate the username that is the same name as your database. This is your primary database user that we create for you by default.
 5. Toggle the show/hide password "eye" icon to the right of the username to show the password.
+6. At the bottom of the page take note of the SQL Server Name which you will use. It's format is *sqlx.gear.host*.
 
-> TIP: Please note that ONLY your primary username can connect to the SQL Server database using Microsoft SQL Server Management Studio. While additional users have access to your database in your code they do not have access using SQL Server Management Studio.
+> Note that ONLY your primary username can connect to the SQL Server database using Microsoft SQL Server Management Studio. While additional users have access to your database in your code they do not have access via SSMS.
 
+1. Launch Microsoft SQL Server Management Studio 2014
+2. The Server type should be *Database Engine*
+3. Server name should be *sqlx.gear.host* (refer to your steps above to the correct SQL Server)
+4. Authentication is *SQL Server Authentication*
+5. Login is your primary database username, the same name as your database name
+6. Your password is the password as revield above using the show/hide password toggle icon.
 
-There are some features of you MSSQL database that you can manage through Microsoft SQL Management Studio. This article explains how to connect to your CloudSites database using that application. You will need the details of your database in order to do this. If you do not know your Database Details, you can find out what they are by [logging into your customer portal][login-link]. Clicking on the databases menu option, and click the name of the database you need details for.
-	
-1. Get your credentials
-	
-	a. Select your database tab
-	
-	b. Select the database
+For example your connection should look like this:
 
-    ![selectdb][select-db]
-
-	c. Select Show/Hide Password to seee your password
-	
-	![showhide][show-hide]
-	
-	d. Note your username and password under the database users, and database server under the database details
-	
-	![dbdetails][db-details]
-
-2. Open Microsoft SQL Management Studio. Choose Database Engine as the Server type.
-
-3. The Server name will be sql01.gear.host
-
-4. Authentication will be SQL Server Authentication.
-
-5. The Login will be the name of your database and the Password will be the password that is provided for you in the database details section in the control panel, under the database management module. The login dialog box in Microsoft SQL Management Studio should look something like this (with your password in the password field):
-   
-	![SSMS][mssql-db-login]
-
-6. If the information has been entered correctly you will be able to connect successfully to your database.
+![SSMS][mssql-db-login]
 
 
 [menu-databases]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
