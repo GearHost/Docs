@@ -1,4 +1,4 @@
-Connecting to your SQL Server Database
+Connecting to a SQL Database using SQL Server Management Studio
 ====
 
 First you will need to install SQL Server Management Studio 2014 which is free. You can download Sql Server Management Studio using the following link from Microsoft:
