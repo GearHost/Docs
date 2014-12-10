@@ -3,8 +3,6 @@ Connect To Microssoft SQL Server Management Studio 2014 (SSMS)
 
 First you will need SQL Server Management Studio, You can download Sql Server Management Studio
 
-[SSMS 2012](http://www.microsoft.com/betaexperience/pd/SQL2012EvalCTA/enus/default.aspx)
-
 [SSMS 2014](http://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
 
 There are some features of you MSSQL database that you can manage through Microsoft SQL Management Studio. This article explains how to connect to your CloudSites database using that application. You will need the details of your database in order to do this. If you do not know your Database Details, you can find out what they are by [logging into your customer portal][login-link]. Clicking on the databases menu option, and click the name of the database you need details for.
