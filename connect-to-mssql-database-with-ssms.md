@@ -41,7 +41,7 @@ There are some features of you MSSQL database that you can manage through Micros
 [menu-databases]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
 [Login-Link]:https://my.gearhost.com/Account/Login
 [db-tab]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
-[select-db]: https://raw.githubusercontent.com/GearHost/docs/master/Images/select-db.png
+[select-db]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-select-db.png
 [show-hide]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-database-showhidepassword.png
 [db-details]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-db-server.png
 [mssql-db-login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-db-login.png
