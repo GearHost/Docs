@@ -27,7 +27,7 @@ There are some features of you MSSQL database that you can manage through Micros
 
 2. Open Microsoft SQL Management Studio. Choose Database Engine as the Server type.
 
-3. The Server name will be sql01.gear.host
+3. The Server name will be sql1.gear.host
 
 4. Authentication will be SQL Server Authentication.
 
