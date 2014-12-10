@@ -1,14 +1,17 @@
-Connecting to a SQL Database using SQL Server Management Studio
-====
+#Connecting to a SQL database using SQL Server Management Studio 2014
 
-First you will need to install SQL Server Management Studio 2014 which is free. You can download Sql Server Management Studio using the following link from Microsoft:
+This article covers two steps needed to connect to your SQL database with GearHost. The steps are:
 
-[SQL Server Management Studio 2014](http://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
+1. Install SQL Server Management Studio 2014 (SSMS)
+2. Gather your SQL Server database credentials
+3. Connect to your SQL Server Database using SSMS
+
+##Install SQL Server Management Studio 2014 (SSMS)
+1. Download and install [SQL Server Management Studio 2014](http://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
 
 > Note that GearHost uses SQL 2014 and older versions of SQL Server Management Studio are not supported.
 
-Once you download and install SQL Server Management Studio you can connect using your database credentials. To get your database credentials please follow these steps:
-
+##Gather your SQL Server database credentials
 1. [Log in to GearHost](https://my.gearhost.com/account/login)
 2. Click on the Databases menu
 3. Locate the database you want to connect to and select it to go to Database Details
