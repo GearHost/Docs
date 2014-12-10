@@ -7,7 +7,13 @@ First you will need SQL Server Management Studio which is free. You can download
 
 Once you download and install SQL Server Management Studio you can connect using your database credentials. To get your database credentials please follow these steps:
 
-1. Login
+1. [Log in to GearHost](https://my.gearhost.com/account/login)
+2. Click on the Databases menu
+3. Locate the database you want to connect to and select it to go to Database Details
+4. Locate the username that is the same name as your database. This is your primary database user that we create for you by default.
+5. Toggle the show/hide password "eye" icon to the right of the username to show the password.
+
+> test
 
 
 There are some features of you MSSQL database that you can manage through Microsoft SQL Management Studio. This article explains how to connect to your CloudSites database using that application. You will need the details of your database in order to do this. If you do not know your Database Details, you can find out what they are by [logging into your customer portal][login-link]. Clicking on the databases menu option, and click the name of the database you need details for.
