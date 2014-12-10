@@ -1,6 +1,6 @@
 #Connecting to a SQL database using SQL Server Management Studio 2014
 
-This article covers two steps needed to connect to your SQL database with GearHost. The steps are:
+This article covers 3 steps needed to connect to your SQL database with GearHost. The steps are:
 
 1. Install SQL Server Management Studio 2014 (SSMS)
 2. Gather your SQL Server database credentials
@@ -30,7 +30,7 @@ This article covers two steps needed to connect to your SQL database with GearHo
 6. Your password is the password as revield above using the show/hide password toggle icon.
 7. Click Connect
 
-For example your connection should look like this:
+For example your connection window should look like this:
 
 ![SSMS][mssql-db-login]
 
