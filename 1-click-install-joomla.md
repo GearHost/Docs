@@ -4,8 +4,7 @@ Installing Joomla! - 1 Click
 
 This will aid in walking you through the 1-click installation process for Joomla!.
 
- 1. Login to your CloudSites control panel by going to
-    (https://my.gearhost.com). 
+ 1. [Login to your CloudSites control panel][gearhost] 
  2.  Add a CloudSite
  3. Choose your plan then select *Create CloudSite From Gallery*
  4. Name your CloudSite
@@ -17,4 +16,4 @@ This will aid in walking you through the 1-click installation process for Joomla
 ![Imgur](http://i.imgur.com/k936co1.jpg)
  8. To access your Joomla Dashboard you will navigate to *"yoursite".gearhostcloud.com/administrator* and logging in with the credentials created in step 6. Or you can click "Launch CloudSite to be taken to your admin page.
  ![Imgur](http://i.imgur.com/Ln3e7Qu.jpg)
- 
+ [gearhost]: https://my.gearhost.com 
