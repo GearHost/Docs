@@ -1,7 +1,7 @@
 Add a credit card to your account
 ==================
 
-Unfortunately server hardware, bandwidth, and data center space aren't free so we can't give away the CloudSites platform. When you've reached the restrictions placed on the free account you'll need to update your billing details and one of those methods is adding a credit card. 
+Adding a credit card to your account will allow you to upgrade your service. This will give you more connections to your sites, allow you to increase space, and to add memory. Once your site has passed its development stage we recommend testing it on a shared node, while still monitoring to make sure the site does not use too many resources.
 
 >Updating Payment Details 
 
