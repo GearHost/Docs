@@ -3,7 +3,7 @@ How can you test your site before switching DNS
 ***
 
 ##Preview URL Method
-We provide you with an access domain name for every application in your control panel.  This access name is composed by your application name and gearhostcloud.com (example: myapplication.gearhostcloud.com) 
+We provide you with an access domain name for every application in your control panel.  This access name is composed by your application name and gear.host (example: myapplication.gear.host) 
 
 To find your access domain 
 
