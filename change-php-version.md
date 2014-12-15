@@ -1,11 +1,10 @@
-Change PHP to a different version
+How to change PHP versions
 ==================
 
 ***
 ##1. Change the version of PHP your application runs under
  
-#####Login to the control panel
-Login to the control panel at [https://my.gearhost.com](https://my.gearhost.com)
+[Login to the control panel][gearhost]
 
 ![](http://i.imgur.com/4QxNJ0m.png)
 
@@ -31,5 +30,6 @@ Now you can click on the version of PHP you wish to use. GearHost supports PHP 5
 After you select the version of PHP make sure to click Save Configuration at the bottom of the page. After the changes are saved the CloudSite will recycle and the new version of PHP will be used. 
 
 ***
-####Support Documentation by
-If you have any other questions that aren't covered in the documentation, feel free to e-mail <support@gearhost.com> or add a new post on the [forum](http://forum.gearhost.com/ "visit the forum").
+
+
+[gearhost]: https://my.gearhost.com
