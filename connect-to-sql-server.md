@@ -17,14 +17,14 @@ This article covers 3 steps needed to connect to your SQL database with GearHost
 3. Locate the database you want to connect to and select it to go to Database Details
 4. Locate the username that is the same name as your database. This is your primary database user that we create for you by default.
 5. Toggle the show/hide password "eye" icon to the right of the username to show the password.
-6. At the bottom of the page take note of the SQL Server Name which you will use. It's format is *sqlx.gear.host*.
+6. At the bottom of the page take note of the SQL Server Name which you will use. It's format is *mssqlx.gear.host*.
 
 > Note that ONLY your primary username can connect to the SQL Server database using Microsoft SQL Server Management Studio. While additional users have access to your database in your code they do not have access via SSMS.
 
 ##Connect to your SQL Server Database using SSMS
 1. Launch Microsoft SQL Server Management Studio 2014
 2. The Server type should be *Database Engine*
-3. Server name should be *sqlx.gear.host* (refer to your steps above to the correct SQL Server name)
+3. Server name should be *mssqlx.gear.host* (refer to your steps above to the correct SQL Server name)
 4. Authentication is *SQL Server Authentication*
 5. Login is your primary database username, the same name as your database name
 6. Your password is the password as revield above using the show/hide password toggle icon.
