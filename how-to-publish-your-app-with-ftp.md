@@ -22,11 +22,12 @@ Below we'll walk through setting up deployment credentials and using those in an
 
  1. Open FileZilla and in the quick connect bar enter the server, user name, and password. Remember you can find the information on the Overview page of your CloudSite in your control panel.
  
- ![enter image description here](http://i.imgur.com/jpBnhEq.png)
+ ![enter image description here](filezilla-quickconnect)
  
  2. Click Quickconnect and you will be connected to the FTP server. 
  
  3. Now you will be able to upload your application or website content. Your content should be uploaded to /site/wwwroot.
 
 [quick-glance]: https://raw.githubusercontent.com/GearHost/docs/master/Images/quick-glance.png
+[filezilla-quickconnect]: https://raw.githubusercontent.com/GearHost/docs/master/Images/filezilla-quickconnect.png
  
