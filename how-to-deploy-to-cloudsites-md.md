@@ -14,7 +14,7 @@ Thank you for choosing to use Octane you can use this document as a guide in set
 
   ![Imgur](http://i.imgur.com/4ULmgAg.png)
 
- 4. You can now connect to FTP Host name::ftp.gearhostcloud.com with the user name and password you just created.
+ 4. You can now connect to FTP Host name::ftp.gear.host with the user name and password you just created.
 
  5. Once your site files are uploaded to your CloudSite you can then launch your site.
 
