@@ -12,14 +12,14 @@ The Cloudsite Overview page provides general information regarding your CloudSit
 
 
 
-1. To access the Overview page login to your control panel and then click on CloudSites from the left hand menu. 
+1. To access the Overview page [log in][login] to your control panel and then click on CloudSites from the left hand menu. 
 
-    ![](http://i.imgur.com/kLKn46G.png)
+    ![cloudsites][menu-cloudsites]
 
 2. Now click on the CloudSite you wish to view the overview page for.
 3. After choosing your CloudSite the first page you will see is Overview.
 
-    ![](http://i.imgur.com/tFxGdsP.png)
+    ![overview][tab-overview]
 
 ***
 ##Dashboard  
@@ -66,3 +66,9 @@ Quick glance allows you to download your publishing file, reset it, and also set
 ####Still need help?
 If you have any other questions that aren't covered in this documentation, feel free to e-mail <help@gearhost.com>.
 
+
+[Login-Link]:https://my.gearhost.com/Account/Login
+
+[menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
+[login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/login.png
+[tab-overview]: https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-overview.png
