@@ -2,6 +2,8 @@
 
 Thank you for choosing to use Octane you can use this document as a guide to configure your Secure Socket Layer (SSL)
 
+>Please note that you must have your certificate in a *.pfx* file format for the certificate to be imported and attached to your account.
+
 1. Select Cloudsites from the menu
     
     ![cloudsite][menu-cloudsites]
