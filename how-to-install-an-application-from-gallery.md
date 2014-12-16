@@ -17,11 +17,11 @@ Our one click installs allow you to easily create license free, industry standar
 
 >To use the Gallery
  
-1. Login to your account
+1. [Log in][login-link] to your account
  
 2. Select 'CloudSites' from the left hand menu, and add a new CloudSite
 
-  ![Add a CloudSite](http://i.imgur.com/pWwPKKT.png)
+     ![Add a CloudSite][menu-cloudsite]
  
 3. Give your site a name
  
@@ -29,12 +29,20 @@ Our one click installs allow you to easily create license free, industry standar
  
 5. Click the 'Create CloudSite From Gallery' button
  
-  ![Select Your App](http://i.imgur.com/rYkk1iF.png)
+     ![select plan][cloudsite from gallery]
  
 6. Select the application you want to install
+
+     ![Select Your App](http://i.imgur.com/rYkk1iF.png)
  
 7. Fill out any information required by the application, like the database configuration
  
 8. Once the site is built, you will be taken to the configuration page for the new site
  
 9. Click 'Launch CloudSite'
+
+
+[Login-Link]:https://my.gearhost.com/Account/Login
+[cloudsite from gallery]: https://raw.githubusercontent.com/GearHost/docs/master/Images/create-cloudsite-from-gallery.png
+[menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
+
