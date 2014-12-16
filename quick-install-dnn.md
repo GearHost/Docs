@@ -62,17 +62,8 @@ Now we will install and configure our Dot Net Nuke setup:
 
 ***
 ##Conclusion
-After the installation you will be given the option to view your site and from here you can login to the DNN dashboard with the credentials you created earlier. You can access your admin dashboard anytime by visiting *yoursite*.gearhostcloud.com/admin 
+After the installation you will be given the option to view your site and from here you can login to the DNN dashboard with the credentials you created earlier. You can access your admin dashboard anytime by visiting *yoursite*.gear.host/admin 
 ***
-##Supported Browsers 
-This control panel feature works well (-) or great (X) in the following browsers:
- 
-**IE 6-8** -  
-**IE 9+** X  
-**Chrome** X  
-**Firefox** X  
-**Safari** X  
-**Opera** X
-***
+
 
 
