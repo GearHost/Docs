@@ -1,4 +1,4 @@
-#How to publish your app with FTP
+#How to publish your application with FTP
 
 Below we'll walk through setting up deployment credentials and using those in an FTP client to publish your application to your account. The steps are:
 
