@@ -15,4 +15,4 @@ You may find yourself needing to install a previous or newer version of WordPres
  8. Create a MySQL database. Remember those credentials because you will need to connect your WP install to the newly created database. Instructions for creating a database can be found [here](https://my.gearhost.com)
  9. Navigate to your WordPress install page by going to *"yoursite".gear.host/wp-install*
  10. Follow the step by step to connect your database and create log in credentials for your WordPress admin page.
- 11. You are now finished with your install and can access your WordPress Dashboard anytime by logging in to *"yoursite".gearhostcloud.com/wp-admin*
+ 11. You are now finished with your install and can access your WordPress Dashboard anytime by logging in to *"yoursite".gear.host/wp-admin*
