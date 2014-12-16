@@ -3,7 +3,8 @@
 Thank you for choosing to use Octane you can use this document as a guide to configure your Secure Socket Layer (SSL)
 
 1. Select Cloudsites from the menu
-    ![cloudsite][menu-cloudsite]
+    
+    ![cloudsite][menu-cloudsites]
  
 2. Select the site you would like to add an SSL to
 
