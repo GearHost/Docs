@@ -1,7 +1,5 @@
+#Create and Deploy a Site from the WebSite Gallery
 
-
-Create and Deploy a Site from the WebSite Gallery
--------------------------------------------------
 
 Octane makes it easy to configure a new site using existing templates from the Microsoft Gallery
 
@@ -15,13 +13,13 @@ Our one click installs allow you to easily create license free, industry standar
  - OpenCart (shopping cart solution)
  - Many more
 
->To use the Gallery
+##To use the Gallery
  
 1. [Log in][login-link] to your account
  
 2. Select 'CloudSites' from the left hand menu, and add a new CloudSite
 
-     ![Add a CloudSite][menu-cloudsite]
+     ![Add a CloudSite][menu-cloudsites]
  
 3. Give your site a name
  
