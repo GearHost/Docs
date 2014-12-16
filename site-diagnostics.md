@@ -28,7 +28,7 @@ Site Diagnostics can be used to enable web site logging, view detailed errors, a
 
  1. Open FileZilla and in the quick connect bar enter the server, user name, and password. Remember you can find the information on the Overview page of your CloudSite in your control panel.
  
- ![enter image description here](http://i.imgur.com/jpBnhEq.png)
+ ![filezilla quickconnect][filezilla-quickconnect]
  
  2. Click Quickconnect and you will be connected to the FTP server. 
  
@@ -45,7 +45,7 @@ Site Diagnostics can be used to enable web site logging, view detailed errors, a
  - http: These are the raw log files produced by IIS for every request coming to your site or application by enabling the Web Server Logging option under Site Diagnostics. 
  - W3SVC*****: This directory contains the failed request tracing log files if you have that option turned on in site diagnostics. 
 
-####Support Documentation by
-If you have any other questions that aren't covered in the documentation, feel free to e-mail <help@gearhost.com>.
+
 
  
+[filezilla-quickconnect]: https://raw.githubusercontent.com/GearHost/docs/master/Images/filezilla-quickconnect.png
