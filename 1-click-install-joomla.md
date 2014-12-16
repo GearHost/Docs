@@ -14,6 +14,6 @@ This will aid in walking you through the 1-click installation process for Joomla
 ![Imgur](http://i.imgur.com/sqnr26w.jpg)
  7. Enter your *Database Settings* on the next screen. These are the credentials for your Joomla database that will be created by the 1-click install. Click the check mark in the bottom of your screen and in moments your Joomla! site will be created.
 ![Imgur](http://i.imgur.com/k936co1.jpg)
- 8. To access your Joomla Dashboard you will navigate to *"yoursite".gearhostcloud.com/administrator* and logging in with the credentials created in step 6. Or you can click "Launch CloudSite to be taken to your admin page.
+ 8. To access your Joomla Dashboard you will navigate to *"yoursite".gear.host/administrator* and logging in with the credentials created in step 6. Or you can click "Launch CloudSite to be taken to your admin page.
  ![Imgur](http://i.imgur.com/Ln3e7Qu.jpg)
  [gearhost]: https://my.gearhost.com 
