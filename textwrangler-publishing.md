@@ -11,7 +11,7 @@ Below we'll walk through setting up deployment credentials and using them to pub
  
  3. Type in a user name and password you would like to use and click change password. *It's important to note that your deployment credentials are used for all your CloudSites. When you set or change them on one CloudSite it will change the password for your other CloudSites. Each CloudSite will have a different user name though.* 
  
- 4. Now that you have your credentials you can enter them into an FTP client like [FileZilla](https://filezilla-project.org/download.php?type=client). You can find the server address on the same page in the control panel as where you configured your deployment credentials, ftp.gearhostcloud.com. Your user name is also there. *Note that the user name includes your CloudSite name. In the example below "example1" is the name of my CloudSite, "ftpuser1" is the user I created for deployment. Each CloudSite will ...(line truncated)...
+ 4. Now that you have your credentials you can enter them into an FTP client like [FileZilla](https://filezilla-project.org/download.php?type=client). You can find the server address on the same page in the control panel as where you configured your deployment credentials, ftp.gear.host. Your user name is also there. *Note that the user name includes your CloudSite name. In the example below "example1" is the name of my CloudSite, "ftpuser1" is the user I created for deployment. Each CloudSite will ...(line truncated)...
  
  ![enter image description here](http://i.imgur.com/G4ifdqG.png)
 
