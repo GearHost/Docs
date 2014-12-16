@@ -6,12 +6,12 @@ Your CloudSite blew up and your getting thousands of requests? That's great, we 
 
 ***
 ##Login to the control panel and scale
-1. The first thing you will need to do is login to the control panel of course. [https://my.gearhost.com](https://my.gearhost.com)
+1. The first thing you will need to do is [log in][login-link] to the control panel of course. 
 2. After logging in click on CloudSites on the left hand menu. 
 3. Now choose the CloudSite you need to scale.
 4. Then click on scale. 
 
-    ![](http://i.imgur.com/FI4hzLg.png)
+    ![scale][tab-scale]
  
 5. After you click on scale you will be able to choose a plan to scale too. Click on reserved and then slide the scale below for how many instances you want then click on update plan. 
 6. After the plan is updated your CloudSite will quickly recycle and then scale out to as many instances as you requested. 
@@ -32,3 +32,6 @@ In the real world this means a lot more performance when you have a lot of visit
 ***
 ####Still need help?
 If you have any other questions that aren't covered in this documentation, feel free to e-mail <help@gearhost.com>.
+
+[Login-Link]:https://my.gearhost.com/Account/Login
+[tab-scale]: https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-scale.png
