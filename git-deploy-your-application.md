@@ -24,7 +24,7 @@ You must have an account set up and you must have a cloudsite added to the accou
 ***
 ##1. Installing and Configuring Git
 
-	>You do not need to do this step if you already have Git installed on your local computer*
+>You do not need to do this step if you already have Git installed on your local computer*
 
  
 * [download Git][git-download]
@@ -71,9 +71,9 @@ git commit -m "initial commit"
 
 At the command prompt, change to the root directory for your app, and then type this command:
 
-	>NOTE: This link will be provided under your git tab already construsted however you need to change https:// to http:// and you will need to remove :443 from the middle of the link provided in the control panel
+>NOTE: This link will be provided under your git tab already construsted however you need to change https:// to http:// and you will need to remove :443 from the middle of the link provided in the control panel
 
-	>You will need to replace the deploymentuser and cloudsitename in the URL below with your information
+>You will need to replace the deploymentuser and cloudsitename in the URL below with your information
 
 ``` 
 git remote add websites http://deploymentuser@cloudsitename.scm.gear.host/cloudsitename.git
