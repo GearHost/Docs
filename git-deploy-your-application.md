@@ -7,84 +7,88 @@ Git Deploying Your Application
 3. [Installing and Configuring Git](#user-content-1-Installing-and-Configuring-Git)
 4. [Initialize a Git repository for your application](#user-content-2-Initialize-a-Git-repository-for-your-application)
 5. [Deploy Application to CloudSite](#user-content-3-Deploy-Application-to-cloudsite)
-6. [Additionsl Resources](#user-additional-resources)
-7. [Supported Platforms](#user-content-supported-platforms)
 
 ***
 
 ##Introduction
-The content in this article covers deploying an application or website from a Git repository.  We also support online Git repositories like [GitHub](http://github.com) and [BitBucket](http://bitbucket.com) it your team is using a cloud based deployment solution.
+The content in this article covers deploying an application or website from a Git repository.  We also support online Git repositories like [GitHub][git-download] and [BitBucket][bitbucket-link] if your team is using a cloud based deployment solution.
 
 
 ##Prerequisites
-You must have an account set up and your email verification complete to use the cloudsite application install gallery:
+You must have an account set up and you must have a cloudsite added to the account if you need assistance with these items you can reference the following articles:
  
-* [Set up account](http://my.gearhost.com/login.aspx)
+* [Set Up Account][login-link]
+* [Create First Cloudsite][create-cloudsite]
+
 
 ***
 ##1. Installing and Configuring Git
-*You do not need to do this step if you already have Git installed on your local computer*
+
+	>You do not need to do this step if you already have Git installed on your local computer*
 
  
-* [download Git](http://git-scm.com/download/)
+* [download Git][git-download]
 * Install Git
-* Configure Git
+* Setting up Git
  
-#####Download Git
-You will need to download Git from the main download site [here](http://wordpress.org)
-#####Connect via FTP
-Use the FTP client you downloaded in the prerequisites to connect to your account.
-#####Upload Wordpress to site
-Make sure the files go into your wwwroot folder. 
-***
+###Download Git
+You will need to download Git from the main download site [here][git-download]
+
+###Install Git
+Before you start using Git, you have to make it available on your computer. Even if it’s already installed, it’s probably a good idea to update to the latest version. You can either install it as a package or via another installer. 
+
+Git is supported on many platforms and each platform will have it's own unique way to install git.
+
+  
+- [Install Git on Windows][windows-git]
+- [Install Git on Mac][mac-git]
+- [Install Git on Linux][linux-git]
+
+##Setting up Git
+ 
+- On your computer, open the Git Shell application.
+- Tell Git your name so your commits will be properly labeled. Type everything after the $ here:
+
+```
+$git config --global user.name "YOUR NAME"
+```
+
+- Tell Git the email address that will be associated with your Git commits. The email you specify should be one that you can access as it will be public to all your git consumers.
+
+```
+$git config --global user.email "YOUR EMAIL ADDRESS"
+```
 
 ##2. Initialize a Git repository for your application
-This will be where you give a brief overview of step two (accessing wordpress admin):
- 
-* Commit your local files
-* upload new wp-config.php
-* connect to wp-admin
- 
-#####Update wp-config.php
-1. On your local computer open the file wp-sample-config.php from the documents you downloaded.
-2. update your connection string information from the database section of your cloudsite account.
-3. save as wp-config.php (removing the sample from the filename)
 
-#####upload new wp-config.php
-after saving with the new filename connect with FTP and upload the new wp-config.php
+At the command prompt, change to the root directory for your app, and then type this command:
 
-#####connect to wp-admin
-Browse to your-domain.com/wp-admin to connect for the first time.
-***
+```
+git init
+git add .
+git commit -m "initial commit"
+```
 
-##3. Deploy Application to your CloudSite
-The content slider in the theme runs off of slider.js, and there are a couple of values that can be changed to alter the look and feel of the slider.
+At the command prompt, change to the root directory for your app, and then type this command:
 
-#####Changing Values
-In slider.js, you can alter these values:
- 
-<code>auto: true</code>  
-*Boolean: Animate automatically, true or false*  
- 
-<code>speed: 1000</code>  
-*Integer: Speed of the transition, in milliseconds*
- 
- 
-<code>pager: true</code>  
-*Boolean: Show pager, true or false*  
- 
-<code>nav: false</code>  
-*Boolean: Show navigation, true or false*  
-***
-##Additional Resources
-This would be a place to finalize any information you have provided.  Add any tips and tricks to this section as well.
-***
-##Supported Platforms 
-Git Deploy is available for the following operating systems:
- 
-**Windows**   
-**Linux**  
-**Mac** 
+	>NOTE: This link will be provided under your git tab already construsted however you need to change https:// to http:// and you will need to remove :443 from the middle of the link provided in the control panel
+
+	>You will need to replace the deploymentuser and cloudsitename in the URL below with your information
+
+``` 
+git remote add websites http://deploymentuser@cloudsitename.scm.gear.host/cloudsitename.git
+git push websites master
+```
 
 
 
+[login-link]: https://my.gearhost.com/account/signup
+[git-download]: http://git-scm.com/download/
+[bitbucket-link]: http://bitbucket.com
+[create-cloudsite]: https://www.gearhost.com/documentation/create-a-cloudsite
+[linux-git]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Linux
+[mac-git]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac
+[windows-git]: http://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Windows
+
+
+ 
