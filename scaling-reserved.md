@@ -33,6 +33,8 @@ In the real world this means a lot more performance when you have a lot of visit
 
 ####Designed for higher traffic sites
 
+Instances disperse your site across multiple servers allowing for traffic to be directed to lower volume servers which will let your users load your site faster.
+
 Our instances allow for sites that demand more resources to spread out their requests to multiple server clusters to allow them to function quicker. Each instance is a clustered cloud server that will serve your cloudSites applications.
 
 If you are experiencing slow load times we highly recommend increasing the number of instances on your site.
