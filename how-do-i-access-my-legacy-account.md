@@ -23,8 +23,9 @@ We have been offering hosting to our customers for over 15 years and have had a 
  
 
 ***
-Looking to access your older account with us? Well, here's a few links on where to go to find your account. Thank you for checking out our new cloudsites platform!
-##v2 or v3 account
+>Looking to access your older account with us? Well, here's a few links on where to go to find your account. Thank you for checking out our new cloudsites platform!
+
+###v2 or v3 account
 
 1. Log in to [The customer portal][customer-portal-login] with your email address and password.
 
@@ -40,7 +41,7 @@ Looking to access your older account with us? Well, here's a few links on where 
 
 	![launch mtcloud][launch-mycloud]
 
-## Log in  links for each legacy platform
+## Log in links for each legacy platform
 You will need your account ID and password for your v2 account. Your log in for your v3 portal is your email and password.
 
 [v2 Portal][v2-login-link]
