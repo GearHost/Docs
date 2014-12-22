@@ -2,8 +2,8 @@
 
 This article will cover determining what GearHost hosting platform you are currently on as well as providing links to log in to the determined platform.
 
-1. [Determine what platform you are hosting from](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-install-sql-server-management-studio-2014-ssms)
-2. [Log in links for each legacy platform](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-gather-your-sql-server-database-credentials)
+1. [Determine what platform you are hosting from](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account#user-content-determine-what-platform-you-are-hosting-from)
+2. [Log in links for each legacy platform](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account#user-content-log-in-links-for-each-legacy-platform)
 
 #Determine what platform you are hosting from
 
@@ -40,15 +40,16 @@ Looking to access your older account with us? Well, here's a few links on where 
 
 	![launch mtcloud][launch-mycloud]
 
-## You can also use these direct links to access the portals
+## Log in  links for each legacy platform
 You will need your account ID and password for your v2 account. Your log in for your v3 portal is your email and password.
 
 [v2 Portal][v2-login-link]
 
 [v3 Portal][v3-login-link]
 
-##Gearpanel
-### Log in [here][gearpanel-login-link]
+[Gearpanel][gearpanel-login-link]
+
+[Legacy Billing][customer-portal-login]
 
 
 [customer-portal-login]: https://customer.gearhost.com
