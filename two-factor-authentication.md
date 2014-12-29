@@ -40,3 +40,5 @@ In order to enable your phone to serve as the second factor, you will have to do
 11. If your phone is ever lost or stolen, Google provides several ways to get back to your account
 
    [Common Issues with 2-Step Verification](http://support.google.com/accounts/answer/185834?hl=en#phone)
+
+[2factor]: https://raw.githubusercontent.com/GearHost/docs/master/Images/2factorauth.png
