@@ -5,8 +5,12 @@ If you are having generic errors and can't figure out what the issue with your c
 ***
 
 ```<configuration>
-  <system.webServer>
-    <asp scriptErrorSentToBrowser="true" />
-  </system.webServer>
-</configuration>```
+<system.webServer>
+    <httpErrors errorMode="Detailed" />
+    <asp scriptErrorSentToBrowser="true"/>
+</system.webServer>
+<system.web>
+    <customErrors mode="Off"/>
+    <compilation debug="true"/>
+</system.web>```
 ***
