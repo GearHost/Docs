@@ -45,7 +45,7 @@ This article covers three steps needed to publish your website to Octane with We
 When publishing your site from WebMatrix 3 you will receive a dialog showing you the changed files in your local project vs what is on the server.  There will be an option to delete all files on the server that are not in your local development project.  
 
  
-    ![publish preview][webmatrix-publish-preview]
+   ![publish preview][webmatrix-publish-preview]
 
  - Visit test URL provided for your site
  
