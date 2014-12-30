@@ -33,7 +33,7 @@ This article covers 2 steps needed to publish your website to Octane with WebMat
 
 	![validate connection][webmatrix-validate-connection]
 
- >You can skip the test publish compa Test publish compatibility
+ >You can skip the test publish compatibility test publish compatibility if you wish, the server is compatible with both static, Visual Basic, and .NET code.
 
  - publish preview
  
