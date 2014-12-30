@@ -5,6 +5,7 @@ This article covers three steps needed to publish your website to Octane with We
 1. [Download Your Publishing File](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-download-your-publishing-file)
 2. [Import Publishing File Into WebMatrix 3](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-import-publish-file-into-webmatrix-3)
 3. [Publish Your Site](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-publish-your-site)
+4. [Set up your Database](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-set-up-your-database)
 
 ###Download your publishing file
 
@@ -43,13 +44,14 @@ This article covers three steps needed to publish your website to Octane with We
 
 When publishing your site from WebMatrix 3 you will receive a dialog showing you the changed files in your local project vs what is on the server.  There will be an option to delete all files on the server that are not in your local development project.  
 
-
  
-   ![publish preview][webmatrix-publish-preview]
+    ![publish preview][webmatrix-publish-preview]
 
  - Visit test URL provided for your site
  
  >This test URL should be in the format of **http://cloudsitename.geat.host** where you replace cloudsitename with the name of your CloudSIte
+
+###Set Up Your Database
 
 If you need to set up a connection to your database for management please follow the instructions in the articles below based on your database type.
    
