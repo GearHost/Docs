@@ -19,11 +19,12 @@ This article covers two steps needed to publish your website to Octane with WebM
 
 ###Import Publish File into WebMatrix 3
 
- - Remote file menu
+ - Click on the Remote file menu
+ - Click publish
 
 	![webmatrix 3 menu][menu-webmatrix]
 
- - Click publish
+
  
  - Import publish profile
  
@@ -33,7 +34,7 @@ This article covers two steps needed to publish your website to Octane with WebM
 
 	![validate connection][webmatrix-validate-connection]
 
- >You can skip the test publish compatibility test publish compatibility if you wish, the server is compatible with both static, Visual Basic, and .NET code.
+ >You can skip the test publish compatibility if you wish, the server is compatible with all static, Visual Basic, and .NET code.
 
  - publish preview
  
