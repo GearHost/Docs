@@ -1,9 +1,9 @@
 #Publishing Your Site via WebMatrix 3
 
-This article covers 2 steps needed to publish your website to Octane with WebMatrix 3. The steps are:
+This article covers two steps needed to publish your website to Octane with WebMatrix 3. The steps are:
 
-1. [Download Your Publishing File](https://www.gearhost.com/documentation/publish-via-webpatrix#user-content-download-your-publishing-file)
-2. [Import Publishing File Into WebMatrix 3](https://www.gearhost.com/documentation/publish-via-webpatrix#user-content-import-publish-file-into-webmatrix-3)
+1. [Download Your Publishing File](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-download-your-publishing-file)
+2. [Import Publishing File Into WebMatrix 3](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-import-publish-file-into-webmatrix-3)
 
 ###Download your publishing file
 
