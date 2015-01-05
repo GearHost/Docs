@@ -53,6 +53,8 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 
 ###Set Up Your Database
 
+There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are * ( ) /  so do avoid them when createing a new password.
+
 If you need to set up a connection to your database for management please follow the instructions in the articles below based on your database type.
    
 - [MSSQL](https://www.gearhost.com/documentation/connecting-to-a-sql-database-using-sql-server-management-studio-2014)
