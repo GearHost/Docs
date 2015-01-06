@@ -53,7 +53,26 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 
 ###Set Up Your Database
 
-There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are * ( ) /  so do avoid them when createing a new password.
+There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are * ( ) /  so do avoid them when creating a new password.
+
+1. Create a new database by going to your database menu 
+
+
+	![database-menu][database-menu]
+2. Set a Database name
+
+
+	![database-name][database-name]
+3. Select the database you need, either MySQL or MSSQL
+
+	![database-selectplan][database-selectplan]
+3. Select create empty database
+
+	![database-empty][database-empty]
+4. Set your password on the database to avoid the known issue of certain characters causing an issue during publishing 
+	 
+	![database-password][database-password]
+
 
 If you need to set up a connection to your database for management please follow the instructions in the articles below based on your database type.
    
@@ -70,3 +89,9 @@ If you need to set up a connection to your database for management please follow
 [webmatrix-import-publish-file]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-import-publish-file.png
 [webmatrix-validate-connection]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-validate-connection.png
 [webmatrix-publish-preview]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-publish-preview.png
+
+[database-menu]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
+[database-password]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-resetpassword.png
+[database-name]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-namedb.png
+[database-selectplan]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-selectplan.png
+[database-empty]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-createempty.png
