@@ -7,6 +7,7 @@ This article covers three steps needed to publish your website to Octane with We
 3. [Publish Your Site](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-publish-your-site)
 4. [Set up your Database](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-set-up-your-database)
 
+
 ###Download your publishing file
 
  - [Log in][login-link]  to your account
@@ -34,6 +35,17 @@ This article covers three steps needed to publish your website to Octane with We
  
 	![webmatrix import publish][webmatrix-import-publish-file]
 
+ - Set database (only if needed)
+	- Locate your server
+	
+	![menu-locateserver][menu-locateserver]
+	- Enter the credentials
+	
+	![webmatrix-destination][webmatrix-destination]
+
+	- Password and username for the database are located under the database user section
+
+	![database-viewpass][database-viewpass]
  - Validate connection
 
 	![validate connection][webmatrix-validate-connection]
@@ -53,7 +65,7 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 
 ###Set Up Your Database
 
-There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are * ( ) /  so do avoid them when creating a new password.
+>There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are * ( ) /  so do avoid them when creating a new password.
 
 1. Create a new database by going to your database menu 
 
@@ -79,6 +91,7 @@ If you need to set up a connection to your database for management please follow
 - [MSSQL](https://www.gearhost.com/documentation/connecting-to-a-sql-database-using-sql-server-management-studio-2014)
 - [MySQL](https://www.gearhost.com/documentation/connecting-to-mysql-database)
 
+
 [Login-Link]:https://my.gearhost.com/Account/Login
 
 [menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
@@ -89,6 +102,9 @@ If you need to set up a connection to your database for management please follow
 [webmatrix-import-publish-file]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-import-publish-file.png
 [webmatrix-validate-connection]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-validate-connection.png
 [webmatrix-publish-preview]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-publish-preview.png
+[webmatrix-destination]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-destination.png
+[menu-locateserver]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-db-server.png
+[database-viewpass]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-showhidepassword.png
 
 [database-menu]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
 [database-password]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-resetpassword.png
