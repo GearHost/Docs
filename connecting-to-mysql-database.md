@@ -2,9 +2,9 @@
 
 This article covers 3 steps needed to connect to your MySQL database hosted with GearHost. The steps are:
 
-1. [Download and Install MySQL WorkBench](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-install-sql-server-management-studio-2014-ssms)
-2. [Gather your SQL Server database credentials](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-gather-your-sql-server-database-credentials)
-3. [Connect to your SQL Server Database using SSMS](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-connect-to-your-sql-server-database-using-ssms)
+1. [Download and Install MySQL WorkBench](https://www.gearhost.com/documentation/connecting-to-mysql-database#user-content-download-and-install-mysql-workbench)
+2. [Gather your SQL Server database credentials](https://www.gearhost.com/documentation/connecting-to-mysql-database#user-content-gather-your-mysql-server-database-credentials)
+3. [Connect to your SQL Server Database using SSMS](https://www.gearhost.com/documentation/connecting-to-mysql-database#user-content-log-in-to-mysql-workbench-with-your-credentials)
 
 ##Download and Install MySQL WorkBench
 1. Download and install [MySQL WorkBench 6.2][mysql-workbench-link]
@@ -24,9 +24,10 @@ This article covers 3 steps needed to connect to your MySQL database hosted with
 
 1. Locate the username that is the same name as your database. This is your primary database user that we create for you by default.
 
+1. Toggle the show/hide password "eye" icon to the right of the username to show the password.
+
 	![showhide][show-hide]
 
-1. Toggle the show/hide password "eye" icon to the right of the username to show the password.
 1. At the bottom of the page take note of the SQL Server Name which you will use. It's format is *mysql#.gear.host*.
 
 
