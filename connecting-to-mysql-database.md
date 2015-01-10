@@ -24,7 +24,7 @@ This article covers 3 steps needed to connect to your MySQL database hosted with
 
 1. Locate the username that is the same name as your database. This is your primary database user that we create for you by default.
 
-1. Toggle the show/hide password "eye" icon to the right of the username to show the password.
+1. Toggle the show/hide password "eye" icon to the right of the user name to show the password.
 
 	![showhide][show-hide]
 
@@ -42,7 +42,7 @@ This article covers 3 steps needed to connect to your MySQL database hosted with
 1. Enter your Database server and username
  
 	- Hostname should be *mysql#.gear.host* (refer to your steps above to determine the correct SQL Server name)
-	- Login is your primary database username, the same name as your database name
+	- Log in is your primary database user name, the same name as your database name
 
 	![wb-creds][enter-creds]
 
