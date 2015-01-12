@@ -28,7 +28,7 @@ At the bottom of the Default Documents section inside of the config panel we rea
 
 If you need to raise a site higher in the document list you can cut and paste the document you need higher into the top spot.  We recommend using the top spot for your main default document that you will be using.  This will be based on your programming language.
 
-[default documents][default-documents]
+![default documents][default-documents]
 
 
 [gearhost]: https://my.gearhost.com
