@@ -8,8 +8,6 @@ This article will cover how to add and arrange the default document that loads w
  
 [Log in to the control panel][Login-Link]
 
-![login][login]
-
 #####Click on CloudSites
 Once logged in click on CloudSites and then choose your CloudSite.
 
