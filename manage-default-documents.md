@@ -30,6 +30,9 @@ If you need to raise a site higher in the document list you can cut and paste th
 
 ![default documents][default-documents]
 
+##Deleting unused Default Documents
+You can click the small gray X next to any default document you do not wish to have in your list and it will not attempt to serve this content.  The pages listed are the standard pages that we add to each cloudsite and are not necessary if you are not using them.
+
 
 [gearhost]: https://my.gearhost.com
 
