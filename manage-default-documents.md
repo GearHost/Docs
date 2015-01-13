@@ -2,7 +2,7 @@
 
 This article will cover how to add and arrange the default document that loads when a user visits your domain without specifying a file to load.
 
-1. [What Is a Default Document?](https://www.gearhost.com/documentation/manage-default-documents#user-content-what-is-a-default-document?)
+1. [What Is a Default Document?](https://www.gearhost.com/documentation/manage-default-documents#user-content-what-is-a-default-document)
 2. [Manage your Default Documents](https://www.gearhost.com/documentation/manage-default-documents#user-content-manage-your-default-documents)
 3. [Add a new default document](https://www.gearhost.com/documentation/manage-default-documents#user-content-add-a-new-default-document)
 4. [Deleting unused Default Documents](https://www.gearhost.com/documentation/manage-default-documents#user-content-deleting-unused-default-documents)
