@@ -42,7 +42,7 @@ At the bottom of the Default Documents section inside of the config panel we rea
 
 >It is important to note that the web server will look at these in order so any document nearest the top will be served on down the list to the bottom.
 
-If you need to raise a site higher in the document list you can cut and paste the document you need higher into the top spot.  We recommend using the top spot for your main default document that you will be using.  This will be based on your programming language.
+If you need to raise a default page higher in the document list you can cut and paste the document you need higher into the top spot.  We recommend using the top spot for your main default document that you will be using.  This will be based on your programming language.
 
 ![default documents][default-documents]
 
