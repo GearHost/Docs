@@ -18,7 +18,7 @@ Both the free and shared work the same technically behind the scenes but the fre
 	| RAM            	| 256MB/hour    	| 1024MB/hour    	| 2048MB/hour 	|
 	| Storage (SSD)  	| 1GB           	| 5GB            	| 10GB        	|
 	| Bandwidth      	| 1GB/day       	| 512GB          	| 1TB         	|
-	| Requests       	| 5 Concurrent  	| 100 Concurrent 	| Unlimited   	|
+	| Requests       	| 2 Concurrent  	| 50 Concurrent 	| Unlimited   	|
 	| Idle Time      	| 20 min        	| 60 min         	|             	|
 	| SSL            	| No            	| Yes            	| Yes         	|
 	| Custom Domains 	| Yes           	| Yes            	| Yes         	|
