@@ -49,7 +49,7 @@ If you need to raise a site higher in the document list you can cut and paste th
 ##Deleting unused Default Documents
 For each request, IIS must get the list of default documents and look for each file in the content path until it finds the first match. If you configure five documents and the site uses the last document, this increases the length of time spent that the system looks for the document. However, if you use one default document or use the first document in the list, this speeds up the request time.
 
-You can click the small gray X next to any default document you do not wish to have in your list and it will not attempt to serve this content.  The pages listed are the standard pages that we add to each cloudsite and are not necessary if you are not using them.
+You can click the small gray X to the right of any default document you do not wish to have in your list and it will not attempt to serve this content.  The pages listed are the standard pages that we add to each CloudSite and are not required if you are not using them.
 
 
 [gearhost]: https://my.gearhost.com
