@@ -22,7 +22,7 @@ The Default document is used when you request a website on the internet from you
 >You can also add your own custom default documents for instance if you wanted to show my_cool_page.html when someone visited your site without specifying that file name in the URL.
 
 
-##1. Manage your Default Documents
+##Manage your Default Documents
  
 [Log in to the control panel][Login-Link]
 
