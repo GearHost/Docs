@@ -70,12 +70,13 @@ Server: mail#.gearhost.com (Replace # with the mail server number your mail is o
 
 Note: You can use a DNS lookup such as who.is to get this info from the MX record or contact us for assistance.)
 
-Incoming:
-
+**Incoming:
+**
 IMAP Port: 993 
 POP3 Port: 995
 
 
-Outgoing:
+**Outgoing:**
 
 SMTP Port: 465
+
