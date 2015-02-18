@@ -2,35 +2,35 @@
 
 
 
-1. Select the Cloudsites menu
+* Select the Cloudsites menu
 
 ![step-1]
 
-2. Select the Cloudsites that you would like to add email to
+* Select the Cloudsites that you would like to add email to
 
 ![step-2]
 
-3. Select the Email Tab
+* Select the Email Tab
 
 ![step-3]
 
-4. Click the Add email button
+* Click the Add email button
 
 ![step-4]
 
-5. From the drop down select the domain you would like to add
+* From the drop down select the domain you would like to add
 
 ![step-5]
 
-6. Create an email name
+* Create an email name
 
 ![step-6]
 
-7. Select the Enable Email button
+* Select the Enable Email button
 
 ![step-7]
 
-8. Select the Launch Email Button under the email tab to log in to manage your mail
+* Select the Launch Email Button under the email tab to log in to manage your mail
 
 ![step-8]
 
