@@ -30,7 +30,7 @@ Under the CloudSites menu click the Add CloudSite button. Enter a name and selec
 > You have the option to create a CloudSite from the application gallery that contains several applications that can be preinstalled.
  
 ##Deploy your content
-The first step to deploy your website is setting up deployment credentials [set up deployment credentials](https://www.gearhost.com/documentation/how-to-deploy-to-cloudsites-md)
+The first step to deploy your website is setting up deployment credentials [set up deployment credentials](https://www.gearhost.com/documentation/what-are-deployment-credentials)
 
 Once you have your deployment credentials setup you you might want to download your publishing file as well.
 
