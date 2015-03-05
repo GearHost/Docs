@@ -1,7 +1,31 @@
-How To Load Custom Handler Mappings
+Enable custom extensions in the default PHP runtime
 ====
 
- There may be times when a Handler is not in IIS by default and you need to add the handler mapping to an application. This is now built in to the CloudSites Control Panel without the need to configure in IIS.
+By default, PHP 5.4 is installed and immediately available for use when you create an Azure Website. The best way to see the available release revision, its default configuration, and the enabled extensions is to deploy a script that calls the phpinfo() function.
+
+>Save this a phpinfo.php and upload to your wwwroot
+
+```<?php
+phpinfo();
+?>
+```
+
+The best way to see the default PHP version, its default configuration, and the enabled extensions is to deploy a script that calls phpinfo(). To enable additional extensions, follow the steps below.
+
+Add a bin directory to your root directoy.
+Put .dll extension files in the bin directory (for example, php_mongo.dll). Make sure that the extensions are compatible with default version of PHP (which is, as of this writing, PHP 5.4) and are VC9 and non-thread-safe (nts) compatible.
+Deploy your application.
+Navigate to your site's dashboard in the Azure Portal, and click on Configure.
+
+Configure tab on Web Sites dashboard
+
+In the app settings section, create a key PHP_EXTENSIONS and a value bin\your-ext-file. To enable multiple extensions, incude a comma-separated list of .dll files.
+
+Enable extension in app settings
+
+Click Save at the bottom of the page.
+
+Save configuration settings
 
 1. [Login to your account][login-link]
 
