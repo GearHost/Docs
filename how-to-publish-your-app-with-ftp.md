@@ -17,7 +17,7 @@ Below we'll walk through setting up deployment credentials and using those in an
  
     > *It's important to note that your deployment credentials are used for all your CloudSites within your account. When you set or change your deployment credentials your password will change for all other cloudsite applications in your account. Although the password changes for all cloudsites applications each cloudsite will have a different username.* 
  
- 4. Now that you have your credentials set up you can enter them into an FTP client like [FileZilla][filezilla-download]. You can find the server address on the same page in the control panel as where you configured your deployment credentials, ftp://ftp.gear.host Your user name is also listed in this section. 
+ 4. Now that you have your credentials set up you can enter them into an FTP client like [FileZilla][filezilla-download]. You can find the server address on the same page in the control panel as where you configured your deployment credentials, ftp.gear.host Your user name is also listed in this section. 
  
     > *Note that the user name includes your CloudSite name. In the example below "demome" is the name of my CloudSite, "performance" is the user I created for deployment. Each CloudSite will use the deployment credentials CloudSiteName\UserName and the password you set up under "set deployment credentials". This will make it easier for you when you add your next CloudSite. All you'll need to remember is the CloudSite name and the user name.*
  
