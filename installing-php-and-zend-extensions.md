@@ -4,8 +4,8 @@ This article covers two steps needed to install custom PHP and Zend extensions f
 
 
 
-1. [Download and Upload the extensions](https://www.gearhost.com/documentation/install-php-and-zend-extensions#user-content-download-and-upload-the-extensions)
-2. [Configure the Cloudsite from your portal to load the extensions](https://www.gearhost.com/documentation/install-php-and-zend-extensions#user-content-configure-the-cloudsite-from-your-portal-to-load-the-extensions)
+1. [Download and Upload the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions#user-content-download-and-upload-the-extensions)
+2. [Configure the Cloudsite from your portal to load the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions#-user-content-configure-the-cloudsite-from-your-portal-to-load-the-extensions)
 
 
 ##Download and Upload the extensions
@@ -33,5 +33,5 @@ This article covers two steps needed to install custom PHP and Zend extensions f
 
 [Login-Link]:https://my.gearhost.com/Account/Login
 [config-tab]: https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-config.png
-[php-zend-extensions]: https://raw.githubusercontent.com/GearHost/docs/master/Images/php-zend-extensions.png
+[php-zend-extensions]: https://raw.githubusercontent.com/GearHost/docs/master/Images/php-zend-extensions.PNG
 
