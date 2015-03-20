@@ -25,7 +25,7 @@ This article covers two steps needed to install custom PHP and Zend extensions f
 5. For PHP extensions, create a PHP_EXTENSIONS key
 6. For Zend extensions, create a PHP_ZENDEXTENSIONS key
 	![php-zend-extensions]
-7. enter for the value, type in the location of the DLL you uploaded in step one (example below)
+7. For the value type in the location of the DLL you uploaded in step one (example below)
 
 > If you wish to load multiple extensions or Zend extensions, create a comma separated value for the app settings **Make sure to not leave any spaces in the comma separated paths**
 
