@@ -53,7 +53,7 @@ Security type: None/SSL off
 
 **Outgoing**
 
-Server (SMPT): mail.yourdomain.com
+Server (SMTP): mail.yourdomain.com
 Outgoing server requires authentication/sign-in (use same as incoming)
 
 Port: 587 (use 25 or 2525 if this does not work)
