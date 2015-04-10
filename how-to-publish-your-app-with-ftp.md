@@ -1,45 +1,35 @@
 #How to publish your application with FTP
 
-Below we'll walk through setting up deployment credentials and using those in an FTP client to publish your application to your account. The steps are:
+Publishing your app using your favorite FTP client couldn't be easier wither GearHost. As with all FTP clients you will need the hostname, username and password. If you don't have a favoriate FTP client we recommend [FileZilla][filezilla-download].
 
-1. [Create your deployment credentials](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp#user-content-create-your-deployment-credentials)
-2. [Enter your credentials in FileZilla](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp#user-content-enter-your-credentials-in-filezilla)
+###How is data stored on a CloudSite?
+All data is tied to a particular CloudSite with each CloudSite having it's own individual login credentials. These credentials are used for FTP, Web Deploy and Git publishing. As such you need a specific individual login for each CloudSite you have.
 
- 
+###So where do I get that info?
+1. To get your CloudSite login credentials to use for FTP (or Web Deploy and Git) you will need to [login to your GearHost account][login-link]
+2. Click on the specific CloudSite you want to login info
+3. Click on the Publish tab
+4. Input the hostname, username and password info your FTP client and connect
 
-##Create your deployment credentials 
+>The password is very long and cannot be changed. This password cannot be changed however it can be reset and a new password generated for your CloudSite by clicking on the Reset Password button.
 
- 1. After [logging into][login-link] your control panel click on CloudSites and choose the site you want to publish to. 
- 
- 2. Click on the button Set Deployment Credentials under the quick glance on the cloudsite summary page.
- 
- 3. Type in a user name and password you would like to use and click change password. 
- 
-    > *It's important to note that your deployment credentials are used for all your CloudSites within your account. When you set or change your deployment credentials your password will change for all other cloudsite applications in your account. Although the password changes for all cloudsites applications each cloudsite will have a different username.* 
- 
- 4. Now that you have your credentials set up you can enter them into an FTP client like [FileZilla][filezilla-download]. You can find the server address on the same page in the control panel as where you configured your deployment credentials, ftp.gear.host Your user name is also listed in this section. 
- 
-    > *Note that the user name includes your CloudSite name. In the example below "demome" is the name of my CloudSite, "performance" is the user I created for deployment. Each CloudSite will use the deployment credentials CloudSiteName\UserName and the password you set up under "set deployment credentials". This will make it easier for you when you add your next CloudSite. All you'll need to remember is the CloudSite name and the user name.*
- 
-    ![quick glance][quick-glance]
+###Where do I put my data?
+The web root content for your CloudSite is always located under /site/wwwroot.
 
+###Using FileZilla?
+If you are using FileZilla then we provide a downloadable XML file that you can import. Here's how to do it.
 
- 
-##Enter your credentials in FileZilla
- 
+1. Download the FileZilla file by clicking on the icon in the GearHost control panel
+2. Launch FileZilla
+2. Under the File menu select Import
+3. Select the file you downloaded
+4. Select OK on the Import Settings dialog box
+5. Select OK on the Import Successful confirmation box
+6. Under the File menu select Site Manager or select the Site Manager icon
+7. Under My Site select the CloudSite and click Connect
 
- 1. Open FileZilla and in the quick connect bar enter the server, user name, and password. Remember you can find the information on the Overview page of your CloudSite in your control panel.
- 
-    ![enter image description here][filezilla-quickconnect]
- 
- 2. Click Quickconnect and you will be connected to the FTP server. 
- 
- 3. Now you will be able to upload your application or website content. Your content should be uploaded to /site/wwwroot.
-
-
+> You will need to enter your password again but you can select the "remember password" checkbox to save your password.
 
 [filezilla-download]: https://filezilla-project.org/download.php?type=client
-[Login-Link]:https://my.gearhost.com/Account/Login
-[quick-glance]: https://raw.githubusercontent.com/GearHost/docs/master/Images/quick-glance.png
-[filezilla-quickconnect]: https://raw.githubusercontent.com/GearHost/docs/master/Images/filezilla-quickconnect.png
+[Login-Link]:https://my.gearhost.com/account/login
  
