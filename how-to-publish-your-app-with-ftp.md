@@ -11,6 +11,14 @@ All data is tied to a particular CloudSite with each CloudSite having it's own i
 3. Click on the Publish tab
 4. Input the hostname, username and password info your FTP client and connect
 
+This might look something like this:
+
+Hostname: ftp.gear.host  
+Username: myawesomeapp\$myawesomeapp  
+Password: ydjcWguj0RamAJCbdjMtvzgxlkq3LJhuieblrY3sZeEiiuF6DRPZK8p3RMC6  
+
+>Your username for FTP is the *{cloudsitename}*\$*{cloudsitename}* so if your CloudSite was called "myawesomeapp" your username would be "myawesomeapp\$myawesomeapp". FYI for Git your username is only $*{cloudsitename}* for example "$myawesomeapp".
+
 >The password is very long and cannot be changed. This password cannot be changed however it can be reset and a new password generated for your CloudSite by clicking on the Reset Password button.
 
 ###Where do I put my data?
