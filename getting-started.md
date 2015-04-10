@@ -1,51 +1,32 @@
-Getting Started 
-==================
+#Getting Started
 
-First off, welcome to GearHost! You will find many helpful links below and they are in order of the way you should be completing the tasks.  The control panel will walk you through most of this but we understand it is nice to have a referance manual to check with to make sure everything is correct.
+Congrats on signing up with GearHost! We're super excited and honored to have you as a customer! At any point if you are having a problem please open a support ticket and we'll make sure to help. You can also let us know what's up on Twitter and Facebook.
 
-![Imgur](http://i.imgur.com/FRZuUzA.png)
+###Sign up for free
+If you haven't already let's get you started by opening up your account, it's free! To do that goto our signup form which only requires an email address and fairly strong password to signup.
 
-##Sign up your account
-If you haven't already you'll need to first [sign up an account](https://my.gearhost.com/account/signup). This requires a valid email address and strong password.
- 
-##Verify Your email
-The next step will be to verify your email address.  We have sent you a verification email to the email address you signed up with. Click the Activate Now link in that email.
+###Verify your email
+Yes, we need to make sure you're giving us a real email address so we're going to send you an email with an activation link. Click the link.
 
-> If you do not see the email please double check your SPAM folder otherwise you can resend your email from within the control panel.
+> If after a few minutes you have not received your activation email please check your spam folder otherwise you can resend an activation email from within the control panel.
 
-##Update your billing
-You will want to enter a credit card to get full access to all of the GearHost features. To do this click on Billing 
+###Add a credit card (optional)
+To get the best experience at GearHost you will want to add a credit card to your account. By adding a credit card on file you can create a Standard or Reserved CloudSite or scale within any restrictions. You also get access to other features such as faster and larger databases, add-ons, etc.
 
-![Imgur](http://i.imgur.com/wQqGCE8.png)
+1. In the control panel click Billing
+2. Click Payment Details
+3. Click Add Credit Card
 
-Then Payment Details button.
+> To valid your card is legit we will authorize $1.23 which usually drops off within 72 hours.
 
-![Imgur](http://i.imgur.com/9Wwj0Y5.png)
+###Create a CloudSite
+Under the CloudSites menu click the Add CloudSite button. You will need to provide a name for your CloudSite and a plan. If you did not add a credit card on file you can only select the Free plan. Now you can click on Create Empty CloudSite or Create CloudSite from Gallery to do a quick install of popular applications like WordPress, nopCommerce, DNN, code samples, Joomla and many others.
 
-##Create your very first CloudSite
-Under the CloudSites menu click the Add CloudSite button. Enter a name and select the plan you which to put your CloudSite on then click Create Empty CloudSite.
+###Deploy your content
+Under the Publish tab of a CloudSite is where you can find your CloudSite credentials to publish your data using [FTP](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp), Web Deploy, [Git](https://www.gearhost.com/documentation/git-deploy-your-application), [Visual Studio](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio-2013), [Web Matrix](https://www.gearhost.com/documentation/publish-via-webmatrix-3), FileZilla and more.
 
-![Imgur](http://i.imgur.com/SuQh5Mc.png)
-
-> You have the option to create a CloudSite from the application gallery that contains several applications that can be preinstalled.
- 
-##Deploy your content
-The first step to deploy your website is setting up deployment credentials [set up deployment credentials](https://www.gearhost.com/documentation/what-are-deployment-credentials)
-
-Once you have your deployment credentials setup you you might want to download your publishing file as well.
-
-GearHost supports deploying your content via [FTP] (https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp), [Git] (https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp) or directly from [Visual Studio] (https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio-2013). We support deployments from a [Mac] (https://www.gearhost.com/documentation/textwrangler-publishing) as well.
-
-##Create a database
- If your application needs a database we support both MySQL and MSSQL databases.  You can restore a backup you have locally or create a new empty one.
- [Create a Database](https://www.gearhost.com/documentation/how-to-restore-a-database)
-
-##Scale your website
-If you want to start on a free account and scale later this is possible with your control panel You will need to scale your website from the control panel.
- [Scale your website](https://www.gearhost.com/documentation/how-to-scale-your-cloudsite)
-
-
-
+#Thanks
+We love our customers so thanks again for your business and let us know if we can help with anything!
 
 
 
