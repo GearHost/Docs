@@ -25,7 +25,7 @@ Under the CloudSites menu click the Add CloudSite button. You will need to provi
 ###Deploy your content
 Under the Publish tab of a CloudSite is where you can find your CloudSite credentials to publish your data using [FTP](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp), Web Deploy, [Git](https://www.gearhost.com/documentation/git-deploy-your-application), [Visual Studio](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio-2013), [Web Matrix](https://www.gearhost.com/documentation/publish-via-webmatrix-3), FileZilla and more.
 
-#Thanks
+###Thanks
 We love our customers so thanks again for your business and let us know if we can help with anything!
 
 
