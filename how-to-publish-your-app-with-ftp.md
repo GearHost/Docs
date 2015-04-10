@@ -15,14 +15,15 @@ This might look something like this:
 
 Hostname: ftp.gear.host  
 Username: myawesomeapp\$myawesomeapp  
-Password: ydjcWguj0RamAJCbdjMtvzgxlkq3LJhuieblrY3sZeEiiuF6DRPZK8p3RMC6  
+Password: ydjcWguj0RamAJCbdjMtvzgxlkq3LJhuieblrY3sZeEiiuF6DRPZK8p3RMC6
 
->Your username for FTP is the *{cloudsitename}*\$*{cloudsitename}* so if your CloudSite was called "myawesomeapp" your username would be "myawesomeapp\$myawesomeapp". FYI for Git your username is only $*{cloudsitename}* for example "$myawesomeapp".
+> Your username for FTP is the *{cloudsitename}*\$*{cloudsitename}* so if your CloudSite was called "myawesomeapp" your username would be "myawesomeapp\$myawesomeapp". FYI for Git your username is only $*{cloudsitename}* for example "$myawesomeapp".  
 
->The password is very long and cannot be changed. This password cannot be changed however it can be reset and a new password generated for your CloudSite by clicking on the Reset Password button.
+###Can I set my own password?
+At this time your CloudSite password cannot be set to a custom password however it can be reset by clicking the Reset Password button to generate a new password. This in turn will expire your old password.
 
-###Where do I put my data?
-The web root content for your CloudSite is always located under /site/wwwroot.
+###Where do I upload my data?
+The web root content for your CloudSite is located under /site/wwwroot.
 
 ###Using FileZilla?
 If you are using FileZilla then we provide a downloadable XML file that you can import. Here's how to do it.
