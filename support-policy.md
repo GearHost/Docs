@@ -47,6 +47,6 @@ GearHost Support offers 12x5 coverage. Hours are 6am - 6pm Mountain Time, Monday
 The GearHost Platform itself is monitored 24x7. See Section 5, Proactive Monitoring for more details.
 
 ###5. Proactive Monitoring
-The GearHost Cloud Platform is monitored 24x7 by comprehensive automated systems. In the event of any issue affecting the health and operation of GearHost's infrastructure, core systems, or tools, our dedicated operations team is notified and will respond immediately to diagnose and correct any issues. This 24×7 monitoring covers the entire GearHost platform, benefiting all GearHost users - free as well as paying.
+The GearHost Cloud Platform is monitored 24x7 by comprehensive automated systems. In the event of any issue affecting the health and operation of GearHost's infrastructure, core systems, or tools, our dedicated operations team is notified and will respond immediately to diagnose and correct any issues. This 24x7 monitoring covers the entire GearHost platform, benefiting all GearHost users - free as well as paying.
 
 In the event of a platform issue, a notice will be posted on our platform status site at [www.gearhoststatus.com](http://www.gearhoststatus.com) to promptly communicate the impact and status of any such issue. If there's an ongoing platform issue, you do not need to submit a support ticket. Instead, monitor the status page which will always be kept up-to-date with the latest progress and information.
