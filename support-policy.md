@@ -33,13 +33,13 @@ Limited free technical support is available to all registered users of GearHost.
 - The requester has collaborator access to any specific GearHost applications pertaining to the request
 
 ###3. Support Channels
-Free technical support is available 24x7 using our extensive documentation.
+Free technical support is available 24x7 using our [extensive documentation](https://www.gearhost.com/documentation).
 
 ####Web
-Registered GearHost users can submit new tickets and view history on previously opened tickets.
+Registered GearHost users can [submit new tickets](https://my.gearhost.com/account/login) and view history on previously opened tickets.
 
 ####Email
-If you are unable to log in or access your account, you may submit a ticket by sending an e-mail from your GearHost account email address to help@gearhost.com.
+If you are unable to log in or access your account, you may submit a ticket by sending an e-mail from your GearHost account email address to [help@gearhost.com](mailto:help@gearhost.com).
 
 ###4. Hours
 GearHost Support offers 12x5 coverage. Hours are 6am - 6pm Mountain Time, Monday - Friday, excluding US Holidays. Support inquiries may be submitted at any time.
