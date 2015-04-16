@@ -1,4 +1,4 @@
-Octane Nameservers
+GearHost Nameservers
 =============
 
 Every Domain name uses a naming system called DNS (Domain Name System) in order to resolve the name of your website (Domain) to the system of numbers called IP Addresses that the whole internet is built on behind the scenes. In order for your domain to know that your website is hosted with GearHost, it will need to point to the correct **"Name Servers"** or **"DNS Servers"** that contain the correct DNS records to point your domain name to GearHost. 
