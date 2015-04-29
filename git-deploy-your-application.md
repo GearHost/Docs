@@ -35,7 +35,7 @@ You must have an account set up and you must have a cloudsite added to the accou
 You will need to download Git from the main download site [here][git-download]
 
 ###Install Git
-Before you start using Git, you have to make it available on your computer. Even if it’s already installed, it’s probably a good idea to update to the latest version. You can either install it as a package or via another installer. 
+Before you start using Git, you have to make it available on your computer. Even if it's already installed, it's probably a good idea to update to the latest version. You can either install it as a package or via another installer. 
 
 Git is supported on many platforms and each platform will have it's own unique way to install git.
 
