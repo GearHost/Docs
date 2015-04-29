@@ -7,7 +7,7 @@ If you are developing a new website or application you will probably want to sep
 
   1. After logging into your control panel click on CloudSites. 
  
-  2. Click on the Add CloudSite button to being adding a new CloudSite.
+  2. Click on the Add CloudSite button to begin adding a new CloudSite.
  
   3. Enter a site name. The site name will create a temporary URL that you can use to immediately launch the application or website and preview before changing DNS. The control panel will automatically check to see if the site name is being used somewhere else. If it is you will receive an error and will need to choose a new name.
  
