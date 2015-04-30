@@ -70,7 +70,7 @@ If GearHost finds a compromised account on our mail servers (detected through th
 GearHost reserves the right to terminate any mass mailing failing to meet these rules and also block future mailings. We may do this without warning and messages sent may be deleted if they are seen as spam. We will inform customers through their account contact information via email if you fail any of these rules and your messages are blocked.
 
 #####What if I believe I am blocked?
-If you believe that your email address or IP address is being blocked, please contact GearHost by opening a support ticket http://support.gearhost.com. In the ticket we will need the following information.
+If you believe that your email address or IP address is being blocked, please contact GearHost by opening a support ticket. In the ticket we will need the following information.
 
 - Email address you are sending from
 - IP address of your current location (http://whatismyip.com can be used if you are unsure)
