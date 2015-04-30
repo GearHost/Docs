@@ -1,6 +1,6 @@
 #Shared Email Policy, Limits, And Restrictions
 
-GearHost utilizes a few different methods to ensure service for all our customers and to prevent compromised accounts from impacting email services. These rules and measures are in place only for shared email services. This includes legacy GearPanel, CLoudSites v2, and v3 accounts. CloudServers are not affected. 
+GearHost utilizes a few different methods to ensure service for all our customers and to prevent compromised accounts from impacting email services. These rules and measures are in place only for shared email services like on the latest GearHost platform. 
 
 ####Throttling
 ---
@@ -73,5 +73,5 @@ GearHost reserves the right to terminate any mass mailing failing to meet these 
 If you believe that your email address or IP address is being blocked, please contact GearHost by opening a support ticket. In the ticket we will need the following information.
 
 - Email address you are sending from
-- IP address of your current location (http://whatismyip.com can be used if you are unsure)
+- IP address of your current location (http://www.whatsmyip.org can be used if you are unsure)
 - GearHost will review the information and the content of the emails being sent and will either remove the block on the domain so that emails may be sent once again or contact you to review current block and what actions need to be taken.
