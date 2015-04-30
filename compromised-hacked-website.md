@@ -3,7 +3,7 @@
 Are your receiving notifications that your site is being blocked because it is a phising scam or that malware was detected by your browser? It is likely that this is because your site was compromised.
 
 ##How was my site compromised?
-The most common causes for a site compromise is a weak password. This could be a  password issue with an administrative login for your site such as in Wordpress. GearHost recommends the following password policies for any log in.
+The most common causes for a site compromise is a weak password. This could be a  password issue with an administrative log in for your site such as in Wordpress. GearHost recommends the following password policies for any log in.
 
 - 8 characters
 - No words or combinations that are words (P@ssW0rD is still a bad password.) 
@@ -11,7 +11,7 @@ The most common causes for a site compromise is a weak password. This could be a
 - Use numbers
 - Have upper and lowercase letters
 
-Another way a site may have been compromised is through third-party content. Plugins, counters, and other content can have malicious content in it to hijack your site. Make sure to investigate each company that you download content from a reputable source.
+Another way a site may have been compromised is through third-party content. Plugins, counters, and other content can have malicious content in it to hijack your site. Make sure to investigate each company that you download content from a reputable source. Also, make sure that your CMS is up to date along with any plugins.
 
 Lastly, an attacker may have compromised your local machine. We recommend running a virus/malware scan on any machine you use to access your site.   
   
