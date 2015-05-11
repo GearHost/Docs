@@ -17,7 +17,7 @@ Both the free and shared work the same technically behind the scenes but the fre
 	| CPU            	| 60 min/day    	| 240 min/day    	| Unlimited   	 |
 	| RAM            	| 256MB/hour    	| 1024MB/hour    	| 2048MB/hour 	 |
 	| Storage (SSD)  	| 100MB           	| 1GB up to 100gb 	| 1GB up to 100gb|
-	| Bandwidth      	| 1GB/day       	| 512GB          	| 1TB         	 |
+	| Bandwidth      	| 1GB/day       	| 1TB           	| 1TB         	 |
 	| Requests       	| 250 Concurrent  	| 1000 Concurrent 	| Unlimited   	 |
 	| Idle Time      	| 20 min        	| 60 min         	|              	 |
 	| SSL            	| No            	| Yes            	| Yes          	 |
