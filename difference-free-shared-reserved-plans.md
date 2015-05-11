@@ -12,19 +12,19 @@ Both the free and shared work the same technically behind the scenes but the fre
 
 ##Comparison
 
-	|                	| Free          	| Shared         	| Reserved    	|
-	|----------------	|---------------	|----------------	|-------------	|
-	| CPU            	| 60 min/day    	| 240 min/day    	| Unlimited   	|
-	| RAM            	| 256MB/hour    	| 1024MB/hour    	| 2048MB/hour 	|
-	| Storage (SSD)  	| 1GB           	| 5GB            	| 10GB        	|
-	| Bandwidth      	| 1GB/day       	| 512GB          	| 1TB         	|
-	| Requests       	| 250 Concurrent  	| 1000 Concurrent 	| Unlimited   	|
-	| Idle Time      	| 20 min        	| 60 min         	|             	|
-	| SSL            	| No            	| Yes            	| Yes         	|
-	| Custom Domains 	| Yes           	| Yes            	| Yes         	|
-	| Web Sockets    	| No            	| Yes            	| Yes         	|
-	| 64-bit         	| No            	| Yes            	| Yes         	|
-	| CPU Burst      	| 1m @ 25% / 5m 	| 3m @ 50% / 5m  	| Unlimited   	|
+	|                	| Free          	| Shared         	| Reserved    	 |
+	|----------------	|---------------	|----------------	|-------------	 |
+	| CPU            	| 60 min/day    	| 240 min/day    	| Unlimited   	 |
+	| RAM            	| 256MB/hour    	| 1024MB/hour    	| 2048MB/hour 	 |
+	| Storage (SSD)  	| 100MB           	| 1GB up to 100gb 	| 1GB up to 100gb|
+	| Bandwidth      	| 1GB/day       	| 512GB          	| 1TB         	 |
+	| Requests       	| 250 Concurrent  	| 1000 Concurrent 	| Unlimited   	 |
+	| Idle Time      	| 20 min        	| 60 min         	|              	 |
+	| SSL            	| No            	| Yes            	| Yes          	 |
+	| Custom Domains 	| Yes           	| Yes            	| Yes          	 |
+	| Web Sockets    	| No            	| Yes            	| Yes         	 |
+	| 64-bit         	| No            	| Yes            	| Yes         	 |
+	| CPU Burst      	| 1m @ 25% / 5m 	| 3m @ 50% / 5m  	| Unlimited   	 |
 
 ##Definitions
 - CPU: The amount of CPU time your CloudSite can consume in a 24 hour period.
