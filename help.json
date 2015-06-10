@@ -1,7 +1,7 @@
 {
     "items": [
             {
-                "itemId": "cloudsite",
+                "itemId": "cloudsites-index",
                 "title": "CloudSites",
                 "articles":[
                         {
@@ -31,7 +31,7 @@
                     ]
             }
             ,{
-                "itemId": "database",
+                "itemId": "databases-index",
                 "title": "Databaes",
                 "articles":[
                     ]
