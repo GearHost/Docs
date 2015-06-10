@@ -1,3 +1,14 @@
 {
-    "index": []
+    "index": [
+            {
+                "subjectid": "cloudsite",
+                "title": "CloudSite",
+                "articles":[
+                        {
+                            "name": "restart-cloudsite",
+                            "title": "How to Restart Your CloudSite"
+                        }
+                    ]
+            }
+        ]
 }
