@@ -1,6 +1,44 @@
 {
     "items": [
             {
+                "itemId": "general",
+                "title": "Popular Documents",
+                "articles":[
+                        {
+                            "name": "getting-started",
+                            "title": "Getting Started"
+                        }
+                        ,{
+                            "name": "create-a-cloudsite",
+                            "title": "Create a new CloudSite"
+                        }
+                        ,{
+                            "name": "how-to-scale-your-cloudsite",
+                            "title": "How to scale your Cloudsites"
+                        }
+                        ,{
+                            "name": "add-a-credit-card-to-your-account",
+                            "title": "Add a credit card to your account"
+                        }
+                        ,{
+                            "name": "how-to-install-an-application-from-gallery",
+                            "title": "Create and Deploy a Site from the WebSite Gallery"
+                        }
+                        ,{
+                            "name": "support-policy",
+                            "title": "Support Policy"
+                        }
+                        ,{
+                            "name": "how-to-publish-your-app-with-ftp",
+                            "title": "How to publish your application with FTP"
+                        }
+                        ,{
+                            "name": "how-to-publish-your-app-from-visual-studio-2013",
+                            "title": "How to publish your app from visual studio 2013"
+                        }
+                    ]
+            }
+            ,{
                 "itemId": "cloudsites-index",
                 "title": "CloudSites",
                 "articles":[
