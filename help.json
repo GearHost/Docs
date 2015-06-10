@@ -2,12 +2,38 @@
     "items": [
             {
                 "itemId": "cloudsite",
-                "title": "CloudSite",
+                "title": "CloudSites",
                 "articles":[
                         {
                             "name": "restart-cloudsite",
                             "title": "How to Restart Your CloudSite"
                         }
+                        ,{
+                            "name": "how-to-install-an-application-from-gallery",
+                            "title": "Create and Deploy a Site from the WebSite Gallery"
+                        }
+                        ,{
+                            "name": "create-a-cloudsite",
+                            "title": "Create a new CloudSite"
+                        }
+                        ,{
+                            "name": "supported-technologies",
+                            "title": "Supported Technologies"
+                        }
+                        ,{
+                            "name": "how-to-publish-your-app-with-ftp",
+                            "title": "How to publish your application with FTP"
+                        }
+                        ,{
+                            "name": "quick-install-dnn",
+                            "title": "Dot Net Nuke Quick Install"
+                        }
+                    ]
+            }
+            ,{
+                "itemId": "database",
+                "title": "Databaes",
+                "articles":[
                     ]
             }
         ]
