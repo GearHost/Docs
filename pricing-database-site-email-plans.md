@@ -12,6 +12,8 @@ Standard Option: $5/mo
 
 Reserved Option: $25/mo
 
+Email: $5/mo (requires standard option)
+
 ____
 ###Additional space
 
