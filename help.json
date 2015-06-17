@@ -1,7 +1,7 @@
 {
     "items": [
             {
-                "itemId": "general",
+                "itemId": ["general"],
                 "title": "Popular Documents",
                 "articles":[
                         {
@@ -39,7 +39,7 @@
                     ]
             }
             ,{
-                "itemId": "cloudsite-index",
+                "itemId": ["cloudsite-index", "websites-index"],
                 "title": "CloudSites",
                 "articles":[
                         {
@@ -69,7 +69,7 @@
                     ]
             }
             ,{
-                "itemId": "databases-index",
+                "itemId": ["databases-index"],
                 "title": "Databaes",
                 "articles":[
                         {
