@@ -72,6 +72,22 @@
                 "itemId": "databases-index",
                 "title": "Databaes",
                 "articles":[
+                        {
+                            "name": "how-to-restore-a-database",
+                            "title": "How to Create a Database with an Existing Backup"
+                        }
+                        ,{
+                            "name": "database-suspension",
+                            "title": "Free Database Suspension"
+                        }
+                        ,{
+                            "name": "connecting-to-mysql-database",
+                            "title": "How to connect to a MySql Database using SQL MySQL Workbench"
+                        }
+                        ,{
+                            "name": "connecting-to-a-sql-database-using-sql-server-management-studio-2014",
+                            "title": "Connecting to a SQL database using SQL Server Management Studio 2014"
+                        }
                     ]
             }
         ]
