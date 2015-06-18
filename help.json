@@ -5,35 +5,35 @@
                 "title": "Popular Documents",
                 "articles":[
                         {
-                            "name": "getting-started",
+                            "articleName": "getting-started",
                             "title": "Getting Started"
                         }
                         ,{
-                            "name": "create-a-cloudsite",
+                            "articleName": "create-a-cloudsite",
                             "title": "Create a new CloudSite"
                         }
                         ,{
-                            "name": "how-to-scale-your-cloudsite",
+                            "articleName": "how-to-scale-your-cloudsite",
                             "title": "How to scale your Cloudsites"
                         }
                         ,{
-                            "name": "add-a-credit-card-to-your-account",
+                            "articleName": "add-a-credit-card-to-your-account",
                             "title": "Add a credit card to your account"
                         }
                         ,{
-                            "name": "how-to-install-an-application-from-gallery",
+                            "articleName": "how-to-install-an-application-from-gallery",
                             "title": "Create and Deploy a Site from the WebSite Gallery"
                         }
                         ,{
-                            "name": "support-policy",
+                            "articleName": "support-policy",
                             "title": "Support Policy"
                         }
                         ,{
-                            "name": "how-to-publish-your-app-with-ftp",
+                            "articleName": "how-to-publish-your-app-with-ftp",
                             "title": "How to publish your application with FTP"
                         }
                         ,{
-                            "name": "how-to-publish-your-app-from-visual-studio-2013",
+                            "articleName": "how-to-publish-your-app-from-visual-studio-2013",
                             "title": "How to publish your app from visual studio 2013"
                         }
                     ]
@@ -43,28 +43,32 @@
                 "title": "CloudSites",
                 "articles":[
                         {
-                            "name": "restart-cloudsite",
+                            "articleName": "restart-cloudsite",
                             "title": "How to Restart Your CloudSite"
                         }
                         ,{
-                            "name": "how-to-install-an-application-from-gallery",
+                            "articleName": "how-to-install-an-application-from-gallery",
                             "title": "Create and Deploy a Site from the WebSite Gallery"
                         }
                         ,{
-                            "name": "create-a-cloudsite",
+                            "articleName": "create-a-cloudsite",
                             "title": "Create a new CloudSite"
                         }
                         ,{
-                            "name": "supported-technologies",
+                            "articleName": "supported-technologies",
                             "title": "Supported Technologies"
                         }
                         ,{
-                            "name": "how-to-publish-your-app-with-ftp",
+                            "articleName": "how-to-publish-your-app-with-ftp",
                             "title": "How to publish your application with FTP"
                         }
                         ,{
-                            "name": "quick-install-dnn",
+                            "articleName": "quick-install-dnn",
                             "title": "Dot Net Nuke Quick Install"
+                        }
+                        ,{
+                            "title": "What are the GearHost name servers",
+                            "inlineAnswer": "The GearHost name servers are ns1.gear.host and ns2.gear.host"
                         }
                     ]
             }
@@ -73,19 +77,19 @@
                 "title": "Databaes",
                 "articles":[
                         {
-                            "name": "how-to-restore-a-database",
+                            "articleName": "how-to-restore-a-database",
                             "title": "How to Create a Database with an Existing Backup"
                         }
                         ,{
-                            "name": "database-suspension",
+                            "articleName": "database-suspension",
                             "title": "Free Database Suspension"
                         }
                         ,{
-                            "name": "connecting-to-mysql-database",
+                            "articleName": "connecting-to-mysql-database",
                             "title": "How to connect to a MySql Database using SQL MySQL Workbench"
                         }
                         ,{
-                            "name": "connecting-to-a-sql-database-using-sql-server-management-studio-2014",
+                            "articleName": "connecting-to-a-sql-database-using-sql-server-management-studio-2014",
                             "title": "Connecting to a SQL database using SQL Server Management Studio 2014"
                         }
                     ]
