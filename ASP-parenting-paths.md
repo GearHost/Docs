@@ -14,4 +14,4 @@ Our advanced platform doesn't allow you to enable parent paths. However the appl
     <asp xdt:Transform="SetAttributes(enableParentPaths)" enableParentPaths="true" />
       </system.webServer>
     </configuration>
-
+After you have added the code please make sure to fully stop your site fully, wait 10 seconds, then start your site back up. This should allow the application to fully stop and restart and then find the parent paths.
