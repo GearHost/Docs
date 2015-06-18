@@ -68,7 +68,7 @@
                         }
                         ,{
                             "title": "What are the GearHost name servers?",
-                            "inlineAnswer": "The GearHost name servers are ns1.gear.host and ns2.gear.host"
+                            "inlineAnswer": "The GearHost name servers are <b>ns1.gear.host</b> and <b>ns2.gear.host</b>"
                         }
                     ]
             }
