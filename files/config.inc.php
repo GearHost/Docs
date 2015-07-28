@@ -14,6 +14,7 @@
  * This is needed for cookie based authentication to encrypt password in
  * cookie
  */
+$cfg['blowfish_secret'] = 'PLEASEUPDATEME'; /* You can put any random numbers or letters */
 
 /*
  * Servers configuration
@@ -35,7 +36,7 @@ $cfg['Servers'][$i]['AllowNoPassword'] = false;
 
 /*
  * Second server
- */
+ */ 
 $i++;
 /* Authentication type */
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
@@ -47,4 +48,3 @@ $cfg['Servers'][$i]['AllowNoPassword'] = false;
 
 
 ?>
-
