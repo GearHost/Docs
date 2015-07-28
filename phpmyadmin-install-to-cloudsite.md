@@ -39,7 +39,9 @@ In the control panel go back to your CloudSite and launch it. You can use the la
 
 ![step-5]
 
-* You can now login with your database user name and password as well as select which MySQL server you wish to connect to. 
+* You can now login with your database user name and password as well as select which MySQL server you wish to connect to.
+
+ 
 ![step-9]
 
 * You can find this in the control panel under databases and then click on the database you wish to view. 
