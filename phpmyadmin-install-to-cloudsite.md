@@ -32,7 +32,7 @@ http://www.phpmyadmin.net/home_page/downloads.php
 * Download the following file: [config.inc.php](https://raw.githubusercontent.com/GearHost/docs/master/files/config.inc.php) . This file is already configured to connect to our MySQL servers.
 * Open the config.inc.php and update the keyword "PLEASEUPDATEME" on line 17 to any random letters & numbers. This would be for cookie encryption. It can be something such as "123651b1561d891651" then save the file. 
 * Upload config.inc.php to the wwwroot of your phpMyAdmin CloudSite. 
-* Delete the "setup" directory, "hostingstart.html" and "config.sample.inc.php" file.
+* After the file is uploaded delete the "setup" directory and "config.sample.inc.php" file.
 
 In the control panel go back to your CloudSite and launch it. You can use the launch button. 
 
@@ -40,7 +40,7 @@ In the control panel go back to your CloudSite and launch it. You can use the la
 ![step-5]
 
 * You can now login with your database user name and password as well as select which MySQL server you wish to connect to. 
-![step-9]
+[step-9]
 
 * You can find this in the control panel under databases and then click on the database you wish to view. 
 
