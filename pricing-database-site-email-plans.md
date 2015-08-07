@@ -24,6 +24,12 @@ $1.00 per additional gigabyte of MSSQL and MYSQL database hosting
 $2.00 per additional gigabyte of space on email
 
 ___
+###Other
+$5 per addtional standard worker instance
+
+$25 per additional reserved node worker instance
+
+___
 ###How do I get additional space on my plan?
 Your plan will automatically expand once you have gone over the plan limits for your site, email or database. You do not have to do anything!
 ___
