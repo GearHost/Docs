@@ -8,6 +8,7 @@ Teams are a way to invite people to help work on your cloudsites but keep your b
 * Add/delete databases
 * Add/delete email
 * Upgrade any plan
+* Open/close support tickets
 
 ![step1]
 
