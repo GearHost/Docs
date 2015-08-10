@@ -9,14 +9,29 @@ Teams are a way to invite people to help work on your cloudsites but keep your b
 * Add/delete email
 * Upgrade any plan
 
+![step1]
+
 They will not be able to access or change any of your billing details
 ###How do I create a team?
-Log into your account at https://my.gearhost.com
+1. Log into your account at https://my.gearhost.com
 
-Select the Settings menu
+2. Select the Settings menu
 
-Select the Team Tab
+![step4]
 
-Select Invite members
+3. Select the Team Tab
 
-Members will find their invite in their email 
+![step2]
+
+4. Select Invite members
+
+![step3]
+
+5. Members will find their invite in their email
+
+
+
+[step1]: https://raw.githubusercontent.com/GearHost/docs/master/Images/teams-status.png
+[step2]: https://raw.githubusercontent.com/GearHost/docs/master/Images/teams-settings.png
+[step3]: https://raw.githubusercontent.com/GearHost/docs/master/Images/teams-send-invites.png
+[step4]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-settings.png
