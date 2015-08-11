@@ -17,7 +17,7 @@ Email: $5/mo (requires standard option)
 ____
 ###Additional space
 
-$0.50 per additional gigabyte of disk space on your site
+$0.25 per additional gigabyte of disk space on your site
 
 $1.00 per additional gigabyte of MSSQL and MYSQL database hosting
 
