@@ -8,7 +8,7 @@ Below we'll walk through setting up deployment credentials and using those in Vi
 1. After logging into your control panel click on CloudSites and choose the site you want to publish to. Select the "Publish" icon.
  
 2. Click on the button Download Publishing File.
-![publish file](https://raw.githubusercontent.com/GearHost/docs/master/Images/publishfile.png)
+![publishfile]
  
 3. The publishing file contains all of the information that Visual Studio will need to connect from your local computer to your cloudsite.  Open your solution and right click on the project name, then select publish.  *Your site cannot be running in debug for this option to appear.*
  
@@ -30,3 +30,4 @@ Below we'll walk through setting up deployment credentials and using those in Vi
 
  
 
+[publishfile]: https://raw.githubusercontent.com/GearHost/docs/master/Images/publishfile.png
