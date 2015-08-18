@@ -1,4 +1,4 @@
-#Configure IMAP Or POP Email On IPhone (IOS)
+#Configure IMAP Email On IPhone (IOS)
 
 Click on the **Settings** button to your iPhone apps.
 
