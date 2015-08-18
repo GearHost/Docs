@@ -39,9 +39,9 @@ Fill out the requested fields and click **Next.**
 ###Incoming Mail Server
 
 Host Name: mail.example.com*  *replace "example.com" with your domain name.
-(IE: **mail.imonroy.com**)
+(IE: mail.imonroy.com )
 
-User Name: Your Full Email Address (IE: **bob@imonroy.com**)
+User Name: Your Full Email Address (IE: bob@imonroy.com)
 
 
 Password: Email Account Password
