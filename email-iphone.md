@@ -87,5 +87,3 @@ Your account is now added!
 [ziphone-9]: https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone9.png
 [ziphone-10]: https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone10.png
 [ziphone-11]: https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone11.png
-[ziphone-12]: https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone12.png
-[ziphone-13]: https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone13.png
