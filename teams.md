@@ -20,15 +20,22 @@ They will not be able to access or change any of your billing details
 
 ![step4]
 
-3. Select the Team Tab
+3 . Select the Team Tab
 
 ![step2]
 
-4. Select Invite members
+4 . Select Invite members
 
 ![step3]
 
-5. Members will find their invite in their email
+5 . Members will find their invite in their email
+
+##I have been invited to a team- how do I access my team?
+
+1. In your email you will have a confirmation link to activate the team
+2. Once you have followed the link you can access your teams by selecting the settings menu
+3. Select the Teams Tab
+4. Select "Join"
 
 
 
