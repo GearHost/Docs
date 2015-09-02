@@ -1,275 +1,271 @@
 [
-   {
+   ,{
        "file": "1-click-install-joomla.md",
-       "title": ""
+       "title": "1-click install Joomla"
    }
    ,{
        "file": "add-a-credit-card-to-your-account.md",
-       "title": "Adding a credit card to your Octane account"
+       "title": "Add a credit card to your account"
    }
    ,{
        "file": "android-setup.md",
-       "title": ""
+       "title": "Android setup"
    }
    ,{
        "file": "applicationhost-config-advanced-configuration.md",
-       "title": ""
+       "title": "Applicationhost config advanced configuration"
    }
    ,{
        "file": "ASP-parenting-paths.md",
-       "title": ""
+       "title": "ASP parenting paths"
    }
    ,{
        "file": "change-php-version.md",
-       "title": ""
+       "title": "Change PHP version"
    }
    ,{
        "file": "changing-nameservers.md",
-       "title": ""
+       "title": "Changing nameservers"
    }
    ,{
        "file": "cloudsite-overview-page.md",
-       "title": ""
+       "title": "CloudSite overview page"
    }
    ,{
        "file": "compromised-hacked-website.md",
-       "title": ""
+       "title": "Compromised hacked website"
    }
    ,{
        "file": "connecting-to-a-sql-database-using-sql-server-management-studio-2014.md",
-       "title": ""
+       "title": "Connecting to a sql database using Sql Server Management Studio 2014"
    }
    ,{
        "file": "connecting-to-mysql-database.md",
-       "title": ""
+       "title": "Connecting to mysql database"
    }
    ,{
        "file": "create-a-cloudsite.md",
-       "title": ""
+       "title": "Create a CloudSite"
    }
    ,{
        "file": "database-suspension.md",
-       "title": ""
+       "title": "Database suspension"
    }
    ,{
        "file": "difference-free-shared-reserved-plans.md",
-       "title": ""
+       "title": "Difference free shared reserved plans"
    }
    ,{
        "file": "email-change-password.md",
-       "title": ""
+       "title": "Email change password"
    }
    ,{
        "file": "email-enable.md",
-       "title": ""
+       "title": "Email enable"
    }
    ,{
        "file": "email-iphone.md",
-       "title": ""
+       "title": "Email iPhone"
    }
    ,{
        "file": "email-outlook.md",
-       "title": ""
+       "title": "Email outlook"
    }
    ,{
        "file": "email-php-example.md",
-       "title": ""
+       "title": "Email PHP example"
    }
    ,{
        "file": "email-sending-policy-and-restrictions.md",
-       "title": ""
+       "title": "Email sending policy and restrictions"
    }
    ,{
        "file": "enable-classic-asp-errors.md",
-       "title": ""
+       "title": "Enable classic ASP errors"
    }
    ,{
        "file": "General client settings.md",
-       "title": ""
+       "title": "General client settings"
    }
    ,{
        "file": "getting-started.md",
-       "title": ""
+       "title": "Getting started"
    }
    ,{
        "file": "git-deploy-your-application.md",
-       "title": ""
+       "title": "Git deploy your application"
    }
    ,{
        "file": "gmail-mx-records.md",
-       "title": ""
+       "title": "Gmail MX records"
    }
    ,{
        "file": "handler-mappings.md",
-       "title": ""
+       "title": "Handler mappings"
    }
    ,{
        "file": "how-do-i-access-my-legacy-account.md",
-       "title": ""
+       "title": "How do i access my legacy account"
    }
    ,{
        "file": "how-to-backup-your-database.md",
-       "title": ""
+       "title": "How to backup your database"
    }
    ,{
        "file": "how-to-configure-a-custom-domain-name.md",
-       "title": ""
+       "title": "How to configure a custom domain name"
    }
    ,{
        "file": "how-to-install-a-ssl-certificate.md",
-       "title": ""
+       "title": "How to install a ssl certificate"
    }
    ,{
        "file": "how-to-install-an-application-from-gallery.md",
-       "title": ""
+       "title": "How to install an application from gallery"
    }
    ,{
        "file": "how-to-publish-your-app-from-visual-studio-2013.md",
-       "title": ""
+       "title": "How to publish your app from visual studio 2013"
    }
    ,{
        "file": "how-to-publish-your-app-with-ftp.md",
-       "title": ""
+       "title": "How to publish your app with FTP"
    }
    ,{
        "file": "how-to-reset-your-gearhost-password.md",
-       "title": ""
+       "title": "How to reset your GearHost password"
    }
    ,{
        "file": "how-to-restore-a-database.md",
-       "title": ""
+       "title": "How to restore a database"
    }
    ,{
        "file": "how-to-scale-your-cloudsite.md",
-       "title": ""
+       "title": "How to scale your CloudSite"
    }
    ,{
        "file": "installing-php-and-zend-extensions.md",
-       "title": ""
+       "title": "Installing php and zend extensions"
    }
    ,{
        "file": "Installing-WordPress-Manually.md",
-       "title": ""
-   }
-   ,{
-       "file": "license.txt",
-       "title": ""
+       "title": "Installing WordPress Manually"
    }
    ,{
        "file": "manage-default-documents.md",
-       "title": ""
+       "title": "Manage default documents"
    }
    ,{
        "file": "migrating.md",
-       "title": ""
+       "title": "Migrating"
    }
    ,{
        "file": "my-site-is-suspended.md",
-       "title": ""
+       "title": "My site is suspended"
    }
    ,{
        "file": "new-account-signup.md",
-       "title": ""
+       "title": "New account signup"
    }
    ,{
        "file": "overriding-connection-strings.md",
-       "title": ""
+       "title": "Overriding connection strings"
    }
    ,{
        "file": "permission-settings-relative-pathing.md",
-       "title": ""
+       "title": "Permission settings relative pathing"
    }
    ,{
        "file": "php-user-ini.md",
-       "title": ""
+       "title": "PHP user ini"
    }
    ,{
        "file": "phpmyadmin-install-to-cloudsite.md",
-       "title": ""
+       "title": "Phpmyadmin install to CloudSite"
    }
    ,{
        "file": "pricing-database-site-email-plans.md",
-       "title": ""
+       "title": "Pricing database site email plans"
    }
    ,{
        "file": "publish-via-webmatrix-3.md",
-       "title": ""
+       "title": "Publish via webmatrix 3"
    }
    ,{
        "file": "quick-install-dnn.md",
-       "title": ""
+       "title": "Quick install dnn"
    }
    ,{
        "file": "quick-install-wordpress.md",
-       "title": ""
+       "title": "Quick install wordpress"
    }
    ,{
        "file": "restart-cloudsite.md",
-       "title": ""
+       "title": "Restart CloudSite"
    }
    ,{
        "file": "review-gearhost.md",
-       "title": ""
+       "title": "Review GearHost"
    }
    ,{
        "file": "scaling-reserved.md",
-       "title": ""
+       "title": "Scaling reserved"
    }
    ,{
        "file": "sending-emails-SMTP.md",
-       "title": ""
+       "title": "Sending emails SMTP"
    }
    ,{
        "file": "site-diagnostics.md",
-       "title": ""
+       "title": "Site diagnostics"
    }
    ,{
        "file": "solving-a-503-error.md",
-       "title": ""
+       "title": "Solving a 503 error"
    }
    ,{
        "file": "support-policy.md",
-       "title": ""
+       "title": "Support policy"
    }
    ,{
        "file": "supported-technologies.md",
-       "title": ""
+       "title": "Supported technologies"
    }
    ,{
        "file": "teams.md",
-       "title": ""
+       "title": "Teams"
    }
    ,{
        "file": "test-your-site-before-switching-DNS.md",
-       "title": ""
+       "title": "Test your site before switching DNS"
    }
    ,{
        "file": "two-factor-authentication.md",
-       "title": ""
+       "title": "Two factor authentication"
    }
    ,{
        "file": "update-your-account-info.md",
-       "title": ""
+       "title": "Update your account info"
    }
    ,{
        "file": "virtual-directory.md",
-       "title": ""
+       "title": "Virtual directory"
    }
    ,{
        "file": "web-credentials.md",
-       "title": ""
+       "title": "Web credentials"
    }
    ,{
        "file": "what-are-deployment-credentials.md",
-       "title": ""
+       "title": "What are deployment credentials"
    }
    ,{
        "file": "what-does-gearhost-back-for-me.md",
-       "title": ""
+       "title": "What does GearHost back for me"
    }
    ,{
        "file": "xdt-transform-sample.md",
-       "title": ""
+       "title": "XDT transform sample"
    }
 ]
 
