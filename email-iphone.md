@@ -2,28 +2,28 @@
 
 Click on the **Settings** button to your iPhone apps.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/iphone1.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/iphone1.png" width="450" height="798.25" />
  
 
 Click **Mail, Contacts, Calendars.**
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone2.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone2.png" width="450" height="798.25" />
 
 
 Click **Add Account...**
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone3.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone3.png" width="450" height="798.25" />
 
 
 Select **Other**.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone4.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone4.png" width="450" height="798.25" />
 
 
 
 Click **Add Mail Account**.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone5.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone5.png" width="450" height="798.25" />
 
 
  **Name**: Your Name
@@ -37,7 +37,7 @@ Description:   This is how your account will appear on **your** iPhone.
 
 Fill out the requested fields and click **Next.**
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone6.png" width="450" height="600" /> 
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone6.png" width="450" height="798.25" /> 
 
 
 ###Incoming Mail Server
@@ -50,14 +50,14 @@ User Name: Your Full Email Address (IE: bob@imonroy.com)
 
 Password: Email Account Password
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone7.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone7.png" width="450" height="798.25" />
 
 
 
 Fill out the Outgoing mail server information, exact same settings as Incoming.
 Select **Next.**
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone8.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone8.png" width="450" height="798.25" />
 
 
 
@@ -69,15 +69,15 @@ Click on **Continue** to get past the errors twice. (One for incoming and one fo
 
  
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone9.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone9.png" width="450" height="798.25" />
 
 
 Select **Save.**
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone10.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone10.png" width="450" height="798.25" />
 
 
 Your account is now added!
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone11.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone11.png" width="450" height="798.25" />
 
