@@ -8,7 +8,7 @@ Note: Prior to following the steps below be sure to make sure IMAP and or POP3 r
 
 2. Input the email address of the account you are setting up and its password, then click Manual Setup.
 3. 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-incoming.png" width="150;" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-incoming.png" style="max-width:25%;">
 
 3. Select what delivery protocol you wish to use:
 
