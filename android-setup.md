@@ -7,8 +7,8 @@ Note: Prior to following the steps below be sure to make sure IMAP and or POP3 r
 1. Open the mail app of your choice and add a new account.  By default the app may bring you straight to setup if you have no previous accounts setup.
 
 2. Input the email address of the account you are setting up and its password, then click Manual Setup.
-3. 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-incoming.png" style="max-width:25%;">
+
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-incoming.png" width="450" height="800" />
 
 3. Select what delivery protocol you wish to use:
 
@@ -27,11 +27,11 @@ Exchange: Only use this option if you have an exchange account through Gearhost.
 
 5. You will need to change the SMTP server to mail.your-domain.com.  Make sure it matches the image below, replacing gearhost with your domain. Click Next.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-outgoing.png" style="width: 25px;" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-outgoing.png" width="450" height="800" />
 
 6. The next screen has options you can choose based on your own preferences.  We recommend the defaults as shown below.  Click Next.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-setup-timeset.png" style="width: 25px;" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-setup-timeset.png" width="450" height="800" />
 
 7. Now you can Label this account, by default it is your email address, however we recommend the company or domain the email is for.  Click Next.
 
