@@ -2,7 +2,7 @@
 
 Click on the **Settings** button to your iPhone apps.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone1.png" width="450" height="600" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/iphone1.png" width="450" height="600" />
 
 
 Click **Mail, Contacts, Calendars.**
