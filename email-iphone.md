@@ -21,7 +21,7 @@ Select **Other**.
 
 
 
-Click **Add Mail Account**.
+Click **Add Mail Account**.  
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/ziphone5.png" width="450" height="798.25" />
 
