@@ -12,7 +12,7 @@ For the DNS portal to work, it will require for your domain to point to the foll
 You can check the dns zone and current registrar for a domain [here](http://network-tools.com/default.asp).
 
 
-1. Login to your [cloudsite](http://my.gearhost.com/CloudSite)
+1. Login to your [hosting portal](http://my.gearhost.com/).
 
 2. On the top left menu, click on **CloudSites** and select the CloudSite.
 
