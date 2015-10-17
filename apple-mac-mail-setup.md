@@ -4,7 +4,7 @@ If this is your first time opening **Apple Mail** and you have not already confi
 Select **Add Other Mail Account.**
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail1.png" width="650" height="425" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail1.png" />
 
 Add your name, e-mail account and password and click **Create.**
 
@@ -40,11 +40,14 @@ Click **Connect** and your e-mail account should be set up.
 
 ###Additional Tips
 To edit your SMTP settings, select the **Menu** tab and click **Preferences**.
+
+
 Select the e-mail account and you will see a **Outgoing Mail Server (SMTP)** option.
+
 Click on that and select **Edit SMTP Server List**
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail6.png" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail6.png" width="445" />
 
 From here you can modify outgoing ports, connections types and more.
 
