@@ -16,7 +16,9 @@ Replace "yourdomain.com" with your domain name.
 
 ----------
 
-Select IMAP or POP3 and put your e-mail account username and password. **Click Next.**
+Select IMAP or POP3 and put your e-mail account username and password.
+
+**Click Next.**
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail3.png" />
 
 The SMTP server is **mail.yourdomain.com** as well.
@@ -24,7 +26,9 @@ Put your e-mail username and password again.
 
 If you receive an *"identity of mail.yourdomain.com cannot be verified"* message, it can be ignored.
 
- Click **Connect** and your e-mail account should be set up.
+Click **Connect** and your e-mail account should be set up.
+
+
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail4.png" />
 
 
