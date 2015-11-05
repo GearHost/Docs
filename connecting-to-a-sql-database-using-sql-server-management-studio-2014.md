@@ -7,7 +7,7 @@ This article covers 3 steps needed to connect to your SQL database with GearHost
 3. [Connect to your SQL Server Database using SSMS](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-connect-to-your-sql-server-database-using-ssms)
 
 ##Install SQL Server Management Studio 2014 (SSMS)
-1. Download and install [SQL Server Management Studio 2014](http://msdn.microsoft.com/en-us/evalcenter/dn434042.aspx)
+1. Download and install [SQL Server Management Studio 2014](https://www.microsoft.com/en-us/download/details.aspx?id=42299)
 
 > Note that GearHost uses SQL Server 2014 and older versions of SQL Server Management Studio will not work correctly. Please ensure you are using SSMS 2014.
 
