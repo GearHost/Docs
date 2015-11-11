@@ -33,5 +33,13 @@ This should generate your CSR which can be viewed by selecting **Actions** and *
 
 **Tip** You can use this [online tool](https://www.sslshopper.com/csr-decoder.html ) to verify that the CSR information is correct or formatted correctly.
 
-**B step 3.** Awesome, now that you have your CSR code you can submit it to your SSL vendor!
+
+----------
+
+
+**A)** Your order will start processing, and you will receive an e-mail from digicert. Please check their e-mail and approve their terms and conditions. It's also possible that they will contact you directly and request  further verification from you. After this is done, they will proceed with providing your the domain certificate via e-mail. Please click [here](http://example.org) to proceed with the next step.
+
+
+
+**B)** Awesome, now that you have your CSR code you can submit it to your SSL vendor!
 Click [here](https://www.gearhost.com/documentation/CSR-and-your-vendor-third-party-ssl) to proceed with your next step! 
