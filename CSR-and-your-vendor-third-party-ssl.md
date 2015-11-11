@@ -1,5 +1,5 @@
-#Providing the CSR to your vendor.
-In this step, this is where you provide your CSR code to your SSL vendor. Here would be the most common questions they ask for. 
+#Providing the CSR to your vendor and uploading your certificate.
+In this section you will be able to provide the CSR code and other information to your SSL vendor. As well as uploading your certificate through your hosting portal. Here would be the most common questions they ask for. 
 
 **What type of server should I pick?**
 
@@ -16,16 +16,18 @@ One common option is to create the e-mail account **admin@yourdomain.com**. They
 
 ###I've done as requested and submitted my order, what now?
 
-After they're done verifying the domain, they will eventually proceed with e-mailing your the certificate (SSL) after it's been issued. Once you receiving the SSL attachments, please proceed with the guide.
+After they're done verifying the domain, they will eventually proceed with e-mailing your the certificate (SSL) after it's been issued. Once you receive their SSL attachments, please proceed with the guide.
 
 ----------
 
 
 ##I now have my certificate files, what do I do now?
-Login to my.gearhost.com and go to **Certificates.** Select **Actions** and **Upload Signed Certificate.**
+Login to your [portal](https://my.gearhost.com) and go to **Certificates.** Select **Actions** and **Upload Signed Certificate.**
+
 Look for your domain certificate, it should look something like **www_ domain_com.crt** 
 
 After it's uploaded click on **Actions**, select **Generate PFX** and generate a strong password. This will download a .pfx file in your local computer. 
+
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr2.png" />
 
