@@ -21,4 +21,4 @@ There are two methods for installing your SSL. You can purchase it from us or a 
 
 2. Generate a CSR. Please click [here](https://www.gearhost.com/documentation/CSR%20-%20certificate%20signing%20request) to view this step.
 2. Provide the CSR  to your vendor and upload their certificate. Please click [here](https://www.gearhost.com/documentation/CSR-and-your-vendor-third-party-ssl)
-2. Upload your.pfx into your cloudsite. This would be the [guide](https://www.gearhost.com/documentation/how-to-install-a-ssl-certificate)
+2. Upload your.pfx into your cloudsite. This would be the [guide](https://www.gearhost.com/documentation/how-to-install-a-pfx)

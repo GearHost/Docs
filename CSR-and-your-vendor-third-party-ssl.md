@@ -34,4 +34,4 @@ After it's uploaded click on **Actions**, select **Generate PFX** and generate a
 ###What is a .PFX file?
 A .PFX file would be a file that has both your www.domain.com.crt and private .key file combined. When you generate a CSR, we provide you with a CSR code and a private key that's stored on our servers.
 
-###You may now proceed with the last [step.](https://www.gearhost.com/documentation/how-to-install-a-ssl-certificate)
+###You may now proceed with the last [step.](https://www.gearhost.com/documentation/how-to-install-a-pfx)

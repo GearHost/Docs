@@ -1,6 +1,6 @@
 #Installing your PFX certificate
 
-Please note that you must have your certificate in a **.pfx** file format for the certificate to be imported and attached to your account. If you're not on this step yet, please refer to the following [guide.](https://www.gearhost.com/documentation/SSL-installation)
+Please note that you must have your certificate in a **.pfx** file format for the certificate to be imported and attached to your account. If you're not on this step yet, please refer to the following [guide.](https://www.gearhost.com/documentation/SSL-installation-steps)
 
 1. Click on **Cloudsites** from the menu, and select your cloudsite.
  
