@@ -16,4 +16,20 @@ One common option is to create the e-mail account **admin@yourdomain.com**. They
 
 ###I've done as requested and submitted my order, what now?
 
-After they're done verifying the domain, they will eventually proceed with e-mailing your the certificate (SSL) after it's been issued. Once you receiving the SSL attachments, please proceed with the following [step.](http://example.com)
+After they're done verifying the domain, they will eventually proceed with e-mailing your the certificate (SSL) after it's been issued. Once you receiving the SSL attachments, please proceed with the guide.
+
+----------
+
+
+##I now have my certificate files, what do I do now?
+Login to my.gearhost.com and go to **Certificates.** Select **Actions** and **Upload Signed Certificate.**
+Look for your domain certificate, it should look something like **www_ domain_com.crt** 
+
+After it's uploaded click on **Actions**, select **Generate PFX** and generate a strong password. This will download a .pfx file in your local computer. 
+
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr2.png" />
+
+###What is a .PFX file?
+A .PFX file would be a file that has both your www.domain.com.crt and private .key file combined. When you generate a CSR, we provide you with a CSR code and a private key that's stored on our servers.
+
+###You may now proceed with the last [step.](http://example.org)
