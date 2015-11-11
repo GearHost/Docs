@@ -34,4 +34,4 @@ This should generate your CSR which can be viewed by selecting **Actions** and *
 **Tip** You can use this [online tool](https://www.sslshopper.com/csr-decoder.html ) to verify that the CSR information is correct or formatted correctly.
 
 **B step 3.** Awesome, now that you have your CSR code you can submit it to your SSL vendor!
-Click on the following Link to proceed with the next step. 
+Click [here](https://www.gearhost.com/documentation/CSR-and-your-vendor-third-party-ssl) to proceed with your next step! 
