@@ -2,7 +2,7 @@
 
 A **Certificate Signing Request** is a message sent from an applicant (You) to a certificate authority (SSL vendor) in order to apply for a digital identity certificate (SSL).
 
-#How do I get started?#
+##How do I get started?#
 
 
 
