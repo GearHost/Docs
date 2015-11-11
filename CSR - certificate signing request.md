@@ -7,7 +7,7 @@ A **Certificate Signing Request** is a message sent from an applicant (You) to a
 
 
 **1.** At the top left menu, click on **Certificates**
-and then **Create Certificate**
+and then **Create Certificate.**
 There will be two options, please chose your preferred one.
 
 
@@ -24,7 +24,8 @@ Select **I want to generate CSR and buy a certificate in other place**, click **
 
 
 
-**2.**  Fill out the requested CSR information and click **Next** 
+**2.**  Fill out the requested CSR information and click **Next.** 
+
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr1.png" />
 
