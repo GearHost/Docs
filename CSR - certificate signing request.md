@@ -37,7 +37,7 @@ This should generate your CSR which can be viewed by selecting **Actions** and *
 ----------
 
 
-**A)** Your order will start processing, and you will receive an e-mail from digicert. Please check their e-mail and approve their terms and conditions. It's also possible that they will contact you directly and request  further verification from you. After this is done, they will proceed with providing your the domain certificate via e-mail. Please click [here](http://example.org) to proceed with the next step.
+**A)** Your order will start processing, and you will receive an e-mail from Digicert. Please check their e-mail and approve their terms and conditions. It's also possible that they will contact you directly and request  further verification from you. After this is done, they will proceed with providing your the certificate via e-mail. Please click [here](https://www.gearhost.com/documentation/upload-certificate) to proceed with the next step.
 
 
 

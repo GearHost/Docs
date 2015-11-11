@@ -14,7 +14,7 @@ SHA-2.
 One common option is to create the e-mail account **admin@yourdomain.com**. They will send you an e-mail for you to approve of the request. The other alternative is they will have you upload a file in your root directory 
 **(/wwwroot/)** for them to verify that you're indeed the domain owner. Pick whatever option is easier for you. If you have any issues with this step, it would be best to contact them directly. 
 
-###I've done as requested and submitted my order, what now?
+**I've done as requested and submitted my order, what now?**
 
-After they're done verifying the domain, they will eventually proceed with e-mailing your the certificate (SSL) after it's been issued. Once you receive their SSL attachments, please click [here](http://example.org) to proceed with the next step.
+They will proceed with verifying the order and e-mailing your the certificate (SSL). After you receive their SSL attachments, please click [here](https://www.gearhost.com/documentation/upload-certificate) to proceed with the next step.
 
