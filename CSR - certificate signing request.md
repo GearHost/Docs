@@ -27,7 +27,7 @@ Select **I want to generate CSR and buy a certificate in other place**, click **
 **2.**  Fill out the requested CSR information and click **Next.** 
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr1.png" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr1.png" width="70%" />
 
 This should generate your CSR which can be viewed by selecting **Actions** and **View CSR.** 
 

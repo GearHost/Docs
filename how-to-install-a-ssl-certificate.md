@@ -1,36 +1,25 @@
-#Configure your SSL
+#Installing your SSL
 
-Thank you for choosing to use Octane you can use this document as a guide to configure your Secure Socket Layer (SSL)
+Please note that you must have your certificate in a **.pfx** file format for the certificate to be imported and attached to your account. If you're not on this step yet, please refer to the following [guide.](https://www.gearhost.com/documentation/SSL-installation)
 
->Please note that you must have your certificate in a *.pfx* file format for the certificate to be imported and attached to your account.
-
-1. Select Cloudsites from the menu
-    
-    ![cloudsite][menu-cloudsites]
+1. Click on **Cloudsites** from the menu, and select your cloudsite.
  
-2. Select the site you would like to add an SSL to
+3. Click on the **SSL** tab and  **Add Certificate.**
 
-    ![img](http://i.imgur.com/So3L0f9.png)
+5. Select **Attach Certificate**, browse for your .PFX file and provide the password. 
 
-3. Select the SSL tab
- 
-    ![ssl][tab-ssl]
-
-4. Click "Add Certificate"
- 
-    ![img](http://i.imgur.com/DCx1U7K.png)
-
-5. Select "Attach Certificate" and browse to your .PFX file
-
-6. Enter the certificate password
-
-7. Click Upload
-
-    ![img](http://i.imgur.com/L5LhP4N.png)
+6. Click **Upload** and go to **SSL bindings** to update your certificate to match your domain.
 
 
-8. Under SSL bindings match the certificate drop down to the correct hostname
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr3.png" width="75%" />
+
+----------
 
 
-[menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
-[tab-ssl]: https://raw.githubusercontent.com/GearHost/docs/master/Images/tab-ssl.png
+You will have to restart your application pool by going to the **Overview** tab. After that's done, your SSL should start working and you can verify by visiting https://yourdomain.com on your browser.
+
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr4.png" /> 
+
+
+----------
+If you have any issues or concerns regarding your installation, please feel free to contact us anytime or open a ticket directly from your portal by clicking on the **Support** menu. 
