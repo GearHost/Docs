@@ -20,6 +20,7 @@ If this file does not exist, create one inside your root directory.
 
 This rule will enable your SSL to load when someone visits your domain. If you're using a CMS, it's likely that you will have to enable that function within its panel instead.
 
+
     <rule name="HTTP to HTTPS redirect" stopProcessing="true">
       <match url="(.*)" />
     <conditions>
@@ -62,6 +63,6 @@ This rule will make your domain.com redirect to any other domain you want.
     </configuration>
 
 ###HTML redirect to destination url
-You can use a HTML redirect as an alternative if that's easier for you.
+Alternatively, you can use HTML to redirect if that's easier for you.
 
     <meta http-equiv="refresh" content="0; url=http://destinationurl.com/" />
