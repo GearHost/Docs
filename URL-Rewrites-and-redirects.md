@@ -42,7 +42,7 @@ This rule will enable your SSL to load when someone visits your domain. If you'r
 
 This rule will enable WWW. on your domain.
 
-<?xml version="1.0" encoding="UTF-8"?>
+    <?xml version="1.0" encoding="UTF-8"?>
     <configuration>
       <system.webServer>
     <rewrite>
