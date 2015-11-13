@@ -21,6 +21,11 @@ If this file does not exist, create one inside your root directory.
 This rule will enable your SSL to load when someone visits your domain. If you're using a CMS, it's likely that you will have to enable that function within its panel instead.
 
 
+    <?xml version="1.0" encoding="UTF-8"?>
+    <configuration>
+      <system.webServer>
+    <rewrite>
+      <rules>
     <rule name="HTTP to HTTPS redirect" stopProcessing="true">
       <match url="(.*)" />
     <conditions>
@@ -28,11 +33,16 @@ This rule will enable your SSL to load when someone visits your domain. If you'r
     </conditions>
       <action type="Redirect" redirectType="Found" url="https://{HTTP_HOST}/{R:1}" />
     </rule>
+      </rules>
+    </rewrite>
+      </system.webServer> 
+    </configuration> 
 
 **Non-WWW to WWW rewrite**
 
 This rule will enable WWW. on your domain.
 
+<?xml version="1.0" encoding="UTF-8"?>
     <configuration>
       <system.webServer>
     <rewrite>
@@ -40,9 +50,31 @@ This rule will enable WWW. on your domain.
     <rule name="Redirect to WWW" stopProcessing="true">
       <match url=".*" />
       <conditions>
-    <add input="{HTTP_HOST}" pattern="^example.com$" />
+    <add input="{HTTP_HOST}" pattern="^YOURDOMAIN.COM$" />
       </conditions>
-      <action type="Redirect" url="http://www.example.com/{R:0}"
+      <action type="Redirect" url="http://www.YOURDOMAIN.COM/{R:0}"
+      redirectType="Permanent" />
+    </rule>
+      </rules>
+    </rewrite>
+      </system.webServer>  
+    </configuration>
+    
+**Redirect to destination url**
+
+This rule will make your domain.com redirect to any other domain you want.
+    
+    <?xml version="1.0" encoding="UTF-8"?>
+    <configuration>
+      <system.webServer>
+    <rewrite>
+      <rules>
+    <rule name="Redirect to another url" stopProcessing="true">
+      <match url=".*" />
+      <conditions>
+    <add input="{HTTP_HOST}" pattern="^yourdomain.com$" />
+      </conditions>
+      <action type="Redirect" url="http://www.destinationurl.com/{R:0}"
       redirectType="Permanent" />
     </rule>
       </rules>
@@ -50,17 +82,6 @@ This rule will enable WWW. on your domain.
       </system.webServer> 
     </configuration>
 
-    
-**Redirect to destination url**
-
-This rule will make your domain.com redirect to any other domain you want.
-
-    <?xml version="1.0" encoding="UTF-8"?>
-    <configuration>
-    <system.webServer>
-    <httpRedirect enabled="true" destination="http://destinationurl.com" />
-    </system.webServer>
-    </configuration>
 
 ###HTML redirect to destination url
 Alternatively, you can use HTML to redirect if that's easier for you.
