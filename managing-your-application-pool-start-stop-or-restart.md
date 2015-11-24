@@ -16,7 +16,7 @@ As an example, I'll be choosing the **austin** cloudsite by clicking on the blue
 ----------
 
 
-This should take you to the "**Overview** menu tab. Scroll down until you see the **Quick Glance** section. 
+This should take you to the **Overview** menu. Scroll down until you see the **Quick Glance** section at the bottom right. 
 
 From here you will be able to Start, Stop or Recycle your application pool. 
 
