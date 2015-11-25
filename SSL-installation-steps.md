@@ -4,9 +4,11 @@ There are two methods for installing your SSL. Please choose step **A** or **B**
 
 
 
-**Tip:** Purchasing the SSL through us comes with the benefit of us assisting you with any SSL or ordering issues. We use Digicert as our vendor who is trusted by many major companies. Here is a [list](https://www.digicert.com/welcome/who-uses-digicert.htm) of companies who trust [Digicert.](https://www.digicert.com/)
+**Tip:** Purchasing the SSL through us comes with the benefit of us assisting you with any SSL or ordering issues. We use Digicert as our vendor who is trusted by many major companies. Here is a list of companies who trust [Digicert.](https://www.digicert.com/)
 
+----------
 
+<img src="https://www.digicert.com/images/our-customers-v2.png" width="100%" height="" />
 
 ----------
 
