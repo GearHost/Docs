@@ -10,6 +10,8 @@ A **Certificate Signing Request** is a message sent from an applicant (You) to a
 and then **Create Certificate.**
 There will be two options, please chose your preferred one.
 
+*Not sure about which certificate to get? Please click [here.](https://www.gearhost.com/documentation/SSL-types-pricing)*
+
 
 ####A) I want a SSL from you directly#
 Select **I want to buy new SSL certificate via GearHost** and click **Next.** Proceed with selecting your desired type of SSL , click **Next** and proceed with **step 2.**

@@ -53,7 +53,7 @@ Includes 3 hostnames. It's $99 per additional hostname.
 
 
 ###What's the difference between a Standard SSL and an EV ?
-The main difference is the lock that's displayed on your browser. An EV SSL requires more strict verification that you're indeed the company owner.
+The main difference is the lock that's displayed on your browser. An EV SSL requires more verification compared to a Standard certificate. .
 
 Standard SSL:
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/sslgoogle.png" />
