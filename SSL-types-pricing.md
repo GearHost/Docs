@@ -13,6 +13,13 @@ An Extended Validation SSL (EV) covers:
 - https://domain.com
 
 ----------
+A Wildcard SSL  covers:
+
+- https://*.domain.com 
+- https://domain.com
+
+----------
+
 
 An Unified Communications Certificate (SANS UCC Certificate) covers:
 
@@ -22,7 +29,7 @@ An Unified Communications Certificate (SANS UCC Certificate) covers:
 - https://www.domain3.net
 
 
-**Includes 4 hostnames. It's $49 per additional hostname**
+Includes 4 hostnames. It's $49 per additional hostname.
 
 ----------
 
@@ -34,15 +41,7 @@ An Extended Validation (EV) Multi-Domain certificate covers:
 - https://dev.anotherdomain.com
 
 
-**Includes 3 hostnames. It's $99 per additional hostname**
-
-----------
-
-
-A Wildcard SSL certificate covers:
-
-- https://*.domain.com 
-- https://domain.com
+Includes 3 hostnames. It's $99 per additional hostname.
 
 ----------
 
