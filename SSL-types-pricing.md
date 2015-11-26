@@ -2,31 +2,31 @@
 
 A Standard SSL (SSL Plus) covers:
 
-- https://www.domain.com
-- https://domain.com
+- https://www.example.com
+- https://example.com
 
 ----------
 
 An Extended Validation SSL (EV) covers:
 
-- https://www.domain.com
-- https://domain.com
+- https://www.example.com
+- https://example.com
 
 ----------
 A Wildcard SSL  covers:
 
-- https://*.domain.com 
-- https://domain.com
+- https://*.example.com 
+- https://example.com
 
 ----------
 
 
 An Unified Communications Certificate (SANS UCC Certificate) covers:
 
-- https://www.domain.com
-- https://mail.domain.net
-- https://www.domain2.com
-- https://www.domain3.net
+- https://www.example.com
+- https://mail.example.net
+- https://www.example2.com
+- https://www.example3.net
 
 
 Includes 4 hostnames. It's $49 per additional hostname.
@@ -36,7 +36,7 @@ Includes 4 hostnames. It's $49 per additional hostname.
 
 An Extended Validation (EV) Multi-Domain certificate covers:
 
-- https://www.domain.com
+- https://www.example.com
 - https://mail.example.net
 - https://dev.anotherdomain.com
 
