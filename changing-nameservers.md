@@ -10,3 +10,23 @@ The two name servers for your GearHost account are:
 
 - ns1.gear.host
 - ns2.gear.host
+
+**Here would be the KB links for the most common registrars**
+
+
+- [1&1](https://help.1and1.com/domains-c36931/manage-domains-c79822/dns-c37586/use-your-own-name-server-for-a-1and1-domain-a594904.html) 
+- [BlueHost](https://my.bluehost.com/cgi/help/222) 
+- [Domain.com](https://support.cloudflare.com/hc/en-us/articles/202609134-How-do-I-change-my-domain-nameservers-at-Domain-com-) 
+- [DynaDot](https://www.dynadot.com/community/help/question/set-name-servers) 
+- [Enom](https://support.cloudflare.com/hc/en-us/articles/200171696-How-do-I-change-my-domain-nameservers-at-Enom-) 
+- [FastDomain](https://my.fastdomain.com/cgi/help/222) 
+- [Godaddy](https://www.godaddy.com/help/set-custom-nameservers-for-domains-registered-with-us-12317) 
+- [Google](https://support.cloudflare.com/hc/en-us/articles/203710814-How-Do-I-change-my-nameservers-for-Google-Domains-) 
+- [HostGator](http://support.hostgator.com/articles/hosting-guide/lets-get-started/domain-names-buy-sell-manage/changing-name-servers-with-launchpad) 
+- [Hover](https://help.hover.com/entries/21206438-How-to-Change-your-domain-name-servers-DNS-servers-Updated-Aug-2015-) 
+- [Name.com](https://www.name.com/support/articles/205934547-Changing-Your-Name-Servers) 
+- [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-can-i-change-the-nameservers-for-my-domain) 
+- [Namesilo](https://www.namesilo.com/Support/NameServer-Manager)
+
+###Where was my domain registered?
+Please click [here](http://network-tools.com/default.asp?prog=whois&host=domain.com) to view your current WhoIs/Registrar information.
