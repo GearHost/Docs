@@ -12,6 +12,11 @@ The two name servers for your GearHost account are:
 - ns2.gear.host
 
 ----------
+###Where was my domain registered?
+Please click [here](http://network-tools.com/default.asp?prog=whois&host=domain.com) to view your current WhoIs/Registrar information.
+
+----------
+
 **Click on your Registrar's Logo to view their KB link.**
 
 
@@ -46,8 +51,3 @@ The two name servers for your GearHost account are:
 
 <a href="https://www.namesilo.com/Support/NameServer-Manager"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/namesilo.png" width="100" height="75" />
 
-----------
-
-
-###Where was my domain registered?
-Please click [here](http://network-tools.com/default.asp?prog=whois&host=domain.com) to view your current WhoIs/Registrar information.
