@@ -6,7 +6,7 @@ A **Certificate Signing Request** is a message sent from an applicant (You) to a
 
 
 
-**1.** At the top left menu, click on **Certificates**
+**1.** Login to your **Octane** [hosting portal](https://my.gearhost.com). If you don't have one created, please click [here](https://my.gearhost.com/account/signup) to create an account. At the top left menu, click on **Certificates**
 and then **Create Certificate.**
 There will be two options, please chose your preferred one.
 
