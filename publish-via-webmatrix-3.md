@@ -16,7 +16,7 @@ This article covers three steps needed to publish your website to Octane with We
  	
 	![select cloudsite][select-cloudsite]
 
- - Download publishing pile
+ - Download publishing file by clicking on your **Publish** menu.
 
 	![downloading publishing file][download-publishing-file]
 
@@ -28,7 +28,7 @@ This article covers three steps needed to publish your website to Octane with We
  - Click publish
 
 	![webmatrix 3 menu][menu-webmatrix]
-
+g
 
  
  - Import publish profile
@@ -61,7 +61,7 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 
  - Visit test URL provided for your site
  
- >This test URL should be in the format of **http://cloudsitename.geat.host** where you replace cloudsitename with the name of your CloudSIte
+ >This test URL should be in the format of **http://cloudsitename.gear.host** where you replace cloudsitename with the name of your CloudSIte
 
 ###Set Up Your Database
 
@@ -96,7 +96,7 @@ If you need to set up a connection to your database for management please follow
 
 [menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
 [select-cloudsite]: https://raw.githubusercontent.com/GearHost/docs/master/Images/select-cloudsite.png
-[download-publishing-file]: https://raw.githubusercontent.com/GearHost/docs/master/Images/download-publishing-file.png
+[download-publishing-file]: https://raw.githubusercontent.com/GearHost/docs/master/Images/publishfile.png
 
 [menu-webmatrix]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-3-file-menu.png
 [webmatrix-import-publish-file]: https://raw.githubusercontent.com/GearHost/docs/master/Images/webmatrix-import-publish-file.png
