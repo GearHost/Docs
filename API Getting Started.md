@@ -7,7 +7,7 @@ You will be provided a long API Key, which would be what our blue bar covers.
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/APIkey.png"  />
 
 ----------
-**Make sure this key remains private!** APIs are triggered by POST and GET requests. This would be an example with cURL requests. You can view the API documentation under [api.gearhost.com](http://docs.gearhost.apiary.io/#)
+**Make sure this key remains private!** APIs are triggered by POST and GET requests. This would be an example using cURL requests. You can review more API documentation under [api.gearhost.com](http://docs.gearhost.apiary.io/#)
 
 ----------
 Get account information.
