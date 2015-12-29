@@ -35,7 +35,6 @@ For example your connection window should look like this:
 ![SSMS][mssql-db-login]
 
 
-[menu-databases]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
 [Login-Link]:https://my.gearhost.com/Account/Login
 [db-tab]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
 [select-db]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-select-db.png
