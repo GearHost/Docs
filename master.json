@@ -1,8 +1,12 @@
 [
-   {
-       "file": "1-click-install-joomla.md",
-       "title": "1-click install Joomla"
-   }
+  {
+    "file": "1-click-install-joomla.md",
+    "title": "1-click install Joomla"
+  }
+  ,{
+    "file": "how-to-configure-dns.md",
+    "title": "How to configure DNS"
+  }
    ,{
        "file": "add-a-credit-card-to-your-account.md",
        "title": "Add a credit card to your account"
