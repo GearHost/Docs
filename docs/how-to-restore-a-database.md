@@ -1,28 +1,26 @@
-How to Create a Database with an Existing Backup
-------------------------------------------------
+How to restore a database
+===
+Restoring a database is easy with GearHost and can be done in just a few steps. 
 
-Octane makes it easy to upload your database with an existing backup file
+###To restore a database from a backup:###
 
->To Upload Your Database
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
+2. Click the Databases menu
+3. Click the Create Database button
+4. Enter in your desired database name
+5. Select the database Plan and type
+6. Click the Restore Database button
+7. Select your file (can be a native or .zip file)
+8. Wait for the database restore process to complete
 
-1. Select 'Databases' from the left hand menu 
 
- ![Never](http://i.imgur.com/DyQ4MoC.png)
- 
-2. click 'Create Database'
+###To restore a database over an existing database:###
 
- ![gunna](http://i.imgur.com/NjrK4Mc.png)
-3. Give your database a name
+Before restoring a database over an existing database please make sure you have a working copy of the database prior to moving forward as this process requires you to first delete the database. To do this:
 
- ![give](http://i.imgur.com/wSuLeXH.png)
-4. Select the type of Database (SQL, MySQL)
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
+2. Click the Databases menu
+3. Find your database and click the delete icon
+4. Follow steps 3-8 above.
 
- ![you](http://i.imgur.com/3ZMwty4.png)
-5. Click the 'Restore from Backup' button, and select the file for restore from your local PC
-
- ![up](http://i.imgur.com/oZvJj9U.png)
-6. Click the 'Create Database' button
-
-7. When the database is complete, Octane takes you to the management page for the new database
-
-8. Here you can view the details for the new user created for the database, or create a new user
+> NOTE: Since you are creating a new database a new username/password will be issued. Please make sure to update your connection strings.
