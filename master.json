@@ -2,148 +2,152 @@
   {
     "file": "1-click-install-joomla.md",
     "title": "1-click install Joomla"
-  }
-  ,{
+  },
+  {
     "file": "how-to-configure-dns.md",
     "title": "How to configure DNS"
+  },
+  {
+    "file": "add-a-credit-card-to-your-account.md",
+    "title": "Add a credit card to your account"
+  },
+  {
+    "file": "android-setup.md",
+    "title": "Android setup"
+  },
+  {
+    "file": "applicationhost-config-advanced-configuration.md",
+    "title": "Applicationhost config advanced configuration"
+  },
+  {
+    "file": "ASP-parenting-paths.md",
+    "title": "ASP parenting paths"
+  },
+  {
+    "file": "change-php-version.md",
+    "title": "Change PHP version"
+  },
+  {
+    "file": "changing-nameservers.md",
+    "title": "Changing nameservers"
+  },
+  {
+    "file": "cloudsite-overview-page.md",
+    "title": "CloudSite overview page"
+  },
+  {
+    "file": "compromised-hacked-website.md",
+    "title": "Compromised hacked website"
+  },
+  {
+    "file": "connecting-to-a-sql-database-using-sql-server-management-studio-2014.md",
+    "title": "Connecting to a sql database using Sql Server Management Studio 2014"
+  },
+  {
+    "file": "connecting-to-mysql-database.md",
+    "title": "Connecting to mysql database"
+  },
+  {
+    "file": "create-a-cloudsite.md",
+    "title": "Create a CloudSite"
+  },
+  {
+    "file": "database-suspension.md",
+    "title": "Database suspension"
+  },
+  {
+    "file": "difference-free-shared-reserved-plans.md",
+    "title": "Difference free shared reserved plans"
+  },
+  {
+    "file": "email-change-password.md",
+    "title": "Email change password"
+  },
+  {
+    "file": "email-enable.md",
+    "title": "Email enable"
+  },
+  {
+    "file": "email-iphone.md",
+    "title": "Email iPhone"
+  },
+  {
+    "file": "email-outlook.md",
+    "title": "Email outlook"
+  },
+  {
+    "file": "email-php-example.md",
+    "title": "Email PHP example"
+  },
+  {
+    "file": "email-sending-policy-and-restrictions.md",
+    "title": "Email sending policy and restrictions"
+  },
+  {
+    "file": "enable-classic-asp-errors.md",
+    "title": "Enable classic ASP errors"
+  },
+  {
+    "file": "General client settings.md",
+    "title": "General client settings"
+  },
+  {
+    "file": "getting-started.md",
+    "title": "Getting started"
+  },
+  {
+    "file": "git-deploy-your-application.md",
+    "title": "Git deploy your application"
+  },
+  {
+    "file": "gmail-mx-records.md",
+    "title": "Gmail MX records"
+  },
+  {
+    "file": "handler-mappings.md",
+    "title": "Handler mappings"
+  },
+  {
+    "file": "how-do-i-access-my-legacy-account.md",
+    "title": "How do i access my legacy account"
+  },
+  {
+    "file": "how-to-backup-your-database.md",
+    "title": "How to backup your database"
+  },
+  {
+    "file": "how-to-configure-a-custom-domain-name.md",
+    "title": "How to configure a custom domain name"
+  },
+  {
+    "file": "how-to-install-a-ssl-certificate.md",
+    "title": "How to install a ssl certificate"
+  },
+  {
+    "file": "how-to-install-an-application-from-gallery.md",
+    "title": "How to install an application from gallery"
+  },
+  {
+    "file": "how-to-publish-your-app-from-visual-studio-2013.md",
+    "title": "How to publish your app from visual studio 2013"
+  },
+  {
+    "file": "how-to-publish-your-app-with-ftp.md",
+    "title": "How to publish your app with FTP"
+  },
+  {
+    "file": "how-to-reset-your-gearhost-password.md",
+    "title": "How to reset your GearHost password"
+  },
+  {
+    "file": "how-to-restore-a-database.md",
+    "title": "How to restore a database"
   }
-   ,{
-       "file": "add-a-credit-card-to-your-account.md",
-       "title": "Add a credit card to your account"
+  ,{
+       "file": "create-a-database.md",
+       "title": "How to create a database"
    }
-   ,{
-       "file": "android-setup.md",
-       "title": "Android setup"
-   }
-   ,{
-       "file": "applicationhost-config-advanced-configuration.md",
-       "title": "Applicationhost config advanced configuration"
-   }
-   ,{
-       "file": "ASP-parenting-paths.md",
-       "title": "ASP parenting paths"
-   }
-   ,{
-       "file": "change-php-version.md",
-       "title": "Change PHP version"
-   }
-   ,{
-       "file": "changing-nameservers.md",
-       "title": "Changing nameservers"
-   }
-   ,{
-       "file": "cloudsite-overview-page.md",
-       "title": "CloudSite overview page"
-   }
-   ,{
-       "file": "compromised-hacked-website.md",
-       "title": "Compromised hacked website"
-   }
-   ,{
-       "file": "connecting-to-a-sql-database-using-sql-server-management-studio-2014.md",
-       "title": "Connecting to a sql database using Sql Server Management Studio 2014"
-   }
-   ,{
-       "file": "connecting-to-mysql-database.md",
-       "title": "Connecting to mysql database"
-   }
-   ,{
-       "file": "create-a-cloudsite.md",
-       "title": "Create a CloudSite"
-   }
-   ,{
-       "file": "database-suspension.md",
-       "title": "Database suspension"
-   }
-   ,{
-       "file": "difference-free-shared-reserved-plans.md",
-       "title": "Difference free shared reserved plans"
-   }
-   ,{
-       "file": "email-change-password.md",
-       "title": "Email change password"
-   }
-   ,{
-       "file": "email-enable.md",
-       "title": "Email enable"
-   }
-   ,{
-       "file": "email-iphone.md",
-       "title": "Email iPhone"
-   }
-   ,{
-       "file": "email-outlook.md",
-       "title": "Email outlook"
-   }
-   ,{
-       "file": "email-php-example.md",
-       "title": "Email PHP example"
-   }
-   ,{
-       "file": "email-sending-policy-and-restrictions.md",
-       "title": "Email sending policy and restrictions"
-   }
-   ,{
-       "file": "enable-classic-asp-errors.md",
-       "title": "Enable classic ASP errors"
-   }
-   ,{
-       "file": "General client settings.md",
-       "title": "General client settings"
-   }
-   ,{
-       "file": "getting-started.md",
-       "title": "Getting started"
-   }
-   ,{
-       "file": "git-deploy-your-application.md",
-       "title": "Git deploy your application"
-   }
-   ,{
-       "file": "gmail-mx-records.md",
-       "title": "Gmail MX records"
-   }
-   ,{
-       "file": "handler-mappings.md",
-       "title": "Handler mappings"
-   }
-   ,{
-       "file": "how-do-i-access-my-legacy-account.md",
-       "title": "How do i access my legacy account"
-   }
-   ,{
-       "file": "how-to-backup-your-database.md",
-       "title": "How to backup your database"
-   }
-   ,{
-       "file": "how-to-configure-a-custom-domain-name.md",
-       "title": "How to configure a custom domain name"
-   }
-   ,{
-       "file": "how-to-install-a-ssl-certificate.md",
-       "title": "How to install a ssl certificate"
-   }
-   ,{
-       "file": "how-to-install-an-application-from-gallery.md",
-       "title": "How to install an application from gallery"
-   }
-   ,{
-       "file": "how-to-publish-your-app-from-visual-studio-2013.md",
-       "title": "How to publish your app from visual studio 2013"
-   }
-   ,{
-       "file": "how-to-publish-your-app-with-ftp.md",
-       "title": "How to publish your app with FTP"
-   }
-   ,{
-       "file": "how-to-reset-your-gearhost-password.md",
-       "title": "How to reset your GearHost password"
-   }
-   ,{
-       "file": "how-to-restore-a-database.md",
-       "title": "How to restore a database"
-   }
-   ,{
+  ,{
        "file": "how-to-scale-your-cloudsite.md",
        "title": "How to scale your CloudSite"
    }
