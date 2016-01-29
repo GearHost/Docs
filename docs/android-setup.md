@@ -8,8 +8,6 @@ Note: Prior to following the steps below be sure to make sure IMAP and or POP3 r
 
 2. Input the email address of the account you are setting up and its password, then click Manual Setup.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-incoming.png" width="450" height="800" />
-
 3. Select what delivery protocol you wish to use:
 
 POP3: (Post Office Protocol) Allows an email client to download an email from an email server. The POP3 protocol is simple and does not offer many features except for download. Its design assumes that the email client downloads all available email from the server, deletes them from the server and then disconnects. POP3 normally uses port 110.
@@ -27,11 +25,8 @@ Exchange: Only use this option if you have an exchange account through Gearhost.
 
 5. You will need to change the SMTP server to mail.your-domain.com.  Make sure it matches the image below, replacing gearhost with your domain. Click Next.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-outgoing.png" width="450" height="800" />
-
 6. The next screen has options you can choose based on your own preferences.  We recommend the defaults as shown below.  Click Next.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/android-setup-timeset.png" width="450" height="800" />
 
 7. Now you can Label this account, by default it is your email address, however we recommend the company or domain the email is for.  Click Next.
 
