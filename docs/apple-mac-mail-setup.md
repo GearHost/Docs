@@ -4,12 +4,10 @@ If this is your first time opening **Apple Mail** and you have not already confi
 Select **Add Other Mail Account.**
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail1.png" />
 
 Add your name, e-mail account and password and click **Create.**
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail2.png" />
 
 ----------
 
@@ -25,7 +23,6 @@ Select IMAP or POP3 and put your e-mail account username and password.
 **Click Next.**
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail3.png" />
 
 The SMTP server is **mail.yourdomain.com** as well.
 Put your e-mail username and password again.
@@ -34,8 +31,6 @@ If you receive an *"identity of mail.yourdomain.com cannot be verified"* message
 
 Click **Connect** and your e-mail account should be set up.
 
-
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail4.png" />
 
 
 ###Additional Tips
@@ -47,9 +42,4 @@ Select the e-mail account and you will see a **Outgoing Mail Server (SMTP)** opt
 Click on that and select **Edit SMTP Server List**
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail6.png" width="445" />
-
 From here you can modify outgoing ports, connections types and more.
-
-
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/MacMail7.png" />

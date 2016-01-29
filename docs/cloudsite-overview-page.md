@@ -14,12 +14,12 @@ The Cloudsite Overview page provides general information regarding your CloudSit
 
 1. To access the Overview page [log in][login] to your control panel and then click on CloudSites from the left hand menu. 
 
-    ![cloudsites][menu-cloudsites]
+  
 
 2. Now click on the CloudSite you wish to view the overview page for.
 3. After choosing your CloudSite the first page you will see is Overview.
 
-    ![overview][tab-overview]
+
 
 ***
 ##Dashboard  
@@ -53,10 +53,8 @@ Quick glance allows you to download your publishing file, reset it, and also set
 - Download Publishing File: This file can be used with visual studio, web matrix, or any other application that can read an xml publishing file. The publishing file contains the server address and credentials needed to publish code and content to your CloudSite. The credentials used are automatically configured for you to make it easier to publish. 
 - Reset Publishing File: This simply resets the credentials. You may need this if you switch developers and want to prevent access for past developers. 
 - Set Deployment Credentials: This configures a separate set of credentials that can be used for FTP or publishing if you are manually configuring an application to publish. 
-- Start, Stop, Recycle: These buttons allow you to quickly stop your CloudSites, Start it back up, or recycle it. You'll often do this when publishing new code to refresh everything. It can also be used in troubleshooting or to bring the CloudSite down for maintenance. You'll see the page below when your CloudSite is stopped. 
+- Start, Stop, Recycle: These buttons allow you to quickly stop your CloudSites, Start it back up, or recycle it. You'll often do this when publishing new code to refresh everything. It can also be used in troubleshooting or to bring the CloudSite down for maintenance.
 
-    ![](http://i.imgur.com/haAe14E.png)
- 
 - Site URL: This is a quick way to get to your CloudSite without having to change and wait for DNS. It will always be yourCloudSiteName.gear.host.
 - Status: The current status of your CloudSite, whether it is stopped or started. 
 - Compute Mode: This represents the type of plan you have either free, shared, or reserved. 
