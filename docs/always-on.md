@@ -8,4 +8,4 @@ Always On is included free when a CloudSite is in Reserved mode. It is also avai
 
 You can enable Always On support for a CloudSite by navigating to the CONFIG tab within a CloudSite, then toggling the Always On button:
 
-[insert pic]
+[pic]

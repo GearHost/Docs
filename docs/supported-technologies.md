@@ -1,17 +1,19 @@
 #Supported Technologies
 
-The GearHost CloudSite platform supports the following technologies.
+The CloudSite platform supports the following technologies however any flavor/version of software can be custom installed and used such as beta versions of .NET/PHP.
 
 * .NET 
-	* 4.6.1
-	* 4.5.2
+	* 4.6
+	* 4.5
 	* 3.5
+	* 2.0
  
 
 * PHP
-  * 5.3.28
-  * 5.4.30
-  * 5.5.14
+  * 5.6
+  * 5.5
+  * 5.4
+  * 5.3
   
 
 * Node.js
@@ -43,7 +45,8 @@ The GearHost CloudSite platform supports the following technologies.
   * 0.8.19
 
 * Python
-  * 2.7.3
+  * 3.4
+  * 2.7
  
 
 * Classic ASP
