@@ -20,6 +20,7 @@ The GearHost CloudSite platform supports the following technologies.
   * 0.6.20
   * 0.6.17
   * 0.10.5
+  * 5.1.1
  
 
 * Python
