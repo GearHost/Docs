@@ -42,7 +42,7 @@ Registered GearHost users can [submit new tickets](https://my.gearhost.com/accou
 If you are unable to log in or access your account, you may submit a ticket by sending an e-mail from your GearHost account email address to [help@gearhost.com](mailto:help@gearhost.com).
 
 ###4. Hours
-GearHost Support offers 12x5 coverage. Hours are 6am - 6pm Mountain Time, Monday - Friday, excluding US Holidays. Support inquiries may be submitted at any time.
+GearHost Support offers 12x5 coverage. Hours are 8am - 5pm Mountain Time, Monday - Friday, excluding US Holidays. Support inquiries may be submitted at any time.
 
 The GearHost Platform itself is monitored 24x7. See Section 5, Proactive Monitoring for more details.
 
