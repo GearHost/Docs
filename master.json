@@ -20,6 +20,10 @@
     "title": "Applicationhost config advanced configuration"
   },
   {
+    "file": "always-on.md",
+    "title": "Always On CloudSite Feature"
+  },
+  {
     "file": "ASP-parenting-paths.md",
     "title": "ASP parenting paths"
   },
