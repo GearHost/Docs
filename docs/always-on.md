@@ -4,8 +4,10 @@ By default, CloudSite apps are unloaded if they are idle for a period of time. W
 
 It is also useful as a way to keep a CloudSite active for scenarios when you want to run background code within it irrespective of whether it is actively processing external HTTP customer requests.
 
-Always On is included free when a CloudSite is in Reserved mode. It is also available in Standard mode at a cost of $5 per month per CloudSite.
+*Always On is a feature of Reserved mode CloudSite only.*
 
 You can enable Always On support for a CloudSite by navigating to the CONFIG tab within a CloudSite, then toggling the Always On button:
 
-[pic]
+![always-on]
+
+[always-on]: https://raw.githubusercontent.com/gearhost/docs/master/docs/images/alwayson.png
