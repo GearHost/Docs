@@ -10,4 +10,4 @@ You can enable Always On support for a CloudSite by navigating to the CONFIG tab
 
 ![always-on]
 
-[always-on]: https://raw.githubusercontent.com/gearhost/docs/master/docs/images/alwayson.png
+[always-on]: https://raw.githubusercontent.com/GearHost/docs/master/docs/Images/AlwaysOn.png
