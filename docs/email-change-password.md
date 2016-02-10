@@ -5,7 +5,7 @@
 
 2. Move your mouse over the settings icon and click on settings. 
 
-![settings]
+
 
 3. Now click on Account Settings. 
 
@@ -22,7 +22,6 @@ At least 8 characters.
 
 - Contains one special character (Examples: !@#$%).
 
-![password]
 
 
 5. Click save when you are finished. 
