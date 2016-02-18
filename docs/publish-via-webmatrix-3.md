@@ -24,8 +24,6 @@ This article covers three steps needed to publish your website to Octane with We
  - Click on the Remote file menu
  - Click publish
 
-g
-
  
  - Import publish profile
  
