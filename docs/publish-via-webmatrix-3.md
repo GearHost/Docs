@@ -14,11 +14,8 @@ This article covers three steps needed to publish your website to Octane with We
 
  - Select your CloudSite
  	
-	![select cloudsite][select-cloudsite]
 
  - Download publishing file by clicking on your **Publish** menu.
-
-	![downloading publishing file][download-publishing-file]
 
 > If you reset your publishing file you will need to redownload the publishing file and re-import it as the password will have changed.
 
@@ -27,28 +24,25 @@ This article covers three steps needed to publish your website to Octane with We
  - Click on the Remote file menu
  - Click publish
 
-	![webmatrix 3 menu][menu-webmatrix]
 g
 
  
  - Import publish profile
  
-	![webmatrix import publish][webmatrix-import-publish-file]
 
  - Set database (only if needed)
 	- Locate your server
 	
-	![menu-locateserver][menu-locateserver]
 	- Enter the credentials
 	
-	![webmatrix-destination][webmatrix-destination]
+	
 
 	- Password and username for the database are located under the database user section
 
-	![database-viewpass][database-viewpass]
+	
  - Validate connection
 
-	![validate connection][webmatrix-validate-connection]
+	
 
  >You can skip the test publish compatibility if you wish, the server is compatible with all static, Visual Basic, and .NET code.
 
@@ -57,7 +51,6 @@ g
 When publishing your site from WebMatrix 3 you will receive a dialog showing you the changed files in your local project vs what is on the server.  There will be an option to delete all files on the server that are not in your local development project.  
 
  
-   ![publish preview][webmatrix-publish-preview]
 
  - Visit test URL provided for your site
  
@@ -70,20 +63,16 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 1. Create a new database by going to your database menu 
 
 
-	![database-menu][database-menu]
+
 2. Set a Database name
 
 
-	![database-name][database-name]
 3. Select the database you need, either MySQL or MSSQL
 
-	![database-selectplan][database-selectplan]
 3. Select create empty database
 
-	![database-empty][database-empty]
 4. Set your password on the database to avoid the known issue of certain characters causing an issue during publishing 
-	 
-	![database-password][database-password]
+	
 
 
 If you need to set up a connection to your database for management please follow the instructions in the articles below based on your database type.
