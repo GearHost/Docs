@@ -3,7 +3,7 @@
 
 Deploy your application using a local Git repository or online Git repositories like [GitHub](http://www.github.com) and [BitBucket](http://www.bitbucket.com) if you are using a cloud based deployment solution.
 
-> Keep in mind that we support continuous deployments as well.
+> Continuous deployments are supported.
 
 ###Installing and Configuring Git
 
@@ -17,8 +17,10 @@ At the command prompt, change to the root directory for your app, and then type 
 git init
 git add .
 git commit -m "initial commit"
-git remote add websites https://*cloudsitename*.scm.gear.host/*cloudsitename*.git
+git remote add websites https://cloudsitename.scm.gear.host/cloudsitename.git
 git push websites master
 ```
 
-Your username will be $*cloudsitename* and then your password. This information can be viewed from the CloudSite Publish tab.
+>The term *cloudsitename* is the name of your Cloudsite.
+
+Your username will be $*cloudsitename* and then your publishing password. This information can be viewed from the CloudSite Publish tab.
