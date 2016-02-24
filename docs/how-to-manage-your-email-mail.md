@@ -1,4 +1,4 @@
-#How to manage your e-mail
+#Manage your e-mail accounts
 
 ----------
 This guide will explain how to login to your SmarterMail and how to modify e-mail accounts.
@@ -11,8 +11,6 @@ This guide will explain how to login to your SmarterMail and how to modify e-mai
 1. Click on your domain.
 1. Select the blue button displaying **Launch Mail.** 
 This will automatically log you in SmarterMail as the Admin user.
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/memail1.png" width=75%/> 
-
 
 ----------
 ###Manage your e-mail accounts
@@ -20,11 +18,8 @@ This will automatically log you in SmarterMail as the Admin user.
 Select the **Settings** menu on the left and under **Domain Settings** select **Users.**
 
 Double click the e-mail account you wish to modify.
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/memail2.png" width=75% height=50%/> 
 
 From here you can update the password, disable e-mail box, or modify more configurations.
-
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/memail3.png" /> 
 
 
 ----------
