@@ -29,15 +29,3 @@ This article covers 3 steps needed to connect to your SQL database with GearHost
 5. Login is your primary database username, the same name as your database name
 6. Your password is the password as revield above using the show/hide password toggle icon.
 7. Click Connect
-
-For example your connection window should look like this:
-
-![SSMS][mssql-db-login]
-
-
-[Login-Link]:https://my.gearhost.com/Account/Login
-[db-tab]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-databases.png
-[select-db]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-select-db.png
-[show-hide]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-database-showhidepassword.png
-[db-details]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-db-server.png
-[mssql-db-login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/mssql-db-login.png
