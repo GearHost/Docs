@@ -24,8 +24,8 @@
     "title": "Always On CloudSite Feature"
   },
   {
-    "file": "ASP-parenting-paths.md",
-    "title": "ASP parenting paths"
+    "file": "asp-parent-paths.md",
+    "title": "Enable Classic ASP Parent Paths"
   },
   {
     "file": "change-php-version.md",
