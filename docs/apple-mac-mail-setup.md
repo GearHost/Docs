@@ -13,8 +13,7 @@ Add your name, e-mail account and password and click **Create.**
 
  Host Name: **mail.yourdomain.com**
 
-Replace "yourdomain.com" with your domain name. 
-(I.E: mail.imonroy.com )
+Replace "yourdomain.com" with your domain name instead. 
 
 ----------
 
