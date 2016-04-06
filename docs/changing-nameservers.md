@@ -13,7 +13,13 @@ The two name servers for your GearHost account are:
 
 ----------
 ###Where was my domain registered?
-Please click [here](http://network-tools.com/default.asp?prog=whois&host=domain.com) to view your current WhoIs/Registrar information.
+You can check [here](http://network-tools.com/default.asp?prog=whois&host=domain.com) to view your current WhoIs/Registrar information.
+
+####How long does it take to update?
+Propagation can take anywhere from a couple of hours to 48 hours to fully update worldwide.
+
+####How do I check my current DNS zone?
+We recommend using [LeafDNS.](http://leafdns.com/)
 
 ----------
 
@@ -48,3 +54,9 @@ Please click [here](http://network-tools.com/default.asp?prog=whois&host=domain.
 
 
 [NameSilo](https://www.namesilo.com/Support/NameServer-Manager) 
+
+
+----------
+
+**Still feeling lost?**
+Open a support itcket and we'll be glad to clarify anything for you!

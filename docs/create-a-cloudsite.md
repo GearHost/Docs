@@ -19,7 +19,6 @@ If you are developing a new website or application you will probably want to sep
 - Shared: This plan is not restricted like the free plan, but shares the resources of web servers in the cloud with other customers. However you are guaranteed a certain level of resources so your application cannot be impacted by others. 
 - Reserved: This plan is unrestricted and gives you dedicated resources for your application or website.   
  
-  ![enter image description here](http://i.imgur.com/YrlDPBH.png)
-
+  
   5. After deciding on a plan you can choose to click on Create Empty CloudSite or Create CloudSite From Gallery. An empty CloudSite will simply build the resources you need without adding any files. If you already have an application choose empty CloudSite. If you would like to get started with a pre-built web application choose gallery and then choose the web app you wish to install. 
   6. After the CloudSite is built you will automatically be taken to the app within the control panel. From there you can configure your deployment credentials, download a publishing file, etc. 
