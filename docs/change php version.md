@@ -4,22 +4,17 @@ How to change PHP versions
 ***
 ##1. Change the version of PHP your application runs under
  
-[Log in to the control panel][Login-Link]
 
-![login][login]
+
 
 #####Click on CloudSites
-Once logged in click on CloudSites and then choose your CloudSite.
+Log in to the [control panel.][Login-Link] Once logged in click on CloudSites and then choose your CloudSite. 
 
 ![cloudsites menu][menu-cloudsites]
 
-#####Click on the Config tab.
-After you choose your CloudSite click on the config tab. 
-
-![config][tab-config]
 
 #####Select the version of PHP.
-Now you can click on the version of PHP you wish to use. GearHost supports PHP 5.3, 5.4, and 5.5. As new versions of PHP are developed for Windows and tested to be stable we will begin adding those as well. 
+Select the **Config** menu and select the version of PHP you wish to use. GearHost supports PHP 5.3, 5.4, and 5.5. As new versions of PHP are developed for Windows and tested to be stable we will begin adding those as well. 
 
 - PHP 5.3  = 5.3.28
 - PHP 5.4 = 5.4.30
