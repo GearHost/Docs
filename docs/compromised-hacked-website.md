@@ -21,4 +21,4 @@ It may be possible for you to go in the code of the website and clean out the ma
 Alternatively, there are companies that offer services for virus removal on websites.
 
 ##How can GearHost help?
- We do not offer any web development services at this time. Looking at code and cleaning your website is  beyond our scope of support. If you do not have a backup of your site we may be able to recover your site from our internal backups. Keep in mind that we may not have a working version of your site as our backups are for our internal use and only go back three days. Contact our support team by opening a ticket and we will be happy to look and see if your back up is available.    
+ We do not offer any web development services at this time. Looking at code and cleaning your website is  beyond our scope of support. We may provide WordPress upgrades for a rate of $90/hr billed on 15 minute increments, and also have backups with a retention period of five days. Please feel free to open a ticket for any concerns.   
