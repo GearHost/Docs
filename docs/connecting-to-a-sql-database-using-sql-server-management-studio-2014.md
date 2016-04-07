@@ -2,14 +2,14 @@
 
 This article covers 3 steps needed to connect to your SQL database with GearHost. The steps are:
 
-1. [Install SQL Server Management Studio 2014 (SSMS)](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-install-sql-server-management-studio-2014-ssms)
-2. [Gather your SQL Server database credentials](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-gather-your-sql-server-database-credentials)
-3. [Connect to your SQL Server Database using SSMS](https://www.gearhost.com/documentation/connect-to-sql-server#user-content-connect-to-your-sql-server-database-using-ssms)
+1. [Install SQL Server Management Studio 2014 (SSMS)](https://www.microsoft.com/en-us/download/details.aspx?id=42299)
+2. [Gather your SQL Server database credentials](https://my.gearhost.com/Databases)
+3. [Connect to your SQL Server Database using SSMS](https://www.gearhost.com/documentation/connecting-to-a-sql-database-using-sql-server-management-studio-2014#user-content-connect-to-your-sql-server-database-using-ssms)
 
 ##Install SQL Server Management Studio 2014 (SSMS)
 1. Download and install [SQL Server Management Studio 2014](https://www.microsoft.com/en-us/download/details.aspx?id=42299)
 
-> Note that GearHost uses SQL Server 2014 and older versions of SQL Server Management Studio will not work correctly. Please ensure you are using SSMS 2014.
+GearHost uses SQL Server 2014 and **older versions of SQL Server Management Studio will not work correctly.** Please ensure you are using SSMS 2014.
 
 ##Gather your SQL Server database credentials
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
@@ -29,3 +29,7 @@ This article covers 3 steps needed to connect to your SQL database with GearHost
 5. Login is your primary database username, the same name as your database name
 6. Your password is the password as revield above using the show/hide password toggle icon.
 7. Click Connect
+
+
+----------
+**Tip:** If you're still having issues, please feel free to open a support ticket.
