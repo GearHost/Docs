@@ -73,7 +73,7 @@ Are you migrating your WordPress website? Maybe it has old URLs that require upd
 
 
 ##Contact Form not working?
-We recommend installing [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) and  [WP-Mail-SMTP](https://wordpress.org/plugins/wp-mail-smtp/) plugins. After you've configuring them, try testing your contact forms on your website and it should start working!
+We recommend installing [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) and  [WP-Mail-SMTP](https://wordpress.org/plugins/wp-mail-smtp/) plugins. After you're done configuring them, try testing your contact forms and see if it works.
 
 ----------
 Still having issues? Please login to your account and open a **Support Ticket** and we'll be glad to look further into your issue. 
