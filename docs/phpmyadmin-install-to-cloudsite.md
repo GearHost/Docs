@@ -29,7 +29,7 @@ http://www.phpmyadmin.net/home_page/downloads.php
  
 
  
-* Download the following file: [config.inc.php](https://raw.githubusercontent.com/GearHost/docs/master/files/config.inc.php) . It's pre-configured to connect to our MySQL servers.
+* Download the following file: [config.inc.php](https://raw.githubusercontent.com/GearHost/docs/master/Images/other/config.inc.php) . It's pre-configured to connect to our MySQL servers.
 * Open the config.inc.php and update the keyword "PLEASEUPDATEME" on line 17 to any random letters & numbers. This would be for cookie encryption. It can be something such as "123651b1561d891651" then save the file. 
 * Upload config.inc.php to the wwwroot of your phpMyAdmin CloudSite. 
 * Delete the "setup" directory, "config.sample.inc.php" and "hostingstart.html" files.
