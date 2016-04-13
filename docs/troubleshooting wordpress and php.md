@@ -32,6 +32,26 @@ Create a .user.ini file and place it in your /site/wwwroot/. Add the following c
 On your wp-config.php file there should be a line "WP_debug" set that to true.
 
     define('WP_DEBUG', true);
+##Web.config
+You may have an issue with **web.config**, to ensure it's not that you can use the default rewrite rules provided here.
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <configuration>
+      <system.webServer>
+    <rewrite>
+      <rules>
+    			<rule name="wordpress" patternSyntax="Wildcard">
+    				<match url="*"/>
+    					<conditions>
+    						<add input="{REQUEST_FILENAME}" matchType="IsFile" negate="true"/>
+    						<add input="{REQUEST_FILENAME}" matchType="IsDirectory" negate="true"/>
+    					</conditions>
+    				<action type="Rewrite" url="index.php"/>
+    			</rule></rules>
+    </rewrite>
+      </system.webServer>
+    </configuration>
+
 
 ----------
 ##Before you start##
