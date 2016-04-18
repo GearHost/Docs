@@ -30,7 +30,7 @@ If you are developing a new website or application you will probably want to sep
 
 <br></br>
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/plan_diff_chart.PNG" alt="Drawing" style="height: 300px; width: 750px;"/> 
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/plan_diff_chart.PNG" alt="Drawing" style="height: 200px; width: 500;"/> 
 
 
 ----------
