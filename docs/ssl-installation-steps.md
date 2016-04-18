@@ -28,5 +28,5 @@ There are two methods for installing your SSL. Please choose step **A** or **B**
 2. Upload your .PFX into your cloudsite. Click [here](https://www.gearhost.com/documentation/how-to-install-a-pfx)
 
 
-####SSL types and prices
-We have a guide that displays the different types of SSL certificates along with their prices. Click [here](https://www.gearhost.com/documentation/SSL-types-pricing) to view that.
+###SSL pricing
+Click [here](https://www.gearhost.com/documentation/SSL-types-pricing) to view the prices and types of Certificates we offer. 

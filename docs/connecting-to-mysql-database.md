@@ -7,14 +7,14 @@ This article covers 3 steps needed to connect to your MySQL database hosted with
 3. [Connect to your SQL Server Database using SSMS](https://www.gearhost.com/documentation/connecting-to-mysql-database#user-content-log-in-to-mysql-workbench-with-your-credentials)
 
 ##Download and Install MySQL WorkBench
-1. Download and install [MySQL WorkBench 6.2](https://dev.mysql.com/downloads/workbench/)
+1. Download and install [MySQL WorkBench](https://dev.mysql.com/downloads/workbench/)
 
 	> Note that GearHost uses MySQL server 6 and older versions of MySQL workbench may not connect due to new password complexity and encryption methods
 
 ##Gather your MySQL Server database credentials
 
 1. Log in to your [GearHost portal.](https://my.gearhost.com)
-1. Click on the Databases menu
+1. Click on the **Databases** menu.
 	
 	
 
