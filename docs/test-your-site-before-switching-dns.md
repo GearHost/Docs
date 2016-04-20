@@ -40,9 +40,9 @@ When you are finished testing, remember to remove the custom lines that you adde
 
  ``` 
     127.0.0.1 localhost
-    204.246.56.80 example.mysite.com
-    204.246.56.80 mysite.com
-    204.246.56.80 www.mysite.com
+    107.154.50.60 example.mysite.com
+    107.154.50.60 mysite.com
+    107.154.50.60 www.mysite.com
  ```
  
  3. Save your changes
