@@ -87,3 +87,21 @@ This rule will make your domain.com redirect to any other domain you want.
 Alternatively, you can use HTML to redirect if that's easier for you.
 
     <meta http-equiv="refresh" content="0; url=http://destinationurl.com/" />
+
+
+
+###Redirect page to directory
+You can create url redirects to load a certain directory instead. 
+
+    <rules>	
+    	<rule name="about to about directory" stopProcessing="true">
+    <match url="aboutus.asp" />
+    <action type="Redirect" url="/home/about" appendQueryString="true" />
+    				</rule>
+    			</rules>
+
+
+
+----------
+
+**Tip:** If you're creating multiple redirect rules on your web.config be sure to create a different rule name for each one.
