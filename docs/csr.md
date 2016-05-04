@@ -42,4 +42,4 @@ This should generate your CSR which can be viewed by selecting **Actions** and *
 
 
 **B)** Awesome, now that you have your CSR code you can submit it to your SSL vendor!
-Click [here](https://www.gearhost.com/documentation/CSR-and-your-vendor-third-party-ssl) to proceed with your next step! 
+Click [here](https://www.gearhost.com/documentation/third-party-csr) to proceed with your next step! 
