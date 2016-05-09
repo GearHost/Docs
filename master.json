@@ -99,6 +99,10 @@
     "file": "enable-email.md",
     "title": "Enable E-mail"
   },
+  {
+    "file": "e-mail-migration.md",
+    "title": "E-mail Migration"
+  },
    {
     "file": "general-client-email-settings.md",
     "title": "General e-mail settings"
