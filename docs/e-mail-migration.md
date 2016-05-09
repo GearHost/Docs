@@ -16,7 +16,7 @@ Go to **Advanced Settings** and select the **Mailbox Migration** option.
 From here you can select the existing software your current hosting provider uses, if you're not sure you can contact your current hosting company or select OTHER to import via IMAP/POP3.
 After clicking **Next** you can select which items to import and select **Next** again.
 
-Fill out your current e-mail hosting information and select **Test Connection** and click **Next** if test is succesful. If you need assistance on this step you can contact us and we'll be glad to confirm where your e-mail server points to.
+Fill out your current e-mail hosting information and select **Test Connection** and click **Next** if test is succesful. If you need assistance in this step you can contact us and we'll be glad to confirm where your e-mail server points to.
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/mailbox_migration2.png" />
 
 
