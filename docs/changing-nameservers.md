@@ -26,34 +26,30 @@ We recommend using [LeafDNS.](http://leafdns.com/)
 **Select your Registrar to view their KB link.**
 
 
- [1and1](https://help.1and1.com/domains-c36931/manage-domains-c79822/dns-c37586/use-your-own-name-server-for-a-1and1-domain-a594904.html)
-
+<a href="https://help.1and1.com/domains-c36931/manage-domains-c79822/dns-c37586/use-your-own-name-server-for-a-1and1-domain-a594904.html"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/1and1.png" width="75" height="50" />
+[1and1](https://help.1and1.com/domains-c36931/manage-domains-c79822/dns-c37586/use-your-own-name-server-for-a-1and1-domain-a594904.html)
+ 
+<a href="https://my.bluehost.com/cgi/help/222"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/bluehost.jpg" width="75" height="50" />
 [Bluehost](https://my.bluehost.com/cgi/help/222)
+ 
+<a href="https://www.name.com/support/articles/205934547-Changing-Your-Name-Servers"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/name.jpg" width="75" height="50" /> [Name.com](https://www.name.com/support/articles/205934547-Changing-Your-Name-Servers)
 
-[Name.com](https://www.name.com/support/articles/205934547-Changing-Your-Name-Servers)
+<a href="https://support.cloudflare.com/hc/en-us/articles/202609134-How-do-I-change-my-domain-nameservers-at-Domain-com"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/domain.jpg" width="85" height="95" /> [Domain.com](https://support.cloudflare.com/hc/en-us/articles/202609134-How-do-I-change-my-domain-nameservers-at-Domain-com)
 
-[Domain.com](https://support.cloudflare.com/hc/en-us/articles/202609134-How-do-I-change-my-domain-nameservers-at-Domain-com)
-
+<a href="https://www.dynadot.com/community/help/question/set-name-servers"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/dynadot.jpg" width="100" height="75" />
 [DynaDot](https://www.dynadot.com/community/help/question/set-name-servers)
 
+<a href="https://support.cloudflare.com/hc/en-us/articles/200171696-How-do-I-change-my-domain-nameservers-at-Enom"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/enom.png" width="100" height="50" /> [Enom](https://support.cloudflare.com/hc/en-us/articles/200171696-How-do-I-change-my-domain-nameservers-at-Enom)
 
-[Enom](https://support.cloudflare.com/hc/en-us/articles/200171696-How-do-I-change-my-domain-nameservers-at-Enom)
+<a href="https://my.fastdomain.com/cgi/help/222"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/fastdomain.png" width="100" height="50" /> [FastDomain](https://my.fastdomain.com/cgi/help/222)
 
-[FastDomain.com](https://my.fastdomain.com/cgi/help/222)
+<a href="https://www.godaddy.com/help/set-custom-nameservers-for-domains-registered-with-us-12317"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/godaddy.png" width="100" height="65" /> [GoDaddy](https://www.godaddy.com/help/set-custom-nameservers-for-domains-registered-with-us-12317)
 
-[GoDaddy](https://www.godaddy.com/help/set-custom-nameservers-for-domains-registered-with-us-12317)
+<a href="https://support.cloudflare.com/hc/en-us/articles/203710814-How-Do-I-change-my-nameservers-for-Google-Domains"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/google.png" width="100" height="50" /> [Google](https://support.cloudflare.com/hc/en-us/articles/203710814-How-Do-I-change-my-nameservers-for-Google-Domains)
 
-[Google](https://support.cloudflare.com/hc/en-us/articles/203710814-How-Do-I-change-my-nameservers-for-Google-Domains)
-
-[HostGator](http://support.hostgator.com/articles/hosting-guide/lets-get-started/domain-names-buy-sell-manage/changing-name-servers-with-launchpad)
-
-[Hover](https://help.hover.com/entries/21206438-How-to-Change-your-domain-name-servers-DNS-servers-Updated-Aug-2015)
-
-
-[NameCheap](https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/how-can-i-change-the-nameservers-for-my-domain)
-
-
-[NameSilo](https://www.namesilo.com/Support/NameServer-Manager) 
+<a href="http://support.hostgator.com/articles/hosting-guide/lets-get-started/domain-names-buy-sell-manage/changing-name-servers-with-launchpad"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/hostgator.png" width="100" height="50" /> [HostGator](http://support.hostgator.com/articles/hosting-guide/lets-get-started/domain-names-buy-sell-manage/changing-name-servers-with-launchpad)
+ 
+<a href="https://help.hover.com/entries/21206438-How-to-Change-your-domain-name-servers-DNS-servers-Updated-Aug-2015"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/hover.png" width="100" height="50" /> [Hover](https://help.hover.com/entries/21206438-How-to-Change-your-domain-name-servers-DNS-servers-Updated-Aug-2015)
 
 
 ----------
