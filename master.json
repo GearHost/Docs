@@ -156,8 +156,8 @@
        "title": "How to install an application from gallery"
    }
    ,{
-       "file": "how-to-publish-your-app-from-visual-studio-2013.md",
-       "title": "How to publish your app from visual studio 2013"
+       "file": "how-to-publish-your-app-from-visual-studio.md",
+       "title": "How to publish your app from Visual Studio"
    }
    ,{
        "file": "how-to-publish-your-app-with-ftp.md",
