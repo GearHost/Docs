@@ -12,7 +12,9 @@ Click on your Cloudsite's name and select the **Publish** menu.
 
 Click on the Visual Studio icon to download your publishing file. Now that you have your publishing file, go back to Visual Studio.
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio.PNG"  />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio.PNG"/>
+
+----------
 
 ##Publishing
 
@@ -20,14 +22,18 @@ Click on the Visual Studio icon to download your publishing file. Now that you h
 Open **Solution Explorer** (can be enabled using the *Views* menu) and right click on the project name. Then select **Publish Web App** or if you see a **Publish ...** option that works too.
 Your site cannot be running in debug mode for this option to appear. 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio1.PNG"  />
+
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio1.png" height="500" width="725" />
+
 
 Click on **Import**, browse for the publishing file you previously downloaded and select OK.
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/Vstudio2.PNG"  />
 
 
-You will see that your settings are filled out and can select "Validate Connection" to ensure it's working properly. If everything is working on your end, select the **Publish** option to begin uploading your files.
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio3.PNG"  />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/Vstudio2.PNG" height="550" width="725"  />
+
+
+Everything will be filled out for you and you can select the **Publish** option to begin uploading your files.
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio3.PNG" height="500" width="725" />
 
 ----------
 
