@@ -23,7 +23,7 @@ Open **Solution Explorer** (can be enabled using the *Views* menu) and right cli
 Your site cannot be running in debug mode for this option to appear. 
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio1.png"  />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio1.png" width="710"  />
 
 
 Click on **Import**, browse for the publishing file you previously downloaded and select OK.
