@@ -23,17 +23,17 @@ Open **Solution Explorer** (can be enabled using the *Views* menu) and right cli
 Your site cannot be running in debug mode for this option to appear. 
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio1.png" height="500" width="725" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio1.png"  />
 
 
 Click on **Import**, browse for the publishing file you previously downloaded and select OK.
 
 
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/Vstudio2.PNG" height="550" width="725"  />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/Vstudio2.PNG"  />
 
 
 Everything will be filled out for you and you can select the **Publish** option to begin uploading your files.
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio3.PNG" height="500" width="725" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio3.PNG" />
 
 ----------
 
