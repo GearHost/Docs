@@ -11,7 +11,7 @@ You may be publishing an application only to later see this error below instead 
 
 You will need to edit your **web.config** file which should be located in **/site/wwwroot/**.
 
-Below the "*<system.web>*" flag add `<customErrors mode="Off"/>` and publish the new changes. It should look something like this.
+Below the "system.web" flag add `<customErrors mode="Off"/>` and publish the new changes. It should look something like this.
 
 
 <img src="https://raw.githubusercontent.com/gearhost/docs/master/Images/debugasp2.PNG"/>
