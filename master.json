@@ -148,6 +148,10 @@
        "title": "How to configure DNS"
    }
    ,{
+       "file": "how-to-debug-asp-net-application.md",
+       "title": "How to debug your .NET application"
+   }
+   ,{
        "file": "how-to-install-a-pfx.md",
        "title": "How to install a PFX"
    }
