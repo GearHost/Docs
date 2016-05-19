@@ -16,3 +16,6 @@ You may find yourself needing to install a previous or newer version of WordPres
  9. Navigate to your WordPress install page by going to *"yoursite".gear.host/wp-install*
  10. Follow the step by step to connect your database and create log in credentials for your WordPress admin page.
  11. You are now finished with your install and can access your WordPress Dashboard anytime by logging in to *"yoursite".gear.host/wp-admin*
+
+----------
+**Tip:** Having an issue with WordPress after installation? Try using these rewrite rules for your web.config included [here](https://www.gearhost.com/documentation/troubleshooting-wordpress-and-php)!
