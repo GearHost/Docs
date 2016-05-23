@@ -80,3 +80,24 @@ POP3 Port: 995
 
 SMTP Port: 465
 
+
+----------
+**Difference between IMAP and POP3**
+
+**POP3** - Post Office Protocol
+
+- You can use only one computer to check your email (no other devices)
+ 
+- Your mails are stored on the computer that you use
+
+- Sent mail is stored locally on your PC, not on a mail server
+
+
+**IMAP** - Internet Messaging Access Protocol
+
+- You can use multiple computers and devices to check your email
+
+- Your mails are stored on the server
+
+- Sent mail stays on the server so you can see it from any device.
+
