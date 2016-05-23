@@ -5,8 +5,7 @@ In this guide we will show you how to enable **Directory Browsing** for your app
 
 ----------
 
-Edit your web.config file and add the following code in the flag below **<configuration\>**
-
+Edit your web.config file and add the following code:
 
     <configuration>
        <system.webServer>
