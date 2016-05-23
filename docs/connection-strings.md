@@ -1,5 +1,6 @@
 #Connection strings
-Here we provide some examples that have worked for the majority of our customers. If you run into an issue double check your syntax in your web.config. You can also search for examples online and confirm which one best works for your application. We provide more information on retrieving your database credentials 
+Here we provide some examples that have worked for most applications. If you run into an issue double check your syntax in web.config. You can also search for examples online and confirm which one best works for your application. To get your database credentials login to your [portal](https://my.gearhost.com/Databases) and click on the database. Your server, database name, username and password will be provided there.
+
 
 ---------
 ####ASP Classic
