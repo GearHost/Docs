@@ -92,6 +92,10 @@
     "title": "Outlook setup"
   },
    {
+    "file": "enable-directory-browsing.md",
+    "title": "How to enable Directory Browsing"
+  },
+   {
     "file": "email-sending-policy-and-restrictions.md",
     "title": "E-mail policy"
   },
