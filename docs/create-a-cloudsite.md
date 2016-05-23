@@ -34,5 +34,5 @@ If you are developing a new website or application you will probably want to sep
 
 
 ----------
-**Tip:** Both the Standard and Reserved cloudsites come with 1 GB storage, we charge $0.25 per additional GB you're using.
+**Tip:** All hosting plans except the Free plan come with a 1 GB of storage. We charge $0.25 per additional GB you use.
 
