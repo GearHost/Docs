@@ -185,7 +185,7 @@
    }
    ,{
        "file": "how-to-install-new-relic.md",
-       "title": "How to install New Relic on your cloudsite"
+       "title": "Installing New Relic on your cloudsite"
    }
    ,{
        "file": "installing-php-and-zend-extensions.md",
