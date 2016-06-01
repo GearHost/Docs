@@ -184,6 +184,10 @@
        "title": "How to scale your CloudSite"
    }
    ,{
+       "file": "how-to-install-new-relic.md",
+       "title": "How to install New Relic on your cloudsite"
+   }
+   ,{
        "file": "installing-php-and-zend-extensions.md",
        "title": "Installing PHP and Zend extensions"
    }
