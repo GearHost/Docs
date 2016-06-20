@@ -1,6 +1,6 @@
 #What is a CSR?#
 
-A **Certificate Signing Request** is a message sent from an applicant (You) to a certificate authority (SSL vendor) in order to apply for a digital identity certificate (SSL).
+A **Certificate Signing Request** is a message sent from an applicant (You) to a certificate authority (SSL vendor) in order to apply for a digital identity certificate (SSL). You can also order a certificate through us as it's much faster and easier getting one. For that please follow this [guide.](https://www.gearhost.com/documentation/order-ssl)
 
 ##How do I get started?
 
