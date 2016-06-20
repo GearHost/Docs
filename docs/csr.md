@@ -9,7 +9,7 @@ A **Certificate Signing Request** is a message sent from an applicant (You) to a
 1. Select **I want to generate CSR and buy a certificate in other place** and click **Next.**
 1. Fill out the requested CSR information and click **Next.** 
 1. This should generate your CSR which can be viewed by selecting **Actions** and **View CSR.** 
-1. Awesome, now that you have your CSR code you can submit it to your SSL vendor! Click [here](https://www.gearhost.com/documentation/third-party-csr) to proceed with your next step.
+1. Now that you have your CSR code you can submit it to your SSL vendor! Click [here](https://www.gearhost.com/documentation/third-party-csr) to proceed with your next step.
 
 ----------
 **Tip** You can use this [online tool](https://www.sslshopper.com/csr-decoder.html ) to verify that the CSR information is correct or formatted correctly.
