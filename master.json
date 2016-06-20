@@ -115,6 +115,10 @@
     "file": "getting-started.md",
     "title": "Getting Started"
   },
+  {
+    "file": "generate-pfx.md",
+    "title": "Generate PFX certificate"
+  },
    {
     "file": "git-deploy-your-application.md",
     "title": "Git deploy your application"
@@ -220,6 +224,10 @@
        "title": "My site is suspended"
    }
    ,{
+       "file": "order-ssl.md",
+       "title": "Ordering a SSL certificate"
+   }
+   ,{
        "file": "overriding-connection-strings.md",
        "title": "Overriding connection strings"
    }
@@ -292,7 +300,7 @@
        "title": "Teams"
    }
    ,{
-       "file": "third-party-ssl.md",
+       "file": "third-party-csr.md",
        "title": "Third Party SSL"
    }
    ,{
