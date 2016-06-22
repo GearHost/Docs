@@ -17,7 +17,7 @@ Please submit a ticket to our Support department with a scanned copy of the foll
 
 You may censor all but the last 4 digits of the credit card number for your protection, but please ensure the name and expiration date are legible.
 
-Please provide us with the above requested information at your earliest convenience to ensure that your account with Gearhost is set up as soon as possible. We apologize for any inconveniences that may result from this process.
+Please provide us with the above requested information at your earliest convenience to ensure that your account with GearHost is set up as soon as possible. We apologize for any inconveniences that may result from this process.
 
 ----------
 **Tip:** You can open a support ticket and attach your images by selecting the Support menu on your control panel. We do not sell your information and it remains confidential. 

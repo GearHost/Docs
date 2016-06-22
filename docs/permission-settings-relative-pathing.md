@@ -1,5 +1,5 @@
 ##Permission settings
-On the Gearhost platform your applications do have full read and write permissions.
+On the GearHost platform your applications do have full read and write permissions.
  A symptom of that you need to use relative pathing is if you are receiving an error such as
 "Access to the path 'c:\inetpub\wwwroot\...' is denied.
 

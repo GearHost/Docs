@@ -13,7 +13,7 @@ Note: Prior to following the steps below be sure to make sure IMAP and or POP3 r
 POP3: (Post Office Protocol) Allows an email client to download an email from an email server. The POP3 protocol is simple and does not offer many features except for download. Its design assumes that the email client downloads all available email from the server, deletes them from the server and then disconnects. POP3 normally uses port 110.
 
 IMAP: (Internet Message Access Protocol) Shares many similar features with POP3. It, too, is a protocol that an email client can use to download email from an email server. However, IMAP includes many more features than POP3. The IMAP protocol is designed to let users keep their email on the server. IMAP requires more disk space on the server and more CPU resources than POP3, as all emails are stored on the server. IMAP normally uses port 143. 
-Exchange: Only use this option if you have an exchange account through Gearhost.  
+Exchange: Only use this option if you have an exchange account through GearHost.  
 
 ##Incoming Settings:
 
