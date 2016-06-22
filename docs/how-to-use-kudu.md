@@ -2,7 +2,7 @@
 
 ----------
 
-KUDU is a UI to help you diagnose and debug your Gearhost Web Site. It offers debug tools, Powershell access, modifies add-ons, and access many other useful features! As an example, we will give using a CloudSite called **zpma.** We'll use Kudu to access powershell to delete a directory as FTP can take longer when deleting big directories.
+KUDU is a UI to help you diagnose and debug your GearHost Web Site. It offers debug tools, Powershell access, modifies add-ons, and access many other useful features! As an example, we will give using a CloudSite called **zpma.** We'll use Kudu to access powershell to delete a directory as FTP can take longer when deleting big directories.
 
 ----------
 
