@@ -2,7 +2,7 @@
 
 ----------
 
-KUDU is a UI to help you diagnose and debug your Azure Web Site. It offers debug tools, Powershell access, modify add-ons, access many other useful features! As an example, we will give using a cloudsite called **zpma.** We'll use Kudu to access powershell to delete a directory as FTP can take longer when deleting big directories.
+KUDU is a UI to help you diagnose and debug your Azure Web Site. It offers debug tools, Powershell access, modify add-ons, and access many other useful features! As an example, we will give using a cloudsite called **zpma.** We'll use Kudu to access powershell to delete a directory as FTP can take longer when deleting big directories.
 
 ----------
 
@@ -24,4 +24,4 @@ In this step, I'm using the **cd** command to change my directory to /home/site/
 
 
 ----------
-**Tip:** You can execute scripts, or run other commands using the Powershell interface. If you're unfamiliar with the command line, you can click [here](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/) to view more detailed information.
+**Tip:** You can execute scripts, or run other commands using Powershell. If you're unfamiliar with the command line you can click [here](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/) to view more detailed information.
