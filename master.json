@@ -139,6 +139,10 @@
     "file": "how-do-i-access-my-legacy-account.md",
     "title": "Access Legacy Account"
   },
+  {
+    "file": "how-to-use-kudu.md",
+    "title": "How to use KUDU"
+  },
    {
        "file": "how-to-add-a-domain-subdomain-hostname.md",
        "title": "How to add a domain/subdomain"
