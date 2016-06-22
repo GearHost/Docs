@@ -17,7 +17,7 @@ After you enter your credentials, you will be logged into the Kudu interface. Yo
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/kudu3.PNG"  />
 
 
-In this step, I'm using the **cd** command to change my directory to /home/site/wwwroot/.  From here I can see all of my files and folders. I'll be running a command to recursively delete an entire folder.
+In this step, I'm using the **cd** command to change my directory to /home/site/wwwroot/.  From here I can see all of my files and folders. I'll be running a command to recursively delete a folder named "setup".
 
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/kudu4.PNG" />
 
