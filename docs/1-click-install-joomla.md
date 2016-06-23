@@ -1,4 +1,5 @@
-Installing Joomla! - 1 Click
+##Installing Joomla
+
 ==================
 
 

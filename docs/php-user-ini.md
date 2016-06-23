@@ -47,7 +47,7 @@ Some examples of settings that are commonly changed.
 	post_max_size = 10m
 
 	; This sets the maximum amount of memory in bytes that a script is allowed to allocate.
-	memory_limit = 64M
+	memory_limit = 512M
 
 	; Default Value: On
 	; Development Value: Off

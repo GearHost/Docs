@@ -53,11 +53,11 @@
   },
   {
     "file": "connecting-to-a-sql-database-using-sql-server-management-studio-2014.md",
-    "title": "Connecting to SQL"
+    "title": "Connecting to a MSSQL database"
   },
   {
-    "file": "connecting-to-a-mysql-database.md",
-    "title": "Connecting to MySQL"
+    "file": "connecting-to-mysql-database.md",
+    "title": "Connecting to a MySQL database"
   },
   {
     "file": "connection-strings.md",
