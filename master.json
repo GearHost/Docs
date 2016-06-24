@@ -72,7 +72,7 @@
     "title": "Create a Database"
   },
    {
-    "file": "create-phpinfo-page.md",
+    "file": "create-php-info-page.md",
     "title": "Create a PHP Info page"
   },
    {
@@ -206,6 +206,10 @@
    ,{
        "file": "installing-php-and-zend-extensions.md",
        "title": "Installing PHP and Zend extensions"
+   }
+    ,{
+       "file": "increase-memory-limit.md",
+       "title": "PHP - Increase your memory limit"
    }
    ,{
        "file": "installing-wordpress-manually.md",

@@ -6,7 +6,7 @@ You can use a **.user.ini** file with your PHP application to configure PHP sett
 ----------
 This article covers several steps for configuring your PHP environment using `.user.ini`. The steps are:
 
-1. [Create a .user.ini file](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-creating-a-.user.ini-file)
+1. [Create a .user.ini file](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-creating-the-file)
 2. [Memory Limit](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-memory-limit)
 3. [Max Upload Size](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-max-upload-size)
 4. [Max Execution Time](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-max-execution-time)
@@ -17,7 +17,7 @@ This article covers several steps for configuring your PHP environment using `.u
 ----------
 
 
-##Creating a .user.ini file
+##Creating the file
 
 1. Create a `.user.ini` file including the first period. Add the settings you want to change to the file using the same syntax as a php.ini. 
  
