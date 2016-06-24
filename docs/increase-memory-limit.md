@@ -5,7 +5,7 @@ By default PHP runs in a defined memory scope of 128M however if you are paying 
 
 
 
-1. [Create a .user.ini file and place it in your /site/wwwroot folder](https://www.gearhost.com/documentation/how-to-configure-user-ini#creating-a-.user.ini-file)
+1. [Create a .user.ini file and place it in your /site/wwwroot folder](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-creating-the-file)
 
 1. Add the following code in .user.ini
 
