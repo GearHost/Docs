@@ -1,7 +1,7 @@
 #How to create a PHP Info page.
 
 ----------
-Creating a [PHP Info](http://php.net/manual/en/function.phpinfo.php) provides the current PHP values your application is loading. This can be convenient when making changes to `user.ini` and want to confirm if your changes are reflected.
+Creating a [PHP Info](http://php.net/manual/en/function.phpinfo.php) provides the current PHP values that your application is loading. This can be convenient when making changes to `user.ini` and want to confirm if your changes are reflected.
 
 ----------
 

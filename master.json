@@ -72,6 +72,10 @@
     "title": "Create a Database"
   },
    {
+    "file": "create-phpinfo-page.md",
+    "title": "Create a PHP Info page"
+  },
+   {
     "file": "csr.md",
     "title": "Create a CSR"
   },
@@ -158,6 +162,10 @@
    ,{
        "file": "how-to-configure-dns.md",
        "title": "How to configure DNS"
+   }
+   ,{
+       "file": "how-to-configure-user-ini.md",
+       "title": "PHP - Configuring .user.ini tutorial"
    }
    ,{
        "file": "how-to-enable-custom-errors.md",
