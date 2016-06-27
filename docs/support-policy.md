@@ -3,7 +3,7 @@
 GearHost is committed to providing a stellar customer experience. As an essential part of this commitment, we offer limited free technical support to all applications running on the GearHost platform. Free technical support is limited to the scope, hours, contacts, and channels below.
 
 ###1. Scope
-GearHost's free support offering is available only for the technologies supported by GearHost CloudSites, and is limited to the following:
+GearHost offers free support for the technologies supported by GearHost and is limited to the following:
 
 ####Installation and Configuration Issues
 - Installation of application dependencies
@@ -42,11 +42,11 @@ Registered GearHost users can [submit new tickets](https://my.gearhost.com/accou
 If you are unable to log in or access your account, you may submit a ticket by sending an e-mail from your GearHost account email address to [help@gearhost.com](mailto:help@gearhost.com).
 
 ###4. Hours
-GearHost Support offers 12x5 coverage. Hours are 8am - 5pm Mountain Time, Monday - Friday, excluding US Holidays. Support inquiries may be submitted at any time.
+GearHost Support offers 9x5 coverage. Hours are 8AM - 5PM Mountain Time, Monday - Friday, excluding US Holidays. Support inquiries may be submitted at any time.
 
 The GearHost Platform itself is monitored 24x7. See Section 5, Proactive Monitoring for more details.
 
 ###5. Proactive Monitoring
-The GearHost Cloud Platform is monitored 24x7 by comprehensive automated systems. In the event of any issue affecting the health and operation of GearHost's infrastructure, core systems, or tools, our dedicated operations team is notified and will respond immediately to diagnose and correct any issues. This 24x7 monitoring covers the entire GearHost platform, benefiting all GearHost users - free as well as paying.
+The GearHost Cloud Platform is monitored 24x7 by comprehensive automated systems. In the event of any issue affecting the health and operation of the GearHost infrastructure, core systems, or tools, our dedicated operations team is notified and will respond immediately to diagnose and correct any issues. This 24x7 monitoring covers the entire GearHost platform, benefiting all GearHost users - free as well as paying.
 
 In the event of a platform issue, a notice will be posted on our platform status site at [www.gearhoststatus.com](http://www.gearhoststatus.com) to promptly communicate the impact and status of any such issue. If there's an ongoing platform issue, you do not need to submit a support ticket. Instead, monitor the status page which will always be kept up-to-date with the latest progress and information.

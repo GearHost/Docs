@@ -26,7 +26,7 @@
                         }
                         ,{
                             "articleName": "support-policy",
-                            "title": "Support Policy"
+                            "title": "Our Support Policy"
                         }
                         ,{
                             "articleName": "how-to-publish-your-app-with-ftp",
@@ -42,39 +42,43 @@
                 "itemId": ["cloudsite-index", "websites-index"],
                 "title": "CloudSites",
                 "articles":[
-                        {
-                            "articleName": "restart-cloudsite",
-                            "title": "How to Restart Your CloudSite"
-                        }
-                        ,{
-                            "articleName": "how-to-install-an-application-from-gallery",
-                            "title": "Create and Deploy a Site from the WebSite Gallery"
-                        }
-                        ,{
-                            "articleName": "create-a-cloudsite",
-                            "title": "Create a new CloudSite"
-                        }
-                        ,{
-                            "articleName": "supported-technologies",
-                            "title": "Supported Technologies"
-                        }
-                        ,{
-                            "articleName": "how-to-publish-your-app-with-ftp",
-                            "title": "How to publish your application with FTP"
-                        }
-                        ,{
-                            "articleName": "quick-install-dnn",
-                            "title": "Dot Net Nuke Quick Install"
-                        }
-                        ,{
-                            "title": "What are the GearHost name servers?",
-                            "inlineAnswer": "The GearHost name servers are <b>ns1.gear.host</b> and <b>ns2.gear.host</b>"
+                  {
+                    "articleName": "restart-cloudsite",
+                    "title": "How to Restart Your CloudSite"
+                  },
+                  {
+                    "articleName": "how-to-install-an-application-from-gallery",
+                    "title": "Create and Deploy a Site from the WebSite Gallery"
+                  },
+                  {
+                    "articleName": "create-a-cloudsite",
+                    "title": "Create a new CloudSite"
+                  },
+                  {
+                    "articleName": "supported-technologies",
+                    "title": "Supported Technologies"
+                  },
+                  {
+                    "articleName": "how-to-publish-your-app-with-ftp",
+                    "title": "How to publish your application with FTP"
+                  },
+                  {
+                    "articleName": "quick-install-dnn",
+                    "title": "Dot Net Nuke Quick Install"
+                  },
+                  {
+                    "title": "What are the GearHost name servers?",
+                    "inlineAnswer": "The GearHost name servers are <b>ns1.gear.host</b> and <b>ns2.gear.host</b>"
+                  }
+                  ,{
+                            "articleName": "how-to-open-a-support-ticket",
+                            "title": "How to open a support ticket"
                         }
                     ]
             }
             ,{
                 "itemId": ["databases-index"],
-                "title": "Databaes",
+                "title": "Datbases",
                 "articles":[
                         {
                             "articleName": "how-to-restore-a-database",
