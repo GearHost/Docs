@@ -1,45 +1,36 @@
 #Teams
 ###What are teams?
-Teams are a way to invite people to help work on your cloudsites but keep your billing information private. Once you have invited someone to your account this will give them access to the following
+Teams are a way to allow multiple people to log in and manage your GearHost services. Team members are invited by email invitation allowing them access to your account. Once a team member has accepted your invitation they can log in and manage your GearHost services without having you to share your master log in credentials. Team members have full access to your account and can make changes on your behalf but are limited to Billing information. An example of actions that a team member can act as you are:
 
-* Add/delete cloudsites
-* Access publishing information for cloudsites
-* Access your API
-* Add/delete databases
-* Add/delete email
-* Upgrade any plan
-* Open/close support tickets
+* Create/Modify/Delete CloudSites, Databases, Email
+* Publishing information for CloudSites
+* API Secret Keys
+* Scale a CloudSite
+* Open/Close/Reply Support Tickets
 
-![step1]
+In the future we will allow you to select what privileges a team member has but at this time all team members share the same admin privileges.
 
-They will not be able to access or change any of your billing details
-###How do I create a team?
-1. Log into your account at https://my.gearhost.com
+###How do I invite someone to my team?
 
-2. Select the Settings menu
+1. Log in to your control panel
+2. Click on the Settings menu
+3. Click on the Team tab
+4. Click the Invite Members button
+5. Enter in the email addresses of the team members you wish to invite to your account
+6. Click the Send Invites button
 
-![step4]
+Once this is done the team member will receive an email invitation to join your team that they will need to accept.
 
-3 . Select the Team Tab
+###I've been invited to join a Team - What now?
+If you are already a GearHost customer then by accepting the invitation it will allow your existing account to manage the Team account you've been invited to. If you are not a GearHost customer you will need to create an account which will then be tied to the Team.
 
-![step2]
+###Okay, I'm tied to a Team - How do I access it?
 
-4 . Select Invite members
+1. Log in to your control panel
+2. Click on the Settings menu
+3. Click on the Team tab
+4. Click on the View Team icon of the team you've been invited to
 
-![step3]
+Doing so will log you in to the team account and manage your actions. To return back to you account click on the yellow warning bar at the top that states `You are viewing the team@team.com account. Click here to return to your account.`
 
-5 . Members will find their invite in their email
-
-##I have been invited to a team- how do I access my team?
-
-1. In your email you will have a confirmation link to activate the team
-2. Once you have followed the link you can access your teams by selecting the settings menu
-3. Select the Teams Tab
-4. Select "Join"
-
-
-
-[step1]: https://raw.githubusercontent.com/GearHost/docs/master/Images/teams-status.png
-[step2]: https://raw.githubusercontent.com/GearHost/docs/master/Images/teams-settings.png
-[step3]: https://raw.githubusercontent.com/GearHost/docs/master/Images/teams-send-invites.png
-[step4]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-settings.png
+If you have any questions let us know by opening a support ticket.
