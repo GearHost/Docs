@@ -11,4 +11,4 @@ The two name servers you must set are:
 
 Changes can take a few hours to propagate however sometimes in rare cases you might have to wait up to 24 hours. You can confirm your name servers have been changed you can use [this site](https://www.whatsmydns.net/), enter your domain and set the record type to NS. Performing a search will return the name servers that some of the root servers around the world are set for your domain.
 
-If you have any issues open a support ticket with us and we'll be happy to help.
+If you have any questions let us know and [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).

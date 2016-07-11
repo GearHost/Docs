@@ -33,4 +33,4 @@ If you are already a GearHost customer then by accepting the invitation it will 
 
 Doing so will log you in to the team account and manage your actions. To return back to you account click on the yellow warning bar at the top that states `You are viewing the team@team.com account. Click here to return to your account.`
 
-If you have any questions let us know by opening a support ticket.
+If you have any questions let us know and [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).

@@ -1,12 +1,9 @@
 How to add a domain name
 ===================
-This guide helps cover how to add any domain, subdomain, or hostname.
+Adding a domain or sub domain to your CloudSite application is simple using the steps below. A domain or sub domain under a CloudSite will share the same CloudSite application content. If you need separate content for a different domain or sub domain you will want to create a separate CloudSite and add that domain or sub domain to.
 
-1. Login to your [cloudsite](http://my.gearhost.com/CloudSite)
-
-2. On the top left menu, click on **CloudSites** and select the CloudSite you wish to add your domain on.
-
-
-3. Select the **Domains** tab and then add your desired hostname.
-
-
+1. Log in to your GearHost account
+2. Click on the CloudSite application you want to attach a domain to
+3. Click on the Domains tab
+4. Click the Add Domain button
+5. Enter in the domain name or sub domain name and click Create Domain
