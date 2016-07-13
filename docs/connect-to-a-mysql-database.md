@@ -1,59 +1,28 @@
-#How to connect to a MySql Database using SQL MySQL Workbench
+#Connect to a MySQL database
 
-This article covers 3 steps needed to connect to your MySQL database hosted with GearHost. The steps are:
+This article covers 3 steps needed to connect to your hosted MySQL database.
 
-1. [Download and Install MySQL WorkBench](https://www.gearhost.com/documentation/connecting-to-mysql-database#user-content-download-and-install-mysql-workbench)
-2. [Gather your SQL Server database credentials](https://www.gearhost.com/documentation/connecting-to-mysql-database#user-content-gather-your-mysql-server-database-credentials)
-3. [Connect to your SQL Server Database using SSMS](https://www.gearhost.com/documentation/connecting-to-mysql-database#user-content-log-in-to-mysql-workbench-with-your-credentials)
-
-##Download and Install MySQL WorkBench
+###Install MySQL WorkBench
 1. Download and install [MySQL WorkBench](https://dev.mysql.com/downloads/workbench/)
 
-	> Note that GearHost uses MySQL server 6 and older versions of MySQL workbench may not connect due to new password complexity and encryption methods
+> GearHost uses MySQL server version 5.X, older versions of MySQL Workbench may not connect. Please ensure you are using MySQL Workbench 6.X
 
-##Gather your MySQL Server database credentials
+###Locate your database username, password and server name
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
+2. Click the Databases menu
+3. Locate the Database you want to connect to and click it to open the database details
+4. Your username is the same name as your database. This is your primary database user that we create for you by default.
+5. Toggle the show/hide password by clicking on the "eye" icon to the right of the username to see the password.
+6. You will need the server name located at the bottom. The format is `mysqlx.gear.host`
 
-1. Log in to your [GearHost portal.](https://my.gearhost.com)
-1. Click on the **Databases** menu.
-	
-	
-
-1. Locate the database you want to connect to and select it to go to Database Details
-
-	
-
-1. Locate the username that is the same name as your database. This is your primary database user that we create for you by default.
-
-1. Toggle the show/hide password "eye" icon to the right of the user name to show the password.
-
-
-
-1. At the bottom of the page take note of the SQL Server Name which you will use. It's format is *mysql#.gear.host*.
-
-
-
-##Log in to MySQL Workbench with your credentials
-
+###Connect to your database using MySQL Workbench
 1. Launch MySQL Workbench
-1. Select database -> connect to database
+2. From the menu select Database > Connect to Database
+3. Enter the hostname with the database server name (see above)
+4. Leave the default port of 3006
+5. Enter your database username (see above)
+6. Click Ok
+7. When asked for your password enter it (see above)
+8. Click on the tile to connect to your database
 
-	
-
-1. Enter your Database server and username
- 
-	- Hostname should be *mysql#.gear.host* (refer to your steps above to determine the correct SQL Server name)
-	- Log in is your primary database user name, the same name as your database name
-
-	
-
-1. Store your password in the vault then select ok
-	
-	> Your password is the password as reviled above using the show/hide password toggle icon above.
-
-
-
-4. Confirm by selecting OK
-5. You are now connected!
-
-----------
-**Tip:** Still having issues? Please open a support ticket and we'lll be glad to help you out!
+If you have any questions let us know and [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).

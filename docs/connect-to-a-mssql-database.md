@@ -1,5 +1,4 @@
-#Connecting to a SQL database using SQL Server Management Studio (SSMS)
-
+#Connect to a MSSQL database
 This article covers 3 steps needed to connect to your hosted MSSQL database.
 
 ###Install SQL Server Management Studio 2016 (SSMS)
@@ -13,7 +12,7 @@ This article covers 3 steps needed to connect to your hosted MSSQL database.
 3. Locate the Database you want to connect to and click it to open the database details
 4. Your username is the same name as your database. This is your primary database user that we create for you by default and the only user that can connect to your database using SSMS.
 5. Toggle the show/hide password by clicking on the "eye" icon to the right of the username to see the password.
-6. You will need the server name located at the bottom. The format is `mssqlx.gear.host`.
+6. You will need the server name located at the bottom. The format is `mssqlx.gear.host`
 
 > Note that only your primary username can connect to the SQL server database using SSMS. While additional users have access to your database in your application they do not have access via SSMS.
 
