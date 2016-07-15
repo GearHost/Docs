@@ -8,7 +8,7 @@ There are various ways to contact GearHost however the preferred way of communic
 2. Log in to your [control panel](https://my.gearhost.com)
 3. Click on **Support** on the left hand side menu
 4. Click the **New Ticket** button
-5. Enter your subject and body being clear and precise
+5. Enter your subject and body being clear and precise, even add an attachment if you like
 6. Click the Create Ticket button
 
 ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/createticket.png)
