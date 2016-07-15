@@ -35,4 +35,4 @@ The following file types are accepted:
 - Continuous jobs run continuously only when the web app is up.
 - Basic and Standard modes offer the Always On feature which, when enabled, prevents web apps from becoming idle.
 
-If you have any questions let us know and [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).sss
+If you have any questions let us know and [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).
