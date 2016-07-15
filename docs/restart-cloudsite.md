@@ -9,14 +9,14 @@ Restarting your CloudSite application or website is easily done through the cont
 
 ##Restarting
 
-1. Login to your [control panel](https://my.gearhost.com) and click on CloudSites from the left hand menu. 
-2. Click on the CloudSite you wish to restart. 
-3. Scroll down and on the right hand side. Below "*Quick Glance*" you will find the Start, Stop, and Recycle buttons. Click Recycle to restart the CloudSite. 
+1. Login to your [control panel](https://my.gearhost.com) and click on CloudSites from the left hand menu 
+2. Click on the CloudSite you wish to restart
+3. Scroll down and on the right hand side. Below "*Quick Glance*" you will find the Start, Stop, and Recycle buttons. Click Recycle to restart the CloudSite
 
 	<img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/restartcloudsite1.PNG" />
 	1. **Start** - Starts the CloudSite
-	2. **Stop** - Completely stops the CloudSite. Your site will give a message saying it's currently stopped.
-	3. **Recycle** - Stops and immediately starts the CloudSite. 
+	2. **Stop** - Completely stops the CloudSite. Your site will give a message saying it's currently stopped
+	3. **Recycle** - Stops and immediately starts the CloudSite
 4. Launch your CloudSite!
 
 ----------
