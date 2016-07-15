@@ -147,6 +147,10 @@
     "file": "how-to-use-kudu.md",
     "title": "How to use KUDU"
   },
+  {
+    "file": "how-to-open-a-support-ticket.md",
+    "title": "How to open a Support Ticket"
+  },
    {
        "file": "how-to-add-a-domain-subdomain-hostname.md",
        "title": "How to add a domain or sub domain"
