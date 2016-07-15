@@ -31,8 +31,7 @@ The following file types are accepted:
 > For Continuous WebJobs to run Always On must be enabled and thus the CloudSite must be on a Reserved web worker node.
 
 ###Notes
-- Code for a continuous job needs to be written to run in an endless loop.
-- Continuous jobs run continuously only when the web app is up.
-- Basic and Standard modes offer the Always On feature which, when enabled, prevents web apps from becoming idle.
+- Code for a continuous job needs to be written to run in an endless loop
+- Reserved modes offer the Always On feature which, when enabled, prevents web apps from becoming idle
 
 If you have any questions let us know and [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).
