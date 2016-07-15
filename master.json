@@ -324,8 +324,8 @@
        "title": "Test your site before switching dns"
    }
    ,{
-       "file": "troubleshooting wordpress and php.md",
-       "title": "Troubleshooting wordpress and php"
+       "file": "troubleshooting-wordpress-and-php.md",
+       "title": "Troubleshooting WordPress and PHP"
    }
    ,{
        "file": "two-factor-authentication.md",
