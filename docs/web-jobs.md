@@ -19,7 +19,8 @@ The following file types are accepted:
 1. [Log in](https://my.gearhost.com/Account/Login) to your GearHost portal
 2. Click the CloudSite you want to create a WebJob for
 3. Click the WebJobs tab
-4. Click Create WebJob	
+4. Click Create WebJob
+
 ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/CreateWebJob.PNG)
 
 5. dfsfsf
