@@ -2,7 +2,7 @@
 This article covers 3 steps needed to connect to your hosted MSSQL database.
 
 ###Install SQL Server Management Studio 2016 (SSMS)
-1. Download and install [SQL Server Management Studio 2016](https://www.microsoft.com/en-us/download/details.aspx?id=42299)
+1. Download and install [SQL Server Management Studio 2016](https://msdn.microsoft.com/en-us/library/mt238290.aspx?f=255&MSPPError=-2147217396)
 
 > GearHost uses SQL Server 2016 and older versions of SQL Server Management Studio will not work correctly. Please ensure you are using SSMS 2016.
 
