@@ -57,5 +57,4 @@ To upload large files, this value must be larger than upload_max_filesize.
 
 `post_max_size=1005M`
 
-----------
-**Tip:** You can create a PHP info page to view your current PHP values. We provide a guide on how to do that included [here.](https://www.gearhost.com/documentation/create-php-info-page)
+>**Tip:** You can create a PHP info page to view your current PHP values. We provide a guide on how to do that included [here.](https://www.gearhost.com/documentation/create-php-info-page)

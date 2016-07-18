@@ -29,6 +29,4 @@ Select the **Email** menu and now you should be able to see your e-mails and mor
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/mailbox_migration4.png" />
 
 
-----------
-
-**Tip:** Are you still stuck or need help with planning the migration? Open a support ticket and we'll be glad to help you out!
+>**Tip:** Are you still stuck or need help with planning the migration? Open a support ticket and we'll be glad to help you out!

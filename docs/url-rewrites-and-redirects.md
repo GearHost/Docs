@@ -102,6 +102,4 @@ You can create url redirects to load a certain directory instead.
 
 
 
-----------
-
-**Tip:** If you're creating multiple redirect rules in your web.config be sure to create a different rule name for each one.
+>**Tip:** If you're creating multiple redirect rules in your web.config be sure to create a different rule name for each one.

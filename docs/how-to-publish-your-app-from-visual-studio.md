@@ -36,6 +36,4 @@ Click on **Import**, browse for the publishing file you previously downloaded an
 You can validate the connection and select the **Publish** option to begin publishing your files.
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/vstudio3.PNG" />
 
-----------
-
-**Tip:** Visual Studio provides an output every time you publish files. Errors can be anything from an invalid SQL connection, to syntax errors. Try searching online for errors you may be receiving.
+>**Tip:** Visual Studio provides an output every time you publish files. Errors can be anything from an invalid SQL connection, to syntax errors. Try searching online for errors you may be receiving.

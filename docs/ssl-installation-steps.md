@@ -22,5 +22,4 @@ Order your certificate through us. Click [here](https://www.gearhost.com/documen
 Generating a CSR to order a third party SSL. Click [here](https://www.gearhost.com/documentation/csr) to view this step.
 
 
-----------
-**Tip:** If you get stuck in the middle of the process please open a **Support** ticket and we'll be glad to assist you.
+>**Tip:** If you get stuck in the middle of the process please open a **Support** ticket and we'll be glad to assist you.

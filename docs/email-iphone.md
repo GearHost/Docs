@@ -25,5 +25,4 @@ Fill out the requested fields and click **Next.**
 
 A message stating "Cannot Verify Server Identity" will appear and this is fine as Apple by default uses an SSL. Although there is a SSL activated on the mail servers it will not work without special settings. Click on **Continue** to get past the errors twice and your account is now added!
 
-----------
-**Tip:** We recommend setting up IMAP instead of POP3 as it's a safer way to save your e-mail in your devices and mail server.
+>**Tip:** We recommend setting up IMAP instead of POP3 as it's a safer way to save your e-mail in your devices and mail server.

@@ -33,6 +33,5 @@ If you are developing a new website or application you will probably want to sep
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/plan_diff_chart.PNG" alt="Drawing" style="height: 200px; width: 500;"/> 
 
 
-----------
-**Tip:** All hosting plans except the Free plan come with a 1 GB of storage. We charge $0.25 per additional GB you use.
+>**Tip:** All hosting plans except the Free plan come with a 1 GB of storage. We charge $0.25 per additional GB you use.
 

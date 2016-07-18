@@ -23,5 +23,4 @@ In this step, I'm using the **cd** command to change my directory to /home/site/
 
 
 
-----------
-**Tip:** You can execute scripts, or run other commands using Powershell. If you're unfamiliar with the command line you can click [here](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/) to view more detailed information.
+>**Tip:** You can execute scripts, or run other commands using Powershell. If you're unfamiliar with the command line you can click [here](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/) to view more detailed information.

@@ -23,5 +23,4 @@ Now that you've saved your changes, your website should display the custom error
 
 Enabling custom errors is recommended when you see a *Server Error* so you know where to start your troubleshooting. You can also enable Site Diagnostics and we have a guide included [here.](https://www.gearhost.com/documentation/site-diagnostics) 
 
-----------
-**Tip:** Are you using Classic ASP and can't enable errors? We have an article for that provided [here.](https://www.gearhost.com/documentation/enable-classic-asp-errors)
+>**Tip:** Are you using Classic ASP and can't enable errors? We have an article for that provided [here.](https://www.gearhost.com/documentation/enable-classic-asp-errors)

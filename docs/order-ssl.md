@@ -14,5 +14,4 @@ There are different types of certificates that we offer, click [here](https://ww
 Your order will start processing, and you will receive an e-mail from Digicert. Please check their e-mail and approve their terms and conditions. It's also possible that they will contact you directly and request  further verification from you. After this is done, your certificate should be automatically uploaded and you will receive another e-mail with a notification. Click [here](https://www.gearhost.com/documentation/generate-pfx) to view the next step.
 
 
-----------
-**Tip:** Feeling lost or confused? Please open a support ticket and we'll be glad to clarify anything for you. 
+>**Tip:** Feeling lost or confused? Please open a support ticket and we'll be glad to clarify anything for you. 

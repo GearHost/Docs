@@ -15,4 +15,4 @@ There are various ways to contact GearHost however the preferred way of communic
 
 Our awesome engineers will reply shortly and you will receive an email alert notifying you of our response. You can reply via the email or reply via the control panel.
 
-> **Tip:** Saying "site broken!" doesn't help us a lot. Be clear and precise including any key information like the CloudSite name, error messages, codes, screen captures, etc so your website can be up and running as soon as possible.
+>**Tip:** Saying "site broken!" doesn't help us a lot. Be clear and precise including any key information like the CloudSite name, error messages, codes, screen captures, etc so your website can be up and running as soon as possible.
