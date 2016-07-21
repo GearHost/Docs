@@ -31,7 +31,6 @@ Our one click installs allow you to easily create license free, industry standar
  
 6. Select the application you want to install
 
-     ![Select Your App](http://i.imgur.com/rYkk1iF.png)
  
 7. Fill out any information required by the application, like the database configuration
  

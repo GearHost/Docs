@@ -16,7 +16,7 @@ Solving a 503 error
 
 Here is an example of a 503 error
 
-![503-error](http://imgur.com/tqriVxl.png)
+
 
 ##Prerequistes
 This section will outline any prerequisites for completing this task.  It should include links to articles to preform the task if available:

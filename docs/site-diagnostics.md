@@ -11,7 +11,7 @@ Site Diagnostics can be used to enable web site logging, view detailed errors, a
  
  2. Click on the Config button and scroll down to the section titled Site Diagnostics.
  
- ![enter image description here](http://i.imgur.com/GyGqcs8.png) 
+
 
  3. Here you have three options. *Note, log files are stored in the file system of your application and count against your disk space. Make sure to only enable these options when necessary. If you do keep these options on please make sure to periodically clean out old files.* 
  
@@ -34,11 +34,11 @@ Site Diagnostics can be used to enable web site logging, view detailed errors, a
  
  3. Log files can be found in the LogFiles folder. 
  
- ![enter image description here](http://i.imgur.com/uiBmccu.png)
+
  
  4.  Inside the LogFiles folder there are sub folders containing the actual log files themselves. 
  
- ![enter image description here](http://i.imgur.com/VSJrKxa.png)
+
 
 
  - DetailedErrors: These are the html files created when you enabled the Detailed Error Messages option under Site Diagnostics. 

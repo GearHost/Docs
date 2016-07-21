@@ -11,11 +11,11 @@ In order to enable your phone to serve as the second factor, you will have to do
 
 1. From the GearHost Portal, select 'Settings' from the lefthand menu, and click the 'Enable 2-Factor Authentication' button
  
- ![enter image description here](http://i.imgur.com/6Px7wE1.png)
+
  
 2. This will bring up the authentication configuration screen
  
- ![enter image description here](http://i.imgur.com/jo7CGko.png)
+
 
 3. Select your country code, enter your cell phone number, and click 'Submit'
  
@@ -23,7 +23,7 @@ In order to enable your phone to serve as the second factor, you will have to do
 
 5. The portal will generate a unique QR code
   
- ![enter image description here](http://i.imgur.com/TeW52hE.png)
+
 
 6. Use the Google Authenticator app on your cell phone to scan the barcode
 
@@ -33,7 +33,7 @@ In order to enable your phone to serve as the second factor, you will have to do
 
 9. From this time forward, every time you log in into the GearHost portal with your user name and password, you will also have to provide the time sensitive, six-digit token that the Google Authenticator application generates
 
- ![enter image description here](http://i.imgur.com/jYl25yx.png)
+
 
 10. If you want to disable two-factor authentication from your account, click on the link below the 'Verify' button. Your cell phone will receive another text containing a six-digit token that you will have to provide to complete the account change
 

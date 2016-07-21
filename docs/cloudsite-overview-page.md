@@ -26,7 +26,7 @@ The Cloudsite Overview page provides general information regarding your CloudSit
 
  The first item you will see is a graph under dashboard giving you some current stats on your resources. This includes CPU time, data in and out, http errors, and requests. Below the graph you can change the amount of time it displays by clicking on 6 hours, 24 hours, or 7 days. Above the graph you can select what is displayed by unchecking or checking the different meters. For example I have only my requests and CPU time displayed for the last 6 hours because I have unchecked the other meters. 
  
- ![enter image description here](http://i.imgur.com/PnEpcS9.png)
+
 
  - CPU Time: This is the amount of time your application has used the CPU in a 24 hour period. GearHost allows 4 hours of CPU time in a 24 hour period for shared plans and 1 hour for free. Reserved plans are unlimited. Most websites will use far less than this. For example, my Wordpress site had 12,000 requests in 24 hours and only used 30 minutes of CPU time. 
  - Data In: This is the amount of data coming into your application, also known as bandwidth. Each time someone visits your website some data is sent to the GearHost cloud and processed by the web nodes. This information coming in is bandwidth. When a visitor uploads a file that would be data coming in as well. Free plans allow for 150MB per day, shared and reserved 1TB per month. 
@@ -39,7 +39,7 @@ The Cloudsite Overview page provides general information regarding your CloudSit
 
  Below the graph is some helpful data displaying how many resources your application is consuming and how close that is to your plan limits. 
 
-![](http://i.imgur.com/7IlBDne.png)
+
 
 - CPU Time: Here the time is displayed as the percentage you have used of one hour. Remember shared accounts get 4 hours of CPU time in a 24 hour period. This is only showing how much you have used in one hour though. 
 - Data Out: This is the amount of data you have sent out from your CloudSite, also known as bandwidth. For free plans this will be the amount for one day, for shared and reserved it will be a percentage of your total for the month. 

@@ -26,19 +26,19 @@ Examples of errors you may see if your database is suspended.
 
 *Login failed for user 'example'. Reason: The account is disabled. (Microsoft SQL Server, Error: 18470)*
 
-![](http://i.imgur.com/SyLlw0z.png)
+
 
 **MySQL**
 
 *Could not connect: Access denied for user 'example'@'CSSITESSHARED10' (using password: YES)*
 
-![](http://i.imgur.com/Wc6ei0c.png)
+
 
 **Wordpress example**
 
 *Error establishing a database connection*
 
-![](http://i.imgur.com/vaOF5Hb.png)
+
 
 Or you may see a 500 error depending on if you allow detailed error messages or not. 
 

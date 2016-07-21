@@ -20,7 +20,7 @@ Select the **Config** menu and select the version of PHP you wish to use. GearHo
 - PHP 5.4 = 5.4.30
 - PHP 5.5 = 5.5.14
 
-![](http://i.imgur.com/IpwBux2.png)
+
 #####Click Save Configuration.
 After you select the version of PHP make sure to click Save Configuration at the bottom of the page. After the changes are saved the CloudSite will recycle and the new version of PHP will be used. 
 

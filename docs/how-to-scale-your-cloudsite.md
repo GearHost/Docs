@@ -11,12 +11,12 @@ There isn't an exact number we can estimate for you. The best way to handle it i
 1. Log in to your account at my.gearhost.com
 2. Select CloudSites
 
-  ![Imgur](http://i.imgur.com/znuG0DH.png)
+
 
 3. Select the site you want to scale
 4. Select the scale tab
 
-  ![Imgur](http://i.imgur.com/sIPRk0B.png)
+
 
 5. Select your new plan
  ![select plan](https://www.evernote.com/shard/s77/sh/dfbcc0a3-925a-4343-9a9d-f92d896aabfd/509dd16bc110a7ca5e8ea2ddafaab51d/res/8b74073f-9634-4c23-b614-e6f2b837aa79/skitch.png?resizeSmall&width=832)

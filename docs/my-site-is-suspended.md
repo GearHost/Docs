@@ -6,7 +6,7 @@ My site is suspended
 ##### 1. Over usage of resources
 * Examine your monitor tab to figure out which resource you have an overage on
 * [Scale your site](http://my.gearhost.com/how-to-scale-your-cloudsite.aspx)
-![Site-suspended](http://i.imgur.com/BPCIOQE.png)
+
  
 #####2. Your payment details need updated
 * Double check that your credit card has not expired.
@@ -18,7 +18,7 @@ My site is suspended
 #####2. Select the billing menu
 #####3. Click the Payment Details
 
-![billing-update](http://imgur.com/Xc7hlwu.png)
+
 
 ##3. Important notes about suspension
 

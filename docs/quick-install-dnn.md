@@ -29,7 +29,7 @@ Login to CloudSites:
 #####Create New CloudSite
 You will need to create a New CloudSite for our Quick Installs. Instructions can be found [here](https://github.com/GearHost/docs/blob/master/create-a-cloudsite.md). Name your new CloudSite instance then select *Create CloudSite From Gallery* to install DNN using our Quick Install process.
 
-![img 1](http://i.imgur.com/tVjg5tP.png)
+
 #####Select Installer
 Scroll on your left until you see the installer for DNN. Select by left clicking once, then clicking the check mark to the right of this window to continue 
 

@@ -55,7 +55,7 @@ Select WordPress by scrolling towards the bottom on the left menu. Click the arr
 ##3. Enter your Database Settings
 These are the credentials for your WordPress database, that will allow your site to talk to your database. You will need to remember these credentials for the future so keep them in a safe place or remember where they are stored in your WordPress files.
 
-![setup database](http://i.imgur.com/eHwWk5e.png)
+
 
 #####Database Settings
 * Database Name: - The name must be Charters a-z or numbers 0-9

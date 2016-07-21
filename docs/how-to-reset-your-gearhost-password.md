@@ -10,7 +10,7 @@ If you have not already signed up for a CloudSites account click [here](http://m
  3. If you have forgotten your password, a password reset link is underneath the CloudSites login. You will be prompted to enter your password, enter then click *reset my password*
   
 
- ![ice](http://i.imgur.com/l7t5oYp.png) 
+
  4. You will be sent a password reset link that will allow you to re-enter a new password for your account.
 
 >Resetting your Password
@@ -23,4 +23,4 @@ If you need to change the password for your account, it is simple to do once log
  ![ice](http://i.imgur.com/Yo6oBBt.png)
  3. On the *Settings* page, you will see a blue box titled *Change Password*. Click that box and your next screen will ask you to enter the new password twice. *Keep in mind you will always need a complex password at least 6 characters, alphanumeric and contain one of the following special characters (~<>!@#$%^&)*
 
- ![baby](http://i.imgur.com/PwfbSUr.png)
+
