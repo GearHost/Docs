@@ -45,7 +45,7 @@
   },
   {
     "file": "cloudsite-overview-page.md",
-    "title": "Cloudsite Overview"
+    "title": "CloudSite Overview"
   },
   {
     "file": "compromised-hacked-website.md",
@@ -54,6 +54,10 @@
   {
     "file": "connect-to-a-mssql-database.md",
     "title": "Connect to a MSSQL database"
+  },
+  {
+    "file": "configure-web-app.md",
+    "title": "Configure Web App"
   },
   {
     "file": "connect-to-a-mysql-database.md",
@@ -65,7 +69,7 @@
   },
   {
     "file": "create-a-cloudsite.md",
-    "title": "Create a Cloudsite"
+    "title": "Create a CloudSite"
   },
    {
     "file": "create-a-database.md",
@@ -205,7 +209,7 @@
    }
    ,{
        "file": "how-to-install-new-relic.md",
-       "title": "Installing New Relic on your cloudsite"
+       "title": "Installing New Relic on your CloudSite"
    }
    ,{
        "file": "installing-php-and-zend-extensions.md",

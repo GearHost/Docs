@@ -1,7 +1,5 @@
 ##How to install New Relic Agent on your cloudsite.
 
-
-----------
 Using New Relic's monitoring service is a great way to monitor your .NET application, and it's also absolutely free!
 Before you start you will need your New Relic license key. 
 You can retrieve it by following this [guide.](https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-setup/license-key#finding)
@@ -53,6 +51,4 @@ You can view your app's recorded data by going to their website and selecting th
 We recommend at least waiting 10-15 minutes for New Relic to start gathering your information.
 
 
-----------
-
-Tip: You can follow their official documentation [here.](https://docs.newrelic.com/docs/agents/net-agent/azure-installation/azure-portal)You can also download their official app on your android or apple device!
+>**Tip:** You can follow their official documentation [here.](https://docs.newrelic.com/docs/agents/net-agent/azure-installation/azure-portal)You can also download their official app on your android or apple device!
