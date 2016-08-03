@@ -4,7 +4,7 @@ This article explains how to configure a web app using the Octane configuration 
 ##General Settings
 Framework versions. Set these options if your app uses any these frameworks:
 
-**.NET Framework version:** Set the .NET framework version. **v3.5** supports both 3.5 and 2.0. **v4.6** supports both 4.6.2 and 4.5.
+**.NET Framework version:** Set the .NET framework version. **v3.5** supports *2.0, 3.0, 3.5,* and *3.5.1*. **v4.6** supports *4.0, 4.5, 4.5.1-2, 4.6, and 4.6.1-2*
 
 **PHP Version:** Set the PHP version, or OFF to disable PHP. We currently support 5.3, 5.4 and 5.5.
 
