@@ -19,7 +19,7 @@ This article covers 3 steps needed to connect to your hosted MySQL database.
 1. Launch MySQL Workbench
 2. From the menu select Database > Connect to Database
 3. Enter the hostname with the database server name (see above)
-4. Leave the default port of 3006
+4. Leave the default port of 3306
 5. Enter your database username (see above)
 6. Click Ok
 7. When asked for your password enter it (see above)
