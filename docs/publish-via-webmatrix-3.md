@@ -9,36 +9,22 @@ This article covers three steps needed to publish your website to Octane with We
 
 
 ###Download your publishing file
+1. [Log in][login-link]  to your account
+2. Click on the CloudSite you wish to get the publishing file for
+3. Click the Publish tab inside CloudSite details
+4. Download publishing file by selecting the Visual Studio button under the Application Publishing Files title
 
- - [Log in][login-link]  to your account
-
- - Select your CloudSite
- 	
-
- - Download publishing file by clicking on your **Publish** menu.
-
-> If you reset your publishing file you will need to redownload the publishing file and re-import it as the password will have changed.
+> If you reset your publishing password you will need to download your publishing file again and re-import it.
 
 ###Import Publish File into WebMatrix 3
-
- - Click on the Remote file menu
- - Click publish
-
- 
- - Import publish profile
- 
-
- - Set database (only if needed)
-	- Locate your server
-	
-	- Enter the credentials
-	
-	
-
-	- Password and username for the database are located under the database user section
-
-	
- - Validate connection
+1. Click on the Remote file menu
+2. Click publish
+3. Import publish profile
+4. Set database (only if needed)
+	1. Locate your server
+	2. Enter the credentials
+	3. Password and username for the database are located under the database user section
+5. Validate connection
 
 	
 
@@ -52,26 +38,17 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 
  - Visit test URL provided for your site
  
- >This test URL should be in the format of **http://cloudsitename.gear.host** where you replace cloudsitename with the name of your CloudSIte
+ >This test URL should be in the format of `http://{cloudsitename}.gear.host` where you replace `{cloudsitename}` with the name of your CloudSite
 
 ###Set Up Your Database
 
->There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are * ( ) /  so do avoid them when creating a new password.
+>There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are `*()/"'`  so do avoid them when creating a new password.
 
-1. Create a new database by going to your database menu 
-
-
-
+1. Create a new database by going to your database menu
 2. Set a Database name
-
-
 3. Select the database you need, either MySQL or MSSQL
-
-3. Select create empty database
-
-4. Set your password on the database to avoid the known issue of certain characters causing an issue during publishing 
-	
-
+4. Select create empty database
+5. Set your password on the database to avoid the known issue of certain characters causing an issue during publishing
 
 If you need to set up a connection to your database for management please follow the instructions in the articles below based on your database type.
    
@@ -79,7 +56,7 @@ If you need to set up a connection to your database for management please follow
 - [MySQL](https://www.gearhost.com/documentation/connecting-to-mysql-database)
 
 
-[Login-Link]:https://my.gearhost.com/Account/Login
+[Login-Link]:https://my.gearhost.com/account/login
 
 [menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
 [select-cloudsite]: https://raw.githubusercontent.com/GearHost/docs/master/Images/select-cloudsite.png
