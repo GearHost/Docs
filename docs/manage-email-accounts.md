@@ -8,12 +8,11 @@ Management of your mailboxes is done using web mail by logging into your web mai
 2. Click on the CloudSite name you wish to manage email under
 3. Click the `Email` tab
 4. Click the domain name you wish to manage email for
-5. Click the `Email Management` button to launch the SmarterMail web mail interface as the domain email primary administrator
+5. Click the `Email Management` button to launch the SmarterMail web mail interface
+6. Click the `Settings` gear icon on the left menu pane
+7. Under `Domain Settings` click `Users`
 
-###Manage your email mailboxes
-1. Click the `Settings` gear icon on the left menu pane
-2. Under `Domain Settings` click `Users`
-3. Now you can manage your mailboxes such as creating a new mailbox or modifying an existing mailbox, see below
+Now you can manage your mailboxes such as creating a new mailbox or modifying an existing mailbox, see below
 
 ###Add a new mailbox
 1. Click `New`
