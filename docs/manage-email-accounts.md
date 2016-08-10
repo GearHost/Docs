@@ -26,3 +26,6 @@ Management of your mailboxes is done using web mail by logging into your web mai
 1. Double click the mailbox name or select the mailbox using the check box and click the `Edit` button
 2. Modify the mailbox password
 3. Click `Save`
+
+###Delete a mailbox
+1. Select the mailbox using the check box then click the `Delete` button
