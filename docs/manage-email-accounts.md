@@ -1,5 +1,5 @@
 #Manage your email mailboxes
-This article explains how to manage your SmarterMail mailbox email accounts. If you need to learn how to activate email for a domain click [here](https://www.gearhost.com/documentation/enable-email).
+This article explains how to manage your SmarterMail mailbox email accounts such as adding a new mailbox, changing the password of an existing mailbox or modifying anything else regarding a mailbox. You must first have [email enabled on your domain](https://www.gearhost.com/documentation/enable-email).
 
 ###Login to your SmarterMail
 Management of your mailboxes is done using web mail by logging into your web mail as a domain administrator. If you are unsure who is a domain administrator you can always log in as the primary domain administrator which can be changed as well.
