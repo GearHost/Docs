@@ -1,24 +1,26 @@
-#Manage your e-mail accounts
+#Manage your email mailboxes
+This article explains how to manage your SmarterMail mailbox email accounts. If you need to learn how to activate email for a domain click [here](https://www.gearhost.com/documentation/enable-email).
 
-----------
-This article covers the main steps to fully configure your e-mail. If you're looking to enable e-mail for a domain click [here.](https://www.gearhost.com/documentation/enable%20e-mail)
-
-----------
 ###Login to your SmarterMail
+Management of your mailboxes is done using web mail by logging into your web mail as a domain administrator. If you are unsure who is a domain administrator you can always log in as the primary domain administrator which can be changed as well.
 
-1. Click on the cloudsite that has e-mail enabled.
-1. Select the **MAIL** menu tab.
-1. Here you will see your domain, click on **Launch Email** (zoom icon).This will automatically log you in SmarterMail as the Admin user.
+1. Log in to your GearHost Account
+2. Click on the CloudSite name you wish to manage email under
+3. Click the `Email` tab
+4. Click the domain name you wish to manage email for
+5. Click the `Email Management` button to launch the SmarterMail web mail interface as the domain email primary administrator
 
-----------
-###Manage your E-mail accounts
-
-Select the **Settings** menu on the left and under **Domain Settings** select **Users.**
-
-Double click the e-mail account you wish to modify.
-
-From here you can update the password, disable e-mail box, or modify more configurations. Passwords must contain at least 8 characters, one upper case, one lower case, one number and one special character.
+###Manage your email mailboxes
+1. Click the `Settings` gear icon on the left menu pane
+2. Under `Domain Settings` click `Users`
 
 
->**Tip:** If you're unable to log in automatically or login with the Administrative user or need any further assistance. Please open a ticket within your **Support** menu or e-mail us at **help@gearhost.com**. 
+###Add a new mailbox
+1. Click New
+2. Enter a desired username (which is the mailbox name)
+3. Enter a desired strong password which will require 9 characters including 1 upper case, 1 lower case, 1 numeric number and 1 special character
+4. Modify any other settings as required
 
+###Modify a mailbox password
+1. Double click the mailbox name or select the mailbox using the check box and click the Edit button
+2. Modify the mailbox password
