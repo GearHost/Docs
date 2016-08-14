@@ -124,6 +124,10 @@
     "title": "Getting Started"
   },
   {
+    "file": "getting-started-with-nodejs.md",
+    "title": "Getting started with Node.js"
+  },
+  {
     "file": "generate-pfx.md",
     "title": "Generate PFX certificate"
   },
@@ -162,10 +166,6 @@
    ,{
        "file": "how-to-backup-your-database.md",
        "title": "How to backup your database"
-   }
-   ,{
-       "file": "how-to-change-nodejs-version.md",
-       "title": "How to change NodeJS version"
    }
    ,{
        "file": "how-to-configure-dns.md",
