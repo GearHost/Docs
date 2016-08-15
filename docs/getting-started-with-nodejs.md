@@ -9,7 +9,7 @@ This document provides basic guidance on using Node.js with GearHost.
 
 1. [Change Node.js version](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-change-version)
 2. [Enable Websockets](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-enable-websockets)
-3. [Debugging Node.js using Kudu](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-change-debug-your-application)
+3. [Debugging Node.js using Kudu](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-debug-your-application)
 4. [Installing packages with Node Package Manager](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-installing-packages-using-npm)
 5. [Recommendations and tips](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-recommendations)
 
