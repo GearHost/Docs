@@ -180,6 +180,10 @@
        "title": "How to enable custom errors"
    }
    ,{
+       "file": "how-to-transfer-your-domain.md",
+       "title": "Transfering your domain to GearHost"
+   }
+   ,{
        "file": "how-to-install-a-pfx.md",
        "title": "How to install a PFX"
    }
