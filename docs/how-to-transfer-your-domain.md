@@ -6,7 +6,7 @@ The very first thing to check is if your domain is eligible for transfer to Gear
 
 1.	**Update Your Name Servers:** Changing your name servers while your domain is being transferred may cause the transfer to fail. Be sure that you update your name servers before the transfer begins so that your domain will be working as soon as possible. If you have any concerns regarding this step please contact us and we'll be glad to answer anything
 
-1.	**Disable WHOIS Privacy:** If WHOIS privacy is enabled, it will prevent your verification information from being retrieved and will prevent your transfer from succeeding.
+1.	**Disable WHOIS Privacy:** If WHOIS privacy is enabled, it will prevent your verification information from being retrieved and will prevent your transfer from succeeding
 
 1.	**Update Your WHOIS Information:** Your WHOIS information may be used to verify your ownership of a domain before the transfer completes. Updating your contact information to ensure that you can access the email addresses on your WHOIS will prevent transfer failure
 
