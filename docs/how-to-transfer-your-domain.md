@@ -1,5 +1,5 @@
 ##How to transfer your domain name
-In this guide we will show you how to transfer your domain name to GearHost. Please be sure you follow these steps so your domain can transfer without any complications.
+In this guide we will show you how to transfer your domain name to GearHost. Please be sure to follow all these steps so your domain may successfully transfer.
 
 ###Checklist
 The very first thing to check is if your domain is eligible for transfer to GearHost. We will need the following procedures at your current registrar prior to starting the domain name transfer;
