@@ -24,7 +24,18 @@ The very first thing to check is if your domain is eligible for transfer to Gear
 After everything checks out, we can now proceed with transferring the domain name; 
 
 1.	Login to your hosting [portal](https://my.gearhost.com)
-2.	Select the **Domains** menu on your left hand side
-3.	Click the **Transfer** button on the top right and start filling out your information
-4.	Select **Transfer Domain** to begin the transfer
-5.	The registrant e-mail address will soon receive an e-mail requesting authorization, please be sure to follow the steps provided there
+
+
+1.	Select the **Domains** menu on your left hand side
+
+1.	Click the **Transfer** button on the top right and start filling out your information
+
+1.	Select **Transfer Domain** to begin the transfer
+
+###Confirm domain transfer
+You'll receive an e-mail shortly requesting for you to confirm the transfer. The first link will provide information about our terms and conditions. The second link will ask for your agreement and request for the EPP/authorization code. Click on **Submit Request** at the bottom of the page and that's it! As an example this is what our confirmation page looks like:
+
+
+<img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/opensrs.PNG" height=50%/>
+
+>**Tip:** If you need any further assistance please [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!
