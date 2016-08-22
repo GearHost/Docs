@@ -26,5 +26,5 @@ After everything checks out, we can now proceed with transferring the domain nam
 1.	Login to your hosting [portal](https://my.gearhost.com)
 2.	Select the **Domains** menu on your left hand side
 3.	Click the **Transfer** button on the top right and start filling out your information
-4.	Select **Transfer Domain** to begin the transfer.
+4.	Select **Transfer Domain** to begin the transfer
 5.	The registrant e-mail address will soon receive an e-mail requesting authorization, please be sure to follow the steps provided there
