@@ -32,7 +32,7 @@ After everything checks out, we can now proceed with transferring the domain nam
 
 1.	Select **Transfer Domain** to begin the transfer
 
-###Confirm domain transfer
+###Confirming the domain transfer
 You'll receive an e-mail shortly requesting for you to confirm the transfer. The first link will provide information about our terms and conditions. The second link will ask for your agreement and request for the EPP/authorization code. Click on **Submit Request** at the bottom of the page and that's it! As an example this is what our confirmation page looks like:
 
 
