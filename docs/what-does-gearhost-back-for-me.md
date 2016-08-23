@@ -1,7 +1,7 @@
 #GearHost Backups
 
 ###How often are backups performed?
-GearHost automatically backs up data for a retention period of 5 days. Each run overwrites any previous backups and most backups run between 12 A.M - 4 A.M. 
+GearHost automatically backs up data for a retention period of 5 days. Each run overwrites any previous backups and most backups run between 12 A.M. - 4 A.M. 
  
 ###Are restores free?
 Our backups are only done as courtesy, but we do recommend manually backing up your own data. If you wish to use our backups to restore anything our fee is $30.00. Any additional or subsequent restorations will also incur a fee. 

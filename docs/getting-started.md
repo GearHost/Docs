@@ -23,11 +23,10 @@ To get the best experience at GearHost you will want to add a credit card to you
 Under the CloudSites menu click the Add CloudSite button. You will need to provide a name for your CloudSite and a plan. If you did not add a credit card on file you can only select the Free plan. Now you can click on Create Empty CloudSite or Create CloudSite from Gallery to do a quick install of popular applications like WordPress, nopCommerce, DNN, code samples, Joomla and many others.
 
 ###Deploy your content
-Under the Publish tab of a CloudSite is where you can find your CloudSite credentials to publish your data using [FTP](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp), Web Deploy, [Git](https://www.gearhost.com/documentation/git-deploy-your-application), [Visual Studio](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio-2013), [Web Matrix](https://www.gearhost.com/documentation/publish-via-webmatrix-3), FileZilla and more.
+Under the Publish tab of a CloudSite is where you can find your CloudSite credentials to publish your data using [FTP](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp), Web Deploy, [Git](https://www.gearhost.com/documentation/git-deploy-your-application), [Visual Studio](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio-2013), [Web Matrix](https://www.gearhost.com/documentation/publish-via-webmatrix-3), [FileZilla](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp) and more.
 
 ###Thanks
 We love our customers so thanks again for your business and let us know if we can help with anything! 
 
 
-
-
+>**Tip:** If you ever need assistance or clarification don't hesitate to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!
