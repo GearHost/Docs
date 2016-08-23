@@ -29,4 +29,4 @@ Under the Publish tab of a CloudSite is where you can find your CloudSite creden
 We love our customers so thanks again for your business and let us know if we can help with anything! 
 
 
->**Tip:** If you ever need assistance or clarification don't hesitate to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!
+>**Tip:** If you ever need assistance or further clarification don't hesitate to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!
