@@ -4,7 +4,7 @@ A CloudSite provides the resources necessary to run your application such as CPU
 
 **Steps:** 
 
-  1. Login to your [control panel.](https://my.gearhost.com/account/login)
+  1. Login to your [control panel](https://my.gearhost.com/account/login)
  
   2. Click on the **Add Cloudsite** blue button at the top right
  
