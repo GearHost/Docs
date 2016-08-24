@@ -1,11 +1,8 @@
 [
-  {
-    "file": "1-click-install-joomla.md",
-    "title": "1-click install Joomla"
-  },
+  
   {
     "file": "account-verification.md",
-    "title": "Account Verification"
+    "title": "Account verification"
   },
    {
     "file": "add-a-credit-card-to-your-account.md",
@@ -13,15 +10,15 @@
   },
   {
     "file": "always-on.md",
-    "title": "Always On Feature"
+    "title": "Always On feature"
   },
   {
     "file": "api-getting-started.md",
-    "title": "API - Getting Started"
+    "title": "API - Curl tutorial"
   },
   {
     "file": "apple-mac-mail.md",
-    "title": "Apple or Mac Mail setup"
+    "title": "Mac Mail setup"
   },
   {
     "file": "applicationhost-config-advanced-configuration.md",
@@ -41,11 +38,11 @@
   },
   {
     "file": "changing-nameservers.md",
-    "title": "Updating Nameservers"
+    "title": "Updating nameservers"
   },
   {
     "file": "cloudsite-overview-page.md",
-    "title": "CloudSite Overview"
+    "title": "CloudSite overview"
   },
   {
     "file": "compromised-hacked-website.md",
@@ -57,7 +54,7 @@
   },
   {
     "file": "configure-web-app.md",
-    "title": "Configure Web App"
+    "title": "Configure Web app"
   },
   {
     "file": "connect-to-a-mysql-database.md",
@@ -65,7 +62,7 @@
   },
   {
     "file": "connection-strings.md",
-    "title": "Connection Strings"
+    "title": "Connection strings"
   },
   {
     "file": "create-a-cloudsite.md",
@@ -73,11 +70,11 @@
   },
    {
     "file": "create-a-database.md",
-    "title": "Create a Database"
+    "title": "Create a database"
   },
    {
     "file": "create-php-info-page.md",
-    "title": "Create a PHP Info page"
+    "title": "Create a PHP info page"
   },
    {
     "file": "csr.md",
@@ -113,7 +110,7 @@
   },
   {
     "file": "e-mail-migration.md",
-    "title": "E-mail Migration"
+    "title": "E-mail migration"
   },
    {
     "file": "general-client-email-settings.md",
@@ -121,7 +118,7 @@
   },
    {
     "file": "getting-started.md",
-    "title": "Getting Started"
+    "title": "Getting started"
   },
   {
     "file": "getting-started-with-nodejs.md",
@@ -129,15 +126,11 @@
   },
   {
     "file": "generate-pfx.md",
-    "title": "Generate PFX certificate"
+    "title": "Generate a PFX"
   },
    {
     "file": "git-deploy-your-application.md",
     "title": "Git deploy your application"
-  },
-   {
-    "file": "github-deploy-your-application.md",
-    "title": "Github deploy your application"
   },
    {
     "file": "gmail-mx-records.md",
@@ -149,7 +142,7 @@
   },
   {
     "file": "how-do-i-access-my-legacy-account.md",
-    "title": "Access Legacy Account"
+    "title": "Access legacy account"
   },
   {
     "file": "how-to-use-kudu.md",
@@ -157,7 +150,7 @@
   },
   {
     "file": "how-to-open-a-support-ticket.md",
-    "title": "How to open a Support Ticket"
+    "title": "How to open a support ticket"
   },
    {
        "file": "how-to-add-a-domain-subdomain-hostname.md",
@@ -173,7 +166,7 @@
    }
    ,{
        "file": "how-to-configure-user-ini.md",
-       "title": "PHP - Configuring .user.ini tutorial"
+       "title": "PHP - Configure .user.ini"
    }
    ,{
        "file": "how-to-enable-custom-errors.md",
@@ -240,12 +233,8 @@
        "title": "Managing your application pool"
    }
    ,{
-       "file": "migrating.md",
-       "title": "Migrating"
-   }
-   ,{
        "file": "mime-types.md",
-       "title": "MIME Types"
+       "title": "Configure MIME Types"
    }
    ,{
        "file": "my-site-is-suspended.md",
@@ -264,52 +253,32 @@
        "title": "Permission settings relative pathing"
    }
    ,{
-       "file": "php-user-ini.md",
-       "title": "Configuring PHP - user.ini"
-   }
-   ,{
        "file": "phpmyadmin-install-to-cloudsite.md",
-       "title": "Phpmyadmin install to CloudSite"
+       "title": "Install PHPMyAdmin"
    }
    ,{
        "file": "pricing-database-site-email-plans.md",
-       "title": "Pricing for services"
+       "title": "Pricing guide"
    }
    ,{
        "file": "publish-via-webmatrix-3.md",
        "title": "Publish via webmatrix 3"
    }
    ,{
-       "file": "quick-install-dnn.md",
-       "title": "Quick install DNN"
-   }
-   ,{
-       "file": "quick-install-wordpress.md",
-       "title": "Quick install WordPress"
-   }
-   ,{
-       "file": "restart-cloudsite.md",
-       "title": "Restart CloudSite"
-   }
-   ,{
        "file": "review-gearhost.md",
        "title": "Review GearHost"
    }
    ,{
-       "file": "scaling-reserved.md",
-       "title": "Scaling reserved"
+       "file": "reserved-cloudsite.md",
+       "title": "Reserved CloudSites"
    }
    ,{
        "file": "site-diagnostics.md",
        "title": "Site diagnostics"
    }
    ,{
-       "file": "solving-a-503-error.md",
-       "title": "Solving a 503 error"
-   }
-   ,{
        "file": "ssl-installation-steps.md",
-       "title": "SSL Installation Steps"
+       "title": "SSL installation steps"
    }
    ,{
        "file": "ssl-types-pricing.md",
@@ -325,11 +294,7 @@
    }
    ,{
        "file": "teams.md",
-       "title": "Teams"
-   }
-   ,{
-       "file": "third-party-csr.md",
-       "title": "Third Party SSL"
+       "title": "Teams feature"
    }
    ,{
        "file": "test-your-site-before-switching-dns.md",
@@ -337,7 +302,7 @@
    }
    ,{
        "file": "troubleshooting-wordpress-and-php.md",
-       "title": "Troubleshooting WordPress and PHP"
+       "title": "Troubleshooting WordPress"
    }
    ,{
        "file": "two-factor-authentication.md",
