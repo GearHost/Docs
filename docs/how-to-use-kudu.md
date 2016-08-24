@@ -5,7 +5,7 @@ Kudu is a web interface tool to help you debug and install extensions on your Cl
 
 1. Navigate to `https://{yoursitename}.scm.gear.host`. You will also need to enter your deployment credentials when prompted. Login using **$yoursitename** as the username and use your publishing password.
 
-1. ou will be logged into the Kudu interface. You can access PowerShell by going to the **Debug Console** menu and selecting **Powershell.**
+1. Access PowerShell by going to the **Debug Console** menu and selecting **Powershell.**
 
 1. In this step, I'm using the **cd** command to change my working directory to /home/site/wwwroot/.  From here I can see all of my files and folders. I'll be running a command to recursively delete a folder named *setup*.
 
