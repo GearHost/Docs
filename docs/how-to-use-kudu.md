@@ -1,26 +1,16 @@
-###How to use KUDU
+##How to use Kudu
 
-----------
-
-KUDU is a UI to help you diagnose and debug your GearHost Web Site. It offers debug tools, Powershell access, modifies add-ons, and access many other useful features! As an example, we will give using a CloudSite called **zpma.** We'll use Kudu to access powershell to delete a directory as FTP can take longer when deleting big directories.
-
-----------
-
-Navigate to http://[yoursitename].scm.gear.host. You will also need to enter your deployment credentials when prompted. Login using **$yoursitename** as the username and use your publishing password for that CloudSite. Your address bar should look something like this:
-
-<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/kudu1.PNG" />
+Kudu is a web interface tool to help you debug and install extensions on your CloudSite. It offers debugging tools, PowerShell access, an add-on installer, and access many other useful features! As an example, we'll use Kudu to access PowerShell and delete a directory. Before we get started you will need to retrieve your publishing credentials. You can do this by selecting your CloudSite on your [portal](https://my.gearhost.com), and clicking on the **Publish** menu.
 
 
-After you enter your credentials, you will be logged into the Kudu interface. You can access Powershell by going to the **Debug Console** menu and selecting **Powershell.**
+1. Navigate to `https://{yoursitename}.scm.gear.host`. You will also need to enter your deployment credentials when prompted. Login using **$yoursitename** as the username and use your publishing password.
 
+1. ou will be logged into the Kudu interface. You can access PowerShell by going to the **Debug Console** menu and selecting **Powershell.**
 
-<img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/kudu3.PNG"  />
-
-
-In this step, I'm using the **cd** command to change my directory to /home/site/wwwroot/.  From here I can see all of my files and folders. I'll be running a command to recursively delete a folder named "setup".
+1. In this step, I'm using the **cd** command to change my working directory to /home/site/wwwroot/.  From here I can see all of my files and folders. I'll be running a command to recursively delete a folder named *setup*.
 
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/kudu4.PNG" />
 
 
 
->**Tip:** You can execute scripts, or run other commands using Powershell. If you're unfamiliar with the command line you can click [here](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/) to view more detailed information.
+>**Tip:** You can execute scripts, or run other commands using Powershell. If you're unfamiliar with the command line you can click [here](https://blogs.technet.microsoft.com/heyscriptingguy/2015/06/11/table-of-basic-powershell-commands/) to view more detailed information. Running a Node.js application? You can check out our documentation [here](https://www.gearhost.com/documentation/getting-started-with-nodejs) for some quick tips!
