@@ -301,7 +301,7 @@
        "title": "Test your site before switching dns"
    }
    ,{
-       "file": "troubleshooting-wordpress-and-php.md",
+       "file": "troubleshooting-wordpress.md",
        "title": "Troubleshooting WordPress"
    }
    ,{
