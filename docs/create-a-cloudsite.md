@@ -1,8 +1,8 @@
-#Create a new CloudSite
+#Creating a CloudSite
 
 A CloudSite provides the resources necessary to run your application such as CPU cycles, memory, disk space, etc. It's recommended that you create a CloudSite for each application you're developing. All CloudSites have reserved resources so one CloudSite will never interfere with another CloudSite's performance or cause downtime.
 
-##Add a new Cloudsite 
+**Steps:** 
 
   1. Login to your [control panel.](https://my.gearhost.com/account/login)
  
@@ -12,7 +12,7 @@ A CloudSite provides the resources necessary to run your application such as CPU
  
   4. Select the desired CloudSite plan for your application
  
-  5. Click on **Create CloudSite** near the bottom
+  5. Click on **Create CloudSite** near the bottom of the page
 
   6. After your CloudSite has finished building, click on its blue title text to manage it. Additional menu options will display so you can manage your FTP login credentials, downloading publishing files, add a domain, manage e-mail and more!
 
