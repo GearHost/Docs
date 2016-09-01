@@ -3,7 +3,7 @@
 Congrats on signing up with GearHost! We're super excited and honored to have you as a customer! At any point if you are having a problem please open a support ticket and we'll make sure to help. You can also let us know what's up on [Twitter](https://twitter.com/gearhost) and [Facebook](https://www.facebook.com/gearhost)!
 
 ###Sign up for free
-If you haven't already, go to **[Gearhost.com/signup](gearhost.com/signup)** to get started, no credit card is required to sign up.
+If you haven't already, click **[here](https://my.gearhost.com/account/signup)** to sign up. No credit card is required!
 
 ###Verify your email
 Yes, we need to make sure you're human so we're going to send you an email with an activation link. Please be sure to click on that link so your account can be activated.
