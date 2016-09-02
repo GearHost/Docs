@@ -6,9 +6,7 @@ Publishing your app using your favorite FTP client couldn't be easier wither Gea
 1. Login to your hosting [portal](https://my.gearhost.com)
 2. Click on your CloudSite
 3. Select the **Publish** tab
-4. Your FTP or Publishing credentials will be provided here
-
-This might look something like this:
+4. Your publishing credentials will look something like this:
 
     Hostname: ftp.gear.host  
     Username: myawesomeapp\$myawesomeapp  
