@@ -9,8 +9,8 @@ Filezilla is an open source FTP client that easily allows you to upload, downloa
 
 Congratulations, Filezilla is installed on your computer and now you can start uploading your app!
 
-###FTP Credentials
-Please follow our guide [here](), as we will show you where to locate your FTP publishing credentials!
+###FTP credentials
+Please follow our guide [here](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp), as we will show you where to locate your FTP publishing credentials!
 
 ###How to use Filezilla
 Not sure how to use Filezilla? There's a great guide provided [here](https://www.ostraining.com/blog/coding/filezilla-beginner/) that shows you the basics on how to upload/download files to the remote server. It's as easy  drag and drop! 

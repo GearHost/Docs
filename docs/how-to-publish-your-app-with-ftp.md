@@ -1,44 +1,38 @@
-#How to publish your application with FTP
+#Getting started with FTP
 
-Publishing your app using your favorite FTP client couldn't be easier wither GearHost. As with all FTP clients you will need the hostname, username and password. If you don't have a favoriate FTP client we recommend [FileZilla][filezilla-download].
+Publishing your app using your favorite FTP client couldn't be easier wither GearHost. As with all FTP clients you will need the hostname, username and password. If you don't have any FTP client installed, please be sure to check out our guide on installing Filezilla [here.](https://www.gearhost.com/documentation/installing-filezilla) 
 
-###How is data stored on a CloudSite?
-All data is tied to a particular CloudSite with each CloudSite having it's own individual login credentials. These credentials are used for FTP, Web Deploy and Git publishing. As such you need a specific individual login for each CloudSite you have.
-
-###So where do I get that info?
-1. To get your CloudSite login credentials to use for FTP (or Web Deploy and Git) you will need to [login to your GearHost account][login-link]
-2. Click on the specific CloudSite you want to login info
-3. Click on the Publish tab
-4. Input the hostname, username and password info your FTP client and connect
+###FTP credentials
+1. Login to your hosting [portal](https://my.gearhost.com)
+2. Click on your CloudSite
+3. Select the **Publish** tab
+4. Your FTP or Publishing credentials will be provided here
 
 This might look something like this:
 
-Hostname: ftp.gear.host  
-Username: myawesomeapp\$myawesomeapp  
-Password: ydjcWguj0RamAJCbdjMtvzgxlkq3LJhuieblrY3sZeEiiuF6DRPZK8p3RMC6
+    Hostname: ftp.gear.host  
+    Username: myawesomeapp\$myawesomeapp  
+    Password: ydjcWguj0RamAJCbdjMtvzgxlkq3LJhuieblrY3sZeEiiuF6DRPZK8p3RMC6
 
-> Your username for FTP is the *{cloudsitename}*\$*{cloudsitename}* so if your CloudSite was called "myawesomeapp" your username would be "myawesomeapp\$myawesomeapp". FYI for Git your username is only $*{cloudsitename}* for example "$myawesomeapp".  
 
 ###Can I set my own password?
-At this time your CloudSite password cannot be set to a custom password however it can be reset by clicking the Reset Password button to generate a new password. This in turn will expire your old password.
+At this time your CloudSite password cannot be set to a custom password however it can be reset by clicking the **Reset Password** button.
 
-###Where do I upload my data?
-The web root content for your CloudSite is located under /site/wwwroot.
+###Can I create another FTP user?
+At this time we do not support additional FTP accounts per CloudSite.
 
-###Using FileZilla?
-If you are using FileZilla then we provide a downloadable XML file that you can import. Here's how to do it.
+###Where do I upload my files?
+The web root content for your CloudSite is located under **/site/wwwroot/**
 
-1. Download the FileZilla file by clicking on the icon in the GearHost control panel
-2. Launch FileZilla
-2. Under the File menu select Import
-3. Select the file you downloaded
+###Import publishing file to FileZilla
+We provide a XML file that you can import to Filezilla. This file saves your FTP connection to the Site Manager which makes it easier to connect. On the same **Publish** menu, click on the FileZilla icon to download the XML file.
+
+1. Launch FileZilla
+2. Under the **File** menu select **Import...**
+3. Browse for the .xml file you just downloaded
 4. Select OK on the Import Settings dialog box
 5. Select OK on the Import Successful confirmation box
-6. Under the File menu select Site Manager or select the Site Manager icon
-7. Under My Site select the CloudSite and click Connect
+6. Under the **File** menu select **Site Manager**
+7. Under **My Sites** select your CloudSite and click Connect
 
-> You will need to enter your password again but you can select the "remember password" checkbox to save your password.
-
-[filezilla-download]: https://filezilla-project.org/download.php?type=client
-[Login-Link]:https://my.gearhost.com/account/login
- 
+>**Tip:** If you're using Kudu or Git your username is $`yourcloudsitename` instead of `yourcloudsitename`\$`yourcloudsitename` If you're still having issues please open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!
