@@ -6,11 +6,17 @@ Publishing your app using your favorite FTP client couldn't be easier wither Gea
 1. Login to your hosting [portal](https://my.gearhost.com)
 2. Click on your CloudSite
 3. Select the **Publish** tab
-4. Your publishing credentials will look something like this:
+4. Your information will be displayed below **FTP Publishing Credentials** 
+
+
+It looks like this:
+
+
+
 
     Hostname: ftp.gear.host  
-    Username: myawesomeapp\$myawesomeapp  
-    Password: ydjcWguj0RamAJCbdjMtvzgxlkq3LJhuieblrY3sZeEiiuF6DRPZK8p3RMC6
+    Username: yourcloudsitename\$yourcloudsitename  
+    Password: S0M3RaV3RYjMtvL0NGLJhuiPA$$W0RDeEiiuF6DRPZK8p3RMC6
 
 
 ###Can I set my own password?
@@ -20,7 +26,7 @@ At this time your CloudSite password cannot be set to a custom password however 
 At this time we do not support additional FTP accounts per CloudSite.
 
 ###Where do I upload my files?
-The web root content for your CloudSite is located under **/site/wwwroot/**
+Upload your files under **/site/wwwroot/**
 
 ###Import publishing file to FileZilla
 We provide a XML file that you can import to Filezilla. This file saves your FTP connection to the Site Manager which makes it easier to connect. On the same **Publish** menu, click on the FileZilla icon to download the XML file.
@@ -32,5 +38,8 @@ We provide a XML file that you can import to Filezilla. This file saves your FTP
 5. Select OK on the Import Successful confirmation box
 6. Under the **File** menu select **Site Manager**
 7. Under **My Sites** select your CloudSite and click Connect
+
+###Updating the Default Document
+Click on the **Config** menu and scroll down until you see **Default Documents** to update your default page. This is required in case your homepage file is something like `home.html` instead of `index.html`. If you need to make further changes to your application's settings we recommend checking out our [configure web app guide.](https://www.gearhost.com/documentation/configure-web-app)
 
 >**Tip:** If you're using Kudu or Git your username is $`yourcloudsitename` instead of `yourcloudsitename`\$`yourcloudsitename` If you're still having issues please open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!
