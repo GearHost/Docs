@@ -6,10 +6,10 @@ Publishing your app using your favorite FTP client couldn't be easier wither Gea
 1. Login to your hosting [portal](https://my.gearhost.com)
 2. Click on your CloudSite
 3. Select the **Publish** tab
-4. Your information will be displayed below **FTP Publishing Credentials** 
+4. Your information will be displayed below **"FTP Publishing Credentials"** 
 
 
-It looks like this:
+It should look something like this:
 
 
 
@@ -20,15 +20,15 @@ It looks like this:
 
 
 ###Can I set my own password?
-At this time your CloudSite password cannot be set to a custom password however it can be reset by clicking the **Reset Password** button.
+No, however it can be reset by clicking the **Reset Password** button on the right hand side.
 
 ###Can I create another FTP user?
 At this time we do not support additional FTP accounts per CloudSite.
 
 ###Where do I upload my files?
-Upload your files under **/site/wwwroot/**
+The webroot directory for your CloudSite is **/site/wwwroot/**
 
-###Import publishing file to FileZilla
+###Import publishing file in Filezilla
 We provide a XML file that you can import to Filezilla. This file saves your FTP connection to the Site Manager which makes it easier to connect. On the same **Publish** menu, click on the FileZilla icon to download the XML file.
 
 1. Launch FileZilla
@@ -37,7 +37,7 @@ We provide a XML file that you can import to Filezilla. This file saves your FTP
 4. Select OK on the Import Settings dialog box
 5. Select OK on the Import Successful confirmation box
 6. Under the **File** menu select **Site Manager**
-7. Under **My Sites** select your CloudSite and click Connect
+7. Under **My Sites** select your CloudSite and click **Connect**
 
 
 >**Tip:** If you're using Kudu or Git your username is $`yourcloudsitename` instead of `yourcloudsitename`\$`yourcloudsitename` If you're still having issues please open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!
