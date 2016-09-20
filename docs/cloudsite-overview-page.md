@@ -4,7 +4,7 @@ CloudSite Overview
 *** 
 
 ##Introduction 
-The Cloudsite Overview page provides general information regarding your CloudSite application.  You will find information about your CloudSite beginning with some resource stats. This page can also be used to configure your deployment credentials, grab your publishing file, and start and stop your CloudSite application among other things. 
+The CloudSite Overview page provides general information regarding your CloudSite application.  You will find information about your CloudSite beginning with some resource stats. This page can also be used to configure your deployment credentials, grab your publishing file, and start and stop your CloudSite application among other things. 
 
 *** 
 

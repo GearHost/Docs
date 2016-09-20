@@ -21,6 +21,6 @@ git remote add websites https://cloudsitename.scm.gear.host/cloudsitename.git
 git push websites master
 ```
 
->The term *cloudsitename* is the name of your Cloudsite.
+>The term *cloudsitename* is the name of your CloudSite.
 
 Your username will be $*cloudsitename* and then your publishing password. This information can be viewed from the CloudSite Publish tab.

@@ -2,7 +2,7 @@
 
 Please note that you must have your certificate in a **.PFX** file format for the certificate to be imported and attached to your website. If you're not on this step yet, please read the following [documentation.](https://www.gearhost.com/documentation/SSL-installation-steps)
 
-1. Click on **Cloudsites** from the menu, and select your cloudsite.
+1. Click on **CloudSites** from the menu, and select your CloudSite.
  
 3. Click on the **SSL** tab and  **Add Certificate.**
 

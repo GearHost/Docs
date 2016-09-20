@@ -7,9 +7,9 @@ This guide will go over starting, stopping, or restarting your application pool.
 
 Login to your [portal.](https://my.gearhost.com/ "hosting portal.")
 
-Select **Cloudsites** and click on the one you wish to manage.
+Select **CloudSites** and click on the one you wish to manage.
 
-As an example, I'll be choosing the **austin** cloudsite by clicking on the blue text link.
+As an example, I'll be choosing the **austin** CloudSite by clicking on the blue text link.
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/apppool1.png" width="80%" />
 

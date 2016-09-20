@@ -6,7 +6,7 @@ A CloudSite provides the resources necessary to run your application such as CPU
 
   1. Login to your [control panel](https://my.gearhost.com/account/login)
  
-  2. Click on the **Add Cloudsite** blue button at the top right
+  2. Click on the **Add CloudSite** blue button at the top right
  
   3. Enter a friendly name for your application. The name will create a temporary URL that you can use such as `https://yourappname.gear.host`. It's useful for previewing changes before updating your DNS records
  

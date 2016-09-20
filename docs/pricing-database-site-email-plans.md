@@ -12,7 +12,7 @@ Standard Option: $5/mo
 
 Reserved Option: $25/mo
 
-Email: $1/mo per mailbox (25 GB limit and requires Standard Cloudsite)
+Email: $1/mo per mailbox (25 GB limit and requires Standard CloudSite)
 
 ____
 ###Additional space

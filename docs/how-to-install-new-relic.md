@@ -1,4 +1,4 @@
-##How to install New Relic Agent on your cloudsite.
+##How to install New Relic Agent on your CloudSite.
 
 Using New Relic's monitoring service is a great way to monitor your .NET application, and it's also absolutely free!
 Before you start you will need your New Relic license key. 
@@ -9,7 +9,7 @@ You can retrieve it by following this [guide.](https://docs.newrelic.com/docs/ac
 
 Navigate to http://[yoursitename].scm.gear.host.
 
-Login using "$yoursitename" as the username and use your publishing password for that cloudsite.
+Login using "$yoursitename" as the username and use your publishing password for that CloudSite.
 
 
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/relic1.PNG" />
@@ -25,7 +25,7 @@ Allow a minute or two for the installation to complete.
 After it's installed, login to your octane [portal](https://my.gearhost.com) and restart your application pool.
 If you're not familiar with doing this procedure, follow this [guide.](https://www.gearhost.com/documentation/managing-your-application-pool-start-stop-or-restart)
 
-On your cloudsite menu select **Config** and go to **App Settings**. Add the following key and values;
+On your CloudSite menu select **Config** and go to **App Settings**. Add the following key and values;
 
 
     COR_ENABLE_PROFILING	1
@@ -39,7 +39,7 @@ It should look something like this:
 
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/relic3.PNG" />
 
-Connect to your cloudsite through FTP, navigate to **/site/wwwroot/newrelic** and edit your **newrelic.config** file.
+Connect to your CloudSite through FTP, navigate to **/site/wwwroot/newrelic** and edit your **newrelic.config** file.
 
 On line 5 replace **"REPLACE_WITH_LICENSE_KEY"** with your license key.
 

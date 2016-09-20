@@ -5,7 +5,7 @@ This article covers two steps needed to install custom PHP and Zend extensions f
 
 
 1. [Download and Upload the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions#user-content-download-and-upload-the-extensions)
-2. [Configure the Cloudsite from your portal to load the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions#user-content-configure-the-cloudsite-from-your-portal-to-load-the-extensions)
+2. [Configure the CloudSite from your portal to load the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions#user-content-configure-the-cloudsite-from-your-portal-to-load-the-extensions)
 
 
 ##Download and Upload the extensions
@@ -16,9 +16,9 @@ This article covers two steps needed to install custom PHP and Zend extensions f
 
 
 
-##Configure the Cloudsite from your portal to load the extensions
+##Configure the CloudSite from your portal to load the extensions
 1. [Log in to your GearHost Account][login-link]
-2. Click on the Cloudsite menu option if not already active
+2. Click on the CloudSite menu option if not already active
 3. Select your CloudSite and go to the config tab
 	![config-tab]
 4. scroll down until you reach the app settings section

@@ -14,7 +14,7 @@ Click on the **Certificates** menu and select **Actions.** Select the **Generate
 
 
 
-You're almost done! All that's required is to attach your PFX to your cloudsite. Click **[here](https://www.gearhost.com/documentation/how-to-install-a-pfx)** view this step.
+You're almost done! All that's required is to attach your PFX to your CloudSite. Click **[here](https://www.gearhost.com/documentation/how-to-install-a-pfx)** view this step.
 
 ----------
 

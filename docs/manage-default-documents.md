@@ -15,7 +15,7 @@ A default document is used when you request a website from your browser. As an e
 1. Click on the **Config** menu
 1. Scrolll down until you see **Default Documents**
 1. Replace `Default.htm` with the main file name for your application
-1. Scroll down and click on **Save Configuration**.
+1. Scroll down and click on **Save Configuration**
 
 
 
