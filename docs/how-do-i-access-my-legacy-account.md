@@ -23,7 +23,7 @@ We have been offering hosting to our customers for over 15 years and have had a 
  
 
 ***
->Looking to access your older account with us? Well, here's a few links on where to go to find your account. Thank you for checking out our new CloudSites platform!
+>Looking to access your older account with us? Well, here's a few links on where to go to find your account. Thank you for checking out our new CloudSite platform!
 
 ###v2 or v3 account
 

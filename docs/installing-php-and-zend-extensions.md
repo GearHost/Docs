@@ -1,4 +1,4 @@
-#Installing PHP and Zend Extensions on CloudSites
+#Installing PHP and Zend Extensions on a CloudSite
 
 This article covers two steps needed to install custom PHP and Zend extensions for use with your CloudSite application. This article will demo installing two extensions.  one being MongoDB a regular extension and the second IonCube a Zend extension. The steps are:
 

@@ -15,7 +15,7 @@ Adding a credit card to your account will allow you to upgrade your service. Thi
 1. You'll find a quick view of your current bill for that month and in the upper right corner the **Payment Details** button. Click on this button and click **Update Credit Card** afterwards.
 
 
-1. Fill in your credit card information. Make sure the billing address matches what you have registered with the credit card company. When you are done click on **Update**. Your billing information is now up to date and now you can scale your CloudSites and more!
+1. Fill in your credit card information. Make sure the billing address matches what you have registered with the credit card company. When you are done click on **Update**. Your billing information is now up to date and now you can scale your CloudSite and more!
 
 
 >**Tip:** We also accept annual payments, just open a support ticket and we'll charge your card and apply that as credit. 

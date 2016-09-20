@@ -20,4 +20,4 @@ A default document is used when you request a website from your browser. As an e
 
 
 
->**Tip:** CloudSites comes with multiple default documents specified for the easy use it provides our customers. You can remove unneeded default documents for performance reasons. Still need help? Open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) with us and we'll be more than glad to assist you!
+>**Tip:** A CloudSite comes with multiple default documents specified for the easy use it provides our customers. You can remove unneeded default documents for performance reasons. Still need help? Open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) with us and we'll be more than glad to assist you!

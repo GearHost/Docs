@@ -4,7 +4,7 @@ By default, CloudSite apps are unloaded if they are idle for a period of time. W
 
 It is also useful as a way to keep a CloudSite active for scenarios when you want to run background code within it irrespective of whether it is actively processing external HTTP customer requests.
 
-Always On is a feature of Reserved mode CloudSites only.
+Always On is only available on Reserved CloudSites.
 
 You can enable Always On support for a CloudSite by navigating to the Config tab of a CloudSite, then toggling the Always On button:
 
