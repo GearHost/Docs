@@ -18,9 +18,8 @@ WordPress is the most popular CMS, powering around 25% of all websites in the wo
 3. Select **Let's Go!**
 4. On your [hosting portal](https://my.gearhost.com/Databases), select the database you created and and put the provided information such as; database name, username, password, server in your WordPress wizard
 5. Proceed with clicking the **Submit** button and **Run the Install** option 
-6. Fill out the rest of your required fields and click on **Install WordPress** to complete your installation!
+6. Fill out the rest of your required fields and click on **Install WordPress** to complete your installation
 7. Enjoy WordPress!
-
 
 
 >**Tip:** Having an issue with WordPress? Be sure to check out this following guide [here](https://www.gearhost.com/documentation/troubleshooting-wordpress-and-php) for common solutions!
