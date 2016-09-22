@@ -24,4 +24,4 @@ In this guide we provide the most common connection strings for applications tha
 
 
 
->**Tip:** If these connection strings aren't working, you might be using a CMS where it places a different method of connection strings in a separate configuration file. Alternatively, you can also search for other examples online! Don't have a database? You can create one by following the instructions provided [here!](https://www.gearhost.com/documentation/create-a-database)
+>**Tip:** If these connection strings aren't working, you might be using a CMS where it places a different method of connection strings in a separate configuration file. You can also search for other examples online. Don't have a database? You can create one by following the instructions provided [here!](https://www.gearhost.com/documentation/create-a-database)
