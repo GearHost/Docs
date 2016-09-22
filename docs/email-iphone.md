@@ -1,4 +1,4 @@
-#Configure IMAP Email On IPhone (IOS)
+#Setup e-mail on iPhone (iOS)
 
 1. Select the **Settings** app in your device.
 1. Go to **Mail, Contacts, Calendars.**

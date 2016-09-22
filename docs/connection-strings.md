@@ -1,8 +1,8 @@
 #Connection strings
-Here we provide some examples that have worked for most applications. If you run into an issue double check your syntax in web.config. You can also search for examples online and confirm which one best works for your application. To get your database credentials login to your [portal](https://my.gearhost.com/Databases) and click on the database. Your server, database name, username and password will be provided there.
+In this guide we provide the most common connection strings for applications that you can configure in your **web.config** file. You will need your database information for this to work. Please login [here](https://my.gearhost.com/Databases) and click on the database you wish to connect to your application. From there your database database server, name, username and password will be provided.
 
 
----------
+
 ####ASP Classic
 
 **MySQL**
@@ -14,10 +14,14 @@ Here we provide some examples that have worked for most applications. If you run
 
     "Driver={SQL Server Native Client 10.0};Server=myDBServer;Database=myDatabase;Uid=myUsername;Pwd=myPassword;"
 
----------
+
 ####ASP.NET
 **MSSQL**
 
     <connectionStrings>
     <add name="SiteSqlServer" connectionString="Data Source=mssql#.gear.host;Initial Catalog=DBName;User ID=DBName;Password=Str0ngP2$$W0rd!" providerName="System.Data.SqlClient" />
       </connectionStrings>
+
+
+
+>**Tip:** If these connection strings aren't working, you might be using a CMS where it places a different method of connection strings in a separate configuration file. Alternatively, you can also search for other examples online! Don't have a database? You can create one by following the instructions provided [here!](https://www.gearhost.com/documentation/create-a-database)
