@@ -22,4 +22,4 @@ WordPress is the most popular CMS, powering around 25% of all websites in the wo
 7. Enjoy WordPress!
 
 
->**Tip:** Having an issue with WordPress? Be sure to check out this following guide [here](https://www.gearhost.com/documentation/troubleshooting-wordpress-and-php) for common solutions!
+>**Tip:** Having an issue with WordPress? Be sure to check out this following guide [here](https://www.gearhost.com/documentation/troubleshooting-wordpress) for common solutions!
