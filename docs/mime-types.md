@@ -16,14 +16,14 @@ If you were on a legacy environment and have been migrated to the new environmen
 #####MP4/H264/Video related
     
      <configuration>
-    <system.webServer>​
-        <staticContent>
+    <system.webServer>
+	<staticContent>
             <remove fileExtension=".mp4" />
             <mimeMap fileExtension=".mp4" mimeType="video/mp4" />
             <remove fileExtension=".m4v" />
             <mimeMap fileExtension=".m4v" mimeType="video/m4v" />
-        </staticContent>​
-    </system.webServer>
+        </staticContent>
+		</system.webServer>
     </configuration>
 
 #####Silverlight related
