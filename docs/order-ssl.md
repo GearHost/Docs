@@ -1,12 +1,9 @@
 ##How to order your SSL Certificate
 
-----------
-There are different types of certificates that we offer, click [here](https://www.gearhost.com/documentation/SSL-types-pricing) to view all of our current prices and benefits of each one.
+Having a SSL is a great way to secure your website to accept payments or encrypt data. There are different types of certificates that we offer, click [here](https://www.gearhost.com/documentation/SSL-types-pricing) to view all of our prices and benefits of each one.
 
-----------
-
-
-1. Login to your **Octane** [portal](https://my.gearhost.com). If you do not have an account, click [here](https://my.gearhost.com/account/signup) to sign up for one  
+1. Login to your **Octane** [portal](https://my.gearhost.com). If you do not have an account, click [here](https://my.gearhost.com/account/signup) to sign up for one 
+2. [Add a credit card to your account](https://www.gearhost.com/documentation/add-a-credit-card-to-your-account). If you have already done this proceed with the next step
 2. At the top left hand menu select **Certificates** 
 3. Click on **Create Certificate** at the top right, it should be a blue button
 1. Select **I want to buy a new SSL certificate via GearHost** and click **Next.** Pick your certificate and click **Next** 
