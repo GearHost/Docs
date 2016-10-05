@@ -12,6 +12,6 @@ When you enable e-mail hosting for your domain the very first user you create be
 In this example `johndoe@myawesomedomain.com` is now listed as the administrator account
 
 
-<img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/admin_account_email.PNG" />
+<img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/admin_account.PNG" />
 
 >**Tip:** Need to enable ActiveSync? We have a guide [here](https://www.gearhost.com/documentation/activesync) that shows you how to enable it and provides more information on this feature!
