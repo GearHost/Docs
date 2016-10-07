@@ -21,6 +21,6 @@ Before restoring a database over an existing database please make sure you have 
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click the Databases menu
 3. Find your database and click the delete icon
-4. Follow steps 3-8 above.
+4. Follow steps 3-8 above
 
 > NOTE: Since you are creating a new database a new username/password will be issued. Please make sure to update your connection strings.

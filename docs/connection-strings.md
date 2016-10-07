@@ -1,5 +1,5 @@
 #Connection strings
-In this guide we provide the most common connection strings for applications that you can configure in your **web.config** file. You will need your database information for this to work. Please login [here](https://my.gearhost.com/Databases) and click on the database you wish to connect to your application. From there your database database server, name, username and password will be provided.
+In this guide we provide the most common connection strings for applications that you can configure in your **web.config** file. You will need your database information for this to work. Please login [here](https://my.gearhost.com/Databases) and click on your database. In here we provide your  **Database Server**, **Name**, **Username** and **Password**.
 
 
 
@@ -7,21 +7,28 @@ In this guide we provide the most common connection strings for applications tha
 
 **MySQL**
 
-    connectstring = "DRIVER={MySQL ODBC 5.3 ANSI Driver};SERVER=myDBServer;DATABASE=myDatabase;UID=myUsername;PWD=myPassword;"
+    connectstring = "DRIVER={MySQL ODBC 5.3 ANSI Driver};SERVER=mysql#.gear.host;DATABASE=DBName;UID=DBUser;PWD=myPassword;"
 
 **MSSQL**
 
 
-    "Driver={SQL Server Native Client 10.0};Server=myDBServer;Database=myDatabase;Uid=myUsername;Pwd=myPassword;"
+    "Driver={SQL Server Native Client 10.0};Server=mssql#.gear.host;Database=DBName;Uid=DBUser;Pwd=myPassword;"
 
 
 ####ASP.NET
+**MySQL**
+
+    <connectionstrings>
+      <add name="AppNameCString" connectionstring="Data Source=mysql#.gear.host;Initial Catalog=DBName;User Id=DBUser;Password=myPassword" providername="MySql.Data.MySqlClient" />
+    </connectionstrings>
+
+
 **MSSQL**
 
     <connectionStrings>
-    <add name="SiteSqlServer" connectionString="Data Source=mssql#.gear.host;Initial Catalog=DBName;User ID=DBName;Password=Str0ngP2$$W0rd!" providerName="System.Data.SqlClient" />
+    <add name="AppNameCString" connectionString="Data Source=mssql#.gear.host;Initial Catalog=DBName;User ID=DBUser;Password=myPassword" providerName="System.Data.SqlClient" />
       </connectionStrings>
 
 
 
->**Tip:** If these connection strings aren't working, you might be using a CMS where it places a different method of connection strings in a separate configuration file. You can also search for other examples online. Don't have a database? You can create one by following the instructions provided [here!](https://www.gearhost.com/documentation/create-a-database)
+>**Tip:** If these connection strings aren't working, you might be using a CMS where it reads the connection strings from a separate file. You can also search for other examples online. Don't have a database? You can create one by following the instructions provided [here!](https://www.gearhost.com/documentation/create-a-database)
