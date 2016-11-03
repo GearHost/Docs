@@ -52,7 +52,7 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 
 If you need to set up a connection to your database for management please follow the instructions in the articles below based on your database type.
    
-- [MSSQL](https://www.gearhost.com/documentation/connecting-to-a-sql-database-using-sql-server-management-studio-2014)
+- [MSSQL](https://www.gearhost.com/documentation/connect-to-a-mssql-database)
 - [MySQL](https://www.gearhost.com/documentation/connecting-to-mysql-database)
 
 
@@ -75,3 +75,5 @@ If you need to set up a connection to your database for management please follow
 [database-name]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-namedb.png
 [database-selectplan]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-selectplan.png
 [database-empty]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-createempty.png
+
+>**Tip:** You can publish your applications using different methods. You can deploy your application using [Visual Studio](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio), [Git](https://www.gearhost.com/documentation/github-deploy-your-application), and [FTP](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp) as well!
