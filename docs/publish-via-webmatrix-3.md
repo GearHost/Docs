@@ -76,4 +76,4 @@ If you need to set up a connection to your database for management please follow
 [database-selectplan]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-selectplan.png
 [database-empty]: https://raw.githubusercontent.com/GearHost/docs/master/Images/database-createempty.png
 
->**Tip:** You can publish your applications using different methods. You can deploy your application using [Visual Studio](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio), [Git](https://www.gearhost.com/documentation/github-deploy-your-application), and [FTP](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp) as well!
+>**Tip:** You can publish your application using different methods. Such options include; [Visual Studio](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio), [Git](https://www.gearhost.com/documentation/github-deploy-your-application), and [FTP](https://www.gearhost.com/documentation/how-to-publish-your-app-with-ftp)! If you're still having an issue, please don't hesitate to [open a support ticket.](https://www.gearhost.com/documentation/how-to-open-a-support-ticket)
