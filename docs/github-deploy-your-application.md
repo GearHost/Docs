@@ -1,7 +1,11 @@
 #How to deploy your repo using GitHub
 In this guide, we'll show you how to deploy your own [GitHub](https://github.com/) repository to your CloudSite. If you do not have a GitHub repository, please be sure to check out our previous guide [here](https://www.gearhost.com/documentation/github-getting-started).
 
+
+
 <img src="https://octodex.github.com/images/collabocats.jpg" width=25%/>
+
+
 1. Login to your [account](https://my.gearhost.com)
 1. Select your Cloudsite and click on the **Publish** menu
 1. Below **Continuous Deployment** click on the **GitHub** icon and select `Authorize`
