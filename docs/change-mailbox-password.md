@@ -11,7 +11,7 @@ You change your mailbox password from within your email management interface. Be
 8. Highlight the mailbox you want to manage and click Edit
 9. Fill in the New Password and Confirm Password fields. Passwords must contain at least 8 characters, one upper case, one lower case, one number and one special character.
 
-----------
+
 
 ###Helpful Tips:
 

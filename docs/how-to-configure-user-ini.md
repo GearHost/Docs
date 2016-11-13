@@ -3,7 +3,7 @@
 ##Introduction
 You can use a **.user.ini** file with your PHP application to configure PHP settings such as the amount of data that can be uploaded, displaying verbose errors, increasing memory limits, and many other configurations. A **.user.ini** file needs to be in the root of the application or website with the settings configured you wish to change. 
 
-----------
+
 This article covers several steps for configuring your PHP environment using `.user.ini`. The steps are:
 
 1. [Create a .user.ini file](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-creating-the-file)
@@ -14,7 +14,7 @@ This article covers several steps for configuring your PHP environment using `.u
 6. [Max Post Size](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-max-post-size)
 
 
-----------
+
 
 
 ##Creating the file
@@ -28,7 +28,7 @@ This article covers several steps for configuring your PHP environment using `.u
  
 3. [Restart your CloudSite](https://www.gearhost.com/documentation/restart-cloudsite) from the control panel. This forces the CloudSite to pull the new settings.
 
-----------
+
 
 ##Memory Limit
 This sets the maximum amount of memory in bytes that a script is allowed to allocate. This helps prevent poorly written scripts for eating up all available memory on a CloudSite.

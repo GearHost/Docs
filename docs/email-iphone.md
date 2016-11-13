@@ -13,7 +13,7 @@ Fill out the requested fields and click **Next.**
 - **Password**: Email password.
 - **Description:**   This is how your account will appear on your iPhone.
 
-----------
+
 
 **Incoming & Outgoing server settings**
 

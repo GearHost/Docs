@@ -6,11 +6,11 @@ There are two methods for installing your SSL. You can purchase it from us or a 
 **Tip:** Purchasing the SSL through us comes with the benefit of us assisting you with any SSL or ordering issues. We use Digicert as our vendor who is trusted by many major companies. Here is a list of companies who trust [Digicert.](https://www.digicert.com/) Click [here](https://www.gearhost.com/documentation/SSL-types-pricing) to view the prices and types of certificates that we offer. 
 
 
-----------
+
 
 <img src="https://www.digicert.com/images/our-customers-v2.png" width="100%" height="" />
 
-----------
+
 
 
 **A) Purchasing a SSL through us.**

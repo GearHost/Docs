@@ -1,10 +1,10 @@
 #How to migrate your e-mail
 
-----------
+
 
 In this guide we will show you how to use the Mailbox Migration tool in SmarterMail to import e-mails,contacts, and other items using IMAP/POP3. This should be compatible with most existing e-mail providers. 
 
-----------
+
 
 Login to your SmarterMail, if you need assistance in this step please contact us.
 

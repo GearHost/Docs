@@ -1,9 +1,9 @@
 #How to enable custom errors 
 
-----------
+
 Below we'll walk you through setting up custom errors in web.config
 
-----------
+
 
 
 You may be publishing an application only to later see this error below instead of your content. This error itself is not really verbose, so you will need to enable custom errors.

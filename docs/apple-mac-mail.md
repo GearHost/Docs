@@ -9,13 +9,13 @@ Add your name, e-mail account and password and click **Create.**
 
 
 
-----------
+
 
  Host Name: **mail.yourdomain.com**
 
 Replace "yourdomain.com" with your domain name instead. 
 
-----------
+
 
 Select IMAP or POP3 and put your e-mail account username and password.
 

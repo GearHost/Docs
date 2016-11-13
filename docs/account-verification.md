@@ -1,6 +1,6 @@
 #Account verification
 
-----------
+
 
 
 ###Why do I have to verify?

@@ -1,6 +1,6 @@
 ###Increasing memory limit for PHP
 
-----------
+
 By default PHP runs in a defined memory scope of 128M however if you are paying for a Standard CloudSite or Reserved you will want to increase this amount to 256M, 512M or even 1024M. The maximum allowed is 2048M on a Reserved CloudSite node. Increasing your PHP memory limit allows your PHP apps to run faster and with more stability. Below is how you can increase the PHP defined **memory_limit** value.
 
 

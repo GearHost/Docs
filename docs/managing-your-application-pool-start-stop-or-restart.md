@@ -3,7 +3,7 @@ Sometimes your application pool can start to hang, or simply stops working causi
 
 This guide will go over starting, stopping, or restarting your application pool.
 
-----------
+
 
 Login to your [portal.](https://my.gearhost.com/ "hosting portal.")
 
@@ -13,7 +13,7 @@ As an example, I'll be choosing the **austin** CloudSite by clicking on the blue
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/apppool1.png" width="80%" />
 
-----------
+
 
 
 This should take you to the **Overview** menu. Scroll down until you see the **Quick Glance** section at the bottom right. 

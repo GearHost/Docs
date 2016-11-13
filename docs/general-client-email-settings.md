@@ -81,7 +81,7 @@ POP3 Port: 995
 SMTP Port: 465
 
 
-----------
+
 **Difference between IMAP and POP3**
 
 **POP3** - Post Office Protocol

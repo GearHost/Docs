@@ -1,7 +1,7 @@
 #URL rewrites and redirects
 This guide will go over enabling URL rewrites or setting up redirects for your domain.
 
-----------
+
 
 
 **What is a URL Rewrite?**
@@ -10,7 +10,7 @@ It's a function that automatically adds **https://** or **www.** after someone v
 Thus, making your domain load the SSL immediately or making it look like **http://www.domain.com**
 
 
-----------
+
 
 ###web.config
 You will have to modify your web.config. 

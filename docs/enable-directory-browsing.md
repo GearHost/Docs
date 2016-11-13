@@ -1,9 +1,9 @@
 #How to enable Directory Browsing
 
-----------
+
 In this guide we will show you how to enable **Directory Browsing** for your application.
 
-----------
+
 
 Edit your web.config file and add the following code:
 

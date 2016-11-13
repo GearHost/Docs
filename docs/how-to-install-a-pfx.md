@@ -13,7 +13,7 @@ Please note that you must have your certificate in a **.PFX** file format for th
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr3.png" width="75%" />
 
-----------
+
 
 
 You will have to restart your application pool by going to the **Overview** tab. After that's done, your SSL should start working and you can verify by visiting https://yourdomain.com on your browser.
@@ -21,5 +21,5 @@ You will have to restart your application pool by going to the **Overview** tab.
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/csr4.png" /> 
 
 
-----------
+
 If you have any issues or concerns regarding your installation, please feel free to contact us anytime or open a ticket directly from your portal by clicking on the **Support** menu. 

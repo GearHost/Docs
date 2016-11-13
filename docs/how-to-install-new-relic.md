@@ -4,7 +4,7 @@ Using New Relic's monitoring service is a great way to monitor your .NET applica
 Before you start you will need your New Relic license key. 
 You can retrieve it by following this [guide.](https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-setup/license-key#finding)
 
-----------
+
 
 
 Navigate to http://[yoursitename].scm.gear.host.
