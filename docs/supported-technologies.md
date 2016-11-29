@@ -10,6 +10,7 @@ The CloudSite platform supports the following technologies however any flavor/ve
  
 
 * PHP
+  * 7.0
   * 5.6
   * 5.5
   * 5.4
