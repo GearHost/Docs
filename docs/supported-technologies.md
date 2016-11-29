@@ -10,11 +10,10 @@ The CloudSite platform supports the following technologies however any flavor/ve
  
 
 * PHP
-  * 7.0
-  * 5.6
-  * 5.5
-  * 5.4
-  * 5.3
+  * 7.0.7
+  * 5.5.14
+  * 5.4.30
+  * 5.3.28
   
 
 * Node.js
