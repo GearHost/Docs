@@ -12,7 +12,7 @@ If you're running WordPress, you're likely wondering if your website will still 
 PHP 7 introduces consistent 64-bit support which means both native 64-bit integers and large files will be supported.
 
 ##PHP#NG(Next Generation)
-While PHP 5.X currently uses Zend Engine II, PHP 7 is running on a faster engine under the name of [PHP#NG](https://wiki.php.net/phpng).
+While PHP 5.x currently uses Zend Engine II, PHP 7 is running on a faster engine under the name of [PHP#NG](https://wiki.php.net/phpng).
 
 ##Spaceship Operator
 The spaceship operator is used for comparing two expressions. It returns -1, 0 or 1 when `$a` is respectively less than, equal to, or greater than `$b`.
@@ -63,7 +63,8 @@ Several extensions and SAPIs are being removed, we provide the list here.
 - tux
 - webjames
 
-####Extensions not yet ported to PHP 7
+**Extensions not yet ported to PHP 7**
+
 - interbase
 - mssql
 - oci8
