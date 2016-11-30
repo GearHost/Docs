@@ -63,7 +63,7 @@ Several extensions and SAPIs are being removed, we provide the list here.
 - tux
 - webjames
 
-**Extensions not yet ported to PHP 7**
+**Extensions not yet ported to PHP 7:**
 
 - interbase
 - mssql
