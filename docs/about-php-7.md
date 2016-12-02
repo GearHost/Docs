@@ -8,10 +8,10 @@ Most PHP applications will be much faster! Zend released an [infographic](https:
 ##Compatibility
 If you're running WordPress, you're likely wondering if your website will still work after upgrading your PHP version. For this concern we recommend installing [PHP Compatibility Checker](https://wordpress.org/plugins/php-compatibility-checker/). It will check if your plugins and themes are compatible with the newer version of PHP. Out of multiple WordPress websites we've tested, we didn't have an issue with the upgrade and did notice much faster load times.
 
-##64-Bit Windows Systems Support
+##64-Bit Windows Support
 PHP 7 introduces consistent 64-bit support which means both native 64-bit integers and large files will be supported.
 
-##PHP#NG(Next Generation)
+##PHP#NG (Next Generation)
 While PHP 5.x currently uses Zend Engine II, PHP 7 is running on a faster engine under the name of [PHP#NG](https://wiki.php.net/phpng).
 
 ##Spaceship Operator
