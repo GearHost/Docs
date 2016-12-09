@@ -3,7 +3,7 @@
 Changing a PHP version is required to get certain modules or plugins working for your application. Below we will show you how to change your PHP version for your CloudSite.
 
 
-1. Log in to your [hosting portal.](https://my.gearhost.com) 
+1. Log in to your hosting portal [here](https://my.gearhost.com) 
 2. Select your CloudSite
 3. Click on the **Config** menu 
 4. Select the version of PHP you wish to use
