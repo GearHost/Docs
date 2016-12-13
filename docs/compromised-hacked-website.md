@@ -1,24 +1,20 @@
 #My site was compromised
----
-Are your receiving notifications that your site is being blocked because it is a phising scam or that malware was detected by your browser? It is likely that this is because your site was compromised.
+There can be several factors as to why your website may have been compromised. Here we provide the most important things you need to be aware of. 
 
-##How was my site compromised?
-The most common causes for a site compromise is a weak password. This could be a  password issue with an administrative log in for your site such as in Wordpress. GearHost recommends the following password policies for any log in.
 
-- 8 characters
-- No words or combinations that are words (P@ssW0rD is still a bad password.) 
-- Use characters (ie !@#$%)
-- Use numbers
-- Have upper and lowercase letters
+**How was my site compromised?**
 
-Another way a site may have been compromised is through third-party content. Plugins, counters, and other content can have malicious content in it to hijack your site. Make sure to investigate each company that you download content from a reputable source. Also, make sure that your CMS is up to date along with any plugins.
+1. A leading cause for a compromised site is a weak admin password. It's the norm for hackers to brute force `admin` usernames with the most common passwords. We recommend changing your `admin` username to something else and ensuring that your password isn't `password`. We recommend using a mix of letters, numbers, symbols, and that's at least 8-12 characters long.
 
-Lastly, an attacker may have compromised your local machine. We recommend running a virus/malware scan on any machine you use to access your site.   
+
+2. Another inconvenience can be third party content such as plugins, themes, and other cms add-ons which can lead to vulnerabilities. Make sure to download content from a reputable source and to always keep the software up to date!
+
+3. Lastly, an attacker may have compromised your local machine. We recommend running a virus/malware scan on any machine you use to access your site. Always be cautious of opening suspicious e-mail attachments or visiting links that you're not familiar with.    
   
-##How do I fix my site?
-It may be possible for you to go in the code of the website and clean out the malware. We highly recommend deleting the site and reuploading your databases and site files.
+**How do I fix my site?**
 
-Alternatively, there are companies that offer services for virus removal on websites.
+The best thing to do would be to consult a developer depending on which sort of application you're using. If it's a custom app it will likely require a code audit or re-uploading a snapshot of the files. 
 
-##How can GearHost help?
- We do not offer any web development services at this time. Looking at code and cleaning your website is  beyond our scope of support. We may provide WordPress upgrades for a rate of $90/hr billed on 15 minute increments, and also have backups with a retention period of five days. Please feel free to open a ticket for any concerns.   
+**How can GearHost help?**
+
+GearHost provides backups with a retention period of five days. We also have a dedicated security team who specialize in cleaning up malware or discovering WordPress vulnerabilities. If you're interested in any of these services please open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) with us.
