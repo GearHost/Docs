@@ -1,9 +1,9 @@
 #Create a PHP Info page
 
-Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provides the current PHP values that your application is loading. This can be convenient when making changes to the `.user.ini` and want to confirm if your changes are reflected.
+Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provides the current PHP values that your application is loading. This can be convenient when making changes to the **.user.ini** and want to confirm if your changes are reflected.
 
 
-1. Create a file named `info.php`
+1. Create a file named **info.php**
 2. Place the following code in that file.
 
 			<?php
@@ -19,4 +19,4 @@ Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provid
 
 
 
-> TIP: Your `.user.ini` changes the **Local** value which is the active running svalue. The **Master** value is the default value.
+> **Tip**: Don't have a **.user.ini** file? Check out our guide [here](https://www.gearhost.com/documentation/how-to-configure-user-ini) to get started!
