@@ -1,28 +1,19 @@
-#Setup e-mail on iPhone (iOS)
+#Setup e-mail on iPhone or iPad (iOS)
 
-1. Select the **Settings** app in your device.
-1. Go to **Mail, Contacts, Calendars.**
-1. Select **Add Account...**
-1. Click **Other**.
-1. Select **Add Mail Account** and fill out the following information;  
+This article will help setup your GearHost mailbox on your iOS device such as an iPhone or iPad. If you are having issues with your email on your device we suggest removing the current account on your iOS device and creating a new one using the steps below if using IMAP.
 
-Fill out the requested fields and click **Next.**
-
--  **Name**: Your Name
-- **Address**: Your Full Email Address 
-- **Password**: Email password.
-- **Description:**   This is how your account will appear on your iPhone.
-
-
-
-**Incoming & Outgoing server settings**
-
-**Host Name**: mail.example.com  (replace "example.com" with your domain name.)
-
-**User Name**: Your full email address
-
-**Password**: Email password
-
-A message stating "Cannot Verify Server Identity" will appear and this is fine as Apple by default uses an SSL. Although there is a SSL activated on the mail servers it will not work without special settings. Click on **Continue** to get past the errors twice and your account is now added!
-
->**Tip:** We recommend setting up IMAP instead of POP3 as it's a safer way to save your e-mail in your devices and mail server.
+1. Confirm you are using the latest iOS version using this [Apple Support Document](https://support.apple.com/en-us/HT204204)
+2. Launch the **Settings** app
+1. Select **Mail**
+1. Select **Accounts**
+2. Select **Add Account**
+1. Select **Other**.
+1. Select **Add Mail Account**
+2. Fill out your name, email address and email mailbox password as well as a description and select **Next**
+3. IMAP should be selected by default, if not select it
+3. Under **Incoming Mail Server** and **Outgoing Mail Server** use the same infomration:
+	1. **Host Name**: `mail.yourdomain.com` (replace yourdomain.com with your domain name)
+	2. **User name**: Your email address
+	3. **Password**: Your email mailbox password
+1. Select **Next** (This process can take about 2 minutes)
+2. Select **Save**
