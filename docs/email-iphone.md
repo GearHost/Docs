@@ -11,7 +11,7 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 1. Select **Add Mail Account**
 2. Fill out your name, email address and email mailbox password as well as a description and select **Next**
 3. IMAP should be selected by default, if not select it
-3. Under **Incoming Mail Server** and **Outgoing Mail Server** use the same infomration:
+3. Under **Incoming Mail Server** and **Outgoing Mail Server** use the same information:
 	1. **Host Name**: `mail.yourdomain.com` (replace yourdomain.com with your domain name)
 	2. **User name**: Your email address
 	3. **Password**: Your email mailbox password
