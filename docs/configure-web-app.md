@@ -1,35 +1,37 @@
-#Configure Web Apps
-This article explains how to configure a web app using the Octane configuration menu.
+#CloudSite - Configure menu
+In this article we go over the basic configurations you can enable on your CloudSite. This great feature allows each CloudSite to be individually customized and run on their own custom environment separately!
 
 ##General Settings
 Framework versions. Set these options if your app uses any these frameworks:
 
-**.NET Framework version:** Set the .NET framework version. **v3.5** supports *2.0, 3.0, 3.5,* and *3.5.1*. **v4.6** supports *4.0, 4.5, 4.5.1-2, 4.6, and 4.6.1-2*
+1. **.NET Framework version:** Set the .NET framework version.
+ Version `3.5` supports 2.0, 3.0, and 3.5.
+ Version `4.6` supports 4.0, 4.5, 4.5, 4.6, and 4.6
 
-**PHP Version:** Set the PHP version, or OFF to disable PHP. We currently support 5.3, 5.4 and 5.5.
+2. **PHP Version:** Set the PHP version, or toggle `OFF` to disable PHP. We currently support versions; `5.3`, `5.4`, `5.5`, and `7`.
 
-**Managed Pipeline Version:** Sets the IIS pipeline mode. Leave this set to **Integrated** (the default) unless you have a legacy app that requires an older version of IIS.
+3. **Managed Pipeline Version:** Sets the IIS pipeline mode. By default it's on `Integrated` mode, but you can also select `Classic` which is recommend for some legacy apps. 
 
-**Web Sockets:** Set **ON** to enable the WebSocket protocol; for example, if your web app uses [ASP.NET SignalR](http://www.asp.net/signalr) or [socket.io.](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-chat-app-socketio/) Web Sockets requires a Standard CloudSite or higher.
+4. **Web Sockets:** Set `ON` to enable the WebSocket protocol. This is recommended if your app uses [ASP.NET SignalR](http://www.asp.net/signalr) or [socket.io.](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-chat-app-socketio/) Please note that this feature is only available on Standard CloudSites or higher.
 
-**Platform:** Selects whether your web app runs in a 32-bit or 64-bit environment. The 64-bit environment requires a Standard CloudSite or higher. 
+6. **Platform:** You can toggle your app's mode to be `32-bit` or `64-bit`. Please note that 64-bit mode is only available on Standard CloudSites or higher. Also, PHP 7 now supports 64-bit applications.
 
-**Always On:** By default, web apps are unloaded if they are idle for some period of time. This lets the system conserve resources. Only in a Reserved CloudSite or higher, you can enable **Always On** to keep the app loaded all the time. If your app runs continuous web jobs, you should enable **Always On**, or the web jobs may not run reliably.
+7. **Always On:** By default, web apps are unloaded if they are idle for some period of time. This lets the system conserve resources. On a Reserved node or higher, you can enable `Always On` to keep your app always active. If your app runs continuous web jobs, you should enable `Always On` or the web jobs may not run reliably.
 
 
 ##Site Diagnostics
 **Web Server Logging:** Logs are saved in the W3C extended log file format.
 
-**Detailed Error Messages:** Saves detailed error messages .htm files. The files are saved under /LogFiles/DetailedErrors.
+**Detailed Error Messages:** Saves detailed error messages .htm files. The files are located in */LogFiles/DetailedErrors/*.
 
 ##App Settings
 This section contains name/value pairs that you web app will load on start up.
 
 1. For .NET apps, these settings are injected into your .NET configuration `AppSettings` at runtime, overriding existing settings.
 
-1. PHP and Node applications can access these settings as environment variables at runtime. For each app setting, two environment variables are created; one with the name specified by the app setting entry, and another with a prefix of APPSETTING_. Both contain the same value.
+1. PHP and Node applications can access these settings as environment variables at runtime. For each app setting, two environment variables are created; one with the name specified by the app setting entry, and another with a prefix of `APPSETTING_`. Both contain the same value.
 
-<img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/relic3.PNG" />
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/php-zend-extensions.PNG" />
 
 ##Connection strings
 Connection strings for linked resources.
@@ -54,7 +56,7 @@ Use this area to add custom script processors to handle requests for specific fi
 
 **Extension:** The file extension to be handled, such as *.php or handler.fcgi.
 
-**Script Processor Path** The absolute path of the script processor. Requests to files that match the file extension will be processed by the script processor. Use the path \home\site\wwwroot to refer to your app's root directory.
+**Script Processor Path** The absolute path of the script processor. Requests to files that match the file extension will be processed by the script processor. Use the path *\home\site\wwwroot* to refer to your app's root directory.
 
 **Additional Arguments:** Optional command-line arguments for the script processor.
 
