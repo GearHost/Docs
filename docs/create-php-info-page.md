@@ -1,22 +1,18 @@
 #Create a PHP Info page
 
-Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provides the current PHP values that your application is loading. This can be convenient when making changes to the **.user.ini** and want to confirm if your changes are reflected.
+Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provides the current PHP values that your application is loading. This can be convenient when making changes to the [.user.ini](https://www.gearhost.com/documentation/how-to-configure-user-ini) and want to confirm your PHP configuration.
 
 
-1. Create a file named **info.php**
-2. Place the following code in that file.
+1. Create a file named **info.php** and upload it in */site/wwwroot/*
+1. Place the following code in that file
 
 			<?php
-			
 				// Show all information, defaults to INFO_ALL
 				phpinfo();
-			
 			?>
 
-	3. Upload the file to your CloudSite **/site/wwwroot/** directory.
-	4. Visit `http://yourCloudSiteName.gear.host/info.php` or `http://yourdomain.com/info.php` on your browser.
-	5. Look for the setting you changed such as the max file upload size and verify. It should display something like this: <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/phpinfo.PNG" />
+1. After your changes have been saved, you can visit `http://{yourcloudsite}.gear.host/info.php` or `http://{yourdomain.com}/info.php` to view your PHP output.
+	
 
 
-
-> **Tip**: Don't have a **.user.ini** file? Check out our guide [here](https://www.gearhost.com/documentation/how-to-configure-user-ini) to get started!
+> **Tip**: Trying to enable PHP debugging? We show an example on how to do this [here](https://www.gearhost.com/documentation/troubleshooting-wordpress#user-content-enable-php-error-debugging)!
