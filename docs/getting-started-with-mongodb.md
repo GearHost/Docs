@@ -9,18 +9,33 @@ MongoDB is a [NoSQL](https://www.mongodb.com/nosql-explained) database that's sc
 1. Login to your [portal](https://my.gearhost.com)
 1. Select the `Databases` menu on your left hand side 
 1. Click on `Create Database` button on the top right
-1. Select the Free or Paid plan for MongoDB
+1. Select the Free or Standard plan for MongoDB
 
-###Connecting to your MongoDB
+###Locate your database login credentials
 1. Select the `Databases` menu on your left hand side
 2. Click on your Mongo database
 3. Retrieve your database login credentials
 
-
- >**Please note:** The port for the Free plan is `27001` and the Standard database port is `27002`.
+ >**Please note:** The port for the Free database is `27001` and the Standard database port is `27002`.
 
 ###Recommended MongoDB clients
-We recommend using [MongoChef](http://3t.io/mongochef/download/) and [RoboMongo](https://robomongo.org/download) for GUI clients. Alternatively, you can use [Mongo Shell](https://docs.mongodb.com/getting-started/shell/installation/) if you rather work through the command line.
+For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/) and [RoboMongo](https://robomongo.org/download). 
+###Connecting to your MongoDB using RoboMongo
+1. Launch RoboMongo
+1. Select **Create** inside the "MongoDB Connections" window prompt
+1. Give your connection a name on the `Name` field
+1. On the **Address** field put `mongo1.gear.host` and specify your port number
+1. Select the **Authentication** tab and enable the *Perform authentication* box
+1. Fill out your database login credentials
+1. Set **Auth Mechanism** option to `SCRAM-SHA-1`
+1. Click **Test** to test your connection
+1. If the test is successful, select **Save**
+1. Connect to your saved connection
+
+
+###Connecting using Mongo Shell
+If you rather work through the command line, you can install [Mongo Shell](https://docs.mongodb.com/getting-started/shell/installation/). Fortunately, Mongo Shell is compatible with most operating systems and they provide many forms of connecting [here.](https://docs.mongodb.com/manual/reference/program/mongo/#use) If you've installed Mongo Shell on a Windows environment the following command should work for you. Please note that this is on version 3.4, so yours might slightly be different.
+`C:\Users\You>"C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" mongo1.gear.host:27002/YourDB -u YourDBUser -p YourUserPassword`
 
 
 >**Tip:** Do you need further assistance or have a concern? Please open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) with us and we'll be more than glad to assist you.
