@@ -34,7 +34,9 @@ For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/)
 
 
 ###Connecting using Mongo Shell
-If you rather work through the command line, you can install [Mongo Shell](https://docs.mongodb.com/getting-started/shell/installation/). Fortunately, Mongo Shell is compatible with most operating systems and they provide many forms of connecting [here.](https://docs.mongodb.com/manual/reference/program/mongo/#use) If you've installed Mongo Shell on a Windows environment the following command should work for you. Please note that this is on version 3.4, so yours might slightly be different.
+If you rather work through the command line, you can install [Mongo Shell](https://docs.mongodb.com/getting-started/shell/installation/). Fortunately, Mongo Shell is compatible with most operating systems and they provide many methods of connecting [here.](https://docs.mongodb.com/manual/reference/program/mongo/#use) If you've installed Mongo Shell on a Windows environment the following command should work for you. Please note that this is on version 3.4, so yours might slightly be different.
+
+
 `C:\Users\You>"C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" mongo1.gear.host:27002/YourDB -u YourDBUser -p YourUserPassword`
 
 
