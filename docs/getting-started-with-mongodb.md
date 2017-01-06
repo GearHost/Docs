@@ -3,6 +3,7 @@
 ###About Mongo
 MongoDB is a [NoSQL](https://www.mongodb.com/nosql-explained) database that's scalable and optimized for big data applications. Companies such as Intuit, eBay, CitiGroup and Facebook are already using Mongo for some of their applications. While many developers have been eager to get started on Mongo, we've decided to launch this beta test so you can get started! Best of all, we're going to include **Free** and **Standard** database plans for this as well.
 
+In t
 
 
 ###Creating a MongoDB
@@ -37,7 +38,5 @@ For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/)
 If you rather work through the command line, you can install [Mongo Shell](https://docs.mongodb.com/getting-started/shell/installation/). Fortunately, Mongo Shell is compatible with most operating systems and they provide many methods of connecting [here.](https://docs.mongodb.com/manual/reference/program/mongo/#use) If you've installed Mongo Shell on a Windows environment the following command should work for you. Please note that this is on version 3.4, so yours might slightly be different.
 
 
-`C:\Users\You>"C:\Program Files\MongoDB\Server\3.4\bin\mongo.exe" mongo1.gear.host:27002/YourDB -u YourDBUser -p YourUserPassword`
-
-
->**Tip:** Do you need further assistance or have a concern? Please open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) with us and we'll be more than glad to assist you.
+`<pathtomongo>bin\mongo.exe mongo1.gear.host:27002/yourdb -u yourdbuser -p youruserpassword`
+>**Tip:** MongoDB is case sensitive. Please be sure to always use lowercase database name and username when attempting to connect.
