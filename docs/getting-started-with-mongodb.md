@@ -3,8 +3,6 @@
 ###About Mongo
 MongoDB is a [NoSQL](https://www.mongodb.com/nosql-explained) database that's scalable and optimized for big data applications. Companies such as Intuit, eBay, CitiGroup and Facebook are already using Mongo for some of their applications. While many developers have been eager to get started on Mongo, we've decided to launch this beta test so you can get started! Best of all, we're going to include **Free** and **Standard** database plans for this as well.
 
-In t
-
 
 ###Creating a MongoDB
 1. Login to your [portal](https://my.gearhost.com)
