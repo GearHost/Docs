@@ -8,11 +8,11 @@ ___
 
 Free option: You guessed it, free!
 
-Standard Option: $5/mo
+Hobby Option: $5/mo
 
-Reserved Option: $25/mo
+Small Option: $25/mo
 
-Email: $1/mo per mailbox (25 GB limit and requires Standard CloudSite)
+Email: $1/mo per mailbox (25 GB limit and requires a Hobby CloudSite)
 
 ____
 ###Additional space

@@ -10,7 +10,7 @@ Yes, we need to make sure you're human so we're going to send you an email with 
 
 
 ###Add a credit card (optional)
-To get the best experience at GearHost you will want to add a credit card to your account. By adding a credit card on file you can create a Standard or Reserved CloudSite or scale within any restrictions. You also get access to other features such as faster and larger databases, add-ons, etc.
+To get the best experience at GearHost you will want to add a credit card to your account. By adding a credit card on file you can create a Hobby or Small CloudSite or scale within any restrictions. You also get access to other features such as faster and larger databases, add-ons, etc.
 
 1. Login to your [control panel](https://my.gearhost.com)
 2. Select the **Billing** menu on your left hand side

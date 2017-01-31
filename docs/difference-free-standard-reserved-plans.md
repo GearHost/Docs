@@ -1,18 +1,18 @@
-Difference between Free, Standard, and Reserved plans
+Difference between Free, Hobby, and Small plans
 ==================
 
 ##Introduction
 GearHost offers three different plans for your CloudSite:
 
 - Free
-- Standard
-- Reserved
+- Hobby
+- Small
 
-Both the free and Standard work the same technically behind the scenes but the free plan has a lot of restrictions in place since it's meant for non production development and testing. The reserved plan is your own private node in the cloud that you can scale out further into your own private cloud so to speak. In this doc we'll go in depth over the differences between each plan and how to scale between them.  
+Both the free and Hobby work the same technically behind the scenes but the free plan has a lot of restrictions in place since it's meant for non production development and testing. The reserved plan is your own private node in the cloud that you can scale out further into your own private cloud so to speak. In this doc we'll go in depth over the differences between each plan and how to scale between them.  
 
 ##Comparison
 
-	|                	| Free          	| Standard         	| Reserved    	 |
+	|                	| Free          	| Hobby         	| Small    	 |
 	|----------------	|---------------	|----------------	|-------------	 |
 	| CPU            	| 60 min/day    	| 240 min/day    	| Unlimited   	 |
 	| RAM            	| 256MB/hour    	| 1024MB/hour    	| 2048MB/hour 	 |
@@ -42,8 +42,8 @@ Both the free and Standard work the same technically behind the scenes but the f
 There is an easy way to separate the plans. 
 
 - **Free**: Is meant for non production web sites and applications such as development demos. 
-- **Standard**: Use this plan for production websites and applications. 
-- **Reserved**: A plan that provides dedicated resources that can be scaled out. If you have an application that is growing rapidly or that you expect significant traffic this is the most powerful plan. It can also be scaled out with multiple instances to create a private web farm. 
+- **Hobby**: Use this plan for production websites and applications. 
+- **Small**: A plan that provides dedicated resources that can be scaled out. If you have an application that is growing rapidly or that you expect significant traffic this is the most powerful plan. It can also be scaled out with multiple instances to create a private web farm. 
 
 Fortunately, you don't even have to make this decision now. You can start with free and then scale up if you run into limits. Same thing with standard and reserved allows you to scale out across multiple instances. Each instance is a private node in the cloud. 
 

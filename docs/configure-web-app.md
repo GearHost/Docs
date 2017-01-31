@@ -12,11 +12,11 @@ Framework versions. Set these options if your app uses any these frameworks:
 
 3. **Managed Pipeline Version:** Sets the IIS pipeline mode. By default it's on `Integrated` mode, but you can also select `Classic` which is recommend for some legacy apps. 
 
-4. **Web Sockets:** Set `ON` to enable the WebSocket protocol. This is recommended if your app uses [ASP.NET SignalR](http://www.asp.net/signalr) or [socket.io.](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-chat-app-socketio/) Please note that this feature is only available on Standard CloudSites or higher.
+4. **Web Sockets:** Set `ON` to enable the WebSocket protocol. This is recommended if your app uses [ASP.NET SignalR](http://www.asp.net/signalr) or [socket.io.](https://azure.microsoft.com/en-us/documentation/articles/web-sites-nodejs-chat-app-socketio/) Please note that this feature is only available on Hobby CloudSites or higher.
 
-6. **Platform:** You can toggle your app's mode to be `32-bit` or `64-bit`. Please note that 64-bit mode is only available on Standard CloudSites or higher. Also, PHP 7 now supports 64-bit applications.
+6. **Platform:** You can toggle your app's mode to be `32-bit` or `64-bit`. Please note that 64-bit mode is only available on Hobby CloudSites or higher. Also, PHP 7 now supports 64-bit applications.
 
-7. **Always On:** By default, web apps are unloaded if they are idle for some period of time. This lets the system conserve resources. On a Reserved node or higher, you can enable `Always On` to keep your app always active. If your app runs continuous web jobs, you should enable `Always On` or the web jobs may not run reliably.
+7. **Always On:** By default, web apps are unloaded if they are idle for some period of time. This lets the system conserve resources. On a Small node or higher, you can enable `Always On` to keep your app always active. If your app runs continuous web jobs, you should enable `Always On` or the web jobs may not run reliably.
 
 
 ##Site Diagnostics

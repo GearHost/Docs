@@ -1,12 +1,12 @@
-#Reserved CloudSites
+#Small CloudSites
 
 Your CloudSite blew up and your getting thousands of requests? That's great, we love that and we're here to help. Scaling out with reserved instances is incredibly simple and seamless. This is perfect if your blog post was just featured on TV or you need to prep your e-commerce site for the shopping season. It will provide the same experience for all visitors no matter how many are hitting the site because it provides great performance under load. 
 
-###Scaling to a Reserved plan.
+###Scaling to a Small plan.
 1. Login to your control [panel](https://my.gearhost.com) 
 3. Now choose the CloudSite you want to upgrade
 4. Select the **Scale** menu
-5. Click on Reserved and then slide the scale below for how many instances you want then click on update plan. 
+5. Click on Small and then slide the scale below for how many instances you want then click on update plan. 
 6. After the plan is updated your CloudSite will quickly recycle and then scale out to as many instances as you requested. 
 
 ###What are instances?

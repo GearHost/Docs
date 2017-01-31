@@ -25,7 +25,7 @@ This document provides basic guidance on using Node.js with GearHost.
 8. Your Node.js version is updated
 
 ##Enable Websockets
->This option is only available for Standard CloudSite plans or higher.
+>This option is only available for Hobby CloudSite plans or higher.
 
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click on the CloudSite where you want to enable Websockets

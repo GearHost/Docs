@@ -1,6 +1,6 @@
 #Add a credit card to your account
 
-Adding a credit card to your account will allow you to upgrade your service. This will give you more connections to your sites, allow you to increase space, and to add memory. Once your site has passed its development stage, we recommend scaling it to a **Standard** node to quadruple your resources!
+Adding a credit card to your account will allow you to upgrade your service. This will give you more connections to your sites, allow you to increase space, and to add memory. Once your site has passed its development stage, we recommend scaling it to a **Hobby** node to quadruple your resources!
 
 ###Updating Payment Details 
 
