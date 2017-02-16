@@ -15,11 +15,18 @@ There are two methods for installing your SSL. You can purchase it from us or a 
 
 **A) Purchasing a SSL through us.**
 
-Order your certificate through us. Click [here](https://www.gearhost.com/documentation/order-ssl) to view this step.
+This would guarantee that your certificate is properly working and it's an automated process! You can follow our guide on how to do this [here.](https://www.gearhost.com/documentation/order-ssl)
 
-**B) Purchasing a Third Party SSL** 
+**B) Generate a CSR** 
 
-Generating a CSR to order a third party SSL. Click [here](https://www.gearhost.com/documentation/create-a-csr) to view this step.
+Generating a CSR is required when you wish to purchase a SSL certificate somewhere else. You can view that guide [here.](https://www.gearhost.com/documentation/create-a-csr)
 
+**C) Upload Certificate using PFX**
 
->**Tip:** If you get stuck in the middle of the process please open a **Support** ticket and we'll be glad to assist you.
+A .PFX file includes both your certificate and private key, use this method to import your own certificate.
+
+**D) Generate a certificate with *[Let's Encrypt](https://letsencrypt.org/)***
+
+Let's Encrypt is a popular tool used to secure websites. This is not recommended for e-commerce websites. 
+
+>**Tip:** If you get stuck in the middle of the process please [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll be glad to assist you.
