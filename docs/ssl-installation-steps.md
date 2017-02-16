@@ -25,7 +25,7 @@ Generating a CSR is required when you wish to purchase a SSL certificate somewhe
 
 A .PFX file includes both your certificate and private key, use this method to import your own certificate.
 
-**D) Generate a certificate with *[Let's Encrypt](https://letsencrypt.org/)***
+**D) Generate a certificate with [Let's Encrypt](https://letsencrypt.org/)**
 
 Let's Encrypt is a popular tool used to secure websites. This is not recommended for e-commerce websites. 
 
