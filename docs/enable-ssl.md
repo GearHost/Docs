@@ -37,8 +37,8 @@ You can install your own certificate, but it will require a PFX format as that i
 3. Enter the certificate's password 
 
 
-##4. Generate a certificate using [Let's Encrypt](https://letsencrypt.org/about/)
-Let's Encrypt is an uprising project from Silicon Valley helping secure the world wide web for everyone! Tech giants such as Google, Facebook, Cisco, Sucuri, and more are sponsoring this project to reach a major milestone for the internet world.
+##4. Generate a certificate using Let's Encrypt
+[Let's Encrypt](https://letsencrypt.org/about/) is an uprising project from Silicon Valley helping secure the world wide web for everyone! Tech giants such as Google, Facebook, Cisco, Sucuri, and more are sponsoring this project to reach a major milestone for the internet world.
 
 1. Select `I want to generate SSL certificate with Let's Encrypt`
 2. Click on the domain box field and select your domain
