@@ -44,6 +44,6 @@ Let's Encrypt is an uprising project from Silicon Valley helping secure the worl
 2. Click on the domain box field and select your domain
 3. Wait a couple of minutes for your certificate to fully process.
 
-> While it's a low cost alternative, this certificate expires every 90 days. The Small CloudSite plan offers a feature were this certificate can be automatically re-generated for you! **Let's Encrypt Certificates is only available for Hobby CloudSites or higher.**
+> While it's a low cost alternative, this certificate expires every 90 days. The Small CloudSite plan offers a feature were this certificate can be automatically re-generated for you! **Let's Encrypt Certificates are only available for Hobby CloudSites or higher.**
 
 **Tip:** Did we miss something or still need help? [Open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll be happy to assist you!
