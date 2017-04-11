@@ -1,4 +1,4 @@
-##Enable Classic ASP Errors
+#  Enable Classic ASP Errors
 
 If you would like your ASP scripts to show detailed errors rather than a generic error response this article will show you how to enable that. Simply create a new web.config file or modify your existing web.config file in your wwwroot folder to enable the scriptErrorSentToBrowser flag to true and existingResponse to PassThrough. Once done you may need to recycle your CloudSite by doing a stop then start to see the changes.
 

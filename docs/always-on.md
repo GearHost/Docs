@@ -1,10 +1,10 @@
-#Always On
+# Always On
 
 By default, CloudSite apps are unloaded if they are idle for a period of time. When **Always On** is enabled, it will automatically ping your app regularly to ensure it is always active and in a warm/running state. This is useful to ensure that a site is always responsive and that the worker process has not paged out due to lack of external HTTP requests. It is also useful as a way to keep a CloudSite active for scenarios when you want to run background code within it irrespective of whether it is actively processing external HTTP customer requests. This feature is only available on Small CloudSites or higher.
 
 
 
-##Enabling Always On
+#  Enabling Always On
 1. Login to your [account](https://my.gearhost.com)
 2. Select your CloudSite
 3. Click on the **Config** tab

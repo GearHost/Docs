@@ -1,13 +1,13 @@
-#Getting started with GitHub   
+# Getting started with GitHub   
 In this guide we'll show you the basics of a very popular tool that Silicon Valley has to offer.
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" width=15% >
 
 
-###What is Git?
+#  What is Git?
 Git is a open-source version control system that is used for software development. Developers are able to **push** code changes into repositories among other features to make development easier and more fun! 
 
-###What's the benefit of using GitHub?
+#  What's the benefit of using GitHub?
 GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of git as well as adding its own features.
 Such features include; bug tracking, forking projects,  feature requests, task management, wikis, and blame history so you know which developer to get mad at if something were to break.
 

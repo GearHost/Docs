@@ -1,4 +1,4 @@
-##Setting up Outlook
+#  Setting up Outlook
 
 1. If this is your first time opening Outlook 2013 and you have not already configured an email account, you should be presented with the Add New Account screen. If not, click on the File tab and then click on Account Settings.
 

@@ -1,4 +1,4 @@
-###What is the difference between SSL certificates?
+#  What is the difference between SSL certificates?
 
 A Standard SSL (SSL Plus) covers:
 
@@ -45,14 +45,14 @@ Includes 3 hostnames. It's $99 per additional hostname.
 
 ----------
 
-#What about pricing?
+# What about pricing?
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/sslcomparison.png"  />
 
 ----------
 
 
-###What's the difference between a Standard SSL and an EV ?
+#  What's the difference between a Standard SSL and an EV ?
 The main difference is the lock that's displayed on your browser. An EV SSL requires more verification compared to a Standard certificate.
 
 Standard SSL:

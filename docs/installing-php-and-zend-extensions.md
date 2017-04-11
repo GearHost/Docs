@@ -1,14 +1,14 @@
-#Installing PHP and Zend Extensions on a CloudSite
+# Installing PHP and Zend Extensions on a CloudSite
 
 This article covers two steps needed to install custom PHP and Zend extensions for use with your CloudSite application. This article will demo installing two extensions.  one being MongoDB a regular extension and the second IonCube a Zend extension. The steps are:
 
 
 
-1. [Download and Upload the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions#user-content-download-and-upload-the-extensions)
-2. [Configure the CloudSite from your portal to load the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions#user-content-configure-the-cloudsite-from-your-portal-to-load-the-extensions)
+1. [Download and Upload the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions# user-content-download-and-upload-the-extensions)
+2. [Configure the CloudSite from your portal to load the extensions](https://www.gearhost.com/documentation/installing-php-and-zend-extensions# user-content-configure-the-cloudsite-from-your-portal-to-load-the-extensions)
 
 
-##Download and Upload the extensions
+#  Download and Upload the extensions
 1. Download the appropriate extension that you wish to run with your application
 2. Create a folder called **bin** under the **/site/wwwroot** using any FTP client
 
@@ -16,7 +16,7 @@ This article covers two steps needed to install custom PHP and Zend extensions f
 
 
 
-##Configure the CloudSite from your portal to load the extensions
+#  Configure the CloudSite from your portal to load the extensions
 1. [Log in to your GearHost Account][login-link]
 2. Click on the CloudSite menu option if not already active
 3. Select your CloudSite and go to the config tab

@@ -1,8 +1,8 @@
-#Add a credit card to your account
+# Add a credit card to your account
 
 Adding a credit card to your account will allow you to upgrade your service. This will give you more connections to your sites, allow you to increase space, and to add memory. Once your site has passed its development stage, we recommend scaling it to a **Hobby** node to quadruple your resources!
 
-###Updating Payment Details 
+#  Updating Payment Details 
 
 1. Login to your [control panel](https://my.gearhost.com) and click on **Billing** found on the left hand side menu
  

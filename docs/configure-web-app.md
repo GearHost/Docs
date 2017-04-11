@@ -1,7 +1,7 @@
-#CloudSite - Configure menu
+# CloudSite - Configure menu
 In this article we go over the basic configurations you can enable on your CloudSite. This great feature allows each CloudSite to be individually customized and run on their own custom environment separately!
 
-##General Settings
+#  General Settings
 Framework versions. Set these options if your app uses any these frameworks:
 
 1. **.NET Framework version:** Set the .NET framework version.
@@ -19,12 +19,12 @@ Framework versions. Set these options if your app uses any these frameworks:
 7. **Always On:** By default, web apps are unloaded if they are idle for some period of time. This lets the system conserve resources. On a Small node or higher, you can enable `Always On` to keep your app always active. If your app runs continuous web jobs, you should enable `Always On` or the web jobs may not run reliably.
 
 
-##Site Diagnostics
+#  Site Diagnostics
 **Web Server Logging:** Logs are saved in the W3C extended log file format.
 
 **Detailed Error Messages:** Saves detailed error messages .htm files. The files are located in */LogFiles/DetailedErrors/*.
 
-##App Settings
+#  App Settings
 This section contains name/value pairs that you web app will load on start up.
 
 1. For .NET apps, these settings are injected into your .NET configuration `AppSettings` at runtime, overriding existing settings.
@@ -33,7 +33,7 @@ This section contains name/value pairs that you web app will load on start up.
 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/php-zend-extensions.PNG" />
 
-##Connection strings
+#  Connection strings
 Connection strings for linked resources.
 
 For .NET apps, these connection strings are injected into your .NET configuration connectionStrings settings at runtime, overriding existing entries where the key equals the linked database name.
@@ -48,10 +48,10 @@ Custom: `CUSTOMCONNSTR_`
 
 For example, if a MySQL connection string were named `connectionstring1`, it would be accessed through the environment variable `MYSQLCONNSTR_connectionString1`.
 
-##Default Documents
+#  Default Documents
 The default document is the web page that is displayed at the root URL for a website. The first matching file in the list is used. Web apps might use modules that route based on URL, rather than serving static content, in which case there is no default document as such.
 
-##Handler Mappings
+#  Handler Mappings
 Use this area to add custom script processors to handle requests for specific file extensions.
 
 **Extension:** The file extension to be handled, such as *.php or handler.fcgi.
@@ -61,7 +61,7 @@ Use this area to add custom script processors to handle requests for specific fi
 **Additional Arguments:** Optional command-line arguments for the script processor.
 
 
-##Virtual Directories
+#  Virtual Directories
 To configure virtual applications and directories, specify each virtual directory and its corresponding physical path relative to the website root. Optionally, you can select the Application checkbox to mark a virtual directory as an application.
 
 >**Tip:** If you ever need assistance or clarification on anything please [open a support ticket.](https://www.gearhost.com/documentation/how-to-open-a-support-ticket)

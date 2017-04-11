@@ -1,7 +1,7 @@
 Difference between Free, Hobby, and Small plans
 ==================
 
-##Introduction
+#  Introduction
 GearHost offers three different plans for your CloudSite:
 
 - Free
@@ -10,7 +10,7 @@ GearHost offers three different plans for your CloudSite:
 
 Both the free and Hobby work the same technically behind the scenes but the free plan has a lot of restrictions in place since it's meant for non production development and testing. The reserved plan is your own private node in the cloud that you can scale out further into your own private cloud so to speak. In this doc we'll go in depth over the differences between each plan and how to scale between them.  
 
-##Comparison
+#  Comparison
 
 	|                	| Free          	| Hobby         	| Small    	 |
 	|----------------	|---------------	|----------------	|-------------	 |
@@ -26,7 +26,7 @@ Both the free and Hobby work the same technically behind the scenes but the free
 	| 64-bit         	| No            	| Yes            	| Yes         	 |
 	| CPU Burst      	| 1m @ 25% / 5m 	| 3m @ 50% / 5m  	| Unlimited   	 |
 
-##Definitions
+#  Definitions
 - CPU: The amount of CPU time your CloudSite can consume in a 24 hour period.
 - RAM: The amount of node memory your CloudSite can consume per hour. 
 - Storage: The amount of disk space your CloudSite can consume in the cloud. 
@@ -38,7 +38,7 @@ Both the free and Hobby work the same technically behind the scenes but the free
 - Web Sockets: Whether or not the CloudSite plan allows for web sockets, a TCP based technology that allows communication between clients and servers. 
 - CPU Burst: The percentage of CPU power your CloudSite is allowed to consume to in a 5 minute period. 
 
-##Which is right for me?
+#  Which is right for me?
 There is an easy way to separate the plans. 
 
 - **Free**: Is meant for non production web sites and applications such as development demos. 

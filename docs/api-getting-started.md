@@ -1,4 +1,4 @@
-###Getting started with APIs
+#  Getting started with APIs
 
 - Login to your [Portal.](my.gearhost.com)
 - Select the **API** menu on the top left and create an API by clicking **Create API Key**. 

@@ -1,4 +1,4 @@
-#How to configure DNS records
+# How to configure DNS records
 
 For the DNS module in your CloudSite to work you need to have your domain pointing the [GearHost name servers](https://www.gearhost.com/documentation/changing-nameservers). Once this is done you can then make changes in the DNS module that will be reflected in DNS.
 

@@ -2,7 +2,7 @@ How can you test your site before switching DNS
 ==================
 ***
 
-##Preview URL Method
+#  Preview URL Method
 We provide you with an access domain name for every application in your control panel.  This access name is composed by your application name and gear.host (example: myapplication.gear.host) 
 
 To find your access domain 
@@ -16,7 +16,7 @@ To find your access domain
 
 You can visit sub folders for your site by adding them onto the end of the preview domain like any normal website folder.
 
-##DNS bypassing using your HOSTS file
+#  DNS bypassing using your HOSTS file
 To test your website with your own domain name before DNS propagation has completed, you can use your local computer's HOSTS file. Your computer will use the entries in your HOSTS file before it looks up the DNS information for your domain. This article contains instructions for editing the HOSTS file on Windows 95/98/Me/2000/XP/2003/Vista/7/8/8.1, and Apple's Mac OS X.
 
 When you are finished testing, remember to remove the custom lines that you added.

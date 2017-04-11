@@ -1,8 +1,8 @@
-##How to install New Relic Agent on your CloudSite.
+#  How to install New Relic Agent on your CloudSite.
 
 Using New Relic's monitoring service is a great way to monitor your .NET application, and it's also absolutely free!
 Before you start you will need your New Relic license key. 
-You can retrieve it by following this [guide.](https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-setup/license-key#finding)
+You can retrieve it by following this [guide.](https://docs.newrelic.com/docs/accounts-partnerships/accounts/account-setup/license-key# finding)
 
 
 

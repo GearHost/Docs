@@ -1,4 +1,4 @@
-#Setup e-mail on iPhone or iPad (iOS)
+# Setup e-mail on iPhone or iPad (iOS)
 
 This article will help setup your GearHost mailbox on your iOS device such as an iPhone or iPad. If you are having issues with your email on your device we suggest removing the current account on your iOS device and creating a new one using the steps below if using IMAP.
 

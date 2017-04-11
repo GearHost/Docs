@@ -1,4 +1,4 @@
-#How to add a domain or sub domain name
+# How to add a domain or sub domain name
 
 Adding a domain or sub domain to your CloudSite application is simple using the steps below. A domain or sub domain under a CloudSite will share the same CloudSite application content. If you need separate content for a different domain or sub domain you will want to create a separate CloudSite and add that domain or sub domain to.
 
