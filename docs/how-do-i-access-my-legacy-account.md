@@ -1,11 +1,11 @@
-#How do I access my legacy account? 
+# How do I access my legacy account? 
 
 This article will cover determining what GearHost hosting platform you are currently on as well as providing links to log in to the determined platform.
 
-1. [Determine what platform you are hosting from](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account#user-content-determine-what-platform-you-are-hosting-from)
-2. [Log in links for each legacy platform](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account#user-content-log-in-links-for-each-legacy-platform)
+1. [Determine what platform you are hosting from](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account# user-content-determine-what-platform-you-are-hosting-from)
+2. [Log in links for each legacy platform](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account# user-content-log-in-links-for-each-legacy-platform)
 
-#Determine what platform you are hosting from
+# Determine what platform you are hosting from
 
 We have been offering hosting to our customers for over 15 years and have had a few different hosting platforms over that time frame.  The best way to determine your hosting platform is by the look and color of your control panel.
 
@@ -25,7 +25,7 @@ We have been offering hosting to our customers for over 15 years and have had a 
 ***
 >Looking to access your older account with us? Well, here's a few links on where to go to find your account. Thank you for checking out our new CloudSite platform!
 
-###v2 or v3 account
+### v2 or v3 account
 
 1. Log in to [The customer portal][customer-portal-login] with your email address and password.
 
@@ -41,7 +41,7 @@ We have been offering hosting to our customers for over 15 years and have had a 
 
 	![launch mtcloud][launch-mycloud]
 
-## Log in links for each legacy platform
+##  Log in links for each legacy platform
 You will need your account ID and password for your v2 account. Your log in for your v3 portal is your email and password.
 
 [v2 Portal][v2-login-link]

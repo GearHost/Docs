@@ -1,4 +1,4 @@
-#Managing your application pool.
+# Managing your application pool.
 Sometimes your application pool can start to hang, or simply stops working causing your website to display a certain error. 
 
 This guide will go over starting, stopping, or restarting your application pool.

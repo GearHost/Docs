@@ -1,12 +1,12 @@
-#Connect to a MSSQL database
+# Connect to a MSSQL database
 This article covers 3 steps needed to connect to your hosted MSSQL database.
 
-###Install SQL Server Management Studio 2016 (SSMS)
+### Install SQL Server Management Studio 2016 (SSMS)
 1. Download and install [SQL Server Management Studio 2016 ](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
 > GearHost uses SQL Server 2016 and older versions of SQL Server Management Studio will not work correctly. Please ensure you are using SSMS 2016.
 
-###Locate your database username, password and server name
+### Locate your database username, password and server name
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click the Databases menu
 3. Locate the Database you want to connect to and click it to open the database details
@@ -16,7 +16,7 @@ This article covers 3 steps needed to connect to your hosted MSSQL database.
 
 > Note that only your primary username can connect to the SQL server database using SSMS. While additional users have access to your database in your application they do not have access via SSMS.
 
-###Connect to your database using SSMS
+### Connect to your database using SSMS
 1. Launch Microsoft SQL Server Management Studio 2016
 2. The Server type should be *Database Engine*
 3. Server name should be `mssqlx.gear.host` (see above)

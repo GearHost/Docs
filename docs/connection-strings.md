@@ -1,9 +1,9 @@
-#Connection strings
+# Connection strings
 A connection string connects your application to your database. In this guide we'll provide some examples you can use! You will need your database credentials for this to work. Login to  [your account](https://my.gearhost.com/Databases) and select your database. Here we provide your  **Database Server**, **Name**, **Username** and **Password**.
 
 
 
-####ASP Classic
+#### ASP Classic
 
 **MySQL**
 
@@ -15,7 +15,7 @@ A connection string connects your application to your database. In this guide we
     "Driver={SQL Server Native Client 10.0};Server=mssql#.gear.host;Database=DBName;Uid=DBUser;Pwd=myPassword;"
 
 
-####ASP.NET
+#### ASP.NET
 **MySQL**
 
     <connectionstrings>

@@ -2,7 +2,7 @@ How to restore a database
 ===
 Restoring a database is easy with GearHost and can be done in just a few steps. 
 
-###To restore a database from a backup:###
+### To restore a database from a backup:###
 
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click the Databases menu
@@ -14,7 +14,7 @@ Restoring a database is easy with GearHost and can be done in just a few steps.
 8. Wait for the database restore process to complete
 
 
-###To restore a database over an existing database:###
+### To restore a database over an existing database:###
 
 Before restoring a database over an existing database please make sure you have a working copy of the database prior to moving forward as this process requires you to first delete the database. To do this:
 

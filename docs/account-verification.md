@@ -1,14 +1,14 @@
-#Account verification
+# Account verification
 
 
 
 
-###Why do I have to verify?
+### Why do I have to verify?
 
 We carefully evaluate new accounts to determine high risk orders, you are asked to verify a new account as you may have been selected randomly. Please provide the requested information at your earliest convenience to ensure that your account is set up as soon as possible.
 
 
-###How do I verify? 
+### How do I verify? 
 
 Please submit a ticket to our Support department with a scanned copy of the following items:
 

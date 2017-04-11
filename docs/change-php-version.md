@@ -1,4 +1,4 @@
-#How to change PHP version
+# How to change PHP version
 
 Changing a PHP version is required to get certain modules or plugins working for your application. Below we will show you how to change your PHP version for your CloudSite.
 

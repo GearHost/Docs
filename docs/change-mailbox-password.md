@@ -1,4 +1,4 @@
-#Change Your Mailbox Password
+# Change Your Mailbox Password
 You change your mailbox password from within your email management interface. Below are some instructions how to log in to that interface to access administrative functions such as changing a password for a mailbox including your own.
 
 
@@ -13,7 +13,7 @@ You change your mailbox password from within your email management interface. Be
 
 
 
-###Helpful Tips:
+### Helpful Tips:
 
 
 

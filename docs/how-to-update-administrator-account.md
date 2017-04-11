@@ -1,4 +1,4 @@
-#How to update the administrator account for e-mail
+# How to update the administrator account for e-mail
 When you enable e-mail hosting for your domain the very first user you create becomes the domain administrator. This account has privileges such as updating passwords, creating, deleting, or disabling e-mail accounts and more features! In this guide we will show you how to update the administrative account. 
 
 1. [Login to your hosting portal](https://my.gearhost.com)

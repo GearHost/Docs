@@ -1,4 +1,4 @@
-#How to update your account information
+# How to update your account information
 We always recommend to keep your contact information up to date as much as possible. Fortunately, updating account information is a very simple process at GearHost.
 
  1. Login to your [control panel](https://my.gearhost.com) 
