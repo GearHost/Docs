@@ -1,20 +1,20 @@
-#About PHP 7
+# About PHP 7
 We're very excited to announce that PHP 7 is now supported on your CloudSite! These are things you need to be know before you upgrade your [PHP version](https://www.gearhost.com/documentation/change-php-version).
 
-##Speed
+## Speed
 Most PHP applications will be much faster! Zend released an [infographic](https://pages.zend.com/rs/zendtechnologies/images/PHP7-Performance%20Infographic.pdf) that includes performance benchmarks among popular content management systems and PHP 7 is definitely king. We've done comparisons for WordPress websites and most were reduced by a couple of seconds, making it a big deal for SEO.
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/wp_benchmark.PNG" width="75%"/>
 
-##Compatibility
+## Compatibility
 If you're running WordPress, you're likely wondering if your website will still work after upgrading your PHP version. For this concern we recommend installing [PHP Compatibility Checker](https://wordpress.org/plugins/php-compatibility-checker/). It will check if your plugins and themes are compatible with the newer version of PHP. Out of multiple WordPress websites we've tested, we didn't have an issue with the upgrade and did notice much faster load times.
 
-##64-Bit Windows Support
+## 64-Bit Windows Support
 PHP 7 introduces consistent 64-bit support which means both native 64-bit integers and large files will be supported.
 
-##PHP#NG (Next Generation)
+## PHP#NG (Next Generation)
 While PHP 5.x currently uses Zend Engine II, PHP 7 is running on a faster engine under the name of [PHP#NG](https://wiki.php.net/phpng).
 
-##Spaceship Operator
+## Spaceship Operator
 The spaceship operator is used for comparing two expressions. It returns -1, 0 or 1 when `$a` is respectively less than, equal to, or greater than `$b`.
 
     <?php
@@ -35,7 +35,7 @@ The spaceship operator is used for comparing two expressions. It returns -1, 0 o
     ?>
 
 
-##Removed Extensions and SAPIs
+## Removed Extensions and SAPIs
 Several extensions and SAPIs are being removed, we provide the list here.
  
 **Extensions:**
