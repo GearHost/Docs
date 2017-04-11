@@ -1,8 +1,8 @@
-# Run Background tasks with WebJobs
+#Run Background tasks with WebJobs
 
 You can run programs or scripts in WebJobs in your CloudSite web app in three ways: On Demand, Scheduled, or Continuous. There is no additional cost to use WebJobs.
 
-#  Acceptable file types for scripts or programs
+###Acceptable file types for scripts or programs
 
 The following file types are accepted:
 
@@ -14,7 +14,7 @@ The following file types are accepted:
 - .js (using node)
 - .jar (using java)
 
-#  Create a WebJob for your CloudSite
+###Create a WebJob for your CloudSite
 
 1. [Log in](https://my.gearhost.com/Account/Login) to your GearHost portal
 2. Click the CloudSite you want to create a WebJob for
@@ -30,7 +30,7 @@ The following file types are accepted:
 
 > For Continuous WebJobs to run, [Always On](https://www.gearhost.com/documentation/always-on) must be enabled and thus the CloudSite must be on a Small web worker node.
 
-#  Notes
+###Notes
 - Code for a continuous job needs to be written to run in an endless loop
 - Small modes offer the [Always On](https://www.gearhost.com/documentation/always-on) feature which, when enabled, prevents web apps from becoming idle
 

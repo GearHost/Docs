@@ -1,4 +1,4 @@
-# ASP Parent Paths
+#ASP Parent Paths
 In classic .ASP you may find that parent paths are disabled in IIS on the GeaHost platform and you may see an error like the following.
 
     Active Server Pages error 'ASP 0131'

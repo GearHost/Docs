@@ -1,10 +1,10 @@
-#  General client email settings
+##General client email settings
 
 The Settings below are universal and should apply to most, if not all email clients.  We do have step by step guides for popular platforms such as Android, iOS and Windows you can read through as well if you need a more detailed walk through. 
 
 -- 
 
-#  Desktop Settings:
+###Desktop Settings:
 
 
 **General**
@@ -32,7 +32,7 @@ Port: 25 (use 2525 if this does not work)
 Security type: None/SSL off
  ---
 
-#  Mobile Settings:
+###Mobile Settings:
 
 
 **General**
@@ -66,7 +66,7 @@ If you wish to use an SSL when you connect you will need to substitute the above
 
  
 
-Server: mail#.gearhost.com (Replace #  with the mail server number your mail is on.
+Server: mail#.gearhost.com (Replace # with the mail server number your mail is on.
 
 Note: You can use a DNS lookup such as who.is to get this info from the MX record or contact us for assistance.)
 

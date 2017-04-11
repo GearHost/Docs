@@ -1,4 +1,4 @@
-#  How to use Kudu
+##How to use Kudu
 
 Kudu is a web interface tool to help you debug and install extensions on your CloudSite. It offers debugging tools, PowerShell access, an add-on installer, and access many other useful features! As an example, we'll use Kudu to access PowerShell and delete a directory. Before we get started you will need to retrieve your publishing credentials. You can do this by selecting your CloudSite on your [portal](https://my.gearhost.com), and clicking on the **Publish** menu.
 

@@ -1,14 +1,14 @@
-# Publishing Your Site via WebMatrix 3
+#Publishing Your Site via WebMatrix 3
 
 This article covers three steps needed to publish your website to Octane with WebMatrix 3. The steps are:
 
-1. [Download Your Publishing File](https://www.gearhost.com/documentation/publish-via-webmatrix-3# user-content-download-your-publishing-file)
-2. [Import Publishing File Into WebMatrix 3](https://www.gearhost.com/documentation/publish-via-webmatrix-3# user-content-import-publish-file-into-webmatrix-3)
-3. [Publish Your Site](https://www.gearhost.com/documentation/publish-via-webmatrix-3# user-content-publish-your-site)
-4. [Set up your Database](https://www.gearhost.com/documentation/publish-via-webmatrix-3# user-content-set-up-your-database)
+1. [Download Your Publishing File](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-download-your-publishing-file)
+2. [Import Publishing File Into WebMatrix 3](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-import-publish-file-into-webmatrix-3)
+3. [Publish Your Site](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-publish-your-site)
+4. [Set up your Database](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-set-up-your-database)
 
 
-#  Download your publishing file
+###Download your publishing file
 1. [Log in][login-link]  to your account
 2. Click on the CloudSite you wish to get the publishing file for
 3. Click the Publish tab inside CloudSite details
@@ -16,7 +16,7 @@ This article covers three steps needed to publish your website to Octane with We
 
 > If you reset your publishing password you will need to download your publishing file again and re-import it.
 
-#  Import Publish File into WebMatrix 3
+###Import Publish File into WebMatrix 3
 1. Click on the Remote file menu
 2. Click publish
 3. Import publish profile
@@ -30,7 +30,7 @@ This article covers three steps needed to publish your website to Octane with We
 
  >You can skip the test publish compatibility if you wish, the server is compatible with all static, Visual Basic, and .NET code.
 
-#  Publish Your Site
+###Publish Your Site
 
 When publishing your site from WebMatrix 3 you will receive a dialog showing you the changed files in your local project vs what is on the server.  There will be an option to delete all files on the server that are not in your local development project.  
 
@@ -40,7 +40,7 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
  
  >This test URL should be in the format of `http://{cloudsitename}.gear.host` where you replace `{cloudsitename}` with the name of your CloudSite
 
-#  Set Up Your Database
+###Set Up Your Database
 
 >There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are `*()/"'`  so do avoid them when creating a new password.
 

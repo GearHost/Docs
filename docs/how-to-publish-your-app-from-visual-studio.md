@@ -1,7 +1,7 @@
-# How to publish your app from Visual Studio
+#How to publish your app from Visual Studio
 Publishing your application from Visual Studio is simple and easy with GearHost regardless of your Visual Studio version.
 
-#  Download the publishing file
+###Download the publishing file
 We make it easy to publish from Visual Studio by providing you a fully encapsulated publishing file that you will import into Visual Studio. To get this file you will need to:
 
 1. [Log in to your GearHost account](https://my.gearhost.com/account/login)
@@ -11,7 +11,7 @@ We make it easy to publish from Visual Studio by providing you a fully encapsula
 
 This will download a `{cloudsitename}.publish` file to your local computer storage.
 
-#  Publishing
+###Publishing
 1. Launch Visual Studio and open your existing web application project
 2. Right click on your web application and select `Publish Web App`
 3. In the Publish wizard window select Profile and select `Import` under the `Select a publish target` menu

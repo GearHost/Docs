@@ -1,4 +1,4 @@
-# Shared Email Policy, Limits, And Restrictions
+#Shared Email Policy, Limits, And Restrictions
 
 GearHost utilizes a few different methods to ensure service for all our customers and to prevent compromised accounts from impacting email services. These rules and measures are in place only for shared email services like on the latest GearHost platform. 
 

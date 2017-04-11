@@ -1,4 +1,4 @@
-#  Configure your mail on your Android device
+##Configure your mail on your Android device
 
 Please be aware that not all android phones are the same and some settings may differ due to skinning. This article was created with screenshots from a stock phone running Android Jelly Bean 4.4.2.
 
@@ -15,13 +15,13 @@ POP3: (Post Office Protocol) Allows an email client to download an email from an
 IMAP: (Internet Message Access Protocol) Shares many similar features with POP3. It, too, is a protocol that an email client can use to download email from an email server. However, IMAP includes many more features than POP3. The IMAP protocol is designed to let users keep their email on the server. IMAP requires more disk space on the server and more CPU resources than POP3, as all emails are stored on the server. IMAP normally uses port 143. 
 Exchange: Only use this option if you have an exchange account through GearHost.  
 
-#  Incoming Settings:
+##Incoming Settings:
 
 4. Change the username to your full email
 5. Change the word imap or pop3 to be "mail" so it says mail.your-domain.com.  Click Next.
 
 
-#  Outgoing Settings:
+##Outgoing Settings:
 
 5. You will need to change the SMTP server to mail.your-domain.com.  Make sure it matches the image below, replacing gearhost with your domain. Click Next.
 

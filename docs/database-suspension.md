@@ -1,11 +1,11 @@
 Free Database Suspension
 ==================
 
-#  Introduction
+##Introduction
 If you are receiving an error indicating your website or application cannot login to your database and you have a free database, the database may be suspended. Free databases have limits and if you go over those limits the database is suspended. 
 
 
-#  Free Database Limits
+##Free Database Limits
 **MySQL**
 
 - 5MB storage limit. This is the amount of disk space the database can consume
@@ -17,7 +17,7 @@ If you are receiving an error indicating your website or application cannot logi
 - Limited Connections. The number of active connections a database can have.
 
 ***
-#  Errors
+##Errors
 Examples of errors you may see if your database is suspended. 
 
 **MSSQL**
@@ -50,7 +50,7 @@ The website has a programming error.*
 
 ![](http://i.imgur.com/Yyi0xEg.png)
 
-#  How to upgrade
+##How to upgrade
 Upgrading is simple, just follow the steps below. 
 
 1. Login to your control panel at [https://my.gearhost.com](https://my.gearhost.com).

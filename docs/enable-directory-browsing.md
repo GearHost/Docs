@@ -1,4 +1,4 @@
-# How to enable Directory Browsing
+#How to enable Directory Browsing
 
 
 In this guide we will show you how to enable **Directory Browsing** for your application.

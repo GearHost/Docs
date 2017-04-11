@@ -1,4 +1,4 @@
-# URL rewrites and redirects
+#URL rewrites and redirects
 This guide will go over enabling URL rewrites or setting up redirects for your domain.
 
 
@@ -12,7 +12,7 @@ Thus, making your domain load the SSL immediately or making it look like **http:
 
 
 
-#  web.config
+###web.config
 You will have to modify your web.config. 
 If this file does not exist, create one inside your root directory.
 
@@ -83,14 +83,14 @@ This rule will make your domain.com redirect to any other domain you want.
     </configuration>
 
 
-#  HTML redirect to destination url
+###HTML redirect to destination url
 Alternatively, you can use HTML to redirect if that's easier for you.
 
     <meta http-equiv="refresh" content="0; url=http://destinationurl.com/" />
 
 
 
-#  Redirect page to directory
+###Redirect page to directory
 You can create url redirects to load a certain directory instead. 
 
     <rules>	

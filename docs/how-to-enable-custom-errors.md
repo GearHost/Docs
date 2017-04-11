@@ -1,4 +1,4 @@
-# How to enable custom errors 
+#How to enable custom errors 
 
 
 Below we'll walk you through setting up custom errors in web.config
