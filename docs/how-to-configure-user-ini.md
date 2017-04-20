@@ -6,12 +6,12 @@ You can use a **.user.ini** file with your PHP application to configure PHP sett
 
 This article covers several steps for configuring your PHP environment using `.user.ini`. The steps are:
 
-1. [Create a .user.ini file](https://www.gearhost.com/documentation/how-to-configure-user-ini# user-content-creating-the-file)
-2. [Memory Limit](https://www.gearhost.com/documentation/how-to-configure-user-ini# user-content-memory-limit)
-3. [Max Upload Size](https://www.gearhost.com/documentation/how-to-configure-user-ini# user-content-max-upload-size)
-4. [Max Execution Time](https://www.gearhost.com/documentation/how-to-configure-user-ini# user-content-max-execution-time)
-5. [Max Input Time](https://www.gearhost.com/documentation/how-to-configure-user-ini# user-content-max-input-time)
-6. [Max Post Size](https://www.gearhost.com/documentation/how-to-configure-user-ini# user-content-max-post-size)
+1. [Create a .user.ini file](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-creating-the-file)
+2. [Memory Limit](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-memory-limit)
+3. [Max Upload Size](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-max-upload-size)
+4. [Max Execution Time](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-max-execution-time)
+5. [Max Input Time](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-max-input-time)
+6. [Max Post Size](https://www.gearhost.com/documentation/how-to-configure-user-ini#user-content-max-post-size)
 
 
 

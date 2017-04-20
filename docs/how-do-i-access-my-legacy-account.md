@@ -2,8 +2,8 @@
 
 This article will cover determining what GearHost hosting platform you are currently on as well as providing links to log in to the determined platform.
 
-1. [Determine what platform you are hosting from](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account# user-content-determine-what-platform-you-are-hosting-from)
-2. [Log in links for each legacy platform](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account# user-content-log-in-links-for-each-legacy-platform)
+1. [Determine what platform you are hosting from](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account#user-content-determine-what-platform-you-are-hosting-from)
+2. [Log in links for each legacy platform](https://www.gearhost.com/documentation/how-do-i-access-my-legacy-account#user-content-log-in-links-for-each-legacy-platform)
 
 # Determine what platform you are hosting from
 
