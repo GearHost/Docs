@@ -15,4 +15,4 @@ Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provid
 	
 
 
-> **Tip**: Trying to enable PHP debugging? We show an example on how to do this [here](https://www.gearhost.com/documentation/troubleshooting-wordpress# user-content-enable-php-error-debugging)!
+> **Tip**: Trying to enable PHP debugging? We show an example on how to do this [here](https://www.gearhost.com/documentation/troubleshooting-wordpress#user-content-enable-php-error-debugging)!
