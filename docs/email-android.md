@@ -1,4 +1,4 @@
-# Setup e-mail on Abdroid Phone or Tablet (OS)
+# Setup e-mail on Android Phone or Tablet (OS)
 
 This article will help setup your GearHost mailbox on your OS device such as an Android Phone or Tablet. If you are having issues with your email on your device we suggest removing the current account on your OS device and creating a new one using the steps below.
 
