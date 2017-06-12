@@ -7,7 +7,7 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 1. Select **Mail**
 1. Select **Accounts**
 2. Select **Add Account**
-1. Select **Other**.
+1. Select **Other**
 1. Select **Add Mail Account**
 2. Fill out your name, email address and email mailbox password as well as a description and select **Next**
 3. IMAP should be selected by default, if not select it
@@ -23,7 +23,7 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 
 1. Launch the **Settings** app
 2. Select **Mail**
-3. Select **Accounts** and choose the email account that you are working with.
+3. Select **Accounts** and choose the email account that you are working with
 4. Select **Account** `email@yourdomain.com`
 5. Select **Advanced**
 6. Scroll until you see **Incoming Settings**
@@ -35,3 +35,5 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 8. Update the **Server Port** to **587** (Use `2525` or `25` if that does not work)
 9. Tap **Done** in the top right corner
 10. Go back to **Account** and tap **Done** again
+
+>**Tip:** Do you want secure email? Be sure to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) so we can implement that for you!
