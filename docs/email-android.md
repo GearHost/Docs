@@ -28,4 +28,4 @@ This article will help setup your GearHost mailbox on your OS device such as an 
 19. Under **Your Account is Set Up** adjust as needed
 20. Select **Next** (Finished)
 
-**Tip:** Did we miss something or still need help? Open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll be happy to assist you!
+**Tip:** Do you want secure email? Be sure to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) so we can set it up for you!
