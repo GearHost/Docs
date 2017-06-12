@@ -17,3 +17,21 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 	3. **Password**: Your email mailbox password
 1. Select **Next** (This process can take about 2 minutes)
 2. Select **Save**  
+
+
+### Disable SSL
+
+1. Launch the **Settings** app
+2. Select **Mail**
+3. Select **Accounts** and choose the email account that you are working with.
+4. Select **Account** `email@yourdomain.com`
+5. Select **Advanced**
+6. Scroll until you see **Incoming Settings**
+7. Turn off **Use SSL**
+4. Go back to **Account**
+5. Look for **Outgoing Mail Server** and select *SMTP*
+6. Select your **Primary Server**
+7. Turn off **Use SSL**
+8. Update the **Server Port** to **587** (Use `2525` or `25` if that does not work)
+9. Tap **Done** in the top right corner
+10. Go back to **Account** and tap **Done** again
