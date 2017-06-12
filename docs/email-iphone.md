@@ -16,12 +16,6 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 	2. **User name**: Your email address
 	3. **Password**: Your email mailbox password
 1. Select **Next** (This process can take about 2 minutes)
-<<<<<<< HEAD
-<<<<<<< HEAD
-2. Select **Save**
-=======
-=======
->>>>>>> da39f9b7def8673821d600d9da24b8aa28be7b72
 2. Select **Save**  
 
 
@@ -42,9 +36,6 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 9. Tap **Done** in the top right corner
 10. Go back to **Account** and tap **Done** again
 
-<<<<<<< HEAD
->**Tip:** Do you want secure email? Be sure to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) so we can implement that for you!
->>>>>>> da39f9b7def8673821d600d9da24b8aa28be7b72
-=======
->**Tip:** Do you want secure email? Be sure to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) so we can implement that for you!
->>>>>>> da39f9b7def8673821d600d9da24b8aa28be7b72
+
+
+>**Tip:** Do you want secure email? Be sure to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) so we can set it up for you!
