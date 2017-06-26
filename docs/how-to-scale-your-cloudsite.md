@@ -13,7 +13,7 @@ Unfortunately, we cannot predict this for you as each application is different. 
 5. Select your new plan, and click on **Update Plan** to save your changes.
 
 
-![select plan](https://www.evernote.com/shard/s77/sh/dfbcc0a3-925a-4343-9a9d-f92d896aabfd/509dd16bc110a7ca5e8ea2ddafaab51d/res/8b74073f-9634-4c23-b614-e6f2b837aa79/skitch.png?resizeSmall&width=832)
+![select plan](https://raw.githubusercontent.com/GearHost/docs/master/Images/how-to-scale-cloudsite.png)
 
 
 >**Tip:** Each CloudSite has a different amount of resources and we provide the detailed difference [here.](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans)

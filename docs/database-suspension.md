@@ -48,7 +48,7 @@ Most likely causes:
 The website is under maintenance.
 The website has a programming error.*
 
-![](http://i.imgur.com/Yyi0xEg.png)
+![](https://raw.githubusercontent.com/GearHost/docs/master/Images/500-error-ie.png)
 
 ## How to upgrade
 Upgrading is simple, just follow the steps below. 
@@ -57,7 +57,7 @@ Upgrading is simple, just follow the steps below.
 2. Click on Databases from the left hand side. 
 3. Click on the upgrade link in the plan column next to the database you wish to upgrade. 
 
-    ![](http://i.imgur.com/vFjPbvC.png)
+    ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/sql-server-upgrade.png)
 
 4. Click yes on the prompt to upgrade the database. You will need a credit card on file to complete this action. 
 
