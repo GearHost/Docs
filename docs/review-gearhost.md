@@ -7,16 +7,16 @@ We would love to hear what you had to say about our service.  While we hope you 
 
 - Review us on [Facebook](http://facebook.com/gearhost)
 
-	![facebook](http://png-3.findicons.com/files/icons/818/aquaticus_social/64/facebook.png)
+	![facebook](https://raw.githubusercontent.com/GearHost/docs/master/Images/facebook.png)
 	
 
 - Review us on [Twitter](https://twitter.com/gearhost)
 	
-	![twitter](http://www.jmu.edu/_images/icons-shared/social-media-icons/64px/icon-twitter-64px.png)
+	![twitter](https://raw.githubusercontent.com/GearHost/docs/master/Images/icon-twitter-64px.png)
 	
 
-- Review us on [Microsoft](http://www.asp.net/hosting/hostingprovider/details/522# reviewSection)
+- Review us on [Microsoft](http://www.asp.net/hosting/hostingprovider/details/522#reviewSection)
 
-	![microsoft](http://png-5.findicons.com/files/icons/2796/metro_uinvert_dock/64/microsoft_new_logo_alt.png)
+	![microsoft](https://raw.githubusercontent.com/GearHost/docs/master/Images/microsoft_new_logo_alt.png)
 
 
