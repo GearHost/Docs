@@ -13,7 +13,7 @@ Unfortunately, we cannot predict this for you as each application is different. 
 5. Select your new plan, and click on **Update Plan** to save your changes.
 
 
-![select plan](https://raw.githubusercontent.com/GearHost/docs/master/Images/how-to-scale-cloudsite.png)
+![select plan](https://raw.githubusercontent.com/GearHost/docs/master/Images/how-to-scale-cloudsite.PNG)
 
 
 >**Tip:** Each CloudSite has a different amount of resources and we provide the detailed difference [here.](https://www.gearhost.com/documentation/difference-free-standard-reserved-plans)

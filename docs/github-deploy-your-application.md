@@ -3,7 +3,7 @@ In this guide, we'll show you how to deploy your own [GitHub](https://github.com
 
 
 
-<img src="https://octodex.github.com/images/collabocats.jpg" width=25%/>
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/collabocats.jpg" width=25%/>
 
 
 1. Login to your [account](https://my.gearhost.com)

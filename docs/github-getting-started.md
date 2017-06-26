@@ -1,7 +1,7 @@
 # Getting started with GitHub   
 In this guide we'll show you the basics of a very popular tool that Silicon Valley has to offer.
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" width=15% >
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/Professortocat_v2.png" width=15% >
 
 
 ### What is Git?
