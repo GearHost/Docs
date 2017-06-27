@@ -15,7 +15,7 @@ After everything checks out, we can now proceed with transferring the domain nam
 
 1. Type in your domain name and fill out *Owner Information* field
 
-####Transfer Requirements
+#### Transfer Requirements
 
 The very first thing to check is if your domain is eligible for transfer to GearHost. We will need the following procedures at your current registrar prior to starting the domain name transfer.
 
