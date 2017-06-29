@@ -5,8 +5,8 @@
 
 ### Installation
 1. [Download the latest version of phpMyAdmin](https://www.phpmyadmin.net/downloads/)
-2. Extract the files to your local computer
-3. Download and save the following file: [config.inc.php](https://raw.githubusercontent.com/GearHost/docs/master/Images/other/config.inc.php) replacing your config.ini.php file
+2. **Extract the files** to your local computer
+3. **Download** and **save** the following file: [config.inc.php](https://raw.githubusercontent.com/GearHost/docs/master/Images/files/config.inc.php) replacing your config.ini.php file
 4. Open config.inc.php and update the string "PLEASEUPDATEME" on line 17 to any random letters & numbers. This would be for cookie encryption. It can be something such as "123651b1561d891651" then save the file.
 5. Delete the "setup" directory and "config.sample.inc.php" file.
 6. You now have a working phpMyAdmin software folder that you can then upload to a CloudSite that you wish to host it on using a subfolder called /phpmyadmin for example.
