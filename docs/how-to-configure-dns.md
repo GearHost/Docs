@@ -32,6 +32,7 @@ Before you can use your domain name with Office 365, you have to verify that you
 1. Select `Add Record`
 2. Select `CNAME` record type
 3. Fill out with the settings below
+
     | Enter Name  | Enter Hostname 
     | ------------- | ------------- 
     | autodiscover | autodiscover.outlook.com 
@@ -45,6 +46,7 @@ Before you can use your domain name with Office 365, you have to verify that you
 1. Select `Add Record`
 2. Select `TXT` record type
 3. Fill out the form with these settings
+
 	| Enter Name  | Enter Hostname 
     | ------------- | ------------- 
     | @ | v=spf1 include:spf.protection.outlook.com -all 
@@ -55,6 +57,7 @@ Before you can use your domain name with Office 365, you have to verify that you
 1. For the first SRV record select `Add Record`
 2. Select `SRV` record type
 3. Fill out the form with these settings
+
 	| Priority  | Weight | Port  | Service Name  | Target
     | ------------- | ------------- | ------------- | ------------- | ------------- 
     | 100 | 1 | 443 | _sip._tls | sipdir.online.lync.com
