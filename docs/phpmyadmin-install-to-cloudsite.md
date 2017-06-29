@@ -1,5 +1,5 @@
 
-# How to install phpMyAdmin
+# How To Install phpMyAdmin
 
 > GearHost does not provide a central phpMyAdmin log in area for customers. This is because phpMyAdmin is a 3rd party software utility that must be maintained and patched from time to time due to security releases. If you chose to install this software please make sure you do this yourself or risk having your phpMyAdmin software and or databases compromised. The software is also limited by some functionality that is provided by using MySQL Tools which we do fully support and encourage the use of. [Learn how to connect to your MySQL database using MySQL Tools](https://www.gearhost.com/documentation/connecting-to-mysql-database). As such if the below becomes complicated please revert to the link above to use our preferred method of connecting to MySQL.
 
@@ -13,4 +13,12 @@
 6. You now have a working phpMyAdmin software folder
 7. **Upload folder** to a **CloudSite** that you wish to host it on
 8. **Use** a sub-folder called */phpmyadmin* for example.
+	1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
+	2. **Click** on the CloudSite the folder is in
+	3. Click the **Config** tab
+	4. Scroll to the bottom & click **New Virtual Directory**
+	5. Check the box **Is Application**
+	6. Under **Virtual Path** */phpmyadmin* for example
+	7. under **Physical Path** *site\wwwroot\phpmyadmin* for example
+	8. Then click **Save Configuration**
 7. You can now log in with your database user name and password as well as select which MySQL server you wish to connect to from the drop down list.
