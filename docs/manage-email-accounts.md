@@ -4,7 +4,7 @@ This article explains how to manage your SmarterMail mailbox email accounts such
 ### Login to your SmarterMail
 Management of your mailboxes is done using web mail by logging into your web mail as a domain administrator. If you are unsure who is a domain administrator you can always log in as the primary domain administrator which can be changed as well.
 
-1. [Log in to your GearHost Account](https://www.mygearhost.com/)
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click on the CloudSite name you wish to manage email under
 3. Click the `Email` tab
 4. Click the domain name you wish to manage
