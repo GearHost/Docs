@@ -5,9 +5,9 @@ This article will help setup your GearHost mailbox on your OS device such as an 
 ## Using IMAP
 
 1. Confirm you are using the latest OS version using this [How to Update Your Android OS](http://www.ubergizmo.com/how-to/update-android-os/)
-2. Launch **Gmail** app ![](https://storage.googleapis.com/support-kms-prod/7xPf0EOsVTZmbxoawEfSXelswwqs9sMNbeP6)
-3. Top left, select **Menu** ![](https://lh5.ggpht.com/gnm-ty6mnE6vkedDflD8UzuuSYpoeaGMx1Am3m0zH0OkEAkqv3jGJV3cnjkqH75mrrqn=w18-h18)
-4. Right of username, select **Down Arrow** ![](https://storage.googleapis.com/support-kms-prod/76B4941B08D1516AC7336D5A3C2E7914920D)
+2. Launch **Gmail** app ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-icon.png)
+3. Top left, select **Menu** ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/android-menu-icon.png)
+4. Right of username, select **Down Arrow** ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/android-arrow-icon.png)
 5. Select **Add Account**
 6. Select **Other**
 7. Enter your **Email Address**
