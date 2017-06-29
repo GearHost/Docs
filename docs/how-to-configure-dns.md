@@ -19,9 +19,9 @@ Before you can use your domain name with Office 365, you have to verify that you
 1. Select `Add Record`
 2. Select `TXT` record type
 3. Fill out the form with these settings
-	| Enter Name  | Enter Hostname 
-    | ------------- | ------------- 
-    | @ | MS=msXXXXXXXX 
+	| Enter Name  | Enter Hostname  |
+    | ------------- | -------------  |
+    | @ | MS=msXXXXXXXX |
 4. Click Create
 
 
@@ -31,13 +31,13 @@ Before you can use your domain name with Office 365, you have to verify that you
 2. Select `CNAME` record type
 3. Fill out with the settings below
     | Enter Name  | Enter Hostname 
-    | ------------- | ------------- 
-    | autodiscover | autodiscover.outlook.com 
-    | sip  | sipdir.online.lync.com  
-    | lyncdiscover  | webdir.online.lync.com  
-    | msoid  | clientconfig.microsoftonline-p.net  
-    | enterpriseregistration | enterpriseregistration.windows.net
-    | enterpriseenrollment | enterpriseenrollment.manage.microsoft.com
+    | ------------- | ------------- |
+    | autodiscover | autodiscover.outlook.com |
+    | sip  | sipdir.online.lync.com  |
+    | lyncdiscover  | webdir.online.lync.com | 
+    | msoid  | clientconfig.microsoftonline-p.net | 
+    | enterpriseregistration | enterpriseregistration.windows.net |
+    | enterpriseenrollment | enterpriseenrollment.manage.microsoft.com |
 
 ###### Adding The TXT Record For SPF To Prevent Email Spam
 1. Select `Add Record`
