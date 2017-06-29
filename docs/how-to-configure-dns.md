@@ -3,7 +3,6 @@
 In order for the DNS zone to work in your portal. Be sure your domain is pointed to the following name servers:
 
 `ns1.gear.host`
-
 `ns2.gear.host`
 
 ### How to access DNS zone editor
