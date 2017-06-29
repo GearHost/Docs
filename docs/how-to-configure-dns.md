@@ -1,5 +1,4 @@
-# How to configure DNS records
-
+# How To Configure DNS Records
 In order for the DNS zone to work in your portal. Be sure your domain is pointed to the following name servers:
 
 `ns1.gear.host`
@@ -7,7 +6,7 @@ In order for the DNS zone to work in your portal. Be sure your domain is pointed
 `ns2.gear.host`
 
 ### How to access DNS zone editor
-1. Log in to your [control portal](http://my.gearhost.com/).
+1. [Log in to your GearHost Account](https://my.gearhost.com/Account/Login)
 2. Select the CloudSite that contains the domain you want to make DNS changes to
 3. Select the **Domains** tab and then select the domain you wish to configure the DNS records for
 4. You can configure any DNS record from this panel
