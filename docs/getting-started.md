@@ -1,5 +1,4 @@
 # Getting Started
-
 Congrats on signing up with GearHost! We're super excited and honored to have you as a customer! At any point if you are having a problem please open a support ticket and we'll make sure to help. You can also let us know what's up on [Twitter](https://twitter.com/gearhost) and [Facebook](https://www.facebook.com/gearhost)!
 
 ### Sign up for free
@@ -8,11 +7,10 @@ If you haven't already, click **[here](https://my.gearhost.com/account/signup)**
 ### Verify your email
 Yes, we need to make sure you're human so we're going to send you an email with an activation link. Please be sure to click on that link so your account can be activated.
 
-
 ### Add a credit card (optional)
 To get the best experience at GearHost you will want to add a credit card to your account. By adding a credit card on file you can create a Hobby or Small CloudSite or scale within any restrictions. You also get access to other features such as faster and larger databases, add-ons, etc.
 
-1. Login to your [control panel](https://my.gearhost.com)
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Select the **Billing** menu on your left hand side
 3. Click **Payment Details** on your top right hand side
 4. Select **Add Credit Card** and proceed with adding your card's information
@@ -27,6 +25,5 @@ There are multiple ways of publishing your website such as; [FTP](https://www.ge
 
 ### Thanks
 We love our customers so thanks again for your business and let us know if we can help with anything! 
-
 
 >**Tip:** If you ever need assistance or further clarification don't hesitate to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!

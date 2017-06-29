@@ -4,7 +4,7 @@ Installing an SSL certificate on your website makes it more secure by encrypting
 
 #### Prerequisites
 
-1. [Login to your account](https://my.gearhost.com)
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Select the **Certificates** menu on your left hand side
 3. Click on `Create Certificate` button at the top right
 4. Select one of the options below to enable a certificate on your website
