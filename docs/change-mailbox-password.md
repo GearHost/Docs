@@ -4,7 +4,7 @@ You change your mailbox password from within your email management interface. Be
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Select the **CloudSite** that contains the mailbox.
 3. Click on the **Email** menu tab.
-4. Click the `Launch Email` option next to your domain. You will be redirected to SmarterMail logged in with the admin user.
+4. Click `Launch Email` next to your domain. You will be redirected to SmarterMail logged in with the admin user.
 6. On the left menu click on **Settings**.
 7. Click **Users** under Domain Settings.
 8. **Highlight** the mailbox you want to manage and click **Edit**
