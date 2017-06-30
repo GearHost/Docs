@@ -1,12 +1,9 @@
-Difference between Free, Hobby, and Small plans
-==================
-
-## Introduction
+# Difference Between Free, Hobby, and Small Plans
 GearHost offers three different plans for your CloudSite:
 
-- Free
-- Hobby
-- Small
+- **Free**
+- **Hobby**
+- **Small**
 
 Both the free and Hobby work the same technically behind the scenes but the free plan has a lot of restrictions in place since it's meant for non production development and testing. The reserved plan is your own private node in the cloud that you can scale out further into your own private cloud so to speak. In this doc we'll go in depth over the differences between each plan and how to scale between them.  
 

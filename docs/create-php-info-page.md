@@ -1,4 +1,4 @@
-# Create a PHP Info page
+# Create a PHP Information Page
 
 Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provides the current PHP values that your application is loading. This can be convenient when making changes to the [.user.ini](https://www.gearhost.com/documentation/how-to-configure-user-ini) and want to confirm your PHP configuration.
 
@@ -13,6 +13,4 @@ Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provid
 
 1. After your changes have been saved, you can visit `http://{yourcloudsite}.gear.host/info.php` or `http://{yourdomain.com}/info.php` to view your PHP output.
 	
-
-
 > **Tip**: Trying to enable PHP debugging? We show an example on how to do this [here](https://www.gearhost.com/documentation/troubleshooting-wordpress#user-content-enable-php-error-debugging)!
