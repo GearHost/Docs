@@ -1,5 +1,4 @@
-# Connect to a MySQL database
-
+# Connect To a MySQL Database
 This article covers 3 steps needed to connect to your hosted MySQL database.
 
 ### Install MySQL WorkBench

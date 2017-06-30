@@ -1,5 +1,4 @@
 # Publishing Your Site via WebMatrix 3
-
 This article covers three steps needed to publish your website to Octane with WebMatrix 3. The steps are:
 
 1. [Download Your Publishing File](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-download-your-publishing-file)
@@ -7,9 +6,8 @@ This article covers three steps needed to publish your website to Octane with We
 3. [Publish Your Site](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-publish-your-site)
 4. [Set up your Database](https://www.gearhost.com/documentation/publish-via-webmatrix-3#user-content-set-up-your-database)
 
-
 ### Download your publishing file
-1. [Log in][login-link]  to your account
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click on the CloudSite you wish to get the publishing file for
 3. Click the Publish tab inside CloudSite details
 4. Download publishing file by selecting the Visual Studio button under the Application Publishing Files title
@@ -26,22 +24,16 @@ This article covers three steps needed to publish your website to Octane with We
 	3. Password and username for the database are located under the database user section
 5. Validate connection
 
-	
-
  >You can skip the test publish compatibility if you wish, the server is compatible with all static, Visual Basic, and .NET code.
 
 ### Publish Your Site
-
 When publishing your site from WebMatrix 3 you will receive a dialog showing you the changed files in your local project vs what is on the server.  There will be an option to delete all files on the server that are not in your local development project.  
-
- 
 
  - Visit test URL provided for your site
  
  >This test URL should be in the format of `http://{cloudsitename}.gear.host` where you replace `{cloudsitename}` with the name of your CloudSite
 
 ### Set Up Your Database
-
 >There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are `*()/"'`  so do avoid them when creating a new password.
 
 1. Create a new database by going to your database menu
