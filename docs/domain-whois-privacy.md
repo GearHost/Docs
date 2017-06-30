@@ -1,5 +1,4 @@
 # Enable Domain WHOIS Privacy
-
 For domains purchased through GearHost you can now enable WHOIS privacy.
 
 ### How does it work?
@@ -13,7 +12,7 @@ The feature cost is $5 per domain per year. When enabled we will check to see ho
 ### How to enable
 To enable WHOIS privacy on your domain:
 
-1. [Log in](https://my.gearhost.com/Account/Login) to your GearHost account
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click Domains from the main menu on the left (only visible for those who have purchased domains through GearHost)
 3. Click the domain you want to enable WHOIS privacy for
 4. Toggle the WHOIS Privacy feature
