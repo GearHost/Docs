@@ -1,5 +1,7 @@
 # Configure Mail on Mac
-If this is your first time opening **Apple Mail** and you have not already configured an email account, you should be presented with the Add New Account screen. If not, click on the **Mail** tab and then click on **Accounts.**
+If this is your first time opening **Apple Mail** and you have not already configured an email account, you should be presented with the Add New Account screen. If not, click on the **Mail** tab and then click on 
+
+**Accounts.**
 
 1. Select **Add Other Mail Account**
 1. Add your name, e-mail account and password and click **Create**
@@ -10,8 +12,6 @@ If this is your first time opening **Apple Mail** and you have not already confi
 Put your e-mail username and password again
 1. If you receive an *"identity of mail.yourdomain.com cannot be verified"* message, it can be ignored. Proceed anyway
 1. Click **Connect** and your e-mail account should be set up
-
-
 
 ### Additional Tips
 You can also modify outgoing ports,SMTP settings, connection types and more. To do this, please proceed with the following steps;

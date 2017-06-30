@@ -1,11 +1,8 @@
 # Getting started with MongoDB
-
-### About Mongo
 MongoDB is a [NoSQL](https://www.mongodb.com/nosql-explained) database that's scalable and optimized for big data applications. Companies such as Intuit, eBay, CitiGroup and Facebook are already using Mongo for some of their applications. While many developers have been eager to get started on Mongo, we've decided to launch this beta test so you can get started! Best of all, we're going to include **Free** and **Hobby** database plans for this as well.
 
-
 ### Creating a MongoDB
-1. Login to your [portal](https://my.gearhost.com)
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 1. Select the `Databases` menu on your left hand side 
 1. Click on `Create Database` button on the top right
 1. Select the Free or Hobby plan for MongoDB
@@ -18,7 +15,8 @@ MongoDB is a [NoSQL](https://www.mongodb.com/nosql-explained) database that's sc
  >**Please note:** The port for the Free database is `27001` and the Hobby database port is `27002`.
 
 ### Recommended MongoDB clients
-For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/) and [RoboMongo](https://robomongo.org/download). 
+For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/) and [RoboMongo](https://robomongo.org/download).
+
 ### Connecting to your MongoDB using RoboMongo
 1. Launch RoboMongo
 1. Select **Create** inside the "MongoDB Connections" window prompt
@@ -31,10 +29,8 @@ For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/)
 1. If the test is successful, select **Save**
 1. Connect to your saved connection
 
-
 ### Connecting using Mongo Shell
 If you rather work through the command line, you can install [Mongo Shell](https://docs.mongodb.com/getting-started/shell/installation/). Fortunately, Mongo Shell is compatible with most operating systems and they provide many methods of connecting [here.](https://docs.mongodb.com/manual/reference/program/mongo/#use) If you've installed Mongo Shell on a Windows environment the following command should work for you. Please note that this is on version 3.4, so yours might slightly be different.
-
 
 `<pathtomongo>bin\mongo.exe mongo1.gear.host:27002/yourdb -u yourdbuser -p youruserpassword`
 >**Tip:** MongoDB is case sensitive. Please be sure to always use lowercase database name and username when attempting to connect.
