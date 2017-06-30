@@ -58,13 +58,13 @@ Note: You can use a DNS lookup such as who.is to get this info from the MX recor
 
 **Incoming:**
 
-IMAP Port: 993  
-POP3 Port: 995
+IMAP Port: **993**  
+POP3 Port: **995**
 
 
 **Outgoing:**
 
-SMTP Port: 465
+SMTP Port: **465**
 
 ### Difference between IMAP and POP3
 **POP3** | Post Office Protocol
