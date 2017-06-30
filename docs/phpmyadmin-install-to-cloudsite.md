@@ -6,7 +6,7 @@
 ### Installation
 1. [Download the latest version of phpMyAdmin](https://www.phpmyadmin.net/downloads/)
 2. **Extract the files** to your local computer
-3. **Download** and **save** the following file: [config.inc.php](https://raw.githubusercontent.com/GearHost/docs/master/Images/files/config.inc.php)
+3. **Download** and **save** the following file: [config.inc.php](https://raw.githubusercontent.com/GearHost/docs/master/Images_old/other/config.inc.php)
 4. **Open** `config.inc.php` and **update** the string "PLEASEUPDATEME" on **line 17** to any random letters & numbers.
 5. This would be for cookie encryption. It can be something such as `123651b1561d891651` then **save** the file.
 5. **Delete** the `setup directory` and `config.sample.inc.php` file.
