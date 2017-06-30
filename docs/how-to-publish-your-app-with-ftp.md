@@ -1,4 +1,4 @@
-# Getting Started With FTP
+# Getting Started with FTP
 Publishing your app using your favorite FTP client couldn't be easier with GearHost. As with all FTP clients you will need the hostname, username and password. If you don't have any FTP client installed, please be sure to check out our guide on installing [FileZilla here.](https://www.gearhost.com/documentation/installing-filezilla) 
 
 ### FTP credentials

@@ -1,4 +1,4 @@
-# Connect to a MSSQL database
+# Connect To a MSSQL Database
 This article covers 3 steps needed to connect to your hosted MSSQL database.
 
 ### Install SQL Server Management Studio 2016 (SSMS)

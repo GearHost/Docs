@@ -1,5 +1,4 @@
 # Support Policy
-
 GearHost is committed to providing a stellar customer experience. As an essential part of this commitment, we offer limited free technical support to all applications running on the GearHost platform. Free technical support is limited to the scope, hours, contacts, and channels below.
 
 ### 1. Scope
