@@ -1,8 +1,6 @@
 # Installing Filezilla
 Filezilla is an open source FTP client that easily allows you to upload, download, and maintain files on remote servers. It's our recommended FTP program because it's easy to use, it's cross platform, and it works great!
 
-
-
 1. Download the **FileZilla Client** [here](https://filezilla-project.org/download.php?type=client)
 2. Run the Filezilla installation file you just downloaded
 3. Proceed with completing the installation steps in their wizard

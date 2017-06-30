@@ -1,18 +1,12 @@
-How can you test your site before switching DNS
-==================
-***
-
+# How Can You Test Your Site Before Switching DNS
 ## Preview URL Method
 We provide you with an access domain name for every application in your control panel.  This access name is composed by your application name and gear.host (example: myapplication.gear.host) 
 
 To find your access domain 
 
-1. [Sign In to your account](my.gearhost.com)
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click on the CloudSite you wish to preview
- 
-
 3. click on the launch CloudSite button in the upper right of the screen.
-
 
 You can visit sub folders for your site by adding them onto the end of the preview domain like any normal website folder.
 
@@ -50,7 +44,3 @@ When you are finished testing, remember to remove the custom lines that you adde
  5. visit the site using the URL you added to your HOSTS
   * http://mysite.com
   * http://example.mysite.com
- 
-
-
-

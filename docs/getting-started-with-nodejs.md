@@ -1,9 +1,5 @@
-# Getting started with Node.js
-### Introduction
-
+# Getting Started with Node.js
 Node.js is a platform built on Chrome's JavaScript Engine (V8 Engine) for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
-
-
 
 This document provides basic guidance on using Node.js with GearHost. 
 
@@ -12,7 +8,6 @@ This document provides basic guidance on using Node.js with GearHost.
 3. [Debugging Node.js using Kudu](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-debug-your-application)
 4. [Installing packages with Node Package Manager](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-installing-packages-using-npm)
 5. [Recommendations and tips](https://www.gearhost.com/documentation/getting-started-with-nodejs#user-content-recommendations)
-
 
 ## Change version
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)

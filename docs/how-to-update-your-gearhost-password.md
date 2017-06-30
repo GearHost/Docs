@@ -1,7 +1,5 @@
-How to update your password
-==================
+# How To Update Your Password
 If you have not already signed up for a hosting account click [here](http://my.gearhost.com/Account/Signup) to begin now!
-
 
  1. Log in to your control panel [here](http://my.gearhost.com/)
  2. On your left hand side, select **Settings** 

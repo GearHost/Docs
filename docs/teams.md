@@ -11,7 +11,6 @@ Teams are a way to allow multiple people to log in and manage your GearHost serv
 In the future we will allow you to select what privileges a team member has but at this time all team members share the same admin privileges.
 
 ### How do I invite someone to my team?
-
 1. Log in to your control panel
 2. Click on the Settings menu
 3. Click on the Team tab
@@ -25,7 +24,6 @@ Once this is done the team member will receive an email invitation to join your 
 If you are already a GearHost customer then by accepting the invitation it will allow your existing account to manage the Team account you've been invited to. If you are not a GearHost customer you will need to create an account which will then be tied to the Team.
 
 ### Okay, I'm tied to a Team - How do I access it?
-
 1. Log in to your control panel
 2. Click on the Settings menu
 3. Click on the Team tab

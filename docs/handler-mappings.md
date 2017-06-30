@@ -1,6 +1,4 @@
-Enable custom extensions in the default PHP runtime
-====
-
+# Enable Custom Extensions in The Default PHP Run Time
 By default, PHP 5.4 is installed and immediately available for use when you create an Azure Website. The best way to see the available release revision, its default configuration, and the enabled extensions is to deploy a script that calls the phpinfo() function.
 
 >Save this a phpinfo.php and upload to your wwwroot
@@ -27,30 +25,19 @@ Click Save at the bottom of the page.
 
 Save configuration settings
 
-1. [Login to your account][login-link]
-
-2. Navigate to the **CloudSites** Menu
- 
-    ![cloudsites][menu-cloudsites]
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 
 3. Open the **Config** tab
-
     ![scale][tab-config]
-4. Scroll towards the bottom of this page until we see the following:
 
+4. Scroll towards the bottom of this page until we see the following:
 	![handler mapping][handler mapping]
 
 5. In the first box we will set the file extension that will be associated with our Module
-
 	![handler mapping][handler extension]
 
 6. This next box will be the path to your Module. Once you are finished click **Save Configuration** at the bottom of your page to add the handler. Multiple handlers can be added by clicking **New Handler Mapping**.
-
 	![handler mapping][handler path] 
-
-
-[Login-Link]:https://my.gearhost.com/Account/Login
-
 
 [menu-cloudsites]: https://raw.githubusercontent.com/GearHost/docs/master/Images/menu-cloudsites.png
 [login]: https://raw.githubusercontent.com/GearHost/docs/master/Images/login.png

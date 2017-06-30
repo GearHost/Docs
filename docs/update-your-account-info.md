@@ -1,10 +1,8 @@
-# How to update your account information
+# How To Update Your Account Information
 We always recommend to keep your contact information up to date as much as possible. Fortunately, updating account information is a very simple process at GearHost.
 
- 1. Login to your [control panel](https://my.gearhost.com) 
-
+ 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
  2. Select the **Settings** menu on your left hand side
- 
  3. In the `General` tab  you can update your e-mail, name, company name, mailing address, or phone number. Click on the blue text and a window will appear asking for your new information. 
  4. Select the check mark icon to save changes.
 
