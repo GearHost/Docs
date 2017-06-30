@@ -1,24 +1,17 @@
 ## Setting up Outlook
-
 1. If this is your first time opening Outlook 2013 and you have not already configured an email account, you should be presented with the Add New Account screen. If not, click on the File tab and then click on Account Settings.
-
 ![step-1]
 
-
 2. On the Account Settings page click the E-Mail Tab and select New...
-
 ![step-2]
 
 3. On the Add New Account window, click on the bubble next to Manually configure ... and click Next.
-
 ![step-3]
 
 4. Now choose POP or IMAP.
-
 ![step-4]
 
 5. Fill in the form as indicated below.
-
 
 **User Information**
 
@@ -37,22 +30,18 @@ User name: The email address you are configuring in Outlook 2013.
 Password: The password to your email address.
 
 **Do not check the box next to require logon using secure password authentication (SPA).**
-
 ![step-5]
 
 6. After you fill in the information click on the more settings button and then click on the Outgoing Server tab. Check the box next to My Outgoing server requires authentication and use same settings as incoming mail server.
-
 ![step-6]
 
 7. Click Ok and click on the Test Account settings button. If everything is ok, then click Next to complete the setup. If you fail to send the test message, continue to step 7.
-
 ![step-7]
 
 8. if you failed to send the test message, try changing your outgoing port to our alternative 2525. Some internet service providers do not allow traffic out on port 25 (the default SMTP port) to prevent spam. Changing the port can get around this.
 
 Click on the more settings button again and then click on advanced.
 Change the SMTP port to 2525.
-
 ![step-8]
 
 9. Setup is now complete and email should start syncing.

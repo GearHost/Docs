@@ -1,9 +1,5 @@
-Free Database Suspension
-==================
-
-## Introduction
+# Free Database Suspension
 If you are receiving an error indicating your website or application cannot login to your database and you have a free database, the database may be suspended. Free databases have limits and if you go over those limits the database is suspended. 
-
 
 ## Free Database Limits
 **MySQL**
@@ -16,7 +12,6 @@ If you are receiving an error indicating your website or application cannot logi
 - 10MB storage limit. This is the amount of disk space the database can consume
 - Limited Connections. The number of active connections a database can have.
 
-***
 ## Errors
 Examples of errors you may see if your database is suspended. 
 
@@ -26,19 +21,13 @@ Examples of errors you may see if your database is suspended.
 
 *Login failed for user 'example'. Reason: The account is disabled. (Microsoft SQL Server, Error: 18470)*
 
-
-
 **MySQL**
 
 *Could not connect: Access denied for user 'example'@'CSSITESSHARED10' (using password: YES)*
 
-
-
 **Wordpress example**
 
 *Error establishing a database connection*
-
-
 
 Or you may see a 500 error depending on if you allow detailed error messages or not. 
 
@@ -60,7 +49,6 @@ Upgrading is simple, just follow the steps below.
     ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/sql-server-upgrade.png)
 
 4. Click yes on the prompt to upgrade the database. You will need a credit card on file to complete this action. 
-
 
 #### Still need help?
 If you have any other questions that aren't covered in this documentation, feel free to e-mail <help@gearhost.com>.

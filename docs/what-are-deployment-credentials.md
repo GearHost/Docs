@@ -1,5 +1,4 @@
-## What are deployment credentials?
-***
+# What Are Deployment Credentials?
 Deployment credentials are designed to be an account level deployment user that can be used for FTP, Git, WebDeploy, etc. The username and password can be used to deploy to any CloudSite associated with your account. This keeps you from needing to create a new deployment user everytime you create a new site.
 
 ## What will the credentials be?
@@ -14,4 +13,3 @@ example2\awesomedeveloper
 example3\awesomedeveloper
 
 The password we set is also going to be the same for each one! If you change your deployment credentials username it will update it for every site.
-

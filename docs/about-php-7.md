@@ -34,7 +34,6 @@ The spaceship operator is used for comparing two expressions. It returns -1, 0 o
     echo "b" <=> "a"; // 1
     ?>
 
-
 ## Removed Extensions and SAPIs
 Several extensions and SAPIs are being removed, we provide the list here.
  
@@ -71,7 +70,5 @@ Several extensions and SAPIs are being removed, we provide the list here.
 - pdo_dblib
 - pdo_oci
 - sybase_ct
-
-
 
 >**Tip:** For additional information regarding PHP 7 or assistance with migrating to this new environment we recommend checking out this [guide](http://php.net/manual/en/migration70.php).
