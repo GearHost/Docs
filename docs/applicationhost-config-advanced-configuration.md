@@ -1,4 +1,4 @@
-# Advanced configuration through ApplicationHost.config
+# Advanced Configuration Through ApplicationHost.config
 The App Service platform provides flexibility and control for web app configuration. Although the standard IIS ApplicationHost.config configuration file is not available for direct editing in App Service, the platform supports a declarative ApplicationHost.config transform model based on XML Document Transformation (XDT).
 
 To leverage this transform functionality, you create an ApplicationHost.xdt file with XDT content and place under the web app root. You may need to restart the Web App for changes to take effect.
@@ -26,13 +26,11 @@ Elements from the list of modules under system.webServer cannot be removed or re
 
 ## Extend your web app
 ### Overview of private web app extensions
-
-App Service supports web app extensions as an extensibility point for administrative actions. In fact, some App Service platform features are implemented as pre-installed extensions. While the pre-installed platform extensions cannot be modified, you can create and configure private extensions for your own web app. This functionality also relies on XDT declarations. The key steps for creating a private web app extension are the following:
+App Service supports web app extensions as an extensibility point for administrative actions. In fact, some App Service platform features are implemented as per-installed extensions. While the per-installed platform extensions cannot be modified, you can create and configure private extensions for your own web app. This functionality also relies on XDT declarations. The key steps for creating a private web app extension are the following:
 
 1. Web app extension content: create any web application supported by App Service
 1. Web app extension declaration: create an ApplicationHost.xdt file
 1. Web app extension deployment: place content in the SiteExtensions folder under root
-
 
 Internal links for the web app should point to a path relative to the application path specified in the ApplicationHost.xdt file. Any change to the ApplicationHost.xdt file requires a web app recycle.
 
@@ -45,8 +43,6 @@ Web app extension example: PHP Manager
 PHP Manager is a web app extension that allows web app administrators to easily view and configure their PHP settings using a web interface instead of having to modify PHP .ini files directly. Common configuration files for PHP include the php.ini file located under Program Files and the .user.ini file located in the root folder of your web app. Since the php.ini file is not directly editable on the App Service platform, the PHP Manager extension uses the .user.ini file to apply setting changes.
 
 ### The PHP Manager web application
-
-
 TransformSitePHPUI
 
 As you can see, a web app extension is just like a regular web application, but with an additional ApplicationHost.xdt file placed in the root folder of the web app (more details about the ApplicationHost.xdt file are available in the next section of this article).
@@ -105,8 +101,6 @@ The name you select as your extension name should have the same name as your ext
 
 This has the effect of adding a new application path to the system.applicationHost sites list under the SCM site. The SCM site is a site administration end point with specific access credentials. It has the URL https://[your-site-name].scm.azurewebsites.net.
 
-
-
     <system.applicationHost>
     ...
     <site name="~1[your-website]" id="1716402716">
@@ -129,10 +123,7 @@ This has the effect of adding a new application path to the system.applicationHo
       ...
     </system.applicationHost>
 
-
-
 ### Web app extension deployment
-
 To install your web app extension, you can use FTP to copy all the files of your web application to the \SiteExtensions\[your-extension-name] folder of the web app on which you want to install the extension. Be sure to copy the ApplicationHost.xdt file to this location as well. Restart your web app to enable the extension.
 
 You should be able to see your web app extension at:
@@ -142,4 +133,3 @@ https://[your-site-name].scm.azurewebsites.net/[your-extension-name]
 Note that the URL looks just like the URL for your web app, except that it uses HTTPS and contains ".scm".
 
 It is possible to disable all private (not pre-installed) extensions for your web app during development and investigations by adding an app settings with the key WEBSITE_PRIVATE_EXTENSIONS and a value of 0.
-
