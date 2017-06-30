@@ -1,4 +1,4 @@
-# CloudSite - Configure menu
+# CloudSite - Configure Menu
 In this article we go over the basic configurations you can enable on your CloudSite. This great feature allows each CloudSite to be individually customized and run on their own custom environment separately!
 
 ## General Settings
@@ -17,7 +17,6 @@ Framework versions. Set these options if your app uses any these frameworks:
 6. **Platform:** You can toggle your app's mode to be `32-bit` or `64-bit`. Please note that 64-bit mode is only available on Hobby CloudSites or higher. Also, PHP 7 now supports 64-bit applications.
 
 7. **Always On:** By default, web apps are unloaded if they are idle for some period of time. This lets the system conserve resources. On a Small node or higher, you can enable `Always On` to keep your app always active. If your app runs continuous web jobs, you should enable `Always On` or the web jobs may not run reliably.
-
 
 ## Site Diagnostics
 **Web Server Logging:** Logs are saved in the W3C extended log file format.
