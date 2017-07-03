@@ -1,12 +1,15 @@
 ## Setting up Outlook
 1. If this is your first time opening Outlook 2013 and you have not already configured an email account, you should be presented with the Add New Account screen. If not, click on the File tab and then click on Account Settings.
-![step-1]
+
+	![step-1]
 
 2. On the Account Settings page click the E-Mail Tab and select New...
-![step-2]
+
+	![step-2]
 
 3. On the Add New Account window, click on the bubble next to Manually configure ... and click Next.
-![step-3]
+
+	![step-3]
 
 4. Now choose POP or IMAP.
  
@@ -16,25 +19,36 @@
 
 **User Information**
 
-Your Name: Your name you would like displayed when sending email. This can be your full name, or even a company name if this is a common mailbox like sales or billing. 
-E-mail address: The email address you are configuring in Outlook 2013. 
+*Your Name:* Your name you would like displayed when sending email. 
+
+> This can be your full name, or even a company name if this is a common mailbox like sales or billing. 
+
+*E-mail address:* This is the FULL email address you are trying to add.
 
 **Server Information**
 
-Account Type: POP3 or IMAP. For information on the differences please view the article difference between pop3 imap and webmail.
-Incoming mail server: mail.your-domain-name.com Replace your-domain-name with your domain name. The domain name is the part of your email address after the @ symbol. For example, if your email address is joe@example.com then the domain name is example.com and the incoming and outgoing mail servers would be mail.example.com. 
-Outgoing mail server (SMTP): mail.your-domain-name.com Replace your-domain-name with your domain name. The domain name is the part of your email address after the @ symbol. For example, if your email address is joe@example.com then the domain name is example.com and the incoming and outgoing mail servers would be mail.example.com. 
+*Account Type:* POP3 or IMAP. 
+> We recommend choosing IMAP.
 
-Logon Information
+*Incoming mail server:* mail.your-domain-name.com 
 
-User name: The email address you are configuring in Outlook 2013. 
-Password: The password to your email address.
+*Outgoing mail server (SMTP):* mail.your-domain-name.com 
+
+> Replace your-domain-name with your domain name. The domain name is the part of your email address after the @ symbol. For example, if your email address is joe@example.com then the domain name is example.com and the incoming and outgoing mail servers would be mail.example.com. 
+
+**Logon Information**
+
+*User name:* The email address you are configuring in Outlook 2013. 
+
+*Password:* The password to your email address.
 
 **Do not check the box next to require logon using secure password authentication (SPA).**
+
 ![step-5]
 
 6. After you fill in the information click on the more settings button and then click on the Outgoing Server tab. Check the box next to My Outgoing server requires authentication and use same settings as incoming mail server.
-![step-6]
+
+	![step-6]
 
 7. Click Ok and click on the Test Account settings button. If everything is ok, then click Next to complete the setup. If you fail to send the test message, continue to step 7.
 
