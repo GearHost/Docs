@@ -55,10 +55,10 @@ Sometimes it's plugins affecting your website, so it's best to disable all of th
     SELECT * FROM YOURDB.wp_users;
 
 It should display something like this, this will tell you which WP user belongs to which ID.
-![wpusers](https://raw.githubusercontent.com/GearHost/docs/master/Images/wp_users_db_table.PNG)
+![](http://i.imgur.com/dGMBcqw.png)
 
 ## Update your WordPress password
-In this scenario we can see that ID=1 is "monroykid". This is how we would update the password for that user using MD5 encryption.
+In this scenario we can see that ID=1 is "admin". This is how we would update the password for that user using MD5 encryption.
     
     UPDATE `YOURDB`.`wp_users` SET `user_pass` = MD5('YourNewPassWord') WHERE `wp_users`.`ID` = 1
 
