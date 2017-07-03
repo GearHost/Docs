@@ -9,17 +9,17 @@
 <table style="border: none; width: 100%; text-align: center;">
 <thead style="border: none;">
 <tr  style="border: none;">
-  <th style="border: none;"><a href="http://facebook.com/gearhost""><img src="http://i.imgur.com/fjLbAfq.png" alt="Review GearHost on Facebook" /></a></th>
-  <th style="border: none;"><a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection"><img src="http://i.imgur.com/4swKssY.jpg" alt="Review GearHost on Microsoft" /></a></th>
-  <th style="border: none;"><a href="https://twitter.com/gearhost"><img src="http://i.imgur.com/NWABgqz.png" alt="Review GearHost on Twitter" /></a></th>
+  <th style="border: none;"><a href="http://facebook.com/gearhost" target="_blank"><img src="http://i.imgur.com/fjLbAfq.png" alt="Review GearHost on Facebook" /></a></th>
+  <th style="border: none;"><a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection" target="_blank"><img src="http://i.imgur.com/4swKssY.jpg" alt="Review GearHost on Microsoft" /></a></th>
+  <th style="border: none;"><a href="https://twitter.com/gearhost" target="_blank"><img src="http://i.imgur.com/NWABgqz.png" alt="Review GearHost on Twitter"/></a></th>
 </tr>
 </thead>
 <tbody>
 
 <tr style="border: none;">
-  <td style="border: none; text-align: center;"><strong>Review us on <a href="http://facebook.com/gearhost">Facebook</a></strong></td>
-  <td style="border: none; text-align: center;"><strong>Review us on <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection">Microsoft</a></strong></td>
-  <td style="border: none; text-align: center;"><strong>Review us on <a href="https://twitter.com/gearhost">Twitter</a></strong></td>
+  <td style="border: none;"><strong><div style="text-align: center;">Review us on <a href="http://facebook.com/gearhost">Facebook</a></strong></div></td>
+  <td style="border: none;"><strong><div style="text-align: center;">Review us on <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection">Microsoft</a></div></strong></td>
+  <td style="border: none;"><strong><div style="text-align: center;">Review us on <a href="https://twitter.com/gearhost">Twitter</a></div></strong></td>
 </tr>
 </tbody>
 </table>
