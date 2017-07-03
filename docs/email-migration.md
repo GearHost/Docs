@@ -25,4 +25,4 @@ In this guide we will show you how to use the Mailbox Migration tool in SmarterM
 
 	<img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/mailbox_migration4.png" />
 
->**Tip:** Are you still stuck or need help with planning the migration? Open a support ticket and we'll be glad to help you out!
+>**Tip:** Are you still stuck or need help with planning the migration? Open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll be glad to help you out!
