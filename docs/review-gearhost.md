@@ -4,7 +4,7 @@
 <ol>
 <li>
 <p><strong>Click</strong> on links to review GearHost</p>
-<p><img src="http://i.imgur.com/omU9eF8.png" alt="Review GearHost on Facebook" /> <img src="http://i.imgur.com/RvFR6QR.png" alt="Review GearHost on Microsoft" /> <img src="http://i.imgur.com/omPBC8W.png" alt="Review GearHost on Twitter" /> </p>
+<p><a href="http://facebook.com/gearhost""><img src="http://i.imgur.com/omU9eF8.png" alt="Review GearHost on Facebook" /></a> <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection"><img src="http://i.imgur.com/RvFR6QR.png" alt="Review GearHost on Microsoft" /></a. <a href="https://twitter.com/gearhost"><img src="http://i.imgur.com/omPBC8W.png" alt="Review GearHost on Twitter" /></a></p>
 <h3>Review us on <a href="http://facebook.com/gearhost">Facebook</a> | Review us on <a href="https://twitter.com/gearhost">Twitter</a> | Review us on <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection">Microsoft</a></h3>
 </li>
 </ol>
