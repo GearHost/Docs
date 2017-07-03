@@ -9,7 +9,8 @@
 ![step-3]
 
 4. Now choose POP or IMAP.
-![step-4]
+ 
+	![step-4]
 
 5. Fill in the form as indicated below.
 
@@ -36,15 +37,17 @@ Password: The password to your email address.
 ![step-6]
 
 7. Click Ok and click on the Test Account settings button. If everything is ok, then click Next to complete the setup. If you fail to send the test message, continue to step 7.
-![step-7]
+
+	![step-7]
 
 8. if you failed to send the test message, try changing your outgoing port to our alternative 2525. Some internet service providers do not allow traffic out on port 25 (the default SMTP port) to prevent spam. Changing the port can get around this.
 
 Click on the more settings button again and then click on advanced.
 Change the SMTP port to 2525.
+
 ![step-8]
 
-9. Setup is now complete and email should start syncing.
+Setup is now complete and email should start syncing.
 
 [step-1]: https://raw.githubusercontent.com/GearHost/docs/master/Images/email-outlook-step1.png
 [step-2]: https://raw.githubusercontent.com/GearHost/docs/master/Images/email-outlook-step2.png
