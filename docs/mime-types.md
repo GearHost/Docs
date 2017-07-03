@@ -7,23 +7,31 @@ If you were on a legacy environment and have been migrated to the new environmen
     <remove fileExtension=".svg" />
       <mimeMap fileExtension=".svg" mimeType="image/svg+xml"  />
 
-##### MP4/H264/Video related
-    
-         <configuration>
-    <system.webServer>
+##### Flash Player related
+	<configuration>
+      <system.webServer>
     	<staticContent>
-    <remove fileExtension=".mp4" />
-    <mimeMap fileExtension=".mp4" mimeType="video/mp4" />
-    <remove fileExtension=".m4v" />
-    <mimeMap fileExtension=".m4v" mimeType="video/m4v" />
-    </staticContent>
-    		</system.webServer>
+    		<remove fileExtension=".swf" />
+    		<mimeMap fileExtension=".swf" mimeType="application/x-shockwave-flash" />
+    	</staticContent>
+      </system.webServer>
+    </configuration>
+
+##### MP4/H264/Video related
+   	<configuration>
+      <system.webServer>
+    	<staticContent>
+    		<remove fileExtension=".mp4" />
+    		<mimeMap fileExtension=".mp4" mimeType="video/mp4" />
+    		<remove fileExtension=".m4v" />
+    		<mimeMap fileExtension=".m4v" mimeType="video/m4v" />
+    	</staticContent>
+      </system.webServer>
     </configuration>
 
 ##### Silverlight related
-
     <configuration>
-    <system.webServer>
+      <system.webServer>
         <staticContent>
 			 <remove fileExtension=".xaml" /> 
              <mimeMap fileExtension=".xaml" mimeType="application/xaml+xml" />
@@ -32,5 +40,80 @@ If you were on a legacy environment and have been migrated to the new environmen
 			 <remove fileExtension=".xbap" />
              <mimeMap fileExtension=".xbap" mimeType="application/x-ms-xbap" />
          </staticContent>
-    </system.webServer>
-    </configuration> 
+      </system.webServer>
+    </configuration>
+
+##### Graphics Interchange Format (GIF) related
+	<configuration>
+      <system.webServer>
+    	<staticContent>
+    		<remove fileExtension=".gif" />
+    		<mimeMap fileExtension=".gif" mimeType="image/gif" />
+    	</staticContent>
+      </system.webServer>
+    </configuration>
+
+##### Joint Photographic Experts Group (JPEG) related
+	<configuration>
+ 	   <system.webServer>
+    	    <staticContent>
+            	<remove fileExtension=".jpeg" />
+            	<mimeMap fileExtension=".jpeg" mimeType="image/jpeg" />
+				<remove fileExtension=".jpeg" />
+            	<mimeMap fileExtension=".jpeg" mimeType="image/pjpeg" />
+				<remove fileExtension=".jpg" />
+            	<mimeMap fileExtension=".jpg" mimeType="image/jpeg" />
+				<remove fileExtension=".jpg" />
+            	<mimeMap fileExtension=".jpg" mimeType="image/pjpeg" />
+        	</staticContent>
+ 	   </system.webServer>
+	</configuration>
+
+
+##### Portable Network Graphics (PNG) related
+	<configuration>
+ 	   <system.webServer>
+    	    <staticContent>
+            	<remove fileExtension=".png" />
+            	<mimeMap fileExtension=".png" mimeType="image/png" />
+        	</staticContent>
+ 	   </system.webServer>
+	</configuration>
+
+##### JavaScript related
+	<configuration>
+ 	   <system.webServer>
+    	    <staticContent>
+            	<remove fileExtension=".js" />
+            	<mimeMap fileExtension=".js" mimeType="application/x-javascript" />
+				<remove fileExtension=".js" />
+            	<mimeMap fileExtension=".js" mimeType="application/javascript" />
+				<remove fileExtension=".js" />
+            	<mimeMap fileExtension=".js" mimeType="application/ecmascript" />
+				<remove fileExtension=".js" />
+            	<mimeMap fileExtension=".js" mimeType="text/javascript" />
+				<remove fileExtension=".js" />
+            	<mimeMap fileExtension=".js" mimeType="text/ecmascript" />
+			</staticContent>
+ 	   </system.webServer>
+	</configuration>
+
+##### Text File related
+	<configuration>
+ 	   <system.webServer>
+    	    <staticContent>
+            	<remove fileExtension=".txt" />
+            	<mimeMap fileExtension=".txt" mimeType="application/octet-stream" />
+        	</staticContent>
+ 	   </system.webServer>
+	</configuration>
+
+##### Portable Document Format (PDF) related
+	<configuration>
+ 	   <system.webServer>
+    	    <staticContent>
+            	<remove fileExtension=".pdf" />
+            	<mimeMap fileExtension=".pdf" mimeType="application/pdf" />
+        	</staticContent>
+ 	   </system.webServer>
+	</configuration>
