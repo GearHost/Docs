@@ -3,8 +3,8 @@
 <h2>Your Experience is our highest priority</h2>
 <ol>
 <li>
-<p><strong>Click</strong> on links to review GearHost</p>
-<p><a href="http://facebook.com/gearhost""><img src="http://i.imgur.com/omU9eF8.png" alt="Review GearHost on Facebook" /></a> <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection"><img src="http://i.imgur.com/RvFR6QR.png" alt="Review GearHost on Microsoft" /></a. <a href="https://twitter.com/gearhost"><img src="http://i.imgur.com/omPBC8W.png" alt="Review GearHost on Twitter" /></a></p>
-<h3>Review us on <a href="http://facebook.com/gearhost">Facebook</a> | Review us on <a href="https://twitter.com/gearhost">Twitter</a> | Review us on <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection">Microsoft</a></h3>
+<p><strong>Click</strong> on images to review GearHost</p>
 </li>
 </ol>
+
+<div style="text-align: center;"><a href="http://facebook.com/gearhost""><img src="http://i.imgur.com/fjLbAfq.png" alt="Review GearHost on Facebook" /></a> <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection">&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://i.imgur.com/4swKssY.jpg" alt="Review GearHost on Microsoft" /></a. <a href="https://twitter.com/gearhost">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://i.imgur.com/NWABgqz.png" alt="Review GearHost on Twitter" /></a></div><p style="text-align: center; font-size: 24px;"><strong>Review us on <a href="http://facebook.com/gearhost">Facebook</a> | Review us on <a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection">Microsoft</a> | Review us on <a href="https://twitter.com/gearhost">Twitter</a></strong></p>
