@@ -2,18 +2,18 @@
 Having issues with your WordPress website? It can be multiple things, feel free to try one of the most common troubleshooting steps below.
 
 ## Enable PHP error debugging 
-Create a **.user.ini** file and place it in your /site/wwwroot/. Add the following code and restart your CloudSite.
+Create a `.user.ini` file and place it in your /site/wwwroot/. Add the following code and restart your CloudSite.
     
     error_reporting = E_ALL & ~E_DEPRECATED
     display_errors = On
     display_startup_errors = On
 
 ## Enable WP Debugging
-On your wp-config.php file there should be a line "WP_debug" set that to true.
+In your `wp-config.php` file there should be a line "WP_debug" set that to true.
 
     define('WP_DEBUG', true);
 
-## Web.config
+## Default Rewrite rules
 You may have an issue with rewrite rules and may need the default rewrite rules.
 
     <?xml version="1.0" encoding="UTF-8"?>
@@ -55,7 +55,7 @@ Sometimes it's plugins affecting your website, so it's best to disable all of th
     SELECT * FROM YOURDB.wp_users;
 
 It should display something like this, this will tell you which WP user belongs to which ID.
-![](http://i.imgur.com/dGMBcqw.png)
+
 
 ## Update your WordPress password
 In this scenario we can see that ID=1 is "admin". This is how we would update the password for that user using MD5 encryption.
