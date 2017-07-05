@@ -55,7 +55,7 @@ Sometimes it's plugins affecting your website, so it's best to disable all of th
     SELECT * FROM YOURDB.wp_users;
 
 It should display something like this, this will tell you which WP user belongs to which ID.
-
+![](https://raw.githubusercontent.com/GearHost/docs/master/Images/GearHost-Admin.png)
 
 ## Update your WordPress password
 In this scenario we can see that ID=1 is "admin". This is how we would update the password for that user using MD5 encryption.

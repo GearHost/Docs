@@ -9,9 +9,9 @@
 <table style="border: none; width: 100%; text-align: center;">
 <thead style="border: none;">
 <tr  style="border: none;">
-  <th style="border: none;"><a href="http://facebook.com/gearhost" target="_blank"><img src="http://i.imgur.com/fjLbAfq.png" alt="Review GearHost on Facebook" /></a></th>
-  <th style="border: none;"><a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection" target="_blank"><img src="http://i.imgur.com/4swKssY.jpg" alt="Review GearHost on Microsoft" /></a></th>
-  <th style="border: none;"><a href="https://twitter.com/gearhost" target="_blank"><img src="http://i.imgur.com/NWABgqz.png" alt="Review GearHost on Twitter"/></a></th>
+  <th style="border: none;"><a href="http://facebook.com/gearhost" target="_blank"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/GearHost-Facebook-Icon.png" alt="Review GearHost on Facebook" /></a></th>
+  <th style="border: none;"><a href="http://www.asp.net/hosting/hostingprovider/details/522#reviewSection" target="_blank"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/GearHost-Microsoft-Icon.jpg" alt="Review GearHost on Microsoft" /></a></th>
+  <th style="border: none;"><a href="https://twitter.com/gearhost" target="_blank"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/GearHost-Twitter-Icon.png" alt="Review GearHost on Twitter"/></a></th>
 </tr>
 </thead>
 <tbody>
