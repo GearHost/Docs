@@ -1,9 +1,7 @@
 # Enable SSL
 Installing an SSL certificate on your website makes it more secure by encrypting communication between the server and the client. In this guide, we'll show you the required steps to follow depending on how you decide to enable SSL on your website. 
 
-
 #### Prerequisites
-
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Select the **Certificates** menu on your left hand side
 3. Click on `Create Certificate` button at the top right
@@ -27,7 +25,6 @@ A Certificate Signing Request is a message sent from an applicant to a certifica
 4. Provide CSR information to your SSL vendor.
 5. Select the `Upload Signed Certificate` option
 6. Browse for the certificate file your SSL vendor has provided you
- 
 
 ### Upload your own certificate 
 You can install your own certificate, but it will require a PFX format as that includes both your certificate and private key. After uploading your PFX, your website will automatically load it your certificate.
@@ -35,7 +32,6 @@ You can install your own certificate, but it will require a PFX format as that i
 1. Select `I want to upload a certificate (PFX)`
 2. Click on `Choose file` and browse for your PFX file
 3. Enter the certificate's password 
-
 
 ### Generate a certificate using Let's Encrypt
 [Let's Encrypt](https://letsencrypt.org/about/) is an uprising project from Silicon Valley helping secure the world wide web for everyone! Tech giants such as Google, Facebook, Cisco, Sucuri, and more are sponsoring this project to reach a major milestone for the internet world.
