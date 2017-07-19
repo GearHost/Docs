@@ -98,6 +98,7 @@
 <p><strong>Note</strong>: The spam filtering settings will load in the content pane and the following tabs will be available.</p>
 </blockquote>
 <h3>Options</h3>
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/spam_filtering.png" style="float: right;" alt="Spam Filter"/>
 <p>Use this tab to specify the following settings:</p>
 <ol>
 <li><strong>Use default spam settings</strong> - Select this checkbox to accept the default spam options provided by your domain administrator.</li>
