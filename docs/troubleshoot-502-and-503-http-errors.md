@@ -14,7 +14,7 @@ It may be due to the following:
 2. Use the [Kudu Debug Console](https://www.gearhost.com/documentation/how-to-use-kudu) to troubleshoot your application
 
 
-###What can be done to mitigate the issue?
+### What can be done to mitigate the issue?
 We highly recommend to [scale](https://www.gearhost.com/documentation/how-to-scale-your-cloudsite) your application to the next tier plan. This will immediately add more CPU and RAM to your application, making it more powerful and less prone to crashing.
 
 >**Tip:** Still stuck? Just [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll be happy to help!
