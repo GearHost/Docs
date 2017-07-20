@@ -1,11 +1,17 @@
-# How To use Kudu
-Kudu is a web interface tool to help you debug and install extensions on your CloudSite. It offers debugging tools, PowerShell access, an add-on installer, and access many other useful features! As an example, we'll use Kudu to access PowerShell and delete a directory. Before we get started you will need to retrieve your publishing credentials. You can do this by selecting your CloudSite on your [portal](https://my.gearhost.com), and clicking on the **Publish** menu.
+# How To Use Kudu
+Kudu is a web interface tool to help you debug and install extensions on your CloudSite. It offers debugging tools, PowerShell access, an add-on installer, and access many other useful features! As an example, we'll use Kudu to access PowerShell and delete a directory. Before we get started you will need to retrieve your publishing credentials:
+
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
+2. Select the **CloudSite** you want to edit
+3. **Click** on the `publish tab` 
+
+>**Note**: Currently you only get one username but if your password ever gets compromised you can reset it by clicking the blue button that says **"Reset Password"**
+
+Once you have your publishing credentials:
 
 1. Navigate to `https://{yoursitename}.scm.gear.host`. You will also need to enter your deployment credentials when prompted. Login using **$yoursitename** as the username and use your publishing password.
-
-1. Access PowerShell by going to the **Debug Console** menu and selecting **Powershell.**
-
-1. In this step, I'm using the **cd** command to change my working directory to /home/site/wwwroot/.  From here I can see all of my files and folders. I'll be running a command to recursively delete a folder named *setup*.
+2. Access PowerShell by going to the **Debug Console** menu and selecting **Powershell.**
+3. In this step, I'm using the **cd** command to change my working directory to /home/site/wwwroot/.  From here I can see all of my files and folders. I'll be running a command to recursively delete a folder named *setup*.
 
 <img src="https://raw.githubusercontent.com/Gearhost/docs/master/Images/kudu4.PNG" />
 
