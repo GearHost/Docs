@@ -104,7 +104,7 @@
 <li><strong>Override spam settings for this account</strong> - Select this checkbox to customize the way spam is handled and to override the settings created by the domain administrator.</li>
 </ol>
 <h3>Actions</h3>
-<p><strong>When you override the spam options</strong> set by your system administrator, you can choose the actions that are taken when email comes in that has a <strong>low, medium, or high probability of being spam</strong>. For each spam level, choose the action you wish to have taken. If you choose to add text to the subject line of messages, type the text in the box below the action drop down.</p>
+<p><strong>When you override the spam options</strong> set by your system administrator, you can choose the actions that are taken when email comes in that has a <strong>low, medium, or high probability of being spam</strong> (image below). For each spam level, choose the action you wish to have taken. If you choose to add text to the subject line of messages, type the text in the box below the action drop down.</p>
 <blockquote>
 <p><strong>Note</strong>: If you are using the default spam options that were set up by your administrator, these settings cannot be edited.</p>
 </blockquote>
