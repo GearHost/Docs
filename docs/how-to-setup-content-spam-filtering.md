@@ -103,19 +103,13 @@
 <li><strong>Use default spam settings</strong> - Select this checkbox to accept the default spam options provided by your domain administrator.</li>
 <li><strong>Override spam settings for this account</strong> - Select this checkbox to customize the way spam is handled and to override the settings created by the domain administrator.</li>
 </ol>
-<table style="width: 100%;">
-<tbody>
-<tr>
-<td style="width:50%;"><h3>Actions</h3>
+<h3>Actions</h3>
 <p><strong>When you override the spam options</strong> set by your system administrator, you can choose the actions that are taken when email comes in that has a <strong>low, medium, or high probability of being spam</strong>. For each spam level, choose the action you wish to have taken. If you choose to add text to the subject line of messages, type the text in the box below the action drop down.</p>
 <blockquote>
 <p><strong>Note</strong>: If you are using the default spam options that were set up by your administrator, these settings cannot be edited.</p>
 </blockquote>
 <h3>Current Weights</h3>
 <p>Each type of spam check has an <strong>associated weight</strong> that factors into the spam probability of a message. <strong>When an email comes in</strong>, all of the checks listed are run, and for each check that the message fails, the weight is added to the overall score of the email. <strong>The thresholds for each spam probability are examined, and the email is placed into the appropriate category.</strong></p></td>
-<td style="width:50%;"><img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/spam_filtering.png" alt="Spam Filter"/></td>
-</tr>
-</tbody>
-</table>
+<img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/spam_filtering.png" alt="Spam Filter"/>
 
 <p><strong>Tip:</strong> Did we miss something or still need help? <a href="https://www.gearhost.com/documentation/how-to-open-a-support-ticket">Open a support ticket</a> and we'll be happy to assist you!</p>
