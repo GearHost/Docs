@@ -9,9 +9,17 @@ Create a `.user.ini` file and place it in your /site/wwwroot/. Add the following
     display_startup_errors = On
 
 ## Enable WP Debugging
-In your `wp-config.php` file there should be a line "WP_debug" set that to true.
+To enable WordPress debugging insert these lines of code into your `wp-config.php`
 
-    define('WP_DEBUG', true);
+    define('WP_DEBUG_LOG', true);
+	define('WP_DEBUG_DISPLAY', false);
+	define('SCRIPT_DEBUG', true);
+
+**WP_DEBUG_LOG**: When WP_DEBUG_LOG and WP_DEBUG are enabled, WordPress saves all error information to the debug.log file in the wp-content directory. By default, this setting is disabled.
+
+**WP_DEBUG_DISPLAY**: When WP_DEBUG_DISPLAY and WP_DEBUG are enabled, WordPress displays error and warning messages on web pages. By default, this setting is enabled. When this setting is disabled, debugging messages are hidden from view.
+
+**SCRIPT_DEBUG**: When SCRIPT_DEBUG is enabled, WordPress uses development versions of core CSS and JavaScript files instead of the compressed versions that it normally uses. By default, this setting is disabled. You can use this setting to test modifications to built-in .js or .css files.
 
 ## Default Rewrite rules
 You may have an issue with rewrite rules and may need the default rewrite rules.
@@ -19,17 +27,18 @@ You may have an issue with rewrite rules and may need the default rewrite rules.
     <?xml version="1.0" encoding="UTF-8"?>
     <configuration>
       <system.webServer>
-    <rewrite>
-      <rules>
-    			<rule name="wordpress" patternSyntax="Wildcard">
-    				<match url="*"/>
-    					<conditions>
-    						<add input="{REQUEST_FILENAME}" matchType="IsFile" negate="true"/>
-    						<add input="{REQUEST_FILENAME}" matchType="IsDirectory" negate="true"/>
-    					</conditions>
-    				<action type="Rewrite" url="index.php"/>
-    			</rule></rules>
-    </rewrite>
+    	<rewrite>
+      	  <rules>
+    		<rule name="wordpress" patternSyntax="Wildcard">
+    		  <match url="*"/>
+    			<conditions>
+    				<add input="{REQUEST_FILENAME}" matchType="IsFile" negate="true"/>
+    				<add input="{REQUEST_FILENAME}" matchType="IsDirectory" negate="true"/>
+    			</conditions>
+    		 <action type="Rewrite" url="index.php"/>
+    		</rule>
+		  </rules>
+    	</rewrite>
       </system.webServer>
     </configuration>
 
@@ -55,7 +64,6 @@ Sometimes it's plugins affecting your website, so it's best to disable all of th
     SELECT * FROM YOURDB.wp_users;
 
 It should display something like this, this will tell you which WP user belongs to which ID.
-![](https://raw.githubusercontent.com/GearHost/docs/master/Images/GearHost-Admin.png)
 
 ## Update your WordPress password
 In this scenario we can see that ID=1 is "admin". This is how we would update the password for that user using MD5 encryption.
