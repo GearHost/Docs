@@ -16,7 +16,9 @@ This article covers several steps for configuring your PHP environment using `.u
 1. Create a `.user.ini` file including the first period. Add the settings you want to change to the file using the same syntax as a php.ini. 
  
         ; Example Settings
-    	display_errors=On
+		error_reporting = E_ALL & ~E_DEPRECATED
+		display_errors = On
+		display_startup_errors = On
     	
 2. Upload it to the root of your application or website. This is commonly the **/site/wwwroot/** directory.
  
