@@ -1,70 +1,31 @@
 # WordPress Optimization
 WordPress is the most popular CMS, powering around 25% of all websites in the world and responsible for over 76.5 million blogs. This guide provides a few basic ways to optimize your WordPress site!
 
-#### A Simple Optimization Can Be Done in Your .htaccess File
+### Installing & Setup WP Super Cache
+WP Super Cache plugin is one of the best caching options. It is easy to install and configure.
 
-Create a `.htaccess` file and place it in your /site/wwwroot/. Add the following code and restart your CloudSite.
+1. **Install WP Super Cache** in WordPress
+2. Go to **Plugin Admin Page**
+3. Select **Caching** on and Click **Update Status**
 
-### Browser Caching
-	ExpiresActive On
-	ExpiresByType image/jpg "access 1 year"
-	ExpiresByType image/jpeg "access 1 year"
-	ExpiresByType image/gif "access 1 year"
-	ExpiresByType image/png "access 1 year"
-	ExpiresByType text/css "access 1 month"
-	ExpiresByType application/pdf "access 1 month"
-	ExpiresByType text/x-javascript "access 1 month"
-	ExpiresByType application/javascript "access 1 month"
-	ExpiresByType application/x-javascript "access 1 month"
-	ExpiresByType application/x-shockwave-flash "access 1 month"
-	ExpiresByType image/x-icon "access 1 year"
-	ExpiresDefault "access 2 days"
+>**Note**:The generated cache pages by WP Super Cache are stored as HTML or PHP files on your server. You can delete these cached pages from your server by clicking on Delete Cache button.
 
-As you can see you are setting your expiration dates for specific content such as images (.jpg, .gif, .png, text, applications).
-
->**Note**: One mistake in .htaccess file can make your website unavailable, thus try these changes during off-hours. Also make sure you have a backup of the .htaccess file to restore if that happens.
-
-### Another Optimization is GZip Compression
-
-It’s common sense that smaller files transfer faster than larger ones. Gzip compression makes this possible. Gzip automatically compresses your site’s pages and stylesheets before serving them to the browser. Using this tool can definitely improve your site’s load time. To utilize gzip compression, add this code to your .htaccess file:
-
-	# BEGIN gzip file compression
-	# Compress HTML, CSS, JavaScript, Text, XML and fonts
-	AddOutputFilterByType DEFLATE application/javascript
-	AddOutputFilterByType DEFLATE application/rss+xml
-	AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
-	AddOutputFilterByType DEFLATE application/x-font
-	AddOutputFilterByType DEFLATE application/x-font-opentype
-	AddOutputFilterByType DEFLATE application/x-font-otf
-	AddOutputFilterByType DEFLATE application/x-font-truetype
-	AddOutputFilterByType DEFLATE application/x-font-ttf
-	AddOutputFilterByType DEFLATE application/x-javascript
-	AddOutputFilterByType DEFLATE application/xhtml+xml
-	AddOutputFilterByType DEFLATE application/xml
-	AddOutputFilterByType DEFLATE font/opentype
-	AddOutputFilterByType DEFLATE font/otf
-	AddOutputFilterByType DEFLATE font/ttf
-	AddOutputFilterByType DEFLATE image/svg+xml
-	AddOutputFilterByType DEFLATE image/x-icon
-	AddOutputFilterByType DEFLATE text/css
-	AddOutputFilterByType DEFLATE text/html
-	AddOutputFilterByType DEFLATE text/javascript
-	AddOutputFilterByType DEFLATE text/plain
-	AddOutputFilterByType DEFLATE text/xml
-	# Remove browser bugs
-	BrowserMatch ^Mozilla/4 gzip-only-text/html
-	BrowserMatch ^Mozilla/4\.0[678] no-gzip
-	BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
-	Header append Vary User-Agent
-	# END gzip file compression
-
-
-### The Last Simple Optimization is Image Compression
-This can be as simple as resizing your images to the actual size needed to cleaning up any data that might be stored within your image.
-
-If you don’t want to take the time to resize every image by hand, you can seek out WordPress plugins that will do the work for you.
-
-There are also plugins that can optimize your images by takes the image file and removing any unnecessary data bytes stored within. This shrinks your images without any loss of image quality.
+1. Click **Advanced Tab** in the Caching Section
+2. Select **Simple** in the Cache Delivery Method
+3. Under Miscellaneous click:
+	1. **Don't cache pages for known users**
+	2. **Don't cache pages with GET parameter**
+	3. **Compress pages so they're served more quickly to visitors**
+	4. **Cache rebuild. Serve a supercache file to anonymous users while a new file is being generated**
+4. Under Advanced click:
+	1. **Mobile device support**
+	2. **Clear all cache files when a post or page is published or updated**
+	3. **Extra homepage checks**
+5. Click **Update Status**
+6. Go to **CDN Tab**
+7. Select **Enable CDN Supoort** and **Skip https URLs to avoid "mixed content" errors**
+8. Go to **Preload Tab**
+9. Then click **Preload Cache Now**
 
 ### Check Your Website
 
