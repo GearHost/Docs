@@ -27,6 +27,15 @@ WP Super Cache plugin is one of the best caching options. It is easy to install 
 8. Go to **Preload Tab**
 9. Then click **Preload Cache Now**
 
+### Installing & Implement Smush Image Compression & Optimization
+Smush resizes, optimizes and compresses all of your images. 
+
+1. **Install Smush** in WordPress
+2. **Activate Smush** in Plugin Tab
+3. Go to the media tab and click **WP Smush**
+3. Click the blue button **Bulk Smush Now**
+4. **Repeat** this process until all your images have been Smushed
+
 ### Check Your Website
 
 To check the overall load time of your website or see other ideas of how to improve, here are a few tools:
