@@ -23,7 +23,7 @@ WP Super Cache plugin is one of the best caching options. It is easy to install 
 	3. **Extra homepage checks**
 5. Click **Update Status**
 6. Go to **CDN Tab**
-7. Select **Enable CDN Supoort** and **Skip https URLs to avoid "mixed content" errors**
+7. Select **Enable CDN Suport** and **Skip https URLs to avoid "mixed content" errors**
 8. Go to **Preload Tab**
 9. Then click **Preload Cache Now**
 

@@ -7,7 +7,7 @@ PHP (Hypertext Preprocessor) is a widely-used open source general-purpose script
 4. **Rename** `php.ini-production` to `php.ini`
 5. Within php.ini **uncomment** out `fastcgi.logging=0`
 5. **Save** changes and **upload** edited files/publish changes.
-6. Go to **CloudSite > Configuration** Tab
+6. Go to **CloudSite > Configuration** tab
 7. **Scroll** down and **Add** a `New Handler Mapping`
 	1. Extension: ***.php**
 	2. Script Processor Path: **C:\home\site\wwwroot\bin\php{VersionYouHave}\php-cgi.exe**
