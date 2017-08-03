@@ -1,5 +1,5 @@
 # How To Setup BitBucket
-Bitbucket makes it easy for you to collaborate.  It also Provides Git and Mercurial code management for professional teams with unlimited private repositories. This guide gives steps on how to setup BitBucket on your CloudSite.
+Bitbucket makes it easy for you to collaborate. It also Provides Git and Mercurial code management for professional teams with unlimited private repositories. This guide gives steps on how to setup BitBucket on your CloudSite.
 
 ### Create a BitBucket Account
 1. [Create your account](https://bitbucket.org/account/signup/) with **BitBucket**
@@ -18,13 +18,12 @@ Bitbucket makes it easy for you to collaborate.  It also Provides Git and Mercur
 5. Click **Authorize**
 6. Choice your **Repository** and **Branch**
 7. Click **Activate**
-
->**Note**: You will need to also change your Virtual Directories to:
-
-CloudSite >> Config tab
-
-1. Virtual Path: **/**
-2. Physical Path: **site\repository**
+8. Now click **Config** tab
+9. **Scroll down** near the bottom
+10. Under Virtual Directories:
+	1. Fill Virtual Path: **/**
+	2. Fill Physical Path: **site\repository**
+11. Click **Save Configuration**
 
 ### Clone Your BitBucket with SourceTree
 1. [Download SourceTree](https://www.sourcetreeapp.com/)
@@ -36,3 +35,6 @@ CloudSite >> Config tab
 
 Now that you have done these steps please proceed to learn how to create a file and push it onto your website with [SourceTree](https://confluence.atlassian.com/bitbucket/copy-your-repository-and-add-files-729980492.html).
 
+>**Note**: We do also have guides for Local [Git](https://www.gearhost.com/documentation/git-deploy-your-application) and [Github](https://www.gearhost.com/documentation/github-deploy-your-application)
+
+**Tip:** Did we miss something or still need help? [Open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll be happy to assist you!
