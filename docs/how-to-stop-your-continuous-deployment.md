@@ -3,7 +3,7 @@ This guide is to help those who have deployed Bitbucket, Github or Local Git and
 
 ### Follow These Simple Steps:
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
-2. Click on the **CloudSite name** you wish to add *Job Scheduler* to
+2. Click on the **CloudSite name** you wish to remove *ContinuousDeployment* from
 3. Click the **Publish** tab
 4. Select the blue **Reset Password** button
 
