@@ -8,3 +8,5 @@ Adding a domain or sub-domain to your CloudSite application is simple using the 
 5. Enter in the domain name or sub domain name and click `Create Domain`
 
 > The Domains tab is a list of domains that your CloudSite will explicitly serve requests for. It is also a list of DNS zones that you can modify DNS records for.
+
+**Tip:** Did we miss something or still need help? [Open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll be happy to assist you!
