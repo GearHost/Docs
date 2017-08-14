@@ -8,11 +8,17 @@ The CloudSite platform supports the following technologies however any flavor/ve
 	* 4.5
 	* 3.5
 	* 2.0
+	* Classic ASP.NET
+* Classic ASP
 * PHP
 	* 7.0.7
 	* 5.5.14
 	* 5.4.30
 	* 5.3.28
+* Database Software
+	* MSSQL 2016 (includes support for all earlier versions)
+	* MySQL 5.7.19 (includes support for all earlier versions)
+	* MongoDB 3.4.7 (includes support for all earlier versions)
 * Node.js
 	* 5.1.1
 	* 5.0.0
@@ -43,5 +49,3 @@ The CloudSite platform supports the following technologies however any flavor/ve
 * Python
 	* 3.4
 	* 2.7
-* Classic ASP
-* Classic ASP.NET
