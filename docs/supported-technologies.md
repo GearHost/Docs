@@ -16,9 +16,9 @@ The CloudSite platform supports the following technologies however any flavor/ve
 	* 5.4.30
 	* 5.3.28
 * Database Software
-	* MSSQL 2016 (includes support for all earlier versions)
-	* MySQL 5.7.19 (includes support for all earlier versions)
-	* MongoDB 3.4.7 (includes support for all earlier versions)
+	* Microsoft SQL Server 2016 (includes support for all earlier versions)
+	* MySQL Server 5.7.19 (includes support for all earlier versions)
+	* MongoDB Server 3.4.7 (includes support for all earlier versions)
 * Node.js
 	* 5.1.1
 	* 5.0.0
