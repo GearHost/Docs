@@ -31,7 +31,7 @@ Now you can manage your mailboxes such as creating a new mailbox or modifying an
 2. From the menu on the left select `Accounts` 
 2. Click the mailbox name
 3. Click this icon ![dot-button]
-4. Chose `Change Password` from the drop down.
+4. Click `Change Password` from the drop down
 2. Enter new password and confirm that password
 3. Click `Save`
 
