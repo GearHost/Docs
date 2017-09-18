@@ -41,7 +41,14 @@ Now you can manage your mailboxes such as creating a new mailbox or modifying an
 2. From the menu on the left select `Accounts` 
 2. Select the mailbox using the check box then click the `Delete` button
 
+### Reset domain admin password
 
+This will reset the password for the domain admin account. 
+
+1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
+2. Click on the CloudSite name you wish to manage email under
+3. Click the `Email` tab
+4. Click the lock icon to reset the domain admin password.
 
 >**Note:** if you do not see a menu on the left, click this icon ![domain-menu]
 
