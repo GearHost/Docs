@@ -2,7 +2,7 @@
 GearHost utilizes a few different methods to ensure service for all our customers and to prevent compromised accounts from impacting email services. These rules and measures are in place only for shared email services like on the latest GearHost platform. 
 
 #### Throttling
-GearHost throttles outgoing messages to 1000 per hour. After 1000 messages are sent the rest of the messages are then delayed and sent out at a rate of 1000 per hour. Throttling does not bounce or send back messages, delivery is simply delayed. We also throttle based on bandwidth at 100MB per hour. If your mailbox exceeds 100MB in one hour then messages are delayed to 100MB per hour. 
+GearHost throttles outgoing messages to 100 per hour. After 100 messages are sent the rest of the messages are then delayed and sent out at a rate of 100 per hour. Throttling does not bounce or send back messages, delivery is simply delayed. We also throttle based on bandwidth at 100MB per hour. If your mailbox exceeds 100MB in one hour then messages are delayed to 100MB per hour. 
 
 #### Abuse Detection
 In addition to throttling we also have rules in place to prevent abuse to our mail servers. 
