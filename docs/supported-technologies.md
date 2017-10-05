@@ -3,7 +3,7 @@
 The CloudSite platform supports the following technologies however any flavor/version of software can be custom installed and used such as beta versions of .NET/PHP.
 
 * .NET
-	* Core
+	* Core 1.0, 1.1, and 2.0
 	* 4.6
 	* 4.5
 	* 3.5
