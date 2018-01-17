@@ -1,11 +1,11 @@
-#What is .NET Core?
+# What is .NET Core?
 .NET Core is esentially a fork of the .NET Framework. It's been redesigned to offer better performance and many other features!
 
-####What's the benefit of using .NET Core compared to ASP.NET?
+#### What's the benefit of using .NET Core compared to ASP.NET?
 One of the main benefits is that it's cross platform. You can run your application on Windows, Linux, or MacOS.
 It offers a robust Microservice Architecture, is designed for scaleable systems and high performance applications. Simply put, you can mix microservices or services developed with .NET Framework, Java, Ruby, or other monolithic technologies and immediately increase your resources.
 
-###Getting Started
+### Getting Started
 1. You will need the latest version of [Visual Studio 2017](https://www.visualstudio.com/downloads/)
 2. Also the following .NET Core SDK and frameworks found [here](https://www.microsoft.com/net/download/windows) This can also be installed through the Visual Studio Installer GUI client
 3. Retrieve your publishing profile using these [steps](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio)
@@ -17,11 +17,18 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 
 8. Your .csproj file should begin like this:
 
-    <Project Sdk="Microsoft.NET.Sdk.Web">
+
+````<Project Sdk="Microsoft.NET.Sdk.Web">
+
     <PropertyGroup>
+
     <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
+
     <TargetFramework>netcoreapp2.0</TargetFramework>
+
     </PropertyGroup>
+````
+
 
 8. Save your changes. Right click your project again, and select **Publish**
 9. Select **Import Profile** as the option, browse for your publishing profile and select **Open**
