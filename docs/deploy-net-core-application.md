@@ -37,4 +37,4 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 10. Select **Publish** and your application will start deploying!
 
 
-**Tips:** Are you looking into migrating your ASP.NET 4.5+ application to .NET Core? Be sure to check out some prerequisites found [here!](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server)
+**Tip:** Are you looking into migrating your ASP.NET 4.5+ application to .NET Core? Be sure to check out some prerequisites found [here!](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server)
