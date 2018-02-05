@@ -11,13 +11,13 @@ Management of your mailboxes is done using web mail by logging into your web mai
 3. Click the `Email` tab
 4. Click the domain name you wish to manage
 5. Click the `Email Management` button to launch the SmarterMail web mail interface
-6. Click the `Settings` gear icon on the left menu panel
-7. Under `Domain Settings` click `Users`
+6. Click the `Settings` gear icon with the world ![domain-settings]
+7. Click `Users` from the left hand side
 
 Now you can manage your mailboxes such as creating a new mailbox or modifying an existing mailbox, see below
 
 ### Add a new mailbox
-1. Click this icon located in the menu bar ![domain-settings] and select `Domain Settings`
+1. Click this icon located in the menu bar ![domain-settings]
 2. From the menu on the left select `Accounts` 
 3. Click `New`
 2. Enter a desired username (which is the mailbox name)
@@ -27,7 +27,7 @@ Now you can manage your mailboxes such as creating a new mailbox or modifying an
 
 
 ### Modify a mailbox password
-1. Click this icon located in the menu bar ![domain-settings] and select `Domain Settings`
+1. Click this icon located in the menu bar ![domain-settings]
 2. From the menu on the left select `Accounts` 
 2. Click the mailbox name
 3. Click this icon ![dot-button]
@@ -37,7 +37,7 @@ Now you can manage your mailboxes such as creating a new mailbox or modifying an
 
 
 ### Delete a mailbox
-1. Click this icon located in the menu bar ![domain-settings] and select `Domain Settings`
+1. Click this icon located in the menu bar ![domain-settings]
 2. From the menu on the left select `Accounts` 
 2. Select the mailbox using the check box then click the `Delete` button
 
@@ -52,7 +52,7 @@ This will reset the password for the domain admin account.
 
 >**Note:** if you do not see a menu on the left, click this icon ![domain-menu]
 
-[domain-settings]: https://raw.githubusercontent.com/GearHost/docs/master/Images/manage-email-accounts-domain-settings.png
+[domain-settings]: https://raw.githubusercontent.com/GearHost/docs/master/Images/smartermail_domain_settings.png
 
 [domain-menu]: https://raw.githubusercontent.com/GearHost/docs/master/Images/manage-email-accounts-domain-menu.png
 
