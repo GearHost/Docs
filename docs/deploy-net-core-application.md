@@ -7,12 +7,19 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 
 ### Getting Started
 1. You will need the latest version of [Visual Studio 2017](https://www.visualstudio.com/downloads/)
+
 2. Also the following .NET Core SDK and frameworks found [here.](https://www.microsoft.com/net/download/windows) This can also be installed through the Visual Studio Installer GUI client
+
 3. Retrieve your publishing profile using these [steps](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio)
+
 4. Inside Visual Studio select **File** > **New** > **Project** and click on **Web** > **ASP.NET Core Web Application**
+
 5. Select **OK** twice 
+
 6. Once you're ready to publish, right click on your web application project inside **Solution Explorer** and select **Edit "yourwebapplication.csproj"**
+
 7. On top of the `<TargetFrameWork>` section add the following:
+
    `<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>`
 
 8. Your .csproj file should look like this:
