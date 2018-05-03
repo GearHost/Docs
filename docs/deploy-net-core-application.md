@@ -17,7 +17,7 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 
 8. Your .csproj file should look like this:
 
-![image](https://raw.githubusercontent.com/GearHost/docs/master/Images/net-core-csproj.png)
+![image](https://raw.githubusercontent.com/GearHost/Docs/master/Images/net-core-csproj.png)
 
 
 8. Save your changes. Right click your project again, and select **Publish**
