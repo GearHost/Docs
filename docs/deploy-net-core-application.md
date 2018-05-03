@@ -21,8 +21,23 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 
 
 8. Save your changes. Right click your project again, and select **Publish**
-9. Select **Import Profile** as the option, browse for your publishing profile and select **Open**
-10. Select **Publish** and your application will start deploying!
+
+9. Select **Start** under *Publish your app to Azure or another host* 
+
+10. Select **Import Profile** as the option near the bottom left, browse for your publishing profile and select **Open**
+
+11. On the summary page below select **Settings**
+
+    ![image2](https://github.com/GearHost/Docs/blob/master/Images/net-core-step-3.png)
+
+12. Click the **Settings** on the left. Make sure **Target Runtime** is set to *win10-x64*. Click Save
+
+![image3](https://github.com/GearHost/Docs/blob/master/Images/net-core-step-4.png)
+
+
+8. Select **Publish** and your application will start deploying!
+
+**Note:** .NET Core will not work with a free plan. The Self Contained Deployment uses over 100mb.
 
 
 **Tip:** Are you looking into migrating your ASP.NET 4.5+ application to .NET Core? Be sure to check out some prerequisites found [here!](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server)
