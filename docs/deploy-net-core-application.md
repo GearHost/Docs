@@ -20,6 +20,8 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 
 7. On top of the `<TargetFrameWork>` section add the following:
 
+   
+
    `<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>`
 
 8. Your .csproj file should look like this:
