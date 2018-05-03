@@ -13,23 +13,11 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 5. Select **OK** twice 
 6. Once you're ready to publish, right click on your web application project inside **Solution Explorer** and select **Edit "yourwebapplication.csproj"**
 7. On top of the `<TargetFrameWork>` section add the following:
- `<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>`
+   `<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>`
 
-8. Your .csproj file should begin like this:
+8. Your .csproj file should look like this:
 
-
-````
-
-    <Project Sdk="Microsoft.NET.Sdk.Web">
-
-    <PropertyGroup>
-
-    <RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>
-
-    <TargetFramework>netcoreapp2.0</TargetFramework>
-
-    </PropertyGroup>
-````
+![image](https://raw.githubusercontent.com/GearHost/docs/master/Images/net-core-csproj.png)
 
 
 8. Save your changes. Right click your project again, and select **Publish**
