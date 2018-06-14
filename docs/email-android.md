@@ -2,7 +2,7 @@
 
 This article will help setup your GearHost mailbox on your OS device such as an Android Phone or Tablet. If you are having issues with your email on your device we suggest removing the current account on your OS device and creating a new one using the steps below.
 
-In the below example we will be adding the email account john@ighdns.com. You will use your email account and domain instead of the example account.
+In the below example we will be adding the email account `john@ighdns.com`. You will use your email account and domain instead of the example account.
 
 ## Using IMAP
 
@@ -32,7 +32,7 @@ In the below example we will be adding the email account john@ighdns.com. You wi
 
 12. **Incoming Server Settings** 
 
-   1. Username should already be filled in. If not enter your full email address. In my example I entered john@ighdns.com
+   1. Username should already be filled in. If not enter your full email address. In my example I entered `john@ighdns.com`
 
    2. The password should already be filled in. If not type in your email password.
 
