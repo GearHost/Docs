@@ -78,7 +78,7 @@ In the below example we will be adding the email account john@ighdns.com. You wi
 
 24. Under **Your Account is Set Up**
 
-    1. Account name should be filled in already. If not type in your email. In my example I will type in          john@ighdns.com
+    1. Account name should be filled in already. If not type in your email. In my example I will type in `john@ighdns.com`
 
     2. Your name should be your first and last name that is displayed when you send an email
 
