@@ -1,4 +1,4 @@
-# Setup Email on Android Phone or Tablet (OS)
+# Setup Email on Android Phone or Tablet
 
 This article will help setup your GearHost mailbox on your OS device such as an Android Phone or Tablet. If you are having issues with your email on your device we suggest removing the current account on your OS device and creating a new one using the steps below.
 
@@ -34,7 +34,7 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
     1. Username should already be filled in. If not enter your full email address. In my example I entered `john@ighdns.com`
 
-    2. The password should already be filled in. If not type in your email password.
+    2. The password should already be filled in. If not type in your email password
 
     3. Enter your **Server**: In my example I will use `mail.ighdns.com` (replace ighdns.com with your domain name)
 
@@ -46,7 +46,7 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
 13. Select **Next**
 
-14. After selecting next you will receive an error regarding the certificate not being valid. This is because there is no SSL certificate installed on mail.ighdns.com. If you would like to send using secure ports please create a ticket and we can help you get started.
+14. After selecting next you will receive an error regarding the certificate not being valid. This is because there is no SSL certificate installed on mail.ighdns.com. If you would like to send using secure ports please create a ticket and we can help you get started
 
 15. Click **Advanced**
 
@@ -58,7 +58,7 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
 18. Select **Next**
 
-19. After selecting next you will receive the same error as you did previously. 
+19. After selecting next you will receive the same error as you did previously
 
 20. Click **Advanced**
 
@@ -110,6 +110,6 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
     1. Follow the same steps above under **Incoming Settings**
 
-32. Your email account is now setup. 
+32. Your email account is now setup
 
 **Tip:** Do you want secure email? Be sure to [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) so we can set it up for you!
