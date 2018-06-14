@@ -54,7 +54,7 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
 17. **Outgoing Server Settings** 
 
-   1. Follow the same steps above under **Incoming Server Settings**
+    1. Follow the same steps above under **Incoming Server Settings**
 
 18. Select **Next**
 
