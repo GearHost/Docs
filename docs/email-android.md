@@ -32,17 +32,17 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
 12. **Incoming Server Settings** 
 
-   1. Username should already be filled in. If not enter your full email address. In my example I entered `john@ighdns.com`
+    1. Username should already be filled in. If not enter your full email address. In my example I entered `john@ighdns.com`
 
-   2. The password should already be filled in. If not type in your email password.
+    2. The password should already be filled in. If not type in your email password.
 
-   3. Enter your **Server**: In my example I will use `mail.ighdns.com` (replace ighdns.com with your domain name)
+    3. Enter your **Server**: In my example I will use `mail.ighdns.com` (replace ighdns.com with your domain name)
 
-   4. Your settings should look something like this
+    4. Your settings should look something like this
 
-     
+    
 
-     ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step2.png)
+    ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step2.png)
 
 13. Select **Next**
 
