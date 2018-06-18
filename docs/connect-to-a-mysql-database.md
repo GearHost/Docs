@@ -12,7 +12,7 @@ This article covers 3 steps needed to connect to your hosted MySQL database.
 3. Locate the Database you want to connect to and click it to open the database details
 4. Your username is the same name as your database. This is your primary database user that we create for you by default.
 5. Toggle the show/hide password by clicking on the "eye" icon to the right of the username to see the password.
-6. You will need the server name located at the bottom. The format is `mysqlx.gear.host`
+6. You will need the server name located under **Database Server**. The format is `den1.mysqlX.gear.host` Change the X to match the number displayed in the database details page.
 
 ### Connect to your database using MySQL Workbench
 1. Launch MySQL Workbench
