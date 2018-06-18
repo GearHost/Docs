@@ -24,7 +24,6 @@ The CloudSite platform supports the following technologies however any flavor/ve
   * MongoDB Server 3.4.7 (includes support for all earlier versions)
 
 * Node.js
-
   * 8.1.4
   * 8.0.0
   * 7.7.4
