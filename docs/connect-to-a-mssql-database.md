@@ -8,18 +8,13 @@ This article covers 3 steps needed to connect to your hosted MSSQL database.
 
 ### Locate your database username, password and server name
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
-
 2. Click the Databases menu
-
 3. Locate the Database you want to connect to and click it to open the database details
-
 4. Your username is the same name as your database. This is your primary database user that we create for you by default and the only user that can connect to your database using SSMS.
-
 5. Toggle the show/hide password by clicking on the "eye" icon to the right of the username to see the password.
-
 6. You will need the server name located under **Database Server**. The format is `den1.mssqlX.gear.host`
 
-   Note: *You will need to change the X to match the number displayed in the database details page.*
+Note: *You will need to change the X to match the number displayed in the database details page.*
 
 > Note that only your primary username can connect to the SQL server database using SSMS. While additional users have access to your database in your application they do not have access via SSMS.
 
