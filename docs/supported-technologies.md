@@ -26,7 +26,7 @@ The CloudSite platform supports the following technologies however any flavor/ve
 * Node.js
 
   * 8.1.4
-    * 8.0.0
+  * 8.0.0
   * 7.7.4
   * 7.6.0
   * 7.5.0
@@ -100,16 +100,6 @@ The CloudSite platform supports the following technologies however any flavor/ve
   * 0.10.21
 
   * 0.10.18
-
-  * 0.8.28
-
-  * 0.8.27
-
-  * 0.8.26
-
-  * 0.8.2
-
-  * 0.8.19
 
 * Python
   * 3.4
