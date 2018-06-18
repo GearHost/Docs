@@ -1,17 +1,19 @@
 # Configure Mail on Mac
-If this is your first time opening **Apple Mail** and you have not already configured an email account, you should be presented with the Add New Account screen. If not, click on the **Mail** tab and then click on 
+If this is your first time opening **Apple Mail** and you have not already configured an email account, you should be presented with the Add New Account screen.
 
-**Accounts.**
-
-1. Select **Add Other Mail Account**
-1. Add your name, e-mail account and password and click **Create**
-1. Your host name should be `mail.yourdomain.com` , but replace `yourdomain.com` with your own domain name
-1. Select IMAP or POP3 and put your e-mail account username and password. As a recommendation we think it's best to use IMAP. 
-1. **Click Next**
-1. Your SMTP server is `mail.yourdomain.com` as well
-Put your e-mail username and password again
-1. If you receive an *"identity of mail.yourdomain.com cannot be verified"* message, it can be ignored. Proceed anyway
-1. Click **Connect** and your e-mail account should be set up
+1. Click on the **Mail** tab and then click on **Accounts.**
+1. Scroll down & select **Add Other Mail Account**
+1. Select **Mail Account**
+1. Add your name, e-mail account and password and click **Sign In**
+1. You should be presented with a screen to enter your account information. 
+   1. User Name: Your full email address Ex: *john@yourdomain.com*
+   1. Account Type: IMAP
+   1. Incoming Mail Server: `mail.yourdomain.com` Note: *replace `yourdomain.com` with your own domain name
+   1. Outgoing Mail Server: `mail.yourdomain.com` Note: *replace `yourdomain.com` with your own domain name
+1. Click **Sign In**
+1. Click **Continue** on the next prompt twice.
+1. Make sure **Mail** is checked and click **Done**
+1. The account should now be setup 
 
 ### Additional Tips
 You can also modify outgoing ports,SMTP settings, connection types and more. To do this, please proceed with the following steps;
