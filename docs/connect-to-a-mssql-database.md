@@ -19,7 +19,7 @@ This article covers 3 steps needed to connect to your hosted MSSQL database.
 
 6. You will need the server name located under **Database Server**. The format is `den1.mssqlX.gear.host`
 
-   Change the X to match the number displayed in the database details page.
+   Note: *You will need to change the X to match the number displayed in the database details page.*
 
 > Note that only your primary username can connect to the SQL server database using SSMS. While additional users have access to your database in your application they do not have access via SSMS.
 
