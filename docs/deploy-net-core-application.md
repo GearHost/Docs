@@ -5,43 +5,24 @@
 One of the main benefits is that it's cross platform. You can run your application on Windows, Linux, or MacOS.
 It offers a robust Microservice Architecture, is designed for scaleable systems and high performance applications. Simply put, you can mix microservices or services developed with .NET Framework, Java, Ruby, or other monolithic technologies and immediately increase your resources.
 
-### Getting Started
-1. You will need the latest version of [Visual Studio 2017](https://www.visualstudio.com/downloads/)
+### Publish Existing Project
+1. Retrieve your publishing profile using these [steps](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio)
 
-2. Also the following .NET Core SDK and frameworks found [here.](https://www.microsoft.com/net/download/windows) This can also be installed through the Visual Studio Installer GUI client
-
-3. Retrieve your publishing profile using these [steps](https://www.gearhost.com/documentation/how-to-publish-your-app-from-visual-studio)
-
-4. Inside Visual Studio select **File** > **New** > **Project** and click on **Web** > **ASP.NET Core Web Application**
-
-5. Select **OK** twice 
-
-6. Once you're ready to publish, right click on your web application project inside **Solution Explorer** and select **Edit "yourwebapplication.csproj"**
-
-7. On top of the `<TargetFrameWork>` section add the following:
-
-   
-
-   `<RuntimeIdentifiers>win10-x64</RuntimeIdentifiers>`
-
-8. Your .csproj file should look like this:
-
-![image](https://raw.githubusercontent.com/GearHost/Docs/master/Images/net-core-csproj.png)
+2. When you are ready to publish select ***Build > Publish*** from the top menu
 
 
-8. Save your changes. Right click your project again, and select **Publish**
 
-9. Select **Start** under *Publish your app to Azure or another host* 
+1. Select **Import Profile** near the bottom left, browse for your publishing profile and select **Open**
 
-10. Select **Import Profile** as the option near the bottom left, browse for your publishing profile and select **Open**
+2. Make sure *Web Deploy* is used and not FTP
 
-11. On the summary page below select **Settings**
+3. On the summary page below select **Configure**
 
-    ![image2](https://github.com/GearHost/Docs/blob/master/Images/net-core-step-3.png)
+   ![image2](https://github.com/GearHost/Docs/blob/master/Images/net-core-step-1.png)
 
-12. Click the **Settings** on the left. Make sure **Target Runtime** is set to *win10-x64*. Click Save
+4. Click the **Settings** on the left. Make sure **Deployment Mode** is set to *Self-Contained*. Click Save
 
-![image3](https://github.com/GearHost/Docs/blob/master/Images/net-core-step-4.png)
+![image3](https://github.com/GearHost/Docs/blob/master/Images/net-core-step-2.png)
 
 
 8. Select **Publish** and your application will start deploying!
