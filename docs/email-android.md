@@ -7,33 +7,19 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 ## Using IMAP
 
 1. Confirm you are using the latest OS version using this [How to Update Your Android OS](http://www.ubergizmo.com/how-to/update-android-os/)
-
 2. Launch **Gmail** app ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/android-email-icon.png)
-
 3. Top left, select **Menu** ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/android-menu-icon.png)
-
 4. Right of username, select **Down Arrow** ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/android-arrow-icon.png)
-
 5. Select **Add Account**
-
 6. Select **Other**
-
 7. Enter your **Email Address**
-
    
-
    ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step1.png)
 
-   
-
 8. Select **Next**
-
 9. Select **Personal (IMAP)**
-
 10. Enter your **Password**
-
 11. Select **Next**
-
 12. **Incoming Server Settings** 
     1. Username should already be filled in. If not enter your full email address. In my example I entered `john@ighdns.com`
 
