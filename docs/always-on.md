@@ -10,4 +10,4 @@ By default, CloudSite apps are unloaded if they are idle for a period of time. W
 
 ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/AlwaysOn.png)
 
->**Tip:**If you have any questions please let us know by [opening a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).
+>**Tip:** If you have any questions please let us know by [opening a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).
