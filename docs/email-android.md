@@ -20,7 +20,11 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
 7. Enter your **Email Address**
 
+   
+
    ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step1.png)
+
+   
 
 8. Select **Next**
 
@@ -31,7 +35,6 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 11. Select **Next**
 
 12. **Incoming Server Settings** 
-
     1. Username should already be filled in. If not enter your full email address. In my example I entered `john@ighdns.com`
 
     2. The password should already be filled in. If not type in your email password
@@ -40,9 +43,11 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 
     4. Your settings should look something like this
 
-    
+      
 
-    ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step2.png)
+      ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step2.png)
+
+    
 
 13. Select **Next**
 
@@ -53,7 +58,6 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 16. Swipe all the way down and select **Proceed Anyway**
 
 17. **Outgoing Server Settings** 
-
     1. Follow the same steps above under **Incoming Server Settings**
 
 18. Select **Next**
@@ -65,26 +69,32 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 21. Swipe all the way down and select **Proceed Anyway**
 
 22. **Account Options**
-
     1. Sync frequency is how often your phone contacts our mail server to receive new email
 
     2. Make sure all check boxes are checked
 
     3. Your **Account Options** should look something like this 
 
+       
+
        ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step3.png)
+
+    
 
 23. Select **Next**
 
 24. Under **Your Account is Set Up**
-
     1. Account name should be filled in already. If not type in your email. In my example I will type in `john@ighdns.com`
 
     2. Your name should be your first and last name that is displayed when you send an email
 
     3. Your Account Set Up should look something like this
 
+       
+
        ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step4.png)
+
+    
 
 25. Select **Next**
 
@@ -97,17 +107,19 @@ In the below example we will be adding the email account `john@ighdns.com`. You 
 29. Scroll Down to the bottom until you see **Incoming Settings** & **Outgoing Settings**
 
 30. **Incoming Settings**
-
     1. Scroll down to security type and select **NONE**
 
     2. The settings Should look something like this 
 
+       
+
        ![](https://raw.githubusercontent.com/GearHost/docs/master/Images/email-android-step5.png)
+
+       
 
     3. Select Done
 
 31. **Outgoing Settings**
-
     1. Follow the same steps above under **Incoming Settings**
 
 32. Your email account is now setup
