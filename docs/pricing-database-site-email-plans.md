@@ -18,7 +18,7 @@ $0.25 per additional gigabyte of disk space on your site
 
 $1.00 per additional gigabyte of MSSQL and MYSQL database hosting
 
-$2.00 per additional gigabyte of space on email
+$1.00 per additional gigabyte of space on email
 
 ### Other
 $5 per addtional standard worker instance
