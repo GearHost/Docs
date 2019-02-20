@@ -13,7 +13,7 @@ This will download a `{cloudsitename}.publish` file to your local computer stora
 
 ### Publishing
 1. **Launch Visual Studio** and open your existing web application project
-2. **Right click** on your web application and select `Publish Web App`
+2. In Solution Explorer **Right click** on your web application and select `Publish Web App`
 3. In the Publish wizard window select **Profile** and select `Import` under the `Select a publish target` menu
 4. Browse to the `{cloudsitename}.publish` file you downloaded above and select **`OK`**
 5. Click the **Publish button**
