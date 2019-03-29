@@ -2,8 +2,6 @@
 This article explains how to manage your SmarterMail mailbox email accounts such as adding a new mailbox, changing the password of an existing mailbox or modifying anything else regarding a mailbox. You must first have [email enabled on your domain](https://www.gearhost.com/documentation/enable-email).
 
 ### Login to your SmarterMail
-*As of 09/05/2017 this method will not work. We are working with the developers of SmarterMail to have this resolved. To log into the email management area please go to mail.yourdomain.com and log in manually*
-
 Management of your mailboxes is done using web mail by logging into your web mail as a domain administrator. If you are unsure who is a domain administrator you can always log in as the primary domain administrator which can be changed as well.
 
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
