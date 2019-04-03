@@ -14,6 +14,6 @@ PHP (Hypertext Preprocessor) is a widely-used open source general-purpose script
 	3. click on **Save Configuration** at the bottom
 8. Create a [info.php](https://www.gearhost.com/documentation/create-php-info-page) page
 9. Go ahead and **stop** your cloudSite
-10. Then **start** it and go to {CloudSiteName}.gear.host/info.php
+10. Then **start** it and go to {CloudSiteName}.gearhostpreview.com/info.php
 
 If you have followed these steps, a page should up come with all the information about your PHP version.

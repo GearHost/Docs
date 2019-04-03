@@ -19,7 +19,7 @@ Note: *You will need to change the X to match the number displayed in the databa
 ### Connect to your database using SSMS
 1. Launch Microsoft SQL Server Management Studio 2016
 2. The Server type should be *Database Engine*
-3. Server name should be `mssqlx.gear.host` (see above)
+3. Server name should be `den1.mssqlx.gear.host` (see above)
 4. Authentication is *SQL Server Authentication*
 5. Enter your database username (see above)
 6. Enter your database password (see above)

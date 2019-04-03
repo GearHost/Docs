@@ -11,3 +11,6 @@ You can create a MSSQL (Microsoft SQL) or MySQL database on your account using t
 
 ### Connect to your database:
 Congrats you now have a new database! To connect to your MSSQL database view the [How To Connect To a MSSQL Database](https://www.gearhost.com/documentation/connecting-to-a-sql-database-using-sql-server-management-studio-2014) doc. To connect to your MySQL database view the [How To Connect To a MySql Database](https://www.gearhost.com/documentation/connecting-to-mysql-database) doc.
+
+### Database Collation
+Database Collation for MSSQL database can be set during the creation process. If you have an existing database you will need to open a support ticket so we can change the collation. During database creation follow steps 1 - 5 above, scroll down and select "Options". Once selected you will be able to select your desired collation from a dropdown menu.

@@ -12,7 +12,7 @@ WordPress is the most popular CMS, powering around 25% of all websites in the wo
 1. Browse for your extracted WordPress files in your computer, and upload those files to **/site/wwwroot/** via FTP
 
 ### Installing WordPress
-1. Go to your website's url or use the `http://{yourcloudsitename}.gear.host` to access the WordPress installer wizard
+1. Go to your website's url or use the `http://{yourcloudsitename}.gearhostpreview.com` to access the WordPress installer wizard
 2. Select your language and click **Continue**
 3. Select **Let's Go!**
 4. On your [hosting portal](https://my.gearhost.com/Databases), select the database you created and and put the provided information such as; database name, username, password, server in your WordPress wizard

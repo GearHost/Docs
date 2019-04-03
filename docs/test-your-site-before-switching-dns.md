@@ -1,6 +1,6 @@
 # How Can You Test Your Site Before Switching DNS
 ## Preview URL Method
-We provide you with an access domain name for every application in your control panel.  This access name is composed by your application name and gear.host (example: myapplication.gear.host) 
+We provide you with an access domain name for every application in your control panel.  This access name is composed by your application name and gearhostpreview.com (example: myapplication.gearhostpreview.com) 
 
 To find your access domain 
 
@@ -23,7 +23,7 @@ When you are finished testing, remember to remove the custom lines that you adde
   * Windows 95/98/Me - C:\windows\hosts
  2. Open the HOSTS file with a text editor such as Notepad or Wordpad
   * Right-click on Notepad and select the option to run Notepad as an Administrator as you need these elevated permissions to edit the HOSTS file.
-  
+
  >**Consider performing a "Save As" so you have an original copy of the file that you can restore later.**
 
  You will see two columns of information, the first containing IP addresses and the second containing host names. By default, a windows hosts file should be similar to the following:
@@ -38,7 +38,7 @@ When you are finished testing, remember to remove the custom lines that you adde
     107.154.50.60 mysite.com
     107.154.50.60 www.mysite.com
  ```
- 
+
  3. Save your changes
  4. Restart any currently open web browsers on your local computer
  5. visit the site using the URL you added to your HOSTS

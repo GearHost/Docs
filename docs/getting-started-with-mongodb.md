@@ -21,7 +21,7 @@ For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/)
 1. Launch RoboMongo
 1. Select **Create** inside the "MongoDB Connections" window prompt
 1. Give your connection a name on the `Name` field
-1. On the **Address** field put `mongo1.gear.host` and specify your port number
+1. On the **Address** field put `den1.mongo1.gear.host` and specify your port number
 1. Select the **Authentication** tab and enable the *Perform authentication* box
 1. Fill out your database login credentials
 1. Set **Auth Mechanism** option to `SCRAM-SHA-1`
@@ -32,5 +32,6 @@ For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/)
 ### Connecting using Mongo Shell
 If you rather work through the command line, you can install [Mongo Shell](https://docs.mongodb.com/getting-started/shell/installation/). Fortunately, Mongo Shell is compatible with most operating systems and they provide many methods of connecting [here.](https://docs.mongodb.com/manual/reference/program/mongo/#use) If you've installed Mongo Shell on a Windows environment the following command should work for you. Please note that this is on version 3.4, so yours might slightly be different.
 
-`<pathtomongo>bin\mongo.exe mongo1.gear.host:27002/yourdb -u yourdbuser -p youruserpassword`
+`<pathtomongo>bin\mongo.exe den1.mongo1.gear.host:27002/yourdb -u yourdbuser -p youruserpassword`
+
 >**Tip:** MongoDB is case sensitive. Please be sure to always use lowercase database name and username when attempting to connect.

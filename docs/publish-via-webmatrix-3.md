@@ -30,8 +30,8 @@ This article covers three steps needed to publish your website to Octane with We
 When publishing your site from WebMatrix 3 you will receive a dialog showing you the changed files in your local project vs what is on the server.  There will be an option to delete all files on the server that are not in your local development project.  
 
  - Visit test URL provided for your site
- 
- >This test URL should be in the format of `http://{cloudsitename}.gear.host` where you replace `{cloudsitename}` with the name of your CloudSite
+
+ >This test URL should be in the format of `http://{cloudsitename}.gearhostpreview.com` where you replace `{cloudsitename}` with the name of your CloudSite
 
 ### Set Up Your Database
 >There is currently a known issue with certain characters that are auto generated when you setup your database. If you are unable to connect to your database when using a publishing file go into your database in your account and change the password. The know characters are `*()/"'`  so do avoid them when creating a new password.
@@ -43,7 +43,7 @@ When publishing your site from WebMatrix 3 you will receive a dialog showing you
 5. Set your password on the database to avoid the known issue of certain characters causing an issue during publishing
 
 If you need to set up a connection to your database for management please follow the instructions in the articles below based on your database type.
-   
+
 - [MSSQL](https://www.gearhost.com/documentation/connect-to-a-mssql-database)
 - [MySQL](https://www.gearhost.com/documentation/connecting-to-mysql-database)
 
