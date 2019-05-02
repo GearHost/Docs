@@ -13,6 +13,8 @@ Each CloudSite is **billed per hour**, up to its monthly cap. The monthly cost o
 
 >This allows you to **destroy your CloudSite** before the maximum monthly charge and **pay only for what you use**.
 
+> The hours start when the cloud site is created. Stopping the cloud site does not stop the hourly billing. Stop the billing by scaling down to the free plan or deleting the site.
+
 ### Limitations without Signing up with Credit Card
 With no credit card you are only able to **create up to 5 free CloudSites** and **5 free databases**. 
 
