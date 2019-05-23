@@ -8,7 +8,7 @@ Framework versions. Set these options if your app uses any these frameworks:
  Version `3.5` supports 2.0, 3.0, and 3.5.
  Version `4.6` supports 4.0, 4.5, 4.5, 4.6, and 4.6
 
-2. **PHP Version:** Set the PHP version, or toggle `OFF` to disable PHP. We currently support versions; `5.3`, `5.4`, `5.5`, and `7`.
+2. **PHP Version:** Set the PHP version, or toggle `OFF` to disable PHP. 
 
 3. **Managed Pipeline Version:** Sets the IIS pipeline mode. By default it's on `Integrated` mode, but you can also select `Classic` which is recommend for some legacy apps. 
 

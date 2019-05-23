@@ -13,8 +13,5 @@ You change your mailbox password from within your email management interface. Be
 
 *Passwords must contain at least 8 characters, one upper case, one lower case, one number and one special character.*
 
-### Helpful Tips:
-> If you know your primary admin login already, you can login at http://mail.yourdomainname.com and continue at step 6.
 
-> If you're unable to log in automatically or login with the Administrative user. Please open a [Support Ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) or e-mail us at help@gearhost.com.
 

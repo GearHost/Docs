@@ -27,8 +27,3 @@ The following file types are accepted:
 
 > For Continuous WebJobs to run, [Always On](https://www.gearhost.com/documentation/always-on) must be enabled and thus the CloudSite must be on a Small web worker node.
 
-### Notes
-- Code for a continuous job needs to be written to run in an endless loop
-- Small modes offer the [Always On](https://www.gearhost.com/documentation/always-on) feature which, when enabled, prevents web apps from becoming idle
-
-If you have any questions let us know and [open a support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket).

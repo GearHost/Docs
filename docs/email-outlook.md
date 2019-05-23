@@ -12,7 +12,7 @@
 	![step-3]
 
 4. Now choose POP or IMAP.
- 
+
 	![step-4]
 
 5. Fill in the form as indicated below.
@@ -21,7 +21,7 @@
 
 *Your Name:* Your name you would like displayed when sending email. 
 
-> This can be your full name, or even a company name if this is a common mailbox like sales or billing. 
+<!--This can be your full name, or even a company name if this is a common mailbox like sales or billing.--> 
 
 *E-mail address:* This is the FULL email address you are trying to add.
 
