@@ -21,24 +21,19 @@
 
 *Your Name:* Your name you would like displayed when sending email. 
 
-<!--This can be your full name, or even a company name if this is a common mailbox like sales or billing.--> 
-
 *E-mail address:* This is the FULL email address you are trying to add.
 
 **Server Information**
 
-*Account Type:* POP3 or IMAP. 
-We recommend choosing IMAP.
+*Account Type:* POP3 or IMAP. We recommend IMAP
 
 *Incoming mail server:* mail.your-domain-name.com 
 
 *Outgoing mail server (SMTP):* mail.your-domain-name.com 
 
-> Replace your-domain-name with your domain name. The domain name is the part of your email address after the @ symbol. For example, if your email address is joe@example.com then the domain name is example.com and the incoming and outgoing mail servers would be mail.example.com. 
-
 **Logon Information**
 
-*User name:* The email address you are configuring in Outlook 2013. 
+*User Name:* The email address you are configuring in Outlook 2013. 
 
 *Password:* The password to your email address.
 
@@ -48,18 +43,19 @@ We recommend choosing IMAP.
 
 6. After you fill in the information click on the more settings button and then click on the Outgoing Server tab. Check the box next to My Outgoing server requires authentication and use same settings as incoming mail server.
 
-	![step-6]
+  ![step-6]
 
-7. Click Ok and click on the Test Account settings button. If everything is ok, then click Next to complete the setup. If you fail to send the test message, continue to step 7.
+7. Click  the Advanced tab and change the outgoing server (SMTP) port to 2525
 
-	![step-7]
+   ![step-8]
 
-8. if you failed to send the test message, try changing your outgoing port to our alternative 2525. Some internet service providers do not allow traffic out on port 25 (the default SMTP port) to prevent spam. Changing the port can get around this.
+8. Click Ok and click on the Test Account settings button. If everything is ok, then click Next to complete the setup. If you fail to send the test message, continue to step 7.
 
-Click on the more settings button again and then click on advanced.
-Change the SMTP port to 2525.
+   ![step-7]
 
-![step-8]
+   
+
+
 
 Setup is now complete and email should start syncing.
 
