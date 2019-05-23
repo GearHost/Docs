@@ -49,13 +49,11 @@
 
    ![step-8]
 
-8. Click Ok and click on the Test Account settings button. If everything is ok, then click Next to complete the setup. If you fail to send the test message, continue to step 7.
+8. Click Ok and click on the Test Account settings button. If everything is ok, then click Next to complete the setup. If you fail to send the test message.
 
    ![step-7]
 
    
-
-
 
 Setup is now complete and email should start syncing.
 

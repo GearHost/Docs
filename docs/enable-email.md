@@ -1,5 +1,5 @@
 # Enable Email
-GearHost offers enterprise level email support that includes POP3 and IMAP support. You will use the GearHost control panel to enable email with a default mailbox however [additional mailboxes can be added](https://www.gearhost.com/documentation/manage-email-accounts). Your must first [add a domain to your CloudSite](https://www.gearhost.com/documentation/how-to-add-a-domain-subdomain-hostname) before you can activate email.
+GearHost offers enterprise level email support that includes POP3 and IMAP support. You will use the GearHost control panel to enable email with a default mailbox however [additional mailboxes can be added](https://www.gearhost.com/documentation/manage-email-accounts) using the SmarterMail interface. You must first [add a domain to your CloudSite](https://www.gearhost.com/documentation/how-to-add-a-domain-subdomain-hostname) before you can activate email.
 
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click the CloudSite name you wish to add email to

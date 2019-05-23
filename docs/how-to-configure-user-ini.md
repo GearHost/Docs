@@ -14,15 +14,16 @@ This article covers several steps for configuring your PHP environment using `.u
 
 ## Creating the file
 1. Create a `.user.ini` file including the first period. Add the settings you want to change to the file using the same syntax as a php.ini. 
- 
-        ; Example Settings
-		error_reporting = E_ALL & ~E_DEPRECATED
-		display_errors = On
-		display_startup_errors = On
-    	
+
 2. Upload it to the root of your application or website. This is commonly the **/site/wwwroot/** directory.
- 
+
 3. [Restart your CloudSite](https://www.gearhost.com/documentation/restart-cloudsite) from the control panel. This forces the CloudSite to pull the new settings.
+
+## PHP Error Debugging
+       ; Example Settings
+        error_reporting = E_ALL & ~E_DEPRECATED
+        display_errors = On
+        display_startup_errors = On
 
 ## Memory Limit
 This sets the maximum amount of memory in bytes that a script is allowed to allocate. This helps prevent poorly written scripts for eating up all available memory on a CloudSite.

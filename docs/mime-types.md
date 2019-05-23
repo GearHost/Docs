@@ -9,13 +9,13 @@ If you were on a legacy environment and have been migrated to the new environmen
 
 ##### Flash Player related
 	<configuration>
-      <system.webServer>
-    	<staticContent>
-    		<remove fileExtension=".swf" />
-    		<mimeMap fileExtension=".swf" mimeType="application/x-shockwave-flash" />
-    	</staticContent>
-      </system.webServer>
-    </configuration>
+	  <system.webServer>
+		<staticContent>
+			<remove fileExtension=".swf" />
+			<mimeMap fileExtension=".swf" mimeType="application/x-shockwave-flash" />
+		</staticContent>
+	  </system.webServer>
+	</configuration>
 
 ##### MP4/H264/Video related
    	<configuration>
@@ -33,11 +33,11 @@ If you were on a legacy environment and have been migrated to the new environmen
     <configuration>
       <system.webServer>
         <staticContent>
-			 <remove fileExtension=".xaml" /> 
+    		 <remove fileExtension=".xaml" /> 
              <mimeMap fileExtension=".xaml" mimeType="application/xaml+xml" />
-			 <remove fileExtension=".xap" />
+    		 <remove fileExtension=".xap" />
              <mimeMap fileExtension=".xap" mimeType="application/x-silverlight-app" />
-			 <remove fileExtension=".xbap" />
+    		 <remove fileExtension=".xbap" />
              <mimeMap fileExtension=".xbap" mimeType="application/x-ms-xbap" />
          </staticContent>
       </system.webServer>
@@ -45,13 +45,13 @@ If you were on a legacy environment and have been migrated to the new environmen
 
 ##### Graphics Interchange Format (GIF) related
 	<configuration>
-      <system.webServer>
-    	<staticContent>
-    		<remove fileExtension=".gif" />
-    		<mimeMap fileExtension=".gif" mimeType="image/gif" />
-    	</staticContent>
-      </system.webServer>
-    </configuration>
+	  <system.webServer>
+		<staticContent>
+			<remove fileExtension=".gif" />
+			<mimeMap fileExtension=".gif" mimeType="image/gif" />
+		</staticContent>
+	  </system.webServer>
+	</configuration>
 
 ##### Joint Photographic Experts Group (JPEG) related
 	<configuration>
@@ -117,3 +117,21 @@ If you were on a legacy environment and have been migrated to the new environmen
         	</staticContent>
  	   </system.webServer>
 	</configuration>
+
+##### Font WOFF, WOFF2, and Related
+
+```
+<configuration>
+```
+
+ 	   <system.webServer>
+    	    <staticContent>
+
+​					<remove fileExtension=".woff" />
+​					<remove fileExtension=".woff2" />
+​						<mimeMap fileExtension=".woff" mimeType="application/font-woff" />
+​						<mimeMap fileExtension=".woff2" mimeType="application/font-woff2" />
+
+​        	</staticContent>
+ 	   </system.webServer>
+​	</configuration>

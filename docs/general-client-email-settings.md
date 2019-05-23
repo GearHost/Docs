@@ -23,7 +23,7 @@ Security type: **None/SSL off**
 
 Server (SMPT): **mail.yourdomain.com**  
 Outgoing server requires authentication (use same as incoming)
-Port: **25** (use 2525 if this does not work)  
+Port: **2525** (use 587 if this does not work)  
 Security type: **None/SSL off**
 
 ### Mobile Settings:
@@ -46,15 +46,13 @@ Security type: **None/SSL off**
 
 Server (SMPT): **mail.yourdomain.com**  
 Outgoing server requires authentication (use same as incoming)
-Port: **587** (use 25 or 2525 if this does not work)  
+Port: **587** (use 2525 if this does not work)  
 Security type: **None/SSL off**
 
 ### Using SSL for Shared Email
 If you wish to use an SSL when you connect you will need to substitute the above server and port settings for the ones below.
 
-Server: **mail#.gearhost.com** (Replace #  with the mail server number your mail is on.
-
-Note: You can use a DNS lookup such as who.is to get this info from the MX record or [contact us](https://www.gearhost.com/company/contact) for assistance.
+Server: **mail#.gearhost.com** (Replace #  with the mail server number your mail is on)
 
 **Incoming:**
 

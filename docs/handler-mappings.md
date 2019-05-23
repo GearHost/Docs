@@ -4,6 +4,7 @@ By default, PHP 5.4 is installed and immediately available for use when you crea
 >Save this a phpinfo.php and upload to your wwwroot
 
 ```<?php
+<?php
 phpinfo();
 ?>
 ```
