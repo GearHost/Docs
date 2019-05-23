@@ -119,19 +119,13 @@ If you were on a legacy environment and have been migrated to the new environmen
 	</configuration>
 
 ##### Font WOFF, WOFF2, and Related
-
-```
-<configuration>
-```
-
+	<configuration>
  	   <system.webServer>
     	    <staticContent>
-
-​					<remove fileExtension=".woff" />
-​					<remove fileExtension=".woff2" />
-​						<mimeMap fileExtension=".woff" mimeType="application/font-woff" />
-​						<mimeMap fileExtension=".woff2" mimeType="application/font-woff2" />
-
-​        	</staticContent>
+            	<remove fileExtension=".woff" />
+            	<remove fileExtension=".woff2" />
+            	<mimeMap fileExtension=".woff" mimeType="application/font-woff" />
+            	<mimeMap fileExtension=".woff2" mimeType="application/font-woff2" />
+        	</staticContent>
  	   </system.webServer>
-​	</configuration>
+	</configuration>
