@@ -28,7 +28,7 @@
 **Server Information**
 
 *Account Type:* POP3 or IMAP. 
-> We recommend choosing IMAP.
+We recommend choosing IMAP.
 
 *Incoming mail server:* mail.your-domain-name.com 
 
