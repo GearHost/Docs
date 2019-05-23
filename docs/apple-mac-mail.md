@@ -3,7 +3,7 @@ If this is your first time opening **Apple Mail** and you have not already confi
 
 1. Click on the **Mail** tab and then click on **Accounts.**
 1. Scroll down & select **Add Other Mail Account**
-1. Select **Mail Account**
+1. Select **Other Mail Account**
 1. Add your name, e-mail account and password and click **Sign In**
 1. You should be presented with a screen to enter your account information. 
    1. User Name: Your full email address Ex: *john@yourdomain.com*

@@ -17,3 +17,5 @@ Every CloudSite has an **ID**. The green bar is where it provides that **ID**.
 
 Some API functions require both your **API Key** and **CloudSite ID**. In this example, we're starting the application pool. 
 <img src="https://raw.githubusercontent.com/GearHost/docs/master/Images/APIstart.png"  />
+
+> TIP: Additional API Documentation can be found on our [Apiary](https://gearhost.docs.apiary.io/#)

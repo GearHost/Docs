@@ -59,11 +59,11 @@ The only special logic needed for file I/O is to indicate where the wwwroot dire
     {
     		var rootPath = Environment.GetEnvironmentVariable("HOME"); // For use on Azure Websites
     		if (rootPath == null)
-		    {
-			    rootPath = System.IO.Path.GetTempPath(); // For testing purposes
-		    };
-		    var userSettingsFile = Path.Combine(rootPath, @"site\wwwroot\.user.ini");
-		    return userSettingsFile;
+    	    {
+    		    rootPath = System.IO.Path.GetTempPath(); // For testing purposes
+    	    };
+    	    var userSettingsFile = Path.Combine(rootPath, @"site\wwwroot\.user.ini");
+    	    return userSettingsFile;
     }
 After you have the directory path, you can use regular file I/O operations to read and write to files.
 
@@ -128,7 +128,7 @@ To install your web app extension, you can use FTP to copy all the files of your
 
 You should be able to see your web app extension at:
 
-https://[your-site-name].scm.azurewebsites.net/[your-extension-name]
+https://[your-site-name].scm.gear.host/[your-extension-name]
 
 Note that the URL looks just like the URL for your web app, except that it uses HTTPS and contains ".scm".
 
