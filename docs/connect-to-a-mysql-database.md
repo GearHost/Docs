@@ -4,7 +4,7 @@ This article covers 3 steps needed to connect to your hosted MySQL database. To 
 ### Step 1: Install MySQL WorkBench
 1. Download and install the latest version of [MySQL WorkBench](https://dev.mysql.com/downloads/workbench/)
 
-### Step2: Note your Database Information
+### Step2: Find your Database Information
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click the Databases menu
 3. Locate the Database you want to connect to and click it to open the database details

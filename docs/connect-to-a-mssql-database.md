@@ -4,7 +4,7 @@ This article covers 3 steps needed to connect to your hosted Microsoft SQL Serve
 ### Step 1: Install SQL Server Management Studio (SSMS)
 1. Download and install [the last version of SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 
-### Step2: Note your Database Information
+### Step2: Find your Database Information
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 2. Click the Databases menu
 3. Locate the Database you want to connect to and click it to open the database details
