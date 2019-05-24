@@ -33,3 +33,22 @@ public ActionResult Index()
   }
 </ul>
 ```
+
+The following can be used in a Web Forms page using Model Binding.
+
+>GridView:
+
+```
+<asp:GridView ID="GridView1" runat="server"
+	ItemName="System.Configuration.ConnectionStringSettingsCollection"
+	SelectMethod="GridView1_GetData" />
+```
+
+>SelectMethod:
+
+```
+public IEnumerable<ConnectionStringSettings> GridView1_GetData()
+{
+    return ConfigurationManager.ConnectionStrings.Cast<ConnectionStringSettings>(); ;
+}
+```
