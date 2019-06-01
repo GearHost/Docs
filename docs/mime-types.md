@@ -118,7 +118,7 @@ If you were on a legacy environment and have been migrated to the new environmen
  	   </system.webServer>
 	</configuration>
 
-##### Font WOFF, WOFF2, and Related
+##### Font Related
 	<configuration>
  	   <system.webServer>
     	    <staticContent>

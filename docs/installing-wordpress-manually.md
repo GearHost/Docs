@@ -8,8 +8,12 @@ WordPress is the most popular CMS, powering around 25% of all websites in the wo
 
 ### Downloading WordPress
 1. [Download WordPress](https://wordpress.org/download/), it should be a .zip file named `Wordpress-version_number.zip`
+
 1. Locate the zip file download, right click it and extract the files
-1. Browse for your extracted WordPress files in your computer, and upload those files to **/site/wwwroot/** via FTP
+
+1. Browse for your extracted WordPress files in your computer, and upload those files to **/site/wwwroot/** via FTP. 
+
+   > Make sure you upload the files inside the wordpress folder that was extracted
 
 ### Installing WordPress
 1. Go to your website's url or use the `http://{yourcloudsitename}.gearhostpreview.com` to access the WordPress installer wizard

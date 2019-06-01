@@ -2,7 +2,7 @@
 PHP (Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML. The purpose of this guide is to walk you through installing a custom PHP framework (oldest version to the newest).
 
 ### Read and Follow These Steps:
-1. **Download** the Specific [PHP Version](http://windows.php.net/downloads/releases/archives/) Needed *Please be sure to select a zip format*
+1. **Download** the latest verizon of php [PHP Version](http://windows.php.net/downloads/releases/archives/) Needed *Please be sure to select a zip format*
 2. **Extract** the .zip file and **upload** its content into *\site\wwwroot\bin\php{VersionYouHave}* vis FTP
 4. **Rename** `php.ini-production` to `php.ini`
 5. Within php.ini **uncomment** out `fastcgi.logging=0`
