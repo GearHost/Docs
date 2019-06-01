@@ -7,7 +7,7 @@ Creating a [PHP Info Page](http://php.net/manual/en/function.phpinfo.php) provid
 
 1. Place the following code in that file
 
-			`<?php phpinfo(); ?>`
+			<?php phpinfo(); ?>
 	
 1. After your changes have been saved, you can visit `http://{yourcloudsite}.gearhostpreview.com/info.php` or `http://{yourdomain.com}/info.php` to view your PHP output.
 	
