@@ -3,7 +3,7 @@ PHP (Hypertext Preprocessor) is a widely-used open source general-purpose script
 
 ### Read and Follow These Steps:
 1. **Download** PHP from this link, this is our own compiled version of PHP 7.3 which includes wincache and other extensions that help with perormance: [PHP Download](https://github.com/GearHost/Docs/raw/master/docs/php.zip) 
-2. **Extract** the .zip file and **upload** its content into *\site\bin\* via FTP you should have *\site\bin\php\* after uploading the files
+2. **Extract** the .zip file and **upload** its content into \site\bin\ via FTP you should have \site\bin\php\ after uploading the files
 6. Go to **CloudSite > Configuration** tab
 7. **Scroll** down and **Add** a `New Handler Mapping`
 	1. Extension: ***.php**
