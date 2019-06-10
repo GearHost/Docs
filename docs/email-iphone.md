@@ -15,8 +15,12 @@ This article will help setup your GearHost mailbox on your iOS device such as an
 	1. **Host Name**: `mail.yourdomain.com` (replace yourdomain.com with your domain name)
 	2. **User name**: Your email address
 	3. **Password**: Your email mailbox password
-1. Select **Next** (This process can take about 2 minutes)
-2. Select **Save**  
+11. Select **Next**
+12. You should see a popup that says "Cannot Verify Server Identity" Click **Cancel**
+13. You will see another popup saying "Cannot Connect Using SSL" Click **Yes**
+14. At the top you will see it's loading with the term **Verifying** if "Cannot Connect Using SSL" pops up again just click cancel. This can take up to 2 minutes to verify.
+15. One last popup will show "Cannot Connect Using SSL" Click **Yes**
+16. Select **Save**  
 
 
 ### Disable SSL
