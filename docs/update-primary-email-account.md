@@ -1,5 +1,5 @@
 ## How To Change Your Primary Contact Email Address
-We always recommend to keep your primary email account up to date. We also recommend that you use an email address that is not hosted by us.
+We always recommend that you keep your primary email with us up to date. We also recommend that you use an email address that is not hosted by us. 
 
  1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
  2. Select the **Settings** menu on your left hand side
