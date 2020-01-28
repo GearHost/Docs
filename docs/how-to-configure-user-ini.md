@@ -20,10 +20,10 @@ This article covers several steps for configuring your PHP environment using `.u
 3. [Restart your CloudSite](https://www.gearhost.com/documentation/restart-cloudsite) from the control panel. This forces the CloudSite to pull the new settings.
 
 ## PHP Error Debugging
-       ; Example Settings
-        error_reporting = E_ALL & ~E_DEPRECATED
-        display_errors = On
-        display_startup_errors = On
+    ; Example Settings
+    error_reporting = E_ALL & ~E_DEPRECATED
+    display_errors = On
+    display_startup_errors = On
 
 ## Memory Limit
 This sets the maximum amount of memory in bytes that a script is allowed to allocate. This helps prevent poorly written scripts for eating up all available memory on a CloudSite.

@@ -6,16 +6,14 @@ We make it easy to publish from Visual Studio by providing you a fully encapsula
 
 1. [Log in to your GearHost account](https://my.gearhost.com/account/login)
 2. Click the CloudSite name you want to upload your application to
-3. Click the `Publish` tab
-4. Click the Visual Studio button under the `Application Publishing Files` heading
+3. Click the **Publish** tab
+4. Click the Visual Studio button under the publish tab
 
-This will download a `{cloudsitename}.publish` file to your local computer storage.
+This will download a `{cloudsitename}.{username}.publishsettings` file to your local computer storage.
 
 ### Publishing
 1. **Launch Visual Studio** and open your existing web application project
-2. In Solution Explorer **Right click** on your web application and select `Publish Web App`
-3. In the Publish wizard window select **Profile** and select `Import` under the `Select a publish target` menu
-4. Browse to the `{cloudsitename}.publish` file you downloaded above and select **`OK`**
+2. In Solution Explorer right click on your web application and select  **Publish**
+3. In the Publish wizard window at the bottom left select **Import Profile**
+4. Browse to the ``{cloudsitename}.{username}.publishsettings` file you downloaded above and select **`OK`**
 5. Click the **Publish button**
-
-![](https://raw.githubusercontent.com/GearHost/docs/master/Images/vspublish.png)

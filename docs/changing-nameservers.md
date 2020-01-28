@@ -3,9 +3,9 @@ We highly recommend using our nameservers as we've partnered up with [CloudFlare
 
 **Please set your nameservers to:**
 
-` ns1.gear.host`
+` ns1.gearhost.com`
 
-` ns2.gear.host`
+` ns2.gearhost.com`
 
 Changes can take a few hours to propagate however sometimes in rare cases you might have to wait up to 24 hours. You can confirm if propagation has been completed by using [this site](https://www.whatsmydns.net/). Simply enter your domain and set the record type to NS. This will perform a search and return the name servers that are being queried globally. 
 

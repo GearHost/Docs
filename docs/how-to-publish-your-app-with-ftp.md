@@ -3,24 +3,25 @@ Publishing your app using your favorite FTP client couldn't be easier with GearH
 
 ### FTP credentials
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
+
 2. Click on your **CloudSite**
+
 3. Select the **Publish** tab
-4. Your information will be displayed below **"FTP Publishing Credentials"** 
 
-It should look something like this:
-
-    Hostname: ftp.gear.host  
-    Username: yourcloudsitename\$yourcloudsitename  
-    Password: S0M3RaV3RYjMtvL0NGLJhuiPA$$W0RDeEiiuF6DRPZK8p3RMC6
+   ​	If using FileZilla download the import profile. If not click the "eye" icon to view your FTP password. 	 	FTP hostname is: publish.gearhost.cloud
 
 ### Can I set my own password?
-No, however it can be reset by clicking the **Reset Password** button on the right hand side.
+You cannot change the default FTP user acount password. You can reset passwords for created FTP users.
 
 ### Can I create another FTP user?
-At this time we do not support additional FTP accounts per CloudSite.
+1. Click on **Add Publish User**
+2. Fill out Username and Password
+3. Click on **Create User**
+
+You will now be able to use this newly created user to connect via FTP.
 
 ### Where do I upload my files?
-The webroot directory for your CloudSite is **/site/wwwroot/**
+The webroot directory for your CloudSite is **/webroot/**
 
 ### Import publishing file(s) in FileZilla
 We provide a XML file that you can import to FileZilla. This file saves your FTP connection to the Site Manager which makes it easier to connect. On the same **Publish** menu, click on the FileZilla icon to download the XML file.
@@ -33,5 +34,3 @@ We provide a XML file that you can import to FileZilla. This file saves your FTP
 6. Under the **File** menu select **Site Manager**
 7. Under **My Sites** select your CloudSite and click **Connect**
 
-
->**Tip:** If you're using Kudu or Git your username is $`yourcloudsitename` instead of `yourcloudsitename`\$`yourcloudsitename` If you're still having issues please open a [support ticket](https://www.gearhost.com/documentation/how-to-open-a-support-ticket) and we'll help you out!

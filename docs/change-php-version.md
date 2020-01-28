@@ -11,10 +11,4 @@ Changing a PHP version is required to get certain modules or plugins working for
 
 Your CloudSite will automatically recycle and load the new version of PHP. GearHost currently supports the following versions:
 
-`PHP 5.6  = 5.6.38`
-
-`PHP 7.0 = 7.0.32`
-
-`PHP 7.1 = 7.1.4`
-
 >**Tip:** Looking to configure your **php.ini**? We use **.user.ini** in our environment, and we have more detailed documentation on how to configure it found [here.](https://www.gearhost.com/documentation/how-to-configure-user-ini)
