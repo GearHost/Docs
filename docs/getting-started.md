@@ -11,7 +11,7 @@ Yes, we need to make sure you're human so we're going to send you an email with 
 To get the best experience at GearHost you will want to add a credit card to your account. By adding a credit card on file you can create a Hobby or Small CloudSite or scale within any restrictions. You also get access to other features such as faster and larger databases, add-ons, etc.
 
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
-2. Select the **Billing** menu on your left hand side
+2. Select the [**Billing**](https://my.gearhost.com/Billing) menu on your left hand side
 3. Click **Payment Details** on your top right hand side
 4. Select **Add Credit Card** and proceed with adding your card's information
 
