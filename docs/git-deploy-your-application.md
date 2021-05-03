@@ -13,7 +13,7 @@ Deploy your application using a **local Git** repository or online Git repositor
 
 Change to the **root directory** for your application by typing this:
 ```
-git cd {path to your root directory}
+cd {path to your root directory}
 ```
 
 >**For example**: C:\Users\Username\Application1\root
