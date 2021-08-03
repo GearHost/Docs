@@ -85,10 +85,6 @@
                     "title": "How to Create a Database with an Existing Backup"
                   },
                   {
-                    "articleName": "database-suspension",
-                    "title": "Free Database Suspension"
-                  },
-                  {
                     "articleName": "connect-to-a-mysql-database",
                     "title": "Connect to a MySQL database"
                   },

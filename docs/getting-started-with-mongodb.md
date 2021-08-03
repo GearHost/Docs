@@ -5,14 +5,14 @@ MongoDB is a [NoSQL](https://www.mongodb.com/nosql-explained) database that's sc
 1. [Log in to your GearHost Account](https://my.gearhost.com/account/login)
 1. Select the `Databases` menu on your left hand side 
 1. Click on `Create Database` button on the top right
-1. Select the Free or Hobby plan for MongoDB
+1. Select the plan for MongoDB
 
 ### Locate your database login credentials
 1. Select the `Databases` menu on your left hand side
 2. Click on your Mongo database
 3. Retrieve your database login credentials
 
- >**Please note:** The port for the Free database is `27001` and the Hobby database port is `27002`.
+ >**Please note:** The database port is `27002`.
 
 ### Recommended MongoDB clients
 For GUI clients we recommend using [MongoChef](http://3t.io/mongochef/download/) and [RoboMongo](https://robomongo.org/download).

@@ -1,27 +1,29 @@
-# Difference Between Free, Hobby, and Small Plans
+# Difference Between Plans
 GearHost offers three different plans for your CloudSite:
 
-- **Free**
+-
 - **Hobby**
 - **Small**
+- **Medium**
+- **Large**
 
 Both the free and Hobby work the same technically behind the scenes but the free plan has a lot of restrictions in place since it's meant for non production development and testing. The reserved plan is your own private node in the cloud that you can scale out further into your own private cloud so to speak. In this doc we'll go in depth over the differences between each plan and how to scale between them.  
 
 ## Comparison
 
-	|                	| Free          	| Hobby         	| Small    	 |
-	|----------------	|---------------	|----------------	|-------------	 |
-	| CPU            	| 60 min/day    	| 240 min/day    	| Unlimited   	 |
-	| RAM            	| 256MB/hour    	| 1024MB/hour    	| 2048MB/hour 	 |
-	| Storage (SSD)  	| 100MB           	| 1GB up to 100gb 	| 1GB up to 100gb|
-	| Bandwidth      	| 1GB/day       	| 1TB           	| 1TB         	 |
-	| Requests       	| 250 Concurrent  	| 1000 Concurrent 	| Unlimited   	 |
-	| Idle Time      	| 20 min        	| 60 min         	|              	 |
-	| SSL            	| No            	| Yes            	| Yes          	 |
-	| Custom Domains 	| Yes           	| Yes            	| Yes          	 |
-	| Web Sockets    	| No            	| Yes            	| Yes         	 |
-	| 64-bit         	| No            	| Yes            	| Yes         	 |
-	| CPU Burst      	| 1m @ 25% / 5m 	| 3m @ 50% / 5m  	| Unlimited   	 |
+	|                	| Hobby         	| Small    	     | Medium         	| Large    	     |
+	|----------------	|----------------	|-------------	 |----------------	|-------------	 |
+	| CPU            	| 240 min/day    	| Unlimited   	 | 240 min/day    	| Unlimited   	 |
+	| RAM            	| 1024MB/hour    	| 2048MB/hour 	 | 1024MB/hour    	| 2048MB/hour 	 |
+	| Storage (SSD)  	| 1GB up to 100gb 	| 1GB up to 100gb| 1GB up to 100gb 	| 1GB up to 100gb|
+	| Bandwidth      	| 1TB           	| 1TB         	 | 1TB           	| 1TB         	 |
+	| Requests       	| 1000 Concurrent 	| Unlimited   	 | 1000 Concurrent 	| Unlimited   	 |
+	| Idle Time      	| 60 min         	|              	 | 60 min         	|              	 |
+	| SSL            	| Yes            	| Yes          	 | Yes            	| Yes          	 |
+	| Custom Domains 	| Yes            	| Yes          	 | Yes            	| Yes          	 |
+	| Web Sockets    	| Yes            	| Yes         	 | Yes            	| Yes         	 |
+	| 64-bit         	| Yes            	| Yes         	 | Yes            	| Yes         	 |
+	| CPU Burst      	| 3m @ 50% / 5m  	| Unlimited   	 | 3m @ 50% / 5m  	| Unlimited   	 |
 
 ## Definitions
 - CPU: The amount of CPU time your CloudSite can consume in a 24 hour period.

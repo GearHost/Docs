@@ -27,7 +27,5 @@ It offers a robust Microservice Architecture, is designed for scaleable systems 
 
 8. Select **Publish** and your application will start deploying!
 
-**Note:** .NET Core will not work with a free plan. The Self Contained Deployment uses over 100mb.
-
 
 **Tip:** Are you looking into migrating your ASP.NET 4.5+ application to .NET Core? Be sure to check out some prerequisites found [here!](https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server)

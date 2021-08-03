@@ -10,4 +10,4 @@ A CloudSite provides the resources necessary to run your application such as CPU
   5. Click on **Create CloudSite** near the bottom of the page
   6. After your CloudSite has finished building, click on its blue title text to manage it. Additional menu options will display so you can manage your FTP login credentials, downloading publishing files, add a domain, manage e-mail and more!
 
->**Tip:** All hosting plans except the Free plan come with one GB of storage. We charge $0.25 per additional GB you use automatically.
+>**Tip:** All hosting plans come with one GB of storage. We charge $0.25 per additional GB you use automatically.

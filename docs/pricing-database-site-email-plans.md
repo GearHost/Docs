@@ -3,13 +3,13 @@
 ### Plan options
 [A great place to start is our pricing page! You can see all the different options available to you.](https://www.gearhost.com/pricing)
 
-[Take a look at the comparison chart to see what plan will work best for you.](https://www.gearhost.com/documentation/difference-free-shared-reserved-plans)
-
-Free option: You guessed it, free!
-
 Hobby Option: $5/mo
 
 Small Option: $25/mo
+
+Medium Option: $50/mo
+
+Large Option: $100/mo
 
 Email: $1/mo per mailbox (25 GB limit and requires a Hobby CloudSite)
 
@@ -19,11 +19,6 @@ $0.25 per additional gigabyte of disk space on your site
 $1.00 per additional gigabyte of MSSQL and MYSQL database hosting
 
 $1.00 per additional gigabyte of space on email
-
-### Other
-$5 per addtional standard worker instance
-
-$25 per additional reserved node worker instance
 
 ### How do I get additional space on my plan?
 Your plan will automatically expand once you have gone over the plan limits for your site, email or database. You do not have to do anything!
