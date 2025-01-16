@@ -3,7 +3,7 @@
 ### Plan options
 [A great place to start is our pricing page! You can see all the different options available to you.](https://www.gearhost.com/pricing)
 
-Hobby Option: $5/mo
+Hobby Option: $10/mo
 
 Small Option: $25/mo
 
