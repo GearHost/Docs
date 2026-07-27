@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "getting-started",
+    "title": "Getting Started",
+    "file": "getting-started.md"
+  },
+  {
+    "slug": "portal-guide",
+    "title": "Portal Guide",
+    "file": "portal-guide.md"
+  },
+  {
+    "slug": "launch-availability",
+    "title": "Launch Availability",
+    "file": "launch-availability.md"
+  }
+]
