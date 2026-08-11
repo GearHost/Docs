@@ -9,11 +9,11 @@ Deploy your application using a **local Git** repository or online Git repositor
 3. Go through the **installation process**
 
 ### Initialize a Git Repository For Your Application
-1. Open **Git CMD**
+1. Open the **Terminal**, **Shell**, **Command Prompt**, or **Console** of your choice
 
 Change to the **root directory** for your application by typing this:
 ```
-git cd {path to your root directory}
+cd {path to your root directory}
 ```
 
 >**For example**: C:\Users\Username\Application1\root
